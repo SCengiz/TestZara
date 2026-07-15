@@ -91,7 +91,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "in_stock",
     "40": "out_of_stock",
     "42": "in_stock",
@@ -295,9 +295,9 @@
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -336,7 +336,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "in_stock",
     "XL": "out_of_stock"
    }
@@ -642,7 +642,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
    }
@@ -660,7 +660,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -738,9 +738,9 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "03641399-803": {
@@ -1499,7 +1499,7 @@
    }
   }
  },
- "last_check": "2026-07-15 15:42:09",
+ "last_check": "2026-07-15 16:09:16",
  "source_failures": {},
- "tg_offset": 4899720
+ "tg_offset": 4899721
 }
