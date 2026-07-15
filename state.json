@@ -336,7 +336,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -642,7 +642,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
    }
@@ -830,7 +830,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -900,7 +900,7 @@
    "image": "https://static.zara.net/assets/public/c273/5ffd/ca024e3e9bb5/e991b433a679/00881016251-p/00881016251-p.jpg?ts=1772186707918&w=800",
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -923,7 +923,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "06771003-982": {
@@ -960,7 +960,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -977,7 +977,7 @@
    "image": "https://static.zara.net/assets/public/d745/b7f5/bf3f4ee194d7/5911ab14430b/02137693620-p/02137693620-p.jpg?ts=1768488005767&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -1077,7 +1077,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-15 18:04:53",
+ "last_check": "2026-07-15 18:19:48",
  "source_failures": {},
  "tg_offset": 4899726
 }
