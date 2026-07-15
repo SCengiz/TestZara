@@ -28,7 +28,7 @@
     "32": "in_stock",
     "34": "in_stock",
     "36": "low_on_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "in_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
@@ -56,11 +56,11 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "in_stock",
     "40": "low_on_stock",
     "42": "out_of_stock",
-    "44": "out_of_stock",
+    "44": "in_stock",
     "46": "out_of_stock"
    }
   },
@@ -98,7 +98,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -121,7 +121,7 @@
    "color": "Kahverengi",
    "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
@@ -176,7 +176,7 @@
    "color": "Siyah / Ekru",
    "url": "https://www.zara.com/tr/tr/suni-deri-detayli-kazayagi-ceket-p02180156.html?v1=501627052",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -190,8 +190,8 @@
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
     "XS": "in_stock",
-    "S": "out_of_stock",
-    "M": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -215,9 +215,9 @@
    "color": "Ekru / Siyah",
    "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "in_stock",
     "XL": "out_of_stock"
    }
@@ -289,7 +289,7 @@
    "color": "Koyu kahverengi",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
@@ -318,7 +318,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "in_stock"
    }
   },
@@ -404,5 +404,5 @@
    }
   }
  },
- "last_check": "2026-07-15 13:30:11"
+ "last_check": "2026-07-15 13:44:58"
 }
