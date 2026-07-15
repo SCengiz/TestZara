@@ -273,13 +273,21 @@ def size_allowed(config, entry, size_name):
             return not sizes or size_name in sizes
 
     limits_cfg = config.get("limits") or {}
-    is_man = (
-        entry.get("section", "").upper() == "MAN"
-        and "UNISEX" not in entry.get("name", "").upper()
-    )
-    limits = limits_cfg.get("MAN" if is_man else "WOMAN")
+    section = entry.get("section", "").upper()
+    is_man = section == "MAN" and "UNISEX" not in entry.get("name", "").upper()
+    group = "MAN" if is_man else ("KID" if "KID" in section else "WOMAN")
+    limits = limits_cfg.get(group)
     if not limits:
         return True
+
+    # Çocuk ürünleri: sadece belirtilen yaş bedenleri (Zara formatı: "13/14 yaş (164 cm)")
+    if group == "KID":
+        allowed_ages = limits.get("only_sizes") or []
+        if not allowed_ages:
+            return True
+        norm = size_name.upper().replace("-", "/").replace(" ", "")
+        return any(a.upper().replace("-", "/").replace(" ", "") in norm
+                   for a in allowed_ages)
 
     # "XS-S", "36/38" gibi kombine bedenlerde ilk parçaya göre karar ver
     token = re.split(r"[-/\s]", size_name.strip().upper())[0]

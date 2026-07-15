@@ -114,13 +114,17 @@ o beden ve altındaki tüm bedenler bildirilir.
 ```json
 "limits": {
   "WOMAN": { "letter_max": "M", "pants_max": 38, "shoe_max": 38 },
-  "MAN":   { "letter_max": "L", "pants_max": 42, "shoe_max": 43 }
+  "MAN":   { "letter_max": "L", "pants_max": 42, "shoe_max": 43 },
+  "KID":   { "only_sizes": ["13/14"] }
 }
 ```
 
 - `letter_max` — harf bedenli giyimde üst sınır (M → XXS/XS/S/M bildirilir)
 - `pants_max` — rakam bedenli giyimde (jean vb.) üst sınır
 - `shoe_max` — ayakkabı numarasında üst sınır
+- `KID.only_sizes` — çocuk ürünlerinde sadece bu yaş bedenleri bildirilir
+  (Zara formatı "13/14 yaş (164 cm)"; "13-14" yazımı da tanınır; çocuk
+  ayakkabısı gibi yaş içermeyen bedenler bildirilmez)
 - Bedeni olmayan ürünler (parfüm, çanta — "STANDART") sınırsız bildirilir
 - "XS-S" gibi kombine bedenlerde ilk parçaya bakılır
 
