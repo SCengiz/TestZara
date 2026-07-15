@@ -844,7 +844,7 @@ def poll_group_messages(env, config, state, watchlist):
                 "chat_id": chat["id"],
                 "text": "Panel düğmesi aşağıda 👇 Ona dokununca yönetim "
                         "paneli Telegram içinde açılır. Yaptığınız işlemler "
-                        "bota iletilir ve ~10 dk içinde uygulanır.",
+                        "bota iletilir ve ~15 dk içinde uygulanır.",
                 "reply_markup": {
                     "keyboard": [[{"text": "🛍 Paneli Aç",
                                    "web_app": {"url": panel_url}}]],

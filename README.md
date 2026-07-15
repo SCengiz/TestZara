@@ -29,7 +29,7 @@ karşılaştırır ve sadece `tükendi/coming soon → stokta` **geçişlerinde*
 atar. Zaten stokta olan ürünler için tekrar tekrar mesaj gelmez.
 
 ```
-cron / systemd timer / GitHub Actions (10 dk'da bir)
+cron / systemd timer / GitHub Actions (15 dk'da bir)
         │
         ▼
   checker.py ──► Telegram getUpdates (gruptaki yeni linkler/komutlar)
@@ -125,7 +125,7 @@ Notlar:
 1. Bu klasörü **private** bir GitHub reposuna push'layın
 2. Repo → Settings → Secrets and variables → Actions altına
    `TELEGRAM_BOT_TOKEN` ve `TELEGRAM_CHAT_ID` ekleyin
-3. `.github/workflows/check.yml` hazır — 10 dk'da bir otomatik çalışır
+3. `.github/workflows/check.yml` hazır — 15 dk'da bir otomatik çalışır
    (private repoda aylık 2000 dk Actions kotasına dikkat; public repoda sınırsız)
    (state.json her turda commit'lenerek korunur)
 
