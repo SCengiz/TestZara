@@ -1,0 +1,10 @@
+[Unit]
+Description=Zara stok kontrolunu 20 dakikada bir calistir
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=20min
+RandomizedDelaySec=3min
+
+[Install]
+WantedBy=timers.target

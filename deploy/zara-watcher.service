@@ -1,0 +1,10 @@
+[Unit]
+Description=Zara stok kontrolu (tek tur)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/sc/Workspaces/TestZara
+ExecStart=/usr/bin/python3 /home/sc/Workspaces/TestZara/checker.py
+User=sc

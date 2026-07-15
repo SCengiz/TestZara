@@ -1,0 +1,408 @@
+{
+ "consecutive_failures": 0,
+ "products": {
+  "20120608-999": {
+   "name": "RAY OF WONDER ROSE EDP 90 ML",
+   "ref": "0120/608",
+   "color": "",
+   "url": "https://www.zara.com/tr/tr/ray-of-wonder-rose-edp-90-ml--3-04-fl--oz---p20120608.html?v1=564251353",
+   "sizes": {
+    "STANDART": "coming_soon"
+   }
+  },
+  "20120604-999": {
+   "name": "RAY OF ORCHID EDP 90 ML (3.04 FL. OZ).",
+   "ref": "0120/604",
+   "color": "",
+   "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
+   "sizes": {
+    "STANDART": "coming_soon"
+   }
+  },
+  "05862081-445": {
+   "name": "Z1975 SLIM CROP ORTA BEL JEAN",
+   "ref": "5862/081",
+   "color": "Mavi / Yeşil",
+   "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
+   "sizes": {
+    "32": "in_stock",
+    "34": "in_stock",
+    "36": "low_on_stock",
+    "38": "low_on_stock",
+    "40": "in_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock"
+   }
+  },
+  "00695071-700": {
+   "name": "ASTARLI KAPİTONE BOMBER CEKET",
+   "ref": "0695/071",
+   "color": "Kahverengi",
+   "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "05474058-405": {
+   "name": "ZW COLLECTION GENİŞ PAÇA YÜKSEK BEL JEAN",
+   "ref": "5474/058",
+   "color": "İndigo",
+   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "low_on_stock",
+    "38": "in_stock",
+    "40": "low_on_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "02554380-600": {
+   "name": "EKOSEN MİDİ ETEK ZW COLLECTION",
+   "ref": "2554/380",
+   "color": "Kırmızı",
+   "url": "https://www.zara.com/tr/tr/kareli-midi-etek-zw-collection-p02554380.html?v1=524602097",
+   "sizes": {
+    "XS": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "in_stock",
+    "L": "low_on_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "09598057-636": {
+   "name": "%100 YÜN KISA KOLLU KAZAK",
+   "ref": "9598/057",
+   "color": "Sakız",
+   "url": "https://www.zara.com/tr/tr/100-yun-kisa-kollu-kazak-p09598057.html?v1=508012662",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "03293052-044": {
+   "name": "KEMERLİ OVERSIZE GÖMLEK",
+   "ref": "3293/052",
+   "color": "Mavi/Beyaz",
+   "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "low_on_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "09929190-620": {
+   "name": "KEMERLİ PENSLİ PANTOLON",
+   "ref": "9929/190",
+   "color": "Pembe",
+   "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301328",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "in_stock",
+    "M": "in_stock",
+    "L": "in_stock",
+    "XL": "in_stock"
+   }
+  },
+  "01478334-700": {
+   "name": "KEMERLİ KATLANIR PAÇALI PANTOLON",
+   "ref": "1478/334",
+   "color": "Kahverengi",
+   "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "12527710-800": {
+   "name": "SÜET BABET",
+   "ref": "2527/710",
+   "color": "Siyah",
+   "url": "https://www.zara.com/tr/tr/suet-babet-p12527710.html?v1=535465412",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "05029080-172": {
+   "name": "VOLANLI MİDİ ETEK",
+   "ref": "5029/080",
+   "color": "KOYU VİŞNE",
+   "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "in_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "01905806-422": {
+   "name": "ZW COLLECTION YÜKSEK BEL YÜN PANTOLON",
+   "ref": "1905/806",
+   "color": "Koyu lacivert",
+   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02180156-093": {
+   "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
+   "ref": "2180/156",
+   "color": "Siyah / Ekru",
+   "url": "https://www.zara.com/tr/tr/suni-deri-detayli-kazayagi-ceket-p02180156.html?v1=501627052",
+   "sizes": {
+    "XS": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02345845-802": {
+   "name": "ZW COLLECTION ÇAN PAÇA DOKULU PANTOLON",
+   "ref": "2345/845",
+   "color": "Gri",
+   "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "06136045-505": {
+   "name": "ZW COLLECTION KISA DÖKÜMLÜ TRENÇKOT",
+   "ref": "6136/045",
+   "color": "Haki",
+   "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424065",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02469631-070": {
+   "name": "KEMERLİ PÖTİKARELİ BLAZER",
+   "ref": "2469/631",
+   "color": "Ekru / Siyah",
+   "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "in_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02078780-803": {
+   "name": "DİK YAKA KISA KABAN",
+   "ref": "2078/780",
+   "color": "Gri marn",
+   "url": "https://www.zara.com/tr/tr/dik-yaka-kisa-kaban-p02078780.html?v1=513349510",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "low_on_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "02721570-800": {
+   "name": "ZW COLLECTION FİT YELEK",
+   "ref": "2721/570",
+   "color": "Siyah",
+   "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
+   "sizes": {
+    "XS": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02458633-083": {
+   "name": "PÖTİKARELİ OVERSIZE BLAZER",
+   "ref": "2458/633",
+   "color": "Bej-kahverengi",
+   "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "in_stock",
+    "M": "in_stock",
+    "L": "in_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "01255894-716": {
+   "name": "KRUVAZE YUMUŞAK CEKET",
+   "ref": "1255/894",
+   "color": "Koyu kahverengi",
+   "url": "https://www.zara.com/tr/tr/kruvaze-yumusak-ceket-p01255894.html?v1=507718970",
+   "sizes": {
+    "XS-S": "out_of_stock",
+    "M-L": "out_of_stock"
+   }
+  },
+  "03811052-717": {
+   "name": "OVERSIZE KARELİ TRENÇKOT ZW COLLECTION",
+   "ref": "3811/052",
+   "color": "Çikolata",
+   "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "in_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "05854828-716": {
+   "name": "MUMUM GÖRÜNÜMLÜ KARELİ UZUN TRENÇKOT",
+   "ref": "5854/828",
+   "color": "Koyu kahverengi",
+   "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "04391833-802": {
+   "name": "FERMUARLI KISA SUNİ KÜRK KABAN",
+   "ref": "4391/833",
+   "color": "Gri",
+   "url": "https://www.zara.com/tr/tr/fermuarli-kisa-suni-kurk-kaban-p04391833.html?v1=505121104",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "in_stock",
+    "XL": "in_stock",
+    "XXL": "in_stock"
+   }
+  },
+  "03811053-714": {
+   "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
+   "ref": "3811/053",
+   "color": "Bej / Yeşil",
+   "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "in_stock"
+   }
+  },
+  "04360242-700": {
+   "name": "ZW COLLECTION KISA SUNİ KÜRK KABAN",
+   "ref": "4360/242",
+   "color": "Kahverengi",
+   "url": "https://www.zara.com/tr/tr/zw-collection-kisa-suni-kurk-kaban-p04360242.html?v1=503421644",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "in_stock"
+   }
+  },
+  "04369050-092": {
+   "name": "OVERSIZE PARKA ZW COLLECTION",
+   "ref": "4369/050",
+   "color": "Açık bej",
+   "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
+   "sizes": {
+    "S": "low_on_stock",
+    "M": "in_stock",
+    "L": "in_stock"
+   }
+  },
+  "04369044-916": {
+   "name": "KONTRAST DERİ YAKALI OVERSIZE TRENÇKOT ZW COLLECTION",
+   "ref": "4369/044",
+   "color": "Gri yeşil",
+   "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
+   "sizes": {
+    "S": "low_on_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "07522056-802": {
+   "name": "YÜN KARIŞIMLI BLAZER ZW COLLECTION",
+   "ref": "7522/056",
+   "color": "Gri",
+   "url": "https://www.zara.com/tr/tr/yun-karisimli-blazer-zw-collection-p07522056.html?v1=495680474",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
+    "XL": "in_stock"
+   }
+  },
+  "04174040-251": {
+   "name": "FİTİLLİ T-SHIRT",
+   "ref": "4174/040",
+   "color": "Kirli-beyaz",
+   "url": "https://www.zara.com/tr/tr/fitilli-t-shirt-p04174040.html?v1=497593015",
+   "sizes": {
+    "S": "in_stock",
+    "M": "in_stock",
+    "L": "low_on_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "16041710-624": {
+   "name": "TOP DETAYLI MİNİ KESE ÇANTA",
+   "ref": "6041/710",
+   "color": "Bordo Kırmızı",
+   "url": "https://www.zara.com/tr/tr/top-detayli-mini-kese-canta-p16041710.html?v1=540816730",
+   "sizes": {
+    "STANDART": "coming_soon"
+   }
+  },
+  "02560209-251": {
+   "name": "KOMBİNE DÖKÜMLÜ ETEK ZW COLLECTION",
+   "ref": "2560/209",
+   "color": "Kirli-beyaz",
+   "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "low_on_stock",
+    "M": "in_stock",
+    "L": "low_on_stock",
+    "XL": "coming_soon"
+   }
+  }
+ },
+ "last_check": "2026-07-15 13:30:11"
+}
