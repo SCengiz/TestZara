@@ -518,6 +518,9 @@ def _process_links(env, config, state, watchlist, text, sender):
 
 def _handle_command(env, config, state, watchlist, text, sender):
     cmd = text.split("@")[0].split() or [""]
+    # Türkçe karakter ve büyük/küçük harf toleransı: /Yardım -> /yardim
+    cmd[0] = (cmd[0].replace("İ", "i").lower()
+              .replace("ı", "i").replace("ş", "s").replace("ü", "u"))
     if cmd[0] == "/ekle":
         changed, found = _process_links(env, config, state, watchlist, text, sender)
         if not found:
