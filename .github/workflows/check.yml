@@ -1,9 +1,7 @@
 name: Zara Stock Check
 on:
-  schedule:
-    # Tenha dakikalar seçildi: GitHub yoğun dilimlerde (:00/:10/:20...)
-    # zamanlanmış görevleri atlayabiliyor. Public repoda dakika sınırsız.
-    - cron: '3,13,23,33,43,53 * * * *'
+  # Zamanlama GitHub cron'una bırakılmadı (güvenilmez çıktı) —
+  # Google Apps Script her 10 dakikada bir workflow_dispatch tetikler.
   workflow_dispatch:
 
 permissions:
