@@ -406,10 +406,14 @@ def main():
         }
         products = load_state().get("products", {})
         with_image = next((p for p in products.values() if p.get("image")), None)
+        sizes = ["S", "M"]
         if with_image:
             sample = {**with_image, "name": f"KURULUM TESTİ — {with_image['name']}"}
-        send_telegram(env, format_message(sample, ["S", "M"]),
-                      photo=sample.get("image") or None)
+            sizes = list(with_image.get("sizes", {})) or sizes
+        text = format_message(sample, sizes) + (
+            "\n\n⚠️ Bu bir kurulum testidir, gerçek stok bilgisi değildir."
+        )
+        send_telegram(env, text, photo=sample.get("image") or None)
         log.info("Test mesajı gönderildi ✔")
         return 0
 
