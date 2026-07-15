@@ -12,17 +12,14 @@ Takip edilecek şeyler Telegram grubundan `/ekle` komutuyla yönetilir:
   bot onaylar ve ürünü takibe alır. Linkte renk parametresi (`?v1=`) varsa o
   renk izlenir; yoksa bot ürünü referans aramasıyla bulur ve ilk rengini
   izler (birden çok renk varsa bunu belirtir).
-- **/zara_favori_guncelle <paylaşılan favori listesi linki>** → favori
-  listenizi günceller: sizin eklediğiniz eski liste linkleri takipten çıkar,
-  yenisi girer. Zara her paylaşımda yeni link ürettiği için listeyi
-  güncellemenin doğru yolu budur (her grup üyesinin kendi listesi ayrı
-  tutulur; siz güncelleyince başkasınınki etkilenmez).
-- **/ekle <paylaşılan favori listesi linki>**
-  (`zara.com/.../user/share/wishlist/...`) → listedeki tüm ürünler takibe
-  girer (mevcutların yanına eklenir; kendi listeniz için üstteki komutu
-  tercih edin).
-- **/liste** → takip edilenleri numaralı gösterir
-- **/sil 3** → 3 numaralı kaydı takipten çıkarır
+- **/zara_liste1 <link> ... /zara_liste10 <link>** → 10 rezerve favori
+  listesi yuvası. Yuva **boşsa** verilen link kaydedilir, **doluysa**
+  eskisinin yerine geçer (güncelleme). Zara her paylaşımda yeni link
+  ürettiği için listeyi tazelemenin yolu: aynı yuvaya yeni linki yazmak.
+  Linksiz kullanım (`/zara_liste3`) yuvanın durumunu gösterir.
+- **/liste** → 10 yuvanın tamamını (boşlar "boş" olarak) ve tekil
+  ürünleri gösterir
+- **/sil liste3** → 3. yuvayı boşaltır; **/sil 2** → 2. tekil ürünü çıkarır
 - `/ekle` olmadan atılan linkler bilinçli olarak yok sayılır — grupta sohbet
   ederken paylaşılan linkler takibe girmez.
 

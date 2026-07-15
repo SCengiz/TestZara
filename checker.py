@@ -52,6 +52,7 @@ HEADERS = {
 AVAILABLE_DEFAULT = {"in_stock", "low_on_stock"}
 VIEW_PAYLOAD_MARKER = "window.zara.viewPayload = "
 MAX_CONSECUTIVE_FAILURES = 5
+MAX_SLOTS = 10  # rezerve favori listesi yuvası: /zara_liste1 ... /zara_liste10
 
 PRODUCTS_DETAILS_API = "https://www.zara.com/tr/tr/products-details"
 REFERENCE_SEARCH_API = "https://www.zara.com/itxrest/1/search/store/11766/reference"
@@ -127,11 +128,22 @@ def load_watchlist(config):
     fallback = {"wishlists": [], "products": []}
     if config.get("wishlist_url"):
         fallback["wishlists"].append({
+            "slot": 1,
             "url": config["wishlist_url"],
             "label": "Kurulum listesi",
             "added_by": "kurulum",
         })
-    return _load_json(WATCHLIST_FILE, fallback)
+    data = _load_json(WATCHLIST_FILE, fallback)
+    # Eski kayıtlarda slot yoksa boş yuvalara sırayla ata
+    used = {w.get("slot") for w in data["wishlists"] if w.get("slot")}
+    next_free = 1
+    for w in data["wishlists"]:
+        if not w.get("slot"):
+            while next_free in used:
+                next_free += 1
+            w["slot"] = next_free
+            used.add(next_free)
+    return data
 
 
 def save_watchlist(watchlist):
@@ -537,29 +549,38 @@ def format_message(entry, sizes):
 HELP_TEXT = (
     "🤖 Stok takip botu (Zara + Mango)\n\n"
     "Komutlar:\n"
-    "/zara_favori_guncelle <link> — Zara favori listeni güncelle: senin "
-    "eklediğin eski liste(ler) çıkar, yenisi takibe girer\n"
-    "/ekle <link> — tekil ürün linkini takibe al (Zara veya Mango; "
-    "linkte renk yoksa ilk renk seçilir)\n"
-    "/liste — takip edilenleri göster\n"
-    "/sil <numara> — /liste'deki numarayla takipten çıkar\n\n"
+    "/zara_liste1 <link> ... /zara_liste10 <link> — 10 favori listesi "
+    "yuvası: yuva boşsa linki kaydeder, doluysa günceller. Linksiz "
+    "yazınca (/zara_liste3) yuvanın durumunu gösterir.\n"
+    "/ekle <link> — tekil ürün takibe al (Zara veya Mango; linkte renk "
+    "yoksa ilk renk seçilir)\n"
+    "/liste — tüm yuvaları ve tekil ürünleri göster\n"
+    "/sil liste3 — 3. yuvayı boşalt | /sil 2 — 2. tekil ürünü çıkar\n\n"
     "Not: komutsuz atılan linkler takibe alınmaz."
 )
 
 
 def _watchlist_lines(watchlist):
-    """/liste ve /sil için numaralı, sabit sıralı döküm."""
+    """/liste için döküm: 10 yuva (boşlar dahil) + tekil ürünler."""
+    slots = {w.get("slot"): w for w in watchlist["wishlists"]}
     lines = []
-    refs = []  # ("wishlist", idx) | ("product", idx)
-    for i, wl in enumerate(watchlist["wishlists"]):
-        refs.append(("wishlists", i))
-        lines.append(f"{len(refs)}. 📋 {wl.get('label', 'Favori listesi')}"
-                     f" (ekleyen: {wl.get('added_by', '?')})")
-    for i, pr in enumerate(watchlist["products"]):
-        refs.append(("products", i))
-        lines.append(f"{len(refs)}. 👕 {pr.get('name', pr['url'])}"
-                     f" (ekleyen: {pr.get('added_by', '?')})")
-    return lines, refs
+    for n in range(1, MAX_SLOTS + 1):
+        w = slots.get(n)
+        if w:
+            lines.append(f"Liste {n}: 📋 {w.get('label', 'Favori listesi')}"
+                         f" (ekleyen: {w.get('added_by', '?')})")
+        else:
+            lines.append(f"Liste {n}: boş")
+    lines.append("")
+    if watchlist["products"]:
+        lines.append("Tekil ürünler:")
+        for i, pr in enumerate(watchlist["products"], 1):
+            store = pr.get("store", "zara").capitalize()
+            lines.append(f"{i}. 👕 [{store}] {pr.get('name', pr['url'])}"
+                         f" (ekleyen: {pr.get('added_by', '?')})")
+    else:
+        lines.append("Tekil ürün yok.")
+    return lines
 
 
 def _handle_product_link(env, config, state, watchlist, v1, sender):
@@ -603,35 +624,62 @@ def _handle_product_link(env, config, state, watchlist, v1, sender):
     return True
 
 
-def _handle_wishlist_link(env, state, watchlist, url, sender):
-    clean = url.split("?")[0]
-    if any(w["url"].split("?")[0] == clean for w in watchlist["wishlists"]):
-        send_telegram(env, "ℹ️ Bu favori listesi zaten takipte.", disable_preview=True)
+def _handle_slot_command(env, state, watchlist, slot, text, sender):
+    """/zara_listeN: yuva boşsa linki kaydeder, doluysa günceller."""
+    if not 1 <= slot <= MAX_SLOTS:
+        send_telegram(env, f"Liste numarası 1-{MAX_SLOTS} arasında olmalı.",
+                      disable_preview=True)
+        return False
+    existing = next((w for w in watchlist["wishlists"] if w.get("slot") == slot), None)
+    urls = WISHLIST_RE.findall(text)
+    if not urls:
+        if existing:
+            send_telegram(env, f"Liste {slot}: {existing['label']} "
+                               f"(ekleyen: {existing.get('added_by', '?')})\n"
+                               f"Güncellemek için: /zara_liste{slot} <yeni link>",
+                          disable_preview=True)
+        else:
+            send_telegram(env, f"Liste {slot} boş. Doldurmak için: "
+                               f"/zara_liste{slot} <paylaşılan favori listesi linki>",
+                          disable_preview=True)
+        return False
+    url = urls[0]
+    if existing and existing["url"].split("?")[0] == url.split("?")[0]:
+        send_telegram(env, f"ℹ️ Liste {slot} zaten bu linki takip ediyor.",
+                      disable_preview=True)
         return False
     try:
         snap = fetch_wishlist_snapshot(url)
     except RuntimeError as exc:
-        log.error("Wishlist doğrulanamadı: %s", exc)
-        send_telegram(env, f"⚠️ Liste okunamadı: {exc}", disable_preview=True)
+        log.error("Wishlist doğrulanamadı (yuva %d): %s", slot, exc)
+        send_telegram(env, f"⚠️ Liste okunamadı, yuva değiştirilmedi: {exc}",
+                      disable_preview=True)
         return False
+    watchlist["wishlists"] = [w for w in watchlist["wishlists"]
+                              if w.get("slot") != slot]
     watchlist["wishlists"].append({
-        "url": url, "label": f"{sender} listesi ({len(snap)} ürün)",
+        "slot": slot, "url": url,
+        "label": f"{sender} listesi ({len(snap)} ürün)",
         "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
     })
+    watchlist["wishlists"].sort(key=lambda w: w.get("slot", MAX_SLOTS + 1))
     state.setdefault("products", {}).update(snap)
-    send_telegram(env, f"✅ Favori listesi takibe alındı: {len(snap)} ürün "
-                       f"(ekleyen: {sender}).\nStok girişlerinde haber veririm.",
+    verb = "güncellendi" if existing else "kaydedildi"
+    send_telegram(env, f"📌 Liste {slot} {verb}: {len(snap)} ürün takipte.",
                   disable_preview=True)
-    log.info("Gruptan wishlist eklendi (%s): %d ürün", sender, len(snap))
+    log.info("Yuva %d %s (%s): %d ürün", slot, verb, sender, len(snap))
     return True
 
 
 def _process_links(env, config, state, watchlist, text, sender):
-    """Metindeki Zara linklerini takibe alır. (değişti_mi, link_bulundu_mu) döner."""
+    """Metindeki ürün linklerini takibe alır. (değişti_mi, link_bulundu_mu) döner."""
     changed = found = False
-    for url in WISHLIST_RE.findall(text):
+    if WISHLIST_RE.search(text):
         found = True
-        changed |= _handle_wishlist_link(env, state, watchlist, url, sender)
+        send_telegram(env, "ℹ️ Favori listeleri yuvalarla yönetiliyor: "
+                           "/zara_liste1 ... /zara_liste10 <link>\n"
+                           "Boş yuvaya kaydeder, dolu yuvayı günceller.",
+                      disable_preview=True)
 
     for match in MANGO_PRODUCT_RE.finditer(unquote(text)):
         found = True
@@ -670,78 +718,57 @@ def _process_links(env, config, state, watchlist, text, sender):
     return changed, found
 
 
-def _handle_wishlist_update(env, state, watchlist, url, sender):
-    """Gönderenin eski listelerini kaldırıp yeni listeyi takibe alır."""
-    clean = url.split("?")[0]
-    mine = [w for w in watchlist["wishlists"] if w.get("added_by") == sender]
-    if any(w["url"].split("?")[0] == clean for w in mine):
-        send_telegram(env, "ℹ️ Bu link zaten güncel listen olarak takipte.",
-                      disable_preview=True)
-        return False
-    try:
-        snap = fetch_wishlist_snapshot(url)
-    except RuntimeError as exc:
-        log.error("Wishlist doğrulanamadı: %s", exc)
-        send_telegram(env, f"⚠️ Liste okunamadı, güncelleme yapılmadı: {exc}",
-                      disable_preview=True)
-        return False
-    removed = len(mine)
-    watchlist["wishlists"] = [w for w in watchlist["wishlists"]
-                              if w.get("added_by") != sender]
-    watchlist["wishlists"].append({
-        "url": url, "label": f"{sender} favori listesi ({len(snap)} ürün)",
-        "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
-    })
-    state.setdefault("products", {}).update(snap)
-    msg = f"🔄 Favori listen güncellendi: {len(snap)} ürün takipte."
-    if removed:
-        msg += f"\nEski {removed} liste linki takipten çıkarıldı."
-    send_telegram(env, msg, disable_preview=True)
-    log.info("Wishlist güncellendi (%s): %d ürün, %d eski link silindi",
-             sender, len(snap), removed)
-    return True
-
-
 def _handle_command(env, config, state, watchlist, text, sender):
     cmd = text.split("@")[0].split() or [""]
     # Türkçe karakter ve büyük/küçük harf toleransı: /Yardım -> /yardim
     cmd[0] = (cmd[0].replace("İ", "i").lower()
               .replace("ı", "i").replace("ş", "s").replace("ü", "u"))
-    if cmd[0] in ("/zara_favori_guncelle", "/favori_guncelle"):
-        urls = WISHLIST_RE.findall(text)
-        if not urls:
-            send_telegram(env, "Kullanım: /zara_favori_guncelle <paylaşılan "
-                               "favori listesi linki>\nZara uygulamasında "
-                               "Favoriler → Paylaş ile linki alın.",
-                          disable_preview=True)
-            return False
-        return _handle_wishlist_update(env, state, watchlist, urls[0], sender)
+
+    slot_match = re.match(r"^/zara_?liste_?(\d{1,2})$", cmd[0])
+    if slot_match:
+        return _handle_slot_command(env, state, watchlist,
+                                    int(slot_match.group(1)), text, sender)
     if cmd[0] == "/ekle":
         changed, found = _process_links(env, config, state, watchlist, text, sender)
         if not found:
-            send_telegram(env, "Kullanım: /ekle <zara linki>\n"
-                               "Ürün linki (?v1= içermeli) veya paylaşılan "
-                               "favori listesi linki olabilir.",
+            send_telegram(env, "Kullanım: /ekle <ürün linki>\n"
+                               "Zara veya Mango ürün linki olabilir. Favori "
+                               "listeleri için /zara_liste1 ... /zara_liste10.",
                           disable_preview=True)
         return changed
     if cmd[0] in ("/liste", "/list"):
-        lines, _ = _watchlist_lines(watchlist)
-        send_telegram(env, "📌 Takip edilenler:\n" + "\n".join(lines) if lines
-                      else "Takipte hiçbir şey yok. Gruba bir Zara linki atın.",
+        lines = _watchlist_lines(watchlist)
+        send_telegram(env, "📌 Takip edilenler:\n" + "\n".join(lines),
                       disable_preview=True)
         return False
     if cmd[0] == "/sil":
-        lines, refs = _watchlist_lines(watchlist)
+        args = [a.lower() for a in cmd[1:]]
+        # "/sil liste3" veya "/sil liste 3" → yuvayı boşalt
+        slot_arg = re.match(r"^liste_?(\d{1,2})$", args[0]) if args else None
+        if slot_arg or (len(args) >= 2 and args[0] == "liste" and args[1].isdigit()):
+            n = int(slot_arg.group(1)) if slot_arg else int(args[1])
+            existing = next((w for w in watchlist["wishlists"]
+                             if w.get("slot") == n), None)
+            if not existing:
+                send_telegram(env, f"Liste {n} zaten boş.", disable_preview=True)
+                return False
+            watchlist["wishlists"] = [w for w in watchlist["wishlists"]
+                                      if w.get("slot") != n]
+            send_telegram(env, f"🗑 Liste {n} boşaltıldı: {existing['label']}",
+                          disable_preview=True)
+            return True
+        # "/sil 2" → tekil ürünü çıkar
         try:
-            n = int(cmd[1])
-            kind, idx = refs[n - 1]
+            idx = int(args[0]) - 1
+            removed = watchlist["products"].pop(idx)
         except (IndexError, ValueError):
-            send_telegram(env, "Kullanım: /sil <numara> — numaralar için /liste",
+            send_telegram(env, "Kullanım: /sil liste3 (yuva boşaltır) veya "
+                               "/sil 2 (tekil ürünü çıkarır) — numaralar için /liste",
                           disable_preview=True)
             return False
-        removed = watchlist[kind].pop(idx)
-        name = removed.get("name") or removed.get("label") or removed.get("url")
-        send_telegram(env, f"🗑 Takipten çıkarıldı: {name}", disable_preview=True)
+        send_telegram(env, f"🗑 Takipten çıkarıldı: "
+                           f"{removed.get('name') or removed.get('url')}",
+                      disable_preview=True)
         return True
     if cmd[0] in ("/start", "/yardim", "/help"):
         send_telegram(env, HELP_TEXT, disable_preview=True)
