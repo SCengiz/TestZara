@@ -150,6 +150,12 @@ def parse_wishlist(html):
         v1 = seo.get("discernProductId") or color.get("productId") or ""
         url = f"https://www.zara.com/tr/tr/{keyword}-p{seo_pid}.html?v1={v1}"
 
+        # Ürün görseli: xmedia URL şablonundaki {width} yer tutucusunu doldur
+        image = ""
+        medias = color.get("xmedia") or product.get("xmedias") or []
+        if medias and medias[0].get("url"):
+            image = medias[0]["url"].replace("{width}", "800")
+
         sizes = {}
         for size in color.get("sizes") or []:
             name = str(size.get("name", "")).strip()
@@ -168,6 +174,12 @@ def parse_wishlist(html):
             "name": product.get("name") or raw.get("name") or "?",
             "ref": product.get("displayReference", ""),
             "color": color.get("name", ""),
+            "kind": raw.get("kind", ""),
+            "family": raw.get("familyName", ""),
+            "price": color.get("price"),
+            "old_price": color.get("oldPrice"),
+            "discount": color.get("displayDiscountPercentage"),
+            "image": image,
             "url": url,
             "sizes": sizes,
         }
@@ -177,15 +189,25 @@ def parse_wishlist(html):
 # ------------------------------------------------------------------- karşılaştırma
 
 def size_allowed(config, entry, size_name):
-    """config.size_filters ürün bazında beden kısıtı tanımlıyorsa uygular.
+    """Bir bedenin bildirime konu olup olmayacağına karar verir.
 
-    Anahtar olarak ürünün display reference'ı (ör. "5862/081") veya adının
-    bir parçası kullanılabilir. Filtre yoksa tüm bedenler izlenir.
+    Öncelik sırası:
+    1. size_filters — ürün bazlı istisna (anahtar: display reference "5862/081"
+       veya ürün adının bir parçası)
+    2. size_rules — kategori bazlı kural (anahtar: familyName ör. "AYAKKABI"
+       veya kind ör. "Wear"); boş liste = o kategoride tüm bedenler
+    3. Hiçbir kural eşleşmezse (parfüm, çanta vb.) tüm bedenler izlenir.
     """
     filters = config.get("size_filters") or {}
     for key, sizes in filters.items():
         if key == entry["ref"] or key.lower() in entry["name"].lower():
             return not sizes or size_name in sizes
+
+    rules = config.get("size_rules") or {}
+    for key in (entry.get("family", ""), entry.get("kind", "")):
+        if key and key in rules:
+            allowed = rules[key]
+            return not allowed or size_name in allowed
     return True
 
 
@@ -216,19 +238,15 @@ def find_restocks(config, previous, current):
 
 # --------------------------------------------------------------------- telegram
 
-def send_telegram(env, text, disable_preview=False):
+def _telegram_call(env, method, body):
     token = env.get("TELEGRAM_BOT_TOKEN")
-    chat_id = env.get("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
+    if not token or not env.get("TELEGRAM_CHAT_ID"):
         raise RuntimeError(
             ".env içinde TELEGRAM_BOT_TOKEN ve TELEGRAM_CHAT_ID tanımlı olmalı"
         )
-    api = f"https://api.telegram.org/bot{token}/sendMessage"
-    body = {
-        "chat_id": chat_id,
-        "text": text,
-        "disable_web_page_preview": disable_preview,
-    }
+    api = f"https://api.telegram.org/bot{token}/{method}"
+    body = {"chat_id": env["TELEGRAM_CHAT_ID"], **body}
+    last = None
     for attempt, delay in enumerate((0, 2, 4), start=1):
         if delay:
             time.sleep(delay)
@@ -236,19 +254,54 @@ def send_telegram(env, text, disable_preview=False):
             resp = requests.post(api, json=body, timeout=30)
             data = resp.json()
             if data.get("ok"):
-                return
-            raise RuntimeError(f"Telegram hatası: {data}")
-        except (requests.RequestException, ValueError, RuntimeError) as exc:
-            log.warning("Telegram gönderimi başarısız (deneme %d/3): %s", attempt, exc)
-    raise RuntimeError("Telegram mesajı 3 denemede gönderilemedi")
+                return True
+            last = data
+            # 4xx: tekrar denemek anlamsız (ör. bozuk resim URL'i)
+            if 400 <= resp.status_code < 500:
+                break
+        except (requests.RequestException, ValueError) as exc:
+            last = exc
+        log.warning("Telegram %s başarısız (deneme %d/3): %s", method, attempt, last)
+    return False
+
+
+def send_telegram(env, text, disable_preview=False, photo=None):
+    """Bildirim gönderir; resim varsa sendPhoto, yoksa/başarısızsa sendMessage."""
+    if photo:
+        if _telegram_call(env, "sendPhoto", {"photo": photo, "caption": text}):
+            return
+        log.warning("sendPhoto başarısız, düz mesaja düşülüyor")
+    if not _telegram_call(
+        env, "sendMessage",
+        {"text": text, "disable_web_page_preview": disable_preview},
+    ):
+        raise RuntimeError("Telegram mesajı gönderilemedi")
+
+
+def format_price(kurus):
+    """79000 → '790,00 TL' (Zara fiyatları kuruş cinsinden gelir)."""
+    if kurus is None:
+        return ""
+    lira, kr = divmod(int(kurus), 100)
+    return f"{lira:,}".replace(",", ".") + f",{kr:02d} TL"
 
 
 def format_message(entry, sizes):
-    color = f" ({entry['color']})" if entry["color"] else ""
+    color = f" ({entry['color']})" if entry.get("color") else ""
+    price_line = ""
+    if entry.get("price") is not None:
+        price_line = f"Fiyat: {format_price(entry['price'])}"
+        if entry.get("old_price"):
+            price_line += f" (eski: {format_price(entry['old_price'])}"
+            if entry.get("discount"):
+                price_line += f", %{entry['discount']} indirim"
+            price_line += ")"
+        price_line += "\n"
     return (
         "🎉 STOKTA!\n\n"
         f"{entry['name']}{color}\n"
-        f"Beden: {', '.join(sizes)}\n\n"
+        f"Beden: {', '.join(sizes)}\n"
+        f"{price_line}\n"
         f"{entry['url']}"
     )
 
@@ -294,9 +347,11 @@ def run_check(config, env, dry_run=False):
             for entry, sizes in restocks:
                 log.info("STOKTA: %s [%s] %s", entry["name"], ", ".join(sizes), entry["url"])
                 if dry_run:
-                    print(format_message(entry, sizes), "\n")
+                    print(format_message(entry, sizes))
+                    print(f"[resim: {entry.get('image', '') or '-'}]\n")
                 else:
-                    send_telegram(env, format_message(entry, sizes))
+                    send_telegram(env, format_message(entry, sizes),
+                                  photo=entry.get("image") or None)
                     time.sleep(random.uniform(1, 2))
         else:
             log.info("Değişiklik yok (%d ürün kontrol edildi)", len(current))
@@ -344,9 +399,12 @@ def main():
             {
                 "name": "ÖRNEK ÜRÜN — KURULUM TESTİ",
                 "color": "Kırmızı",
+                "price": 79000,
+                "old_price": 109000,
+                "discount": 27,
                 "url": config["wishlist_url"],
             },
-            ["M", "L"],
+            ["S", "M"],
         ))
         log.info("Test mesajı gönderildi ✔")
         return 0

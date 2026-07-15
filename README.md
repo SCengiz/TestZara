@@ -80,7 +80,27 @@ systemctl list-timers zara-watcher.timer   # kontrol
 |---|---|
 | `wishlist_url` | Takip edilecek paylaşılan favori listesi linki |
 | `notify_low_on_stock` | `true`: "az sayıda ürün" durumu da bildirilsin (varsayılan) |
-| `size_filters` | Ürün bazında sadece belirli bedenleri izle (aşağıda) |
+| `size_rules` | Kategori bazlı beden kuralları (aşağıda) |
+| `size_filters` | Ürün bazında istisna — `size_rules`'u ezer (aşağıda) |
+
+### Kategori bazlı beden kuralları — `size_rules`
+
+Anahtar, ürünün Zara'daki kategori adı (`familyName`, ör. `AYAKKABI`) veya tür
+kodudur (`kind`, ör. `Wear` = giyim). Değer, bildirime izin verilen bedenler;
+**boş liste = o kategoride tüm bedenler**. Hiçbir kurala uymayan ürünler
+(parfüm, çanta gibi tek "bedenli" ürünler) her zaman bildirilir.
+
+Mevcut ayar:
+
+```json
+"size_rules": {
+  "AYAKKABI": ["36", "37"],
+  "Wear": ["XXS", "XS", "S", "M", "32", "34", "36", "38"]
+}
+```
+
+Giyimdeki rakamlı bedenler jean'ler içindir; Zara karşılığı 32=XXS, 34=XS,
+36=S, 38=M olduğundan 32–38 aralığı izlenir.
 
 ### Sadece belirli bedenleri izlemek
 

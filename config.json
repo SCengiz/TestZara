@@ -1,5 +1,9 @@
 {
   "wishlist_url": "https://www.zara.com/tr/tr/user/share/wishlist/XnD82ka1OeCxoErInJ6Orw?locale=tr_TR",
   "notify_low_on_stock": true,
+  "size_rules": {
+    "AYAKKABI": ["36", "37"],
+    "Wear": ["XXS", "XS", "S", "M", "32", "34", "36", "38"]
+  },
   "size_filters": {}
 }
