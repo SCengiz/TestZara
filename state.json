@@ -193,7 +193,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -277,7 +277,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -830,7 +830,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1077,7 +1077,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1460,9 +1460,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-15 18:19:48",
+ "last_check": "2026-07-15 18:34:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
