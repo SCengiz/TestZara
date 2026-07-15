@@ -68,7 +68,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -91,11 +91,11 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "in_stock",
     "40": "out_of_stock",
     "42": "in_stock",
-    "44": "in_stock",
+    "44": "out_of_stock",
     "46": "out_of_stock"
    }
   },
@@ -115,7 +115,7 @@
     "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -235,7 +235,7 @@
    "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -275,7 +275,7 @@
    "url": "https://www.zara.com/tr/tr/suni-deri-detayli-kazayagi-ceket-p02180156.html?v1=501627052",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -294,10 +294,10 @@
    "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
-    "XS": "low_on_stock",
-    "S": "low_on_stock",
-    "M": "in_stock",
-    "L": "in_stock",
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -334,10 +334,10 @@
    "image": "https://static.zara.net/assets/public/911f/69d6/f47940d0aaac/18f3adcbffad/02469631070-p/02469631070-p.jpg?ts=1771596232747&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "in_stock",
-    "L": "in_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -452,7 +452,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -493,7 +493,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "in_stock"
    }
   },
@@ -529,7 +529,7 @@
    "image": "https://static.zara.net/assets/public/5a05/d94c/d8a84f938e0a/24931b1907cc/04369050092-p/04369050092-p.jpg?ts=1770742324238&w=800",
    "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "in_stock",
     "L": "in_stock"
    }
@@ -622,7 +622,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock",
     "XL": "coming_soon"
    }
@@ -642,7 +642,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
    }
@@ -660,7 +660,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -738,9 +738,9 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641399-803": {
@@ -979,7 +979,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -998,7 +998,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1497,9 +1497,30 @@
     "41": "out_of_stock",
     "42": "in_stock"
    }
+  },
+  "mango-37071421-01": {
+   "name": "%100 KETEN REGULAR KESIM GÖMLEK",
+   "ref": "37071421/01",
+   "color": "",
+   "kind": "Wear",
+   "family": "",
+   "section": "MAN",
+   "price": 249998,
+   "old_price": null,
+   "discount": null,
+   "image": "https://media.mango.com/is/image/punto/37071421-01-002?wid=1024",
+   "url": "https://shop.mango.com/tr/tr/p/erkek/gomlek/keten/100-keten-regular-kesim-gomlek/37071421/01/00",
+   "sizes": {
+    "XS": "in_stock",
+    "S": "in_stock",
+    "M": "in_stock",
+    "L": "in_stock",
+    "XL": "in_stock",
+    "XXL": "in_stock"
+   }
   }
  },
- "last_check": "2026-07-15 19:11:34",
+ "last_check": "2026-07-15 16:37:44",
  "source_failures": {},
- "tg_offset": 4899722
+ "tg_offset": 4899726
 }
