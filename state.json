@@ -50,7 +50,7 @@
     "34": "in_stock",
     "36": "low_on_stock",
     "38": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
    }
@@ -68,7 +68,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -375,7 +375,7 @@
    "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -450,7 +450,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
@@ -493,7 +493,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "in_stock"
    }
   },
@@ -512,7 +512,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "in_stock"
    }
   },
@@ -832,7 +832,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "16049710-253": {
@@ -884,7 +884,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -998,7 +998,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -1077,7 +1077,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1303,7 +1303,7 @@
    "image": "https://static.zara.net/assets/public/640e/dc0d/35384d548211/30e09404d8c6/11124730800-e1/11124730800-e1.jpg?ts=1764246830688&w=800",
    "url": "https://www.zara.com/tr/tr/kalp-uclu-naylon-alisveris-cantasi-p11124730.html?v1=495670044",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "08054643-681": {
@@ -1467,7 +1467,7 @@
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
     "XXS": "out_of_stock",
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-15 17:04:59",
+ "last_check": "2026-07-15 17:19:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
