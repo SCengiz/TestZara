@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stok Takip Paneli</title>
+<style>
+  :root {
+    --bg: #f5f5f7; --card: #ffffff; --text: #1d1d1f; --muted: #6e6e73;
+    --accent: #0a84ff; --green: #30a14e; --red: #d1242f; --border: #e5e5ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1c1e; --card: #2c2c2e; --text: #f5f5f7; --muted: #98989d;
+      --accent: #409cff; --green: #4cc38a; --red: #ff6369; --border: #3a3a3c;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--text); padding: 16px; max-width: 640px;
+    margin: 0 auto; line-height: 1.45;
+  }
+  h1 { font-size: 1.35rem; margin: 8px 0 2px; }
+  .sub { color: var(--muted); font-size: .85rem; margin-bottom: 18px; }
+  h2 { font-size: 1.05rem; margin: 22px 0 10px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    padding: 14px; margin-bottom: 10px;
+  }
+  .card .title { font-weight: 600; font-size: .95rem; }
+  .card .meta { color: var(--muted); font-size: .8rem; margin-top: 2px; }
+  .empty { border-style: dashed; color: var(--muted); }
+  .row { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  input[type=url] {
+    flex: 1 1 200px; padding: 10px 12px; border-radius: 10px; font-size: .9rem;
+    border: 1px solid var(--border); background: var(--bg); color: var(--text);
+  }
+  button {
+    padding: 10px 14px; border: none; border-radius: 10px; font-size: .9rem;
+    font-weight: 600; cursor: pointer; background: var(--accent); color: #fff;
+  }
+  button.ghost { background: transparent; color: var(--red); border: 1px solid var(--border); }
+  button:active { opacity: .7; }
+  .stock { margin-top: 8px; font-size: .82rem; }
+  .stock b { color: var(--green); }
+  .badge { display: inline-block; font-size: .72rem; padding: 2px 8px; border-radius: 20px;
+           background: var(--bg); border: 1px solid var(--border); color: var(--muted); margin-left: 6px; }
+  #toast {
+    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%);
+    background: var(--text); color: var(--bg); padding: 12px 18px; border-radius: 12px;
+    font-size: .9rem; opacity: 0; transition: opacity .3s; pointer-events: none;
+    max-width: 90%; text-align: center; z-index: 10;
+  }
+  #toast.show { opacity: 1; }
+  #err { color: var(--red); font-size: .9rem; margin: 20px 0; display: none; }
+  details summary { cursor: pointer; color: var(--muted); font-size: .82rem; margin-top: 6px; }
+  .loading { color: var(--muted); text-align: center; padding: 40px 0; }
+</style>
+</head>
+<body>
+<h1>🛍 Stok Takip Paneli</h1>
+<p class="sub">Zara + Mango · İşlem yaptığınızda komut kopyalanır → Telegram grubuna yapıştırıp gönderin. Bot en geç ~10 dk içinde uygular.</p>
+<div id="err"></div>
+<div id="app" class="loading">Yükleniyor…</div>
+<div id="toast"></div>
+
+<script>
+const REPO = "SCengiz/TestZara";
+const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
+const AVAILABLE = ["in_stock", "low_on_stock"];
+const MAX_SLOTS = 10;
+
+function toast(msg) {
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.classList.add("show");
+  setTimeout(() => t.classList.remove("show"), 3500);
+}
+
+async function copyCmd(cmd, what) {
+  try { await navigator.clipboard.writeText(cmd); }
+  catch (e) { prompt("Kopyalayın:", cmd); return; }
+  toast(`✅ ${what} komutu kopyalandı — şimdi Telegram grubuna yapıştırıp gönderin`);
+}
+
+function el(html) {
+  const d = document.createElement("div"); d.innerHTML = html.trim();
+  return d.firstChild;
+}
+
+function slotCard(n, wl, stateProducts) {
+  if (!wl) {
+    const c = el(`<div class="card empty">
+      <div class="title">Liste ${n}: boş</div>
+      <div class="row">
+        <input type="url" placeholder="Zara favori listesi linkini yapıştırın">
+        <button>Kaydet</button>
+      </div></div>`);
+    c.querySelector("button").onclick = () => {
+      const v = c.querySelector("input").value.trim();
+      if (!v.includes("share/wishlist")) return toast("⚠️ Geçerli bir 'listeyi paylaş' linki yapıştırın");
+      copyCmd(`/zara_liste${n} ${v}`, `Liste ${n} kaydetme`);
+    };
+    return c;
+  }
+  const c = el(`<div class="card">
+    <div class="title">Liste ${n}: ${wl.label || "Favori listesi"}</div>
+    <div class="meta">ekleyen: ${wl.added_by || "?"} · ${wl.added_at || ""}</div>
+    <div class="row">
+      <input type="url" placeholder="Yeni link yapıştırın (güncellemek için)">
+      <button>Güncelle</button>
+      <button class="ghost">Boşalt</button>
+    </div></div>`);
+  const [upd, clr] = c.querySelectorAll("button");
+  upd.onclick = () => {
+    const v = c.querySelector("input").value.trim();
+    if (!v.includes("share/wishlist")) return toast("⚠️ Önce yeni 'listeyi paylaş' linkini yapıştırın");
+    copyCmd(`/zara_liste${n} ${v}`, `Liste ${n} güncelleme`);
+  };
+  clr.onclick = () => copyCmd(`/sil liste${n}`, `Liste ${n} boşaltma`);
+  return c;
+}
+
+function productCard(i, p, stateProducts) {
+  const store = (p.store || "zara").toUpperCase();
+  const entry = p.key ? stateProducts[p.key] : Object.values(stateProducts)
+    .find(e => e.url && p.url && e.url.split("v1=")[1] === p.url.split("v1=")[1]);
+  let stockLine = "";
+  if (entry) {
+    const inStock = Object.entries(entry.sizes || {})
+      .filter(([s, a]) => AVAILABLE.includes(a)).map(([s]) => s);
+    stockLine = `<div class="stock">Stokta: ${inStock.length ? "<b>" + inStock.join(", ") + "</b>" : "—"}</div>`;
+  }
+  const c = el(`<div class="card">
+    <div class="title">${p.name || p.url}<span class="badge">${store}</span></div>
+    <div class="meta">ekleyen: ${p.added_by || "?"} · ${p.added_at || ""}</div>
+    ${stockLine}
+    <div class="row"><button class="ghost">Takipten çıkar</button></div></div>`);
+  c.querySelector("button").onclick = () => copyCmd(`/sil ${i}`, "Ürün silme");
+  return c;
+}
+
+async function main() {
+  const app = document.getElementById("app");
+  let watchlist, state;
+  try {
+    const bust = "?t=" + Date.now();
+    [watchlist, state] = await Promise.all([
+      fetch(RAW + "watchlist.json" + bust).then(r => { if (!r.ok) throw r.status; return r.json(); }),
+      fetch(RAW + "state.json" + bust).then(r => r.ok ? r.json() : {}),
+    ]);
+  } catch (e) {
+    document.getElementById("err").style.display = "block";
+    document.getElementById("err").textContent =
+      "Veri okunamadı. Repo public mi? (" + e + ")";
+    app.textContent = ""; return;
+  }
+  app.classList.remove("loading");
+  app.textContent = "";
+  const sp = state.products || {};
+
+  app.appendChild(el(`<h2>📋 Favori listeleri (10 yuva)</h2>`));
+  const slots = {};
+  (watchlist.wishlists || []).forEach(w => { if (w.slot) slots[w.slot] = w; });
+  for (let n = 1; n <= MAX_SLOTS; n++) app.appendChild(slotCard(n, slots[n], sp));
+
+  app.appendChild(el(`<h2>👕 Tekil ürünler</h2>`));
+  const prods = watchlist.products || [];
+  if (prods.length) prods.forEach((p, i) => app.appendChild(productCard(i + 1, p, sp)));
+  else app.appendChild(el(`<div class="card empty"><div class="title">Tekil ürün yok</div></div>`));
+
+  const add = el(`<div class="card">
+    <div class="title">➕ Ürün ekle (Zara veya Mango)</div>
+    <div class="row">
+      <input type="url" placeholder="Ürün linkini yapıştırın">
+      <button>Ekle</button>
+    </div></div>`);
+  add.querySelector("button").onclick = () => {
+    const v = add.querySelector("input").value.trim();
+    if (!/zara\.com|mango\.com/.test(v)) return toast("⚠️ Zara veya Mango ürün linki yapıştırın");
+    copyCmd(`/ekle ${v}`, "Ürün ekleme");
+  };
+  app.appendChild(add);
+
+  app.appendChild(el(`<details><summary>Son kontrol: ${state.last_check || "?"} ·
+    ${Object.keys(sp).length} ürün-renk kaydı izleniyor</summary>
+    <p class="meta" style="margin-top:8px">Bu panel veriyi GitHub'daki depodan okur; işlemler
+    Telegram komutuna çevrilip panoya kopyalanır. Komutu grupta gönderdikten sonra botun
+    işlemesi ~10 dk sürebilir; panele yansıması için sayfayı yenileyin.</p></details>`));
+}
+main();
+</script>
+</body>
+</html>
