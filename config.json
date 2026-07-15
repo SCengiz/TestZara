@@ -1,5 +1,6 @@
 {
   "panel_url": "https://scengiz.github.io/TestZara/",
+  "bot_username": "zara_sc_bot",
   "allowed_users": [8602347601, 5823331368],
   "wishlist_url": "https://www.zara.com/tr/tr/user/share/wishlist/XnD82ka1OeCxoErInJ6Orw?locale=tr_TR",
   "notify_low_on_stock": true,

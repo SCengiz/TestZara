@@ -770,6 +770,16 @@ def _handle_command(env, config, state, watchlist, text, sender):
                            f"{removed.get('name') or removed.get('url')}",
                       disable_preview=True)
         return True
+    if cmd[0] == "/panel":
+        bot_user = config.get("bot_username", "")
+        link = f"https://t.me/{bot_user}" if bot_user else "botla özel sohbet"
+        send_telegram(env, "🛍 Panel, botla özel sohbette açılır (Telegram "
+                           "grup içinde panel düğmesine izin vermiyor).\n"
+                           f"1. {link} sohbetini açın\n"
+                           "2. Oraya /panel yazın\n"
+                           "3. Gelen '🛍 Paneli Aç' düğmesine dokunun",
+                      disable_preview=True)
+        return False
     if cmd[0] in ("/start", "/yardim", "/help"):
         send_telegram(env, HELP_TEXT, disable_preview=True)
     return False
