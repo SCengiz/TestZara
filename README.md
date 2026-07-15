@@ -146,16 +146,16 @@ Sınırlar **aralıktır** (min–max, ikisi de dahil):
 
 | Kategori | Kadın / Unisex | Erkek | Çocuk |
 |---|---|---|---|
-| Giyim — harf beden | XXS – M | S – L | dikkate alınmaz |
-| Giyim — rakam beden (jean vb.) | 34 – 38 | 38 – 42 | dikkate alınmaz |
+| Giyim — harf beden | XXS – S | S – L | dikkate alınmaz |
+| Giyim — rakam beden (jean vb.) | 36 – 38 | 38 – 42 | dikkate alınmaz |
 | Ayakkabı | 36 – 38 | 42 – 43 | bildirilmez |
 | Yaş bedenli ürünler | — | — | sadece 13/14 yaş (164 cm) |
 | Parfüm, çanta, "STANDART" | sınırsız | sınırsız | sınırsız |
 
 ```json
 "limits": {
-  "WOMAN": { "letter_min": "XXS", "letter_max": "M",
-             "pants_min": 34, "pants_max": 38,
+  "WOMAN": { "letter_min": "XXS", "letter_max": "S",
+             "pants_min": 36, "pants_max": 38,
              "shoe_min": 36, "shoe_max": 38 },
   "MAN":   { "letter_min": "S", "letter_max": "L",
              "pants_min": 38, "pants_max": 42,

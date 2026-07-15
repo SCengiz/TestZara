@@ -5,8 +5,8 @@
   "wishlist_url": "https://www.zara.com/tr/tr/user/share/wishlist/XnD82ka1OeCxoErInJ6Orw?locale=tr_TR",
   "notify_low_on_stock": true,
   "limits": {
-    "WOMAN": { "letter_min": "XXS", "letter_max": "M",
-               "pants_min": 34, "pants_max": 38,
+    "WOMAN": { "letter_min": "XXS", "letter_max": "S",
+               "pants_min": 36, "pants_max": 38,
                "shoe_min": 36, "shoe_max": 38 },
     "MAN":   { "letter_min": "S", "letter_max": "L",
                "pants_min": 38, "pants_max": 42,
