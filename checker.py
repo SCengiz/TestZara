@@ -52,8 +52,10 @@ VIEW_PAYLOAD_MARKER = "window.zara.viewPayload = "
 MAX_CONSECUTIVE_FAILURES = 5
 
 PRODUCTS_DETAILS_API = "https://www.zara.com/tr/tr/products-details"
+REFERENCE_SEARCH_API = "https://www.zara.com/itxrest/1/search/store/11766/reference"
 WISHLIST_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/user/share/wishlist/[\w-]+[^\s]*")
 PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html\?[^\s]*?v1=(\d+)[^\s]*")
+BARE_PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html[^\s]*")
 
 log = logging.getLogger("zara-watcher")
 
@@ -164,6 +166,31 @@ def fetch_products_details(v1_ids):
         if i + 10 < len(ids):
             time.sleep(random.uniform(3, 6))
     return results
+
+
+def resolve_v1_from_seo_pid(seo_pid):
+    """v1'siz ürün linkindeki numaradan (p02554380) rengin productId'sini bulur.
+
+    Numara şeması: 8 hane = [sezon hanesi][4 hane model]/[3 hane kalite]
+    → referans "2554/380" türetilir, itxrest referans aramasıyla ürün bulunur.
+    Dönüş: (v1, renk_sayısı) veya (None, 0).
+    """
+    if len(seo_pid) != 8 or not seo_pid.isdigit():
+        return None, 0
+    reference = f"{seo_pid[1:5]}/{seo_pid[5:]}"
+    resp = _zara_get(REFERENCE_SEARCH_API,
+                     params={"reference": reference, "locale": "tr_TR",
+                             "ajax": "true"},
+                     accept_json=True)
+    for result in (resp.json().get("results") or []):
+        content = result.get("content") or {}
+        detail = content.get("detail") or {}
+        if detail.get("displayReference") != reference:
+            continue
+        colors = detail.get("colors") or []
+        if colors and colors[0].get("productId"):
+            return colors[0]["productId"], len(colors)
+    return None, 0
 
 
 def _color_entry(raw, color, name=None):
@@ -409,8 +436,8 @@ def format_message(entry, sizes):
 HELP_TEXT = (
     "🤖 Zara stok takip botu\n\n"
     "Komutlar:\n"
-    "/ekle <link> — Zara ürün linkini (?v1= içermeli) veya paylaşılan "
-    "favori listesi linkini takibe al\n"
+    "/ekle <link> — Zara ürün linkini veya paylaşılan favori listesi "
+    "linkini takibe al (linkte renk yoksa ilk renk seçilir)\n"
     "/liste — takip edilenleri göster\n"
     "/sil <numara> — /liste'deki numarayla takipten çıkar\n\n"
     "Not: /ekle olmadan atılan linkler takibe alınmaz."
@@ -502,17 +529,37 @@ def _process_links(env, config, state, watchlist, text, sender):
     for url in WISHLIST_RE.findall(text):
         found = True
         changed |= _handle_wishlist_link(env, state, watchlist, url, sender)
+
+    handled_pids = set()
     for match in PRODUCT_RE.finditer(text):
         found = True
+        handled_pids.add(match.group(1))
         changed |= _handle_product_link(env, config, state, watchlist,
                                         match.group(2), sender)
-    # v1 parametresi olmayan ürün linki: takip edilemez, kullanıcıyı bilgilendir
-    if not found and re.search(r"zara\.com/[^\s]*-p\d+\.html", text):
+
+    # v1 parametresi olmayan ürün linkleri: referans aramasıyla rengi çöz
+    for match in BARE_PRODUCT_RE.finditer(text):
+        seo_pid = match.group(1)
+        if seo_pid in handled_pids or "v1=" in match.group(0):
+            continue
         found = True
-        send_telegram(env, "⚠️ Bu ürün linkinde renk bilgisi (v1=...) yok, "
-                           "takip edemiyorum. Linki Zara uygulaması veya "
-                           "sitesindeki Paylaş düğmesiyle kopyalayıp atın.",
-                      disable_preview=True)
+        try:
+            v1, color_count = resolve_v1_from_seo_pid(seo_pid)
+        except RuntimeError as exc:
+            log.error("Referans araması başarısız (%s): %s", seo_pid, exc)
+            v1 = None
+            color_count = 0
+        if v1 is None:
+            send_telegram(env, "⚠️ Bu linkten ürün bulunamadı. Linki Zara "
+                               "uygulaması/sitesindeki Paylaş düğmesiyle "
+                               "kopyalayıp tekrar deneyin.", disable_preview=True)
+            continue
+        if color_count > 1:
+            send_telegram(env, "ℹ️ Linkte renk belirtilmemiş; ürünün ilk rengi "
+                               "takibe alınıyor. Başka bir renk istiyorsanız "
+                               "linki Paylaş düğmesiyle kopyalayıp atın.",
+                          disable_preview=True)
+        changed |= _handle_product_link(env, config, state, watchlist, v1, sender)
     return changed, found
 
 

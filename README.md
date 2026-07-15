@@ -8,9 +8,10 @@ girdiğinde gruba fotoğraflı/fiyatlı bildirim gönderir.
 
 Takip edilecek şeyler Telegram grubundan `/ekle` komutuyla yönetilir:
 
-- **/ekle <ürün linki>** (`zara.com/tr/tr/...-p1234567.html?v1=...`) →
-  bot onaylar ve o ürünü (linkteki rengiyle) takibe alır. Uygulamadaki /
-  sitedeki **Paylaş** düğmesiyle kopyalanan linklerde `v1=` kendiliğinden var.
+- **/ekle <ürün linki>** (`zara.com/tr/tr/...-p1234567.html`) →
+  bot onaylar ve ürünü takibe alır. Linkte renk parametresi (`?v1=`) varsa o
+  renk izlenir; yoksa bot ürünü referans aramasıyla bulur ve ilk rengini
+  izler (birden çok renk varsa bunu belirtir).
 - **/ekle <paylaşılan favori listesi linki>**
   (`zara.com/.../user/share/wishlist/...`) → listedeki tüm ürünler takibe girer.
 - **/liste** → takip edilenleri numaralı gösterir
