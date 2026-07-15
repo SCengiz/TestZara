@@ -1,7 +1,7 @@
 name: Zara Stock Check
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 permissions:
