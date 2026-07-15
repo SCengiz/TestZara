@@ -1,9 +1,9 @@
 name: Zara Stock Check
 on:
   schedule:
-    # */20 yerine tenha dakikalar: GitHub yoğun dilimlerde (:00/:20/:40)
-    # zamanlanmış görevleri atlayabiliyor
-    - cron: '7,27,47 * * * *'
+    # Tenha dakikalar seçildi: GitHub yoğun dilimlerde (:00/:10/:20...)
+    # zamanlanmış görevleri atlayabiliyor. Public repoda dakika sınırsız.
+    - cron: '3,13,23,33,43,53 * * * *'
   workflow_dispatch:
 
 permissions:
