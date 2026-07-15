@@ -193,7 +193,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -296,8 +296,8 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -531,7 +531,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "in_stock",
-    "L": "in_stock"
+    "L": "low_on_stock"
    }
   },
   "04369044-916": {
@@ -830,8 +830,8 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1382,7 +1382,7 @@
    "image": "https://static.zara.net/assets/public/1c9b/dab0/f6bf4e3bb13b/07748131db2b/05644992500400-p/05644992500400-p.jpg?ts=1780408338597&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1476,7 +1476,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-15 18:34:52",
+ "last_check": "2026-07-15 18:49:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
