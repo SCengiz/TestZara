@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd servisi: bot açılışta başlar, çökerse yeniden başlatılır.
+  KURULUM (repo klasörünüz ~/zara-watcher değilse iki yoldaki yolu düzeltin):
+    cp deploy/com.zara-watcher.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.zara-watcher.plist
+  DURDURMA:
+    launchctl unload ~/Library/LaunchAgents/com.zara-watcher.plist
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.zara-watcher</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>checker.py</string>
+    <string>--loop</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/KULLANICI_ADINIZ/zara-watcher</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/KULLANICI_ADINIZ/zara-watcher/zara-watcher.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/KULLANICI_ADINIZ/zara-watcher/zara-watcher.log</string>
+</dict>
+</plist>

@@ -937,14 +937,25 @@ def main():
         return 0
 
     if args.loop:
-        interval = max(15, int(env.get("CHECK_INTERVAL_MIN", "20")))
-        log.info("Döngü modu: her %d dakikada bir kontrol", interval)
+        interval = max(15, int(env.get("CHECK_INTERVAL_MIN", "20"))) * 60
+        log.info("Döngü modu: stok kontrolü her %d dk, komutlar her 60 sn",
+                 interval // 60)
+        last_check = 0.0
         while True:
             try:
-                run_check(config, env, dry_run=args.dry_run)
+                if time.time() - last_check >= interval * random.uniform(0.97, 1.03):
+                    run_check(config, env, dry_run=args.dry_run)
+                    last_check = time.time()
+                elif not args.dry_run:
+                    # Ara turlarda sadece grup komutlarını işle → anlık yanıt
+                    state = load_state()
+                    watchlist = load_watchlist(config)
+                    if poll_group_messages(env, config, state, watchlist):
+                        save_watchlist(watchlist)
+                    save_state(state)
             except Exception:
                 log.exception("Beklenmeyen hata — döngü devam ediyor")
-            time.sleep(interval * 60 * random.uniform(0.9, 1.1))
+            time.sleep(60)
     else:
         return run_check(config, env, dry_run=args.dry_run)
 

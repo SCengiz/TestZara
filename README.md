@@ -92,6 +92,31 @@ sudo systemctl enable --now zara-watcher.timer
 systemctl list-timers zara-watcher.timer   # kontrol
 ```
 
+**Seçenek B2 — macOS (kendi Mac'inizde):**
+```bash
+git clone https://github.com/SCengiz/TestZara.git ~/zara-watcher
+cd ~/zara-watcher
+python3 -m pip install requests
+cp .env.example .env        # token ve chat id'yi girin
+python3 checker.py --test   # Telegram testi
+python3 checker.py --loop   # sürekli çalışır: komutlar 60 sn, stok 20 dk
+```
+Terminali kapatınca da çalışsın ve Mac açılınca kendiliğinden başlasın
+isterseniz `deploy/com.zara-watcher.plist` dosyasının içindeki 2 yolu kendi
+kullanıcı adınıza göre düzeltip:
+```bash
+cp deploy/com.zara-watcher.plist ~/Library/LaunchAgents/
+launchctl load ~/Library/LaunchAgents/com.zara-watcher.plist
+```
+Notlar:
+- `--loop` modunda grup komutlarına (~1 dk içinde) **anlık yanıt** verilir;
+  stok kontrolü yine 20 dk'da birdir.
+- Mac **uykuya dalarsa** bot da durur; kapaklı MacBook'ta güç adaptörüne
+  takılıyken "Prevent automatic sleeping" açık olmalı (System Settings →
+  Battery → Options) veya Amphetamine benzeri bir uygulama kullanın.
+- Aynı anda GitHub Actions da çalışıyorsa bildirimler **iki kez** gelir —
+  Mac'e geçtiğinizde Actions'taki workflow'u kapatın (aşağıya bakın).
+
 **Seçenek C — GitHub Actions (7/24 açık makineniz yoksa):**
 1. Bu klasörü **private** bir GitHub reposuna push'layın
 2. Repo → Settings → Secrets and variables → Actions altına
