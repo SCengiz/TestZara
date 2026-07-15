@@ -535,13 +535,15 @@ def format_message(entry, sizes):
 # ------------------------------------------------- grup mesajlarından girdi alma
 
 HELP_TEXT = (
-    "🤖 Zara stok takip botu\n\n"
+    "🤖 Stok takip botu (Zara + Mango)\n\n"
     "Komutlar:\n"
-    "/ekle <link> — Zara ürün linkini veya paylaşılan favori listesi "
-    "linkini takibe al (linkte renk yoksa ilk renk seçilir)\n"
+    "/zara_favori_guncelle <link> — Zara favori listeni güncelle: senin "
+    "eklediğin eski liste(ler) çıkar, yenisi takibe girer\n"
+    "/ekle <link> — tekil ürün linkini takibe al (Zara veya Mango; "
+    "linkte renk yoksa ilk renk seçilir)\n"
     "/liste — takip edilenleri göster\n"
     "/sil <numara> — /liste'deki numarayla takipten çıkar\n\n"
-    "Not: /ekle olmadan atılan linkler takibe alınmaz."
+    "Not: komutsuz atılan linkler takibe alınmaz."
 )
 
 
@@ -668,11 +670,52 @@ def _process_links(env, config, state, watchlist, text, sender):
     return changed, found
 
 
+def _handle_wishlist_update(env, state, watchlist, url, sender):
+    """Gönderenin eski listelerini kaldırıp yeni listeyi takibe alır."""
+    clean = url.split("?")[0]
+    mine = [w for w in watchlist["wishlists"] if w.get("added_by") == sender]
+    if any(w["url"].split("?")[0] == clean for w in mine):
+        send_telegram(env, "ℹ️ Bu link zaten güncel listen olarak takipte.",
+                      disable_preview=True)
+        return False
+    try:
+        snap = fetch_wishlist_snapshot(url)
+    except RuntimeError as exc:
+        log.error("Wishlist doğrulanamadı: %s", exc)
+        send_telegram(env, f"⚠️ Liste okunamadı, güncelleme yapılmadı: {exc}",
+                      disable_preview=True)
+        return False
+    removed = len(mine)
+    watchlist["wishlists"] = [w for w in watchlist["wishlists"]
+                              if w.get("added_by") != sender]
+    watchlist["wishlists"].append({
+        "url": url, "label": f"{sender} favori listesi ({len(snap)} ürün)",
+        "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
+    })
+    state.setdefault("products", {}).update(snap)
+    msg = f"🔄 Favori listen güncellendi: {len(snap)} ürün takipte."
+    if removed:
+        msg += f"\nEski {removed} liste linki takipten çıkarıldı."
+    send_telegram(env, msg, disable_preview=True)
+    log.info("Wishlist güncellendi (%s): %d ürün, %d eski link silindi",
+             sender, len(snap), removed)
+    return True
+
+
 def _handle_command(env, config, state, watchlist, text, sender):
     cmd = text.split("@")[0].split() or [""]
     # Türkçe karakter ve büyük/küçük harf toleransı: /Yardım -> /yardim
     cmd[0] = (cmd[0].replace("İ", "i").lower()
               .replace("ı", "i").replace("ş", "s").replace("ü", "u"))
+    if cmd[0] in ("/zara_favori_guncelle", "/favori_guncelle"):
+        urls = WISHLIST_RE.findall(text)
+        if not urls:
+            send_telegram(env, "Kullanım: /zara_favori_guncelle <paylaşılan "
+                               "favori listesi linki>\nZara uygulamasında "
+                               "Favoriler → Paylaş ile linki alın.",
+                          disable_preview=True)
+            return False
+        return _handle_wishlist_update(env, state, watchlist, urls[0], sender)
     if cmd[0] == "/ekle":
         changed, found = _process_links(env, config, state, watchlist, text, sender)
         if not found:
