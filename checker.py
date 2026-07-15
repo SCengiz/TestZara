@@ -792,18 +792,55 @@ def poll_group_messages(env, config, state, watchlist):
 
     changed = False
     group_id = str(env["TELEGRAM_CHAT_ID"])
+    allowed_users = set(config.get("allowed_users") or [])
     for update in result:
         state["tg_offset"] = max(int(state.get("tg_offset", 0)), update["update_id"])
         msg = update.get("message") or {}
-        if str((msg.get("chat") or {}).get("id")) != group_id:
-            continue  # sadece takip grubundan girdi al
+        chat = msg.get("chat") or {}
         text = msg.get("text") or ""
         sender = (msg.get("from") or {}).get("first_name", "?")
+        user_id = (msg.get("from") or {}).get("id")
 
-        if text.startswith("/"):
-            changed |= _handle_command(env, config, state, watchlist, text, sender)
-        # /ekle olmadan atılan linkler bilinçli olarak yok sayılır:
-        # grupta sohbet ederken paylaşılan linkler takibe girmesin
+        if str(chat.get("id")) == group_id:
+            if text.startswith("/"):
+                changed |= _handle_command(env, config, state, watchlist, text, sender)
+            # /ekle olmadan atılan linkler bilinçli olarak yok sayılır:
+            # grupta sohbet ederken paylaşılan linkler takibe girmesin
+            continue
+
+        # Botla özel sohbet: sadece izinli kullanıcılar (panel / mini app)
+        if chat.get("type") != "private" or user_id not in allowed_users:
+            continue
+
+        web_app = msg.get("web_app_data") or {}
+        if web_app.get("data", "").startswith("/"):
+            # Panelden gelen işlem: grup komutuyla aynı şekilde işle
+            changed |= _handle_command(env, config, state, watchlist,
+                                       web_app["data"], sender)
+            _telegram_call(env, "sendMessage", {
+                "chat_id": chat["id"],
+                "text": "✅ Panel işlemi uygulandı — onay grup sohbetinde.",
+            }, quiet=True)
+            continue
+
+        cmd0 = (text.split() or [""])[0].split("@")[0].lower() \
+            .replace("ı", "i").replace("İ", "i")
+        if cmd0 in ("/panel", "/start"):
+            panel_url = config.get("panel_url")
+            if not panel_url:
+                continue
+            _telegram_call(env, "sendMessage", {
+                "chat_id": chat["id"],
+                "text": "Panel düğmesi aşağıda 👇 Ona dokununca yönetim "
+                        "paneli Telegram içinde açılır. Yaptığınız işlemler "
+                        "bota iletilir ve ~10 dk içinde uygulanır.",
+                "reply_markup": {
+                    "keyboard": [[{"text": "🛍 Paneli Aç",
+                                   "web_app": {"url": panel_url}}]],
+                    "resize_keyboard": True,
+                    "is_persistent": True,
+                },
+            }, quiet=True)
     return changed
 
 
