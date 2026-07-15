@@ -395,17 +395,21 @@ def main():
     config = load_config()
 
     if args.test:
-        send_telegram(env, format_message(
-            {
-                "name": "ÖRNEK ÜRÜN — KURULUM TESTİ",
-                "color": "Kırmızı",
-                "price": 79000,
-                "old_price": 109000,
-                "discount": 27,
-                "url": config["wishlist_url"],
-            },
-            ["S", "M"],
-        ))
+        # Gerçekçi bir test için state'teki ilk üründen resim/fiyat ödünç al
+        sample = {
+            "name": "ÖRNEK ÜRÜN — KURULUM TESTİ",
+            "color": "Kırmızı",
+            "price": 79000,
+            "old_price": 109000,
+            "discount": 27,
+            "url": config["wishlist_url"],
+        }
+        products = load_state().get("products", {})
+        with_image = next((p for p in products.values() if p.get("image")), None)
+        if with_image:
+            sample = {**with_image, "name": f"KURULUM TESTİ — {with_image['name']}"}
+        send_telegram(env, format_message(sample, ["S", "M"]),
+                      photo=sample.get("image") or None)
         log.info("Test mesajı gönderildi ✔")
         return 0
 
