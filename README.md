@@ -6,15 +6,17 @@ girdiğinde gruba fotoğraflı/fiyatlı bildirim gönderir.
 
 ## Nasıl çalışır?
 
-Takip edilecek şeyler Telegram grubundan yönetilir:
+Takip edilecek şeyler Telegram grubundan `/ekle` komutuyla yönetilir:
 
-- Gruba bir **ürün linki** atın (`zara.com/tr/tr/...-p1234567.html?v1=...`) →
+- **/ekle <ürün linki>** (`zara.com/tr/tr/...-p1234567.html?v1=...`) →
   bot onaylar ve o ürünü (linkteki rengiyle) takibe alır. Uygulamadaki /
   sitedeki **Paylaş** düğmesiyle kopyalanan linklerde `v1=` kendiliğinden var.
-- Gruba bir **paylaşılan favori listesi linki** atın
+- **/ekle <paylaşılan favori listesi linki>**
   (`zara.com/.../user/share/wishlist/...`) → listedeki tüm ürünler takibe girer.
 - **/liste** → takip edilenleri numaralı gösterir
 - **/sil 3** → 3 numaralı kaydı takipten çıkarır
+- `/ekle` olmadan atılan linkler bilinçli olarak yok sayılır — grupta sohbet
+  ederken paylaşılan linkler takibe girmez.
 
 Bot her turda tüm kaynakların beden bazında stok durumunu okur (favori listesi
 sayfası tek istekte, tekil ürünler toplu API isteğinde), önceki durumla

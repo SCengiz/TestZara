@@ -408,12 +408,12 @@ def format_message(entry, sizes):
 
 HELP_TEXT = (
     "🤖 Zara stok takip botu\n\n"
-    "Bu gruba bir Zara linki atın, takibe alayım:\n"
-    "• Ürün linki (zara.com/tr/tr/...-p1234567.html?v1=...)\n"
-    "• Paylaşılan favori listesi linki (zara.com/.../share/wishlist/...)\n\n"
     "Komutlar:\n"
+    "/ekle <link> — Zara ürün linkini (?v1= içermeli) veya paylaşılan "
+    "favori listesi linkini takibe al\n"
     "/liste — takip edilenleri göster\n"
-    "/sil <numara> — /liste'deki numarayla takipten çıkar"
+    "/sil <numara> — /liste'deki numarayla takipten çıkar\n\n"
+    "Not: /ekle olmadan atılan linkler takibe alınmaz."
 )
 
 
@@ -496,8 +496,36 @@ def _handle_wishlist_link(env, state, watchlist, url, sender):
     return True
 
 
-def _handle_command(env, watchlist, text):
+def _process_links(env, config, state, watchlist, text, sender):
+    """Metindeki Zara linklerini takibe alır. (değişti_mi, link_bulundu_mu) döner."""
+    changed = found = False
+    for url in WISHLIST_RE.findall(text):
+        found = True
+        changed |= _handle_wishlist_link(env, state, watchlist, url, sender)
+    for match in PRODUCT_RE.finditer(text):
+        found = True
+        changed |= _handle_product_link(env, config, state, watchlist,
+                                        match.group(2), sender)
+    # v1 parametresi olmayan ürün linki: takip edilemez, kullanıcıyı bilgilendir
+    if not found and re.search(r"zara\.com/[^\s]*-p\d+\.html", text):
+        found = True
+        send_telegram(env, "⚠️ Bu ürün linkinde renk bilgisi (v1=...) yok, "
+                           "takip edemiyorum. Linki Zara uygulaması veya "
+                           "sitesindeki Paylaş düğmesiyle kopyalayıp atın.",
+                      disable_preview=True)
+    return changed, found
+
+
+def _handle_command(env, config, state, watchlist, text, sender):
     cmd = text.split("@")[0].split() or [""]
+    if cmd[0] == "/ekle":
+        changed, found = _process_links(env, config, state, watchlist, text, sender)
+        if not found:
+            send_telegram(env, "Kullanım: /ekle <zara linki>\n"
+                               "Ürün linki (?v1= içermeli) veya paylaşılan "
+                               "favori listesi linki olabilir.",
+                          disable_preview=True)
+        return changed
     if cmd[0] in ("/liste", "/list"):
         lines, _ = _watchlist_lines(watchlist)
         send_telegram(env, "📌 Takip edilenler:\n" + "\n".join(lines) if lines
@@ -548,21 +576,9 @@ def poll_group_messages(env, config, state, watchlist):
         sender = (msg.get("from") or {}).get("first_name", "?")
 
         if text.startswith("/"):
-            changed |= _handle_command(env, watchlist, text)
-            continue
-        for url in WISHLIST_RE.findall(text):
-            changed |= _handle_wishlist_link(env, state, watchlist, url, sender)
-        product_matches = list(PRODUCT_RE.finditer(text))
-        for match in product_matches:
-            changed |= _handle_product_link(env, config, state, watchlist,
-                                            match.group(2), sender)
-        # v1 parametresi olmayan ürün linki: takip edilemez, kullanıcıyı bilgilendir
-        if not product_matches and not WISHLIST_RE.search(text) \
-                and re.search(r"zara\.com/[^\s]*-p\d+\.html", text):
-            send_telegram(env, "⚠️ Bu ürün linkinde renk bilgisi (v1=...) yok, "
-                               "takip edemiyorum. Linki Zara uygulaması veya "
-                               "sitesindeki Paylaş düğmesiyle kopyalayıp atın.",
-                          disable_preview=True)
+            changed |= _handle_command(env, config, state, watchlist, text, sender)
+        # /ekle olmadan atılan linkler bilinçli olarak yok sayılır:
+        # grupta sohbet ederken paylaşılan linkler takibe girmesin
     return changed
 
 
