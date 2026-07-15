@@ -336,7 +336,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -450,7 +450,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
@@ -493,7 +493,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "in_stock"
    }
   },
@@ -512,7 +512,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "in_stock"
    }
   },
@@ -681,7 +681,7 @@
     "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -832,7 +832,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -900,7 +900,7 @@
    "image": "https://static.zara.net/assets/public/c273/5ffd/ca024e3e9bb5/e991b433a679/00881016251-p/00881016251-p.jpg?ts=1772186707918&w=800",
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -923,7 +923,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "06771003-982": {
@@ -998,7 +998,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1476,7 +1476,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-15 17:19:56",
+ "last_check": "2026-07-15 17:34:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
