@@ -1,9 +1,9 @@
 {
   "wishlist_url": "https://www.zara.com/tr/tr/user/share/wishlist/XnD82ka1OeCxoErInJ6Orw?locale=tr_TR",
   "notify_low_on_stock": true,
-  "size_rules": {
-    "AYAKKABI": ["36", "37"],
-    "Wear": ["XXS", "XS", "S", "M", "32", "34", "36", "38"]
+  "limits": {
+    "WOMAN": { "letter_max": "M", "pants_max": 38, "shoe_max": 38 },
+    "MAN":   { "letter_max": "L", "pants_max": 42, "shoe_max": 43 }
   },
   "size_filters": {}
 }

@@ -176,6 +176,7 @@ def parse_wishlist(html):
             "color": color.get("name", ""),
             "kind": raw.get("kind", ""),
             "family": raw.get("familyName", ""),
+            "section": raw.get("sectionName", ""),
             "price": color.get("price"),
             "old_price": color.get("oldPrice"),
             "discount": color.get("displayDiscountPercentage"),
@@ -188,27 +189,54 @@ def parse_wishlist(html):
 
 # ------------------------------------------------------------------- karşılaştırma
 
+LETTER_ORDER = ["XXS", "XS", "S", "M", "L", "XL", "XXL", "XXXL"]
+
+
 def size_allowed(config, entry, size_name):
     """Bir bedenin bildirime konu olup olmayacağına karar verir.
 
     Öncelik sırası:
     1. size_filters — ürün bazlı istisna (anahtar: display reference "5862/081"
        veya ürün adının bir parçası)
-    2. size_rules — kategori bazlı kural (anahtar: familyName ör. "AYAKKABI"
-       veya kind ör. "Wear"); boş liste = o kategoride tüm bedenler
-    3. Hiçbir kural eşleşmezse (parfüm, çanta vb.) tüm bedenler izlenir.
+    2. limits — cinsiyete göre üst sınır kuralları:
+       Ürün MAN bölümündeyse erkek sınırları, diğer her durumda (WOMAN,
+       unisex, adında UNISEX geçen, bilinmeyen) kadın sınırları uygulanır.
+       Harf bedenlerde letter_max, ayakkabıda shoe_max, rakamlı giyim
+       bedenlerinde (jean vb.) pants_max üst sınırdır.
+    3. Bedeni olmayan ürünler (parfüm, çanta — "STANDART") her zaman izlenir.
     """
     filters = config.get("size_filters") or {}
     for key, sizes in filters.items():
         if key == entry["ref"] or key.lower() in entry["name"].lower():
             return not sizes or size_name in sizes
 
-    rules = config.get("size_rules") or {}
-    for key in (entry.get("family", ""), entry.get("kind", "")):
-        if key and key in rules:
-            allowed = rules[key]
-            return not allowed or size_name in allowed
-    return True
+    limits_cfg = config.get("limits") or {}
+    is_man = (
+        entry.get("section", "").upper() == "MAN"
+        and "UNISEX" not in entry.get("name", "").upper()
+    )
+    limits = limits_cfg.get("MAN" if is_man else "WOMAN")
+    if not limits:
+        return True
+
+    # "XS-S", "36/38" gibi kombine bedenlerde ilk parçaya göre karar ver
+    token = re.split(r"[-/\s]", size_name.strip().upper())[0]
+
+    if token in LETTER_ORDER:
+        letter_max = str(limits.get("letter_max", "")).upper()
+        if letter_max in LETTER_ORDER:
+            return LETTER_ORDER.index(token) <= LETTER_ORDER.index(letter_max)
+        return True
+
+    if token.isdigit():
+        number = int(token)
+        if entry.get("family", "").upper() == "AYAKKABI":
+            maximum = limits.get("shoe_max")
+        else:
+            maximum = limits.get("pants_max")
+        return maximum is None or number <= int(maximum)
+
+    return True  # STANDART ve tanınmayan beden adları: sınırlama yok
 
 
 def find_restocks(config, previous, current):

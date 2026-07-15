@@ -80,27 +80,27 @@ systemctl list-timers zara-watcher.timer   # kontrol
 |---|---|
 | `wishlist_url` | Takip edilecek paylaşılan favori listesi linki |
 | `notify_low_on_stock` | `true`: "az sayıda ürün" durumu da bildirilsin (varsayılan) |
-| `size_rules` | Kategori bazlı beden kuralları (aşağıda) |
-| `size_filters` | Ürün bazında istisna — `size_rules`'u ezer (aşağıda) |
+| `limits` | Cinsiyete göre beden üst sınırları (aşağıda) |
+| `size_filters` | Ürün bazında istisna — `limits`'i ezer (aşağıda) |
 
-### Kategori bazlı beden kuralları — `size_rules`
+### Cinsiyete göre beden üst sınırları — `limits`
 
-Anahtar, ürünün Zara'daki kategori adı (`familyName`, ör. `AYAKKABI`) veya tür
-kodudur (`kind`, ör. `Wear` = giyim). Değer, bildirime izin verilen bedenler;
-**boş liste = o kategoride tüm bedenler**. Hiçbir kurala uymayan ürünler
-(parfüm, çanta gibi tek "bedenli" ürünler) her zaman bildirilir.
-
-Mevcut ayar:
+Ürün Zara'nın ERKEK bölümündeyse `MAN`, diğer her durumda (KADIN, unisex,
+adında "UNISEX" geçen) `WOMAN` sınırları uygulanır. Sınırlar **üst sınırdır**:
+o beden ve altındaki tüm bedenler bildirilir.
 
 ```json
-"size_rules": {
-  "AYAKKABI": ["36", "37"],
-  "Wear": ["XXS", "XS", "S", "M", "32", "34", "36", "38"]
+"limits": {
+  "WOMAN": { "letter_max": "M", "pants_max": 38, "shoe_max": 38 },
+  "MAN":   { "letter_max": "L", "pants_max": 42, "shoe_max": 43 }
 }
 ```
 
-Giyimdeki rakamlı bedenler jean'ler içindir; Zara karşılığı 32=XXS, 34=XS,
-36=S, 38=M olduğundan 32–38 aralığı izlenir.
+- `letter_max` — harf bedenli giyimde üst sınır (M → XXS/XS/S/M bildirilir)
+- `pants_max` — rakam bedenli giyimde (jean vb.) üst sınır
+- `shoe_max` — ayakkabı numarasında üst sınır
+- Bedeni olmayan ürünler (parfüm, çanta — "STANDART") sınırsız bildirilir
+- "XS-S" gibi kombine bedenlerde ilk parçaya bakılır
 
 ### Sadece belirli bedenleri izlemek
 
