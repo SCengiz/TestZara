@@ -1,26 +1,48 @@
 # Zara Stok Takip + Telegram Bildirim Botu
 
-Zara'da paylaşılan (public) favori listenizi periyodik kontrol eder; tükenmiş
-veya "coming soon" olan bir ürünün bir bedeni stoğa girdiğinde Telegram'dan
-bildirim gönderir.
+Telegram grubuna atılan Zara linklerini (ürün veya paylaşılan favori listesi)
+takibe alır; tükenmiş veya "coming soon" olan bir ürünün bir bedeni stoğa
+girdiğinde gruba fotoğraflı/fiyatlı bildirim gönderir.
 
 ## Nasıl çalışır?
 
-Zara'nın "listeyi paylaş" linki herkese açıktır ve sayfanın HTML'i, listedeki
-**her ürünün beden bazında stok durumunu** hazır içerir. Bot her turda bu tek
-sayfayı indirir (ürün başına ayrı istek atmaz), önceki durumla karşılaştırır ve
-sadece `tükendi/coming soon → stokta` **geçişlerinde** mesaj atar. Zaten
-stokta olan ürünler için tekrar tekrar mesaj gelmez.
+Takip edilecek şeyler Telegram grubundan yönetilir:
+
+- Gruba bir **ürün linki** atın (`zara.com/tr/tr/...-p1234567.html?v1=...`) →
+  bot onaylar ve o ürünü (linkteki rengiyle) takibe alır. Uygulamadaki /
+  sitedeki **Paylaş** düğmesiyle kopyalanan linklerde `v1=` kendiliğinden var.
+- Gruba bir **paylaşılan favori listesi linki** atın
+  (`zara.com/.../user/share/wishlist/...`) → listedeki tüm ürünler takibe girer.
+- **/liste** → takip edilenleri numaralı gösterir
+- **/sil 3** → 3 numaralı kaydı takipten çıkarır
+
+Bot her turda tüm kaynakların beden bazında stok durumunu okur (favori listesi
+sayfası tek istekte, tekil ürünler toplu API isteğinde), önceki durumla
+karşılaştırır ve sadece `tükendi/coming soon → stokta` **geçişlerinde** mesaj
+atar. Zaten stokta olan ürünler için tekrar tekrar mesaj gelmez.
 
 ```
-cron / systemd timer (20 dk'da bir)
+cron / systemd timer / GitHub Actions (20 dk'da bir)
         │
         ▼
-  checker.py ──► Zara paylaşılan wishlist sayfası (tek istek)
-        │
-        ├─► state.json   (önceki stok durumu)
-        └─► Telegram Bot API ──► size mesaj
+  checker.py ──► Telegram getUpdates (gruptaki yeni linkler/komutlar)
+        │              └─► watchlist.json  (takip edilen kaynaklar)
+        ├──► Zara wishlist sayfaları + products-details API
+        ├──► state.json  (önceki stok durumu)
+        └──► Telegram Bot API ──► gruba bildirim
 ```
+
+### Botun grup mesajlarını görebilmesi (bir kerelik kurulum)
+
+Telegram botları varsayılan olarak gruptaki normal mesajları **görmez**
+(privacy mode). Kapatmak için:
+
+1. **@BotFather** → `/setprivacy` → botunuzu seçin → **Disable**
+2. Botu gruptan çıkarıp **yeniden ekleyin** (Telegram bu değişikliği ancak
+   yeniden eklenince uygular)
+
+Bunu yapmazsanız `/liste` gibi komutlar çalışır ama düz mesaj olarak atılan
+linkleri bot göremez.
 
 ## Kurulum
 
