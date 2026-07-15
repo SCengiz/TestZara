@@ -320,18 +320,26 @@ def size_allowed(config, entry, size_name):
     token = re.split(r"[-/\s]", size_name.strip().upper())[0]
 
     if token in LETTER_ORDER:
-        letter_max = str(limits.get("letter_max", "")).upper()
-        if letter_max in LETTER_ORDER:
-            return LETTER_ORDER.index(token) <= LETTER_ORDER.index(letter_max)
+        idx = LETTER_ORDER.index(token)
+        lo = str(limits.get("letter_min", "")).upper()
+        hi = str(limits.get("letter_max", "")).upper()
+        if lo in LETTER_ORDER and idx < LETTER_ORDER.index(lo):
+            return False
+        if hi in LETTER_ORDER and idx > LETTER_ORDER.index(hi):
+            return False
         return True
 
     if token.isdigit():
         number = int(token)
         if entry.get("family", "").upper() == "AYAKKABI":
-            maximum = limits.get("shoe_max")
+            lo, hi = limits.get("shoe_min"), limits.get("shoe_max")
         else:
-            maximum = limits.get("pants_max")
-        return maximum is None or number <= int(maximum)
+            lo, hi = limits.get("pants_min"), limits.get("pants_max")
+        if lo is not None and number < int(lo):
+            return False
+        if hi is not None and number > int(hi):
+            return False
+        return True
 
     return True  # STANDART ve tanınmayan beden adları: sınırlama yok
 

@@ -110,24 +110,35 @@ systemctl list-timers zara-watcher.timer   # kontrol
 
 ### Cinsiyete göre beden üst sınırları — `limits`
 
-Ürün Zara'nın ERKEK bölümündeyse `MAN`, diğer her durumda (KADIN, unisex,
-adında "UNISEX" geçen) `WOMAN` sınırları uygulanır. Sınırlar **üst sınırdır**:
-o beden ve altındaki tüm bedenler bildirilir.
+Ürün Zara'nın ERKEK bölümündeyse `MAN`, ÇOCUK bölümündeyse `KID`, diğer her
+durumda (KADIN, unisex, adında "UNISEX" geçen) `WOMAN` sınırları uygulanır.
+Sınırlar **aralıktır** (min–max, ikisi de dahil):
+
+| Kategori | Kadın / Unisex | Erkek | Çocuk |
+|---|---|---|---|
+| Giyim — harf beden | XXS – M | S – L | dikkate alınmaz |
+| Giyim — rakam beden (jean vb.) | 34 – 38 | 38 – 42 | dikkate alınmaz |
+| Ayakkabı | 36 – 38 | 42 – 43 | bildirilmez |
+| Yaş bedenli ürünler | — | — | sadece 13/14 yaş (164 cm) |
+| Parfüm, çanta, "STANDART" | sınırsız | sınırsız | sınırsız |
 
 ```json
 "limits": {
-  "WOMAN": { "letter_max": "M", "pants_max": 38, "shoe_max": 38 },
-  "MAN":   { "letter_max": "L", "pants_max": 42, "shoe_max": 43 },
+  "WOMAN": { "letter_min": "XXS", "letter_max": "M",
+             "pants_min": 34, "pants_max": 38,
+             "shoe_min": 36, "shoe_max": 38 },
+  "MAN":   { "letter_min": "S", "letter_max": "L",
+             "pants_min": 38, "pants_max": 42,
+             "shoe_min": 42, "shoe_max": 43 },
   "KID":   { "only_sizes": ["13/14"] }
 }
 ```
 
-- `letter_max` — harf bedenli giyimde üst sınır (M → XXS/XS/S/M bildirilir)
-- `pants_max` — rakam bedenli giyimde (jean vb.) üst sınır
-- `shoe_max` — ayakkabı numarasında üst sınır
+- `letter_min/max` — harf bedenli giyim aralığı; `pants_min/max` — rakam
+  bedenli giyim (jean vb.); `shoe_min/max` — ayakkabı numarası
 - `KID.only_sizes` — çocuk ürünlerinde sadece bu yaş bedenleri bildirilir
-  (Zara formatı "13/14 yaş (164 cm)"; "13-14" yazımı da tanınır; çocuk
-  ayakkabısı gibi yaş içermeyen bedenler bildirilmez)
+  (Zara formatı "13/14 yaş (164 cm)"; "13-14" yazımı da tanınır; çocuğun
+  harf/rakam bedenli ürünleri ve ayakkabıları bildirilmez)
 - Bedeni olmayan ürünler (parfüm, çanta — "STANDART") sınırsız bildirilir
 - "XS-S" gibi kombine bedenlerde ilk parçaya bakılır
 
