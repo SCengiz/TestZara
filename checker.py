@@ -155,6 +155,8 @@ def save_watchlist(watchlist):
 def _zara_get(url, params=None, accept_json=False):
     """3 deneme, 2/4/8 sn backoff. 403/429'da tur atlanır."""
     headers = dict(HEADERS)
+    headers["Cache-Control"] = "no-cache"
+    headers["Pragma"] = "no-cache"
     if accept_json:
         headers["Accept"] = "application/json"
         headers["Referer"] = "https://www.zara.com/tr/tr/"
@@ -447,6 +449,29 @@ def size_allowed(config, entry, size_name):
         return True
 
     return True  # STANDART ve tanınmayan beden adları: sınırlama yok
+
+
+def fetch_current_sizes(entry):
+    """Bildirim öncesi ikinci doğrulama için ürünün EN taze beden durumu.
+
+    CDN önbelleğini atlatmak için önbellek kırıcı parametre kullanılır.
+    Başarısızlıkta None döner (bildirim engellenmez).
+    """
+    url = entry.get("url", "")
+    try:
+        if "shop.mango.com" in url:
+            bust = ("&" if "?" in url else "?") + f"_={int(time.time())}"
+            _, fresh = fetch_mango_product(url + bust, "", "0", "0")
+            return fresh["sizes"]
+        v1 = url.split("v1=")[-1]
+        if v1.isdigit():
+            for raw in fetch_products_details([v1]):
+                snap = snapshot_from_product(raw, wanted_v1=v1)
+                for _, fresh in snap.items():
+                    return fresh["sizes"]
+    except RuntimeError as exc:
+        log.warning("Doğrulama isteği başarısız (%s): %s", entry.get("name"), exc)
+    return None
 
 
 def find_restocks(config, previous, current):
@@ -979,7 +1004,20 @@ def run_check(config, env, dry_run=False):
     else:
         restocks = find_restocks(config, previous, current)
         if restocks:
+            available = set(AVAILABLE_DEFAULT)
+            if not config.get("notify_low_on_stock", True):
+                available.discard("low_on_stock")
             for entry, sizes in restocks:
+                if not dry_run:
+                    # İkinci doğrulama: bayat önbellek / saniyelik kapılma filtresi
+                    fresh = fetch_current_sizes(entry)
+                    if fresh is not None:
+                        entry["sizes"] = fresh  # state'e en taze durum yazılsın
+                        sizes = [s for s in sizes if fresh.get(s) in available]
+                        if not sizes:
+                            log.info("Doğrulamada stok teyit edilemedi, bildirim iptal: %s",
+                                     entry["name"])
+                            continue
                 log.info("STOKTA: %s [%s] %s", entry["name"], ", ".join(sizes), entry["url"])
                 if dry_run:
                     print(format_message(entry, sizes))
