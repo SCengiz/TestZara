@@ -87,9 +87,9 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "in_stock",
+    "38": "low_on_stock",
     "40": "low_on_stock",
-    "42": "out_of_stock",
+    "42": "in_stock",
     "44": "in_stock",
     "46": "out_of_stock"
    }
@@ -109,7 +109,7 @@
     "XS": "low_on_stock",
     "S": "low_on_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -281,7 +281,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -320,7 +320,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -410,7 +410,7 @@
    "image": "https://static.zara.net/assets/public/d36a/0acb/85914fd7b1fd/a14cd1ad4319/03811052717-p/03811052717-p.jpg?ts=1770909910746&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "in_stock",
     "L": "out_of_stock"
    }
@@ -502,7 +502,7 @@
    "image": "https://static.zara.net/assets/public/5a05/d94c/d8a84f938e0a/24931b1907cc/04369050092-p/04369050092-p.jpg?ts=1770742324238&w=800",
    "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock"
    }
@@ -596,5 +596,5 @@
    }
   }
  },
- "last_check": "2026-07-15 13:56:19"
+ "last_check": "2026-07-15 11:04:43"
 }
