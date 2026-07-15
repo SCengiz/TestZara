@@ -191,7 +191,7 @@
    "image": "https://static.zara.net/assets/public/519c/96fe/16ab4fa283a0/6212674ee5ad/01478334700-p/01478334700-p.jpg?ts=1769098187090&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -336,8 +336,8 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "low_on_stock",
-    "M": "out_of_stock",
-    "L": "in_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -451,7 +451,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
     "XS": "low_on_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -493,7 +493,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "in_stock"
    }
   },
@@ -512,7 +512,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "in_stock"
    }
   },
@@ -530,7 +530,7 @@
    "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "in_stock"
    }
   },
@@ -547,7 +547,7 @@
    "image": "https://static.zara.net/assets/public/9957/0273/c5214c3f91db/02a2d41ce356/04369044916-p/04369044916-p.jpg?ts=1771247109329&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -567,7 +567,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "in_stock"
    }
@@ -640,9 +640,9 @@
    "image": "https://static.zara.net/assets/public/5eaa/cf36/61d34170a2d7/7a4f85d0d779/01929400737-p/01929400737-p.jpg?ts=1773398920990&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
    }
@@ -661,7 +661,7 @@
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -739,7 +739,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "low_on_stock"
    }
   },
@@ -831,8 +831,8 @@
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -884,7 +884,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -905,7 +905,7 @@
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "low_on_stock"
+    "XXL": "out_of_stock"
    }
   },
   "05039371-684": {
@@ -923,7 +923,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "06771003-982": {
@@ -1053,7 +1053,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1452,9 +1452,54 @@
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
+  },
+  "mango-27071208-35": {
+   "name": "EL YAPIMI OVERSIZE YÜN PALTO",
+   "ref": "27071208/35",
+   "color": "",
+   "kind": "Wear",
+   "family": "",
+   "section": "WOMAN",
+   "price": 499999,
+   "old_price": 729999,
+   "discount": 32,
+   "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
+   "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
+   "sizes": {
+    "XXS": "out_of_stock",
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "in_stock",
+    "L": "in_stock",
+    "XL": "in_stock",
+    "XXL": "in_stock"
+   }
+  },
+  "mango-27072932-32": {
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "ref": "27072932/32",
+   "color": "",
+   "kind": "Wear",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 119999,
+   "old_price": 199999,
+   "discount": 40,
+   "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
+   "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "in_stock"
+   }
   }
  },
- "last_check": "2026-07-15 15:59:56",
+ "last_check": "2026-07-15 16:37:45",
  "source_failures": {},
- "tg_offset": 4899713
+ "tg_offset": 4899716
 }

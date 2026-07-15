@@ -21,6 +21,7 @@ Kullanım:
 """
 
 import argparse
+import html as html_mod
 import json
 import logging
 import random
@@ -28,6 +29,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from urllib.parse import unquote
 
 import requests
 
@@ -56,6 +58,12 @@ REFERENCE_SEARCH_API = "https://www.zara.com/itxrest/1/search/store/11766/refere
 WISHLIST_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/user/share/wishlist/[\w-]+[^\s]*")
 PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html\?[^\s]*?v1=(\d+)[^\s]*")
 BARE_PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html[^\s]*")
+# Mango ürün linki: /p/<bölüm>/<...>/<slug>/<ürün no>/<renk>/00
+MANGO_PRODUCT_RE = re.compile(
+    r"https://shop\.mango\.com/[a-z]{2}/[a-z]{2}/p/([^/\s]+)/[^\s]*?/(\d+)/(\w+)/\d+")
+MANGO_SIZE_RE = re.compile(
+    r'sizeSelector\.size(Available|Unavailable)\.\d+"[^>]*>.*?'
+    r'<span class="textActionM[^"]*">([^<]+)</span>', re.S)
 
 log = logging.getLogger("zara-watcher")
 
@@ -274,6 +282,91 @@ def fetch_wishlist_snapshot(url):
         key, entry = _color_entry(raw, color, name=product.get("name"))
         snapshot[key] = entry
     return snapshot
+
+
+# ----------------------------------------------------------------------- mango
+
+MANGO_SECTION_MAP = {"kadın": "WOMAN", "kadin": "WOMAN", "erkek": "MAN",
+                     "cocuk": "KID", "çocuk": "KID", "bebek": "KID"}
+
+
+def fetch_mango_product(url, gender_slug, garment_id, color_code):
+    """Mango ürün sayfasından state kaydı üretir. Dönüş: (key, entry)."""
+    page = _zara_get(url).text
+
+    sizes = {}
+    for m in MANGO_SIZE_RE.finditer(page):
+        name = html_mod.unescape(m.group(2)).strip()
+        if name:
+            sizes[name] = "in_stock" if m.group(1) == "Available" else "out_of_stock"
+    if not sizes:
+        sizes["STANDART"] = "unknown"
+
+    title = re.search(r"<title>([^<]+)</title>", page)
+    name = html_mod.unescape(title.group(1)).split(" - ")[0].strip() if title else "?"
+
+    prices = re.findall(r'itemProp="price" content="([\d.]+)"', page)
+    price = old_price = None
+    if len(prices) >= 2:            # ilki üstü çizili eski fiyat
+        old_price = int(float(prices[0]) * 100)
+        price = int(float(prices[1]) * 100)
+    elif prices:
+        price = int(float(prices[0]) * 100)
+    disc = re.search(r'discountRate"><span[^>]*>-%(\d+)</span>', page)
+
+    img = re.search(r'property="og:image" content="([^"]+)"', page)
+    color = re.search(r'"color"\s*:\s*"([^"]+)"', page)
+
+    slug = gender_slug.lower()
+    entry = {
+        "name": name.upper(),
+        "ref": f"{garment_id}/{color_code}",
+        "color": html_mod.unescape(color.group(1)) if color else "",
+        "kind": "Wear",
+        "family": "AYAKKABI" if "/ayakkab" in unquote(url).lower() else "",
+        "section": MANGO_SECTION_MAP.get(slug, "WOMAN"),
+        "price": price,
+        "old_price": old_price,
+        "discount": int(disc.group(1)) if disc else None,
+        "image": img.group(1) if img else "",
+        "url": url,
+        "sizes": sizes,
+    }
+    return f"mango-{garment_id}-{color_code}", entry
+
+
+def _handle_mango_link(env, config, state, watchlist, match, sender):
+    gender_slug, garment_id, color_code = match.groups()
+    url = match.group(0)
+    mkey = f"mango-{garment_id}-{color_code}"
+    if any(p.get("key") == mkey for p in watchlist["products"]):
+        send_telegram(env, "ℹ️ Bu ürün zaten takipte.", disable_preview=True)
+        return False
+    try:
+        key, entry = fetch_mango_product(url, gender_slug, garment_id, color_code)
+    except RuntimeError as exc:
+        log.error("Mango ürünü doğrulanamadı (%s): %s", garment_id, exc)
+        send_telegram(env, "⚠️ Mango ürün bilgisi alınamadı, sonraki turda "
+                           "tekrar deneyin.", disable_preview=True)
+        return False
+    watchlist["products"].append({
+        "store": "mango", "key": key, "url": url,
+        "gender_slug": gender_slug, "garment_id": garment_id,
+        "color_code": color_code,
+        "name": f"{entry['name']}" + (f" ({entry['color']})" if entry["color"] else ""),
+        "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
+    })
+    state.setdefault("products", {})[key] = entry
+
+    in_stock = [s for s, a in entry["sizes"].items()
+                if a in AVAILABLE_DEFAULT and size_allowed(config, entry, s)]
+    send_telegram(env, f"✅ Takibe alındı (Mango): {entry['name']}\n"
+                       f"Şu an stokta (kurallara uyan bedenler): "
+                       f"{', '.join(in_stock) if in_stock else 'yok'}\n"
+                       "Yeni beden stoğa girince haber veririm.",
+                  disable_preview=True)
+    log.info("Gruptan Mango ürünü eklendi (%s): %s", sender, entry["name"])
+    return True
 
 
 # ------------------------------------------------------------------- karşılaştırma
@@ -538,6 +631,10 @@ def _process_links(env, config, state, watchlist, text, sender):
         found = True
         changed |= _handle_wishlist_link(env, state, watchlist, url, sender)
 
+    for match in MANGO_PRODUCT_RE.finditer(unquote(text)):
+        found = True
+        changed |= _handle_mango_link(env, config, state, watchlist, match, sender)
+
     handled_pids = set()
     for match in PRODUCT_RE.finditer(text):
         found = True
@@ -659,20 +756,23 @@ def build_snapshot(state, watchlist):
             log.error("Wishlist okunamadı (%d. kez): %s", failures[skey], exc)
         time.sleep(random.uniform(3, 6))
 
-    v1_ids = [p["v1"] for p in watchlist["products"]]
+    zara_products = [p for p in watchlist["products"] if p.get("store", "zara") == "zara"]
+    mango_products = [p for p in watchlist["products"] if p.get("store") == "mango"]
+
+    v1_ids = [p["v1"] for p in zara_products]
     if v1_ids:
         try:
             raw_list = fetch_products_details(v1_ids)
             found = set()
             for raw in raw_list:
-                for pr in watchlist["products"]:
+                for pr in zara_products:
                     snap = snapshot_from_product(raw, wanted_v1=pr["v1"])
                     for key, entry in snap.items():
                         if str(entry["url"].split("v1=")[-1]) == str(pr["v1"]):
                             current[key] = entry
                             found.add(str(pr["v1"]))
             any_success = True
-            for pr in watchlist["products"]:
+            for pr in zara_products:
                 skey = "p:" + str(pr["v1"])
                 if str(pr["v1"]) in found:
                     failures.pop(skey, None)
@@ -681,10 +781,24 @@ def build_snapshot(state, watchlist):
                     log.warning("Ürün yanıtta yok (%d. kez): %s",
                                 failures[skey], pr.get("name", pr["v1"]))
         except RuntimeError as exc:
-            for pr in watchlist["products"]:
+            for pr in zara_products:
                 skey = "p:" + str(pr["v1"])
                 failures[skey] = failures.get(skey, 0) + 1
             log.error("Ürün detayları alınamadı: %s", exc)
+
+    for pr in mango_products:
+        skey = "p:" + pr["key"]
+        try:
+            key, entry = fetch_mango_product(pr["url"], pr["gender_slug"],
+                                             pr["garment_id"], pr["color_code"])
+            current[key] = entry
+            failures.pop(skey, None)
+            any_success = True
+        except RuntimeError as exc:
+            failures[skey] = failures.get(skey, 0) + 1
+            log.error("Mango ürünü okunamadı (%d. kez): %s",
+                      failures[skey], pr.get("name", pr["garment_id"]))
+        time.sleep(random.uniform(3, 6))
 
     return current, any_success
 
@@ -697,7 +811,7 @@ def warn_dead_sources(env, state, watchlist, dry_run):
             continue
         if skey.startswith("p:"):
             name = next((p.get("name", skey) for p in watchlist["products"]
-                         if str(p["v1"]) == skey[2:]), skey)
+                         if str(p.get("v1", p.get("key"))) == skey[2:]), skey)
         else:
             name = "Favori listesi: " + skey[3:]
         text = (f"⚠️ {name} {count} turdur okunamıyor. Link ölmüş veya ürün "

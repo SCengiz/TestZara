@@ -5,13 +5,36 @@
    "label": "Sc favori listesi",
    "added_by": "kurulum",
    "added_at": "2026-07-15 15:40"
-  }
-  ,{
+  },
+  {
    "url": "https://www.zara.com/tr/tr/user/share/wishlist/53vHUKXSNGyMW5DQJWy7Tw?locale=tr_TR",
    "label": "İkinci favori listesi (43 ürün)",
    "added_by": "Sc",
    "added_at": "2026-07-15 16:05"
   }
  ],
- "products": []
+ "products": [
+  {
+   "store": "mango",
+   "key": "mango-27071208-35",
+   "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
+   "gender_slug": "kadın",
+   "garment_id": "27071208",
+   "color_code": "35",
+   "name": "EL YAPIMI OVERSIZE YÜN PALTO",
+   "added_by": "Sc",
+   "added_at": "2026-07-15 16:36"
+  },
+  {
+   "store": "mango",
+   "key": "mango-27072932-32",
+   "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
+   "gender_slug": "kadın",
+   "garment_id": "27072932",
+   "color_code": "32",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "added_by": "Sc",
+   "added_at": "2026-07-15 16:36"
+  }
+ ]
 }
