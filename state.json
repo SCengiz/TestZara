@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -995,7 +995,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 15:04:56",
+ "last_check": "2026-07-16 15:19:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
