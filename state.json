@@ -69,7 +69,7 @@
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -338,7 +338,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -902,8 +902,8 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
+    "M": "in_stock",
+    "L": "in_stock",
     "XL": "in_stock"
    }
   },
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1039,8 +1039,8 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1524,9 +1524,71 @@
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
+  },
+  "42292023-400": {
+   "name": "SATEN DESENLİ AMERİKAN SERVİS",
+   "ref": "2292/023",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "MASA ORTUSU",
+   "section": "HOME",
+   "price": 89000,
+   "old_price": null,
+   "discount": null,
+   "image": "https://static.zara.net/assets/public/989e/a4bf/d37c42929550/729501b3e62f/42292023400-e1/42292023400-e1.jpg?ts=1778144058044&w=800",
+   "url": "https://www.zara.com/tr/tr/saten-desenli-amerikan-servis-p42292023.html?v1=545446833",
+   "sizes": {
+    "35 x 50 cm": "in_stock"
+   }
+  },
+  "12358710-202": {
+   "name": "PUANTİYE DESENLİ FİYONKLU MULE AYAKKABI",
+   "ref": "2358/710",
+   "color": "Alacalı",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 199000,
+   "old_price": null,
+   "discount": null,
+   "image": "https://static.zara.net/assets/public/ab8f/0165/13cc40f2bc77/07de79d55e4c/02897246093-a1/02897246093-a1.jpg?ts=1777463311444&w=800",
+   "url": "https://www.zara.com/tr/tr/puantiye-desenli-fiyonklu-mule-ayakkabi-p12358710.html?v1=554808205",
+   "sizes": {
+    "35": "coming_soon",
+    "36": "low_on_stock",
+    "37": "low_on_stock",
+    "38": "out_of_stock",
+    "39": "in_stock",
+    "40": "in_stock",
+    "41": "in_stock",
+    "42": "in_stock"
+   }
+  },
+  "04592217-401": {
+   "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
+   "ref": "4592/217",
+   "color": "LACİVERT",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 45000,
+   "old_price": 59000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
+   "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-16 17:04:59",
+ "last_check": "2026-07-16 17:19:57",
  "source_failures": {},
  "tg_offset": 4899726
 }
