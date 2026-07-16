@@ -48,7 +48,7 @@
    "sizes": {
     "32": "in_stock",
     "34": "in_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -718,7 +718,7 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -738,7 +738,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "01131008-251": {
@@ -1521,7 +1521,7 @@
    }
   }
  },
- "last_check": "2026-07-16 06:19:51",
+ "last_check": "2026-07-16 06:34:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
