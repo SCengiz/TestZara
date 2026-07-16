@@ -378,7 +378,7 @@
     "XS": "in_stock",
     "S": "low_on_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -642,7 +642,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04391436-096": {
@@ -754,7 +754,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -901,9 +901,9 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -1164,7 +1164,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1503,7 +1503,7 @@
    }
   }
  },
- "last_check": "2026-07-16 08:35:05",
+ "last_check": "2026-07-16 08:49:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
