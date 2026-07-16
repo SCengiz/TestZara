@@ -50,7 +50,7 @@
     "34": "in_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
    }
@@ -71,7 +71,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -91,7 +91,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -338,7 +338,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -528,7 +528,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -620,7 +620,7 @@
    "image": "https://static.zara.net/assets/public/5eaa/cf36/61d34170a2d7/7a4f85d0d779/01929400737-p/01929400737-p.jpg?ts=1773398920990&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -700,7 +700,7 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -718,7 +718,7 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock"
    }
@@ -736,8 +736,8 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -902,7 +902,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "in_stock"
    }
@@ -959,7 +959,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 13:34:58",
+ "last_check": "2026-07-16 13:49:57",
  "source_failures": {},
  "tg_offset": 4899726
 }
