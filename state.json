@@ -72,7 +72,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -317,7 +317,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -376,7 +376,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -493,7 +493,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "04369050-092": {
@@ -623,7 +623,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -682,7 +682,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock",
     "XXL": "in_stock"
    }
@@ -754,7 +754,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -863,7 +863,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1430,7 +1430,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 11:04:56",
+ "last_check": "2026-07-16 11:19:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
