@@ -316,7 +316,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -338,7 +338,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -623,7 +623,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -720,7 +720,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "03641399-803": {
@@ -902,8 +902,8 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "in_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -941,7 +941,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -959,7 +959,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1039,8 +1039,8 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "in_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "4 yaş (104 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1588,7 +1588,7 @@
    }
   }
  },
- "last_check": "2026-07-16 17:19:57",
+ "last_check": "2026-07-16 17:35:00",
  "source_failures": {},
  "tg_offset": 4899726
 }
