@@ -134,7 +134,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -258,7 +258,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "02345845-802": {
@@ -493,7 +493,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "04369050-092": {
@@ -623,7 +623,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -1430,7 +1430,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 11:19:53",
+ "last_check": "2026-07-16 11:34:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
