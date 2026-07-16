@@ -93,7 +93,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -316,7 +316,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -338,7 +338,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -493,7 +493,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04369050-092": {
@@ -640,8 +640,8 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -738,7 +738,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -977,7 +977,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1301,7 +1301,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "in_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1440,9 +1440,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 499999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 32,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1521,7 +1521,7 @@
    }
   }
  },
- "last_check": "2026-07-16 06:34:51",
+ "last_check": "2026-07-16 06:49:58",
  "source_failures": {},
  "tg_offset": 4899726
 }
