@@ -48,7 +48,7 @@
    "sizes": {
     "32": "in_stock",
     "34": "in_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -355,7 +355,7 @@
    "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -376,7 +376,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "in_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -493,7 +493,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "low_on_stock"
    }
   },
   "04369050-092": {
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1039,7 +1039,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1061,7 +1061,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1305,7 +1305,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1438,7 +1438,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 12:04:59",
+ "last_check": "2026-07-16 12:19:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
