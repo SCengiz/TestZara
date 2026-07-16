@@ -48,7 +48,7 @@
    "sizes": {
     "32": "in_stock",
     "34": "in_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -413,7 +413,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -492,8 +492,8 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "in_stock"
+    "M": "out_of_stock",
+    "L": "out_of_stock"
    }
   },
   "04369050-092": {
@@ -682,7 +682,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "in_stock",
     "XL": "in_stock",
     "XXL": "in_stock"
    }
@@ -737,8 +737,8 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock"
+    "M": "out_of_stock",
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -862,7 +862,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -941,7 +941,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1422,9 +1422,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 499999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 32,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1503,7 +1503,7 @@
    }
   }
  },
- "last_check": "2026-07-16 07:50:00",
+ "last_check": "2026-07-16 08:04:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
