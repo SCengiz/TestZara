@@ -68,11 +68,11 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -237,7 +237,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -567,7 +567,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -623,7 +623,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -719,7 +719,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "16049710-253": {
@@ -902,8 +902,8 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "in_stock"
    }
   },
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1039,7 +1039,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1188,7 +1188,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "01381645-804": {
@@ -1244,7 +1244,7 @@
    "image": "https://static.zara.net/assets/public/0b2b/c449/581546dcbc28/14a707fccbd2/01639602681-p/01639602681-p.jpg?ts=1768987775813&w=800",
    "url": "https://www.zara.com/tr/tr/bebe-yaka-kadife-ceket-p01639602.html?v1=514776931",
    "sizes": {
-    "6/7 yaş (122 cm)": "in_stock",
+    "6/7 yaş (122 cm)": "low_on_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -1519,14 +1519,14 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-16 10:34:58",
+ "last_check": "2026-07-16 10:49:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
