@@ -48,7 +48,7 @@
    "sizes": {
     "32": "in_stock",
     "34": "in_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -413,7 +413,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -492,8 +492,8 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "M": "in_stock",
+    "L": "in_stock"
    }
   },
   "04369050-092": {
@@ -682,7 +682,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "low_on_stock",
     "XL": "in_stock",
     "XXL": "in_stock"
    }
@@ -718,7 +718,7 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -738,7 +738,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "01131008-251": {
@@ -862,7 +862,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -888,24 +888,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "05039371-684": {
-   "name": "KONTRAST TÜLLÜ BODY",
-   "ref": "5039/371",
-   "color": "Koyu şarap rengi",
-   "kind": "Wear",
-   "family": "T-SHIRT",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/260c/26d4/e84041b39f17/18d88746d93d/05039371684-p/05039371684-p.jpg?ts=1773861617579&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-tullu-body-p05039371.html?v1=523949498",
-   "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock"
-   }
-  },
   "06771003-982": {
    "name": "ASİMETRİK KESİM ÖRGÜ KAZAK",
    "ref": "6771/003",
@@ -921,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "in_stock"
    }
   },
@@ -959,7 +941,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1059,7 +1041,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "05767514-712": {
@@ -1440,9 +1422,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1521,7 +1503,7 @@
    }
   }
  },
- "last_check": "2026-07-16 07:34:54",
+ "last_check": "2026-07-16 07:50:00",
  "source_failures": {},
  "tg_offset": 4899726
 }
