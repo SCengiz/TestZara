@@ -69,7 +69,7 @@
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -602,7 +602,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock",
     "XL": "coming_soon"
    }
@@ -658,7 +658,7 @@
    "image": "https://static.zara.net/assets/public/bb27/dc84/ba4542b0a436/1dcb5880ef81/04391436096-p/04391436096-p.jpg?ts=1772788206290&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-naylon-midi-etek-p04391436.html?v1=503729711",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -938,7 +938,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1456,7 +1456,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -1521,7 +1521,7 @@
    }
   }
  },
- "last_check": "2026-07-16 06:04:54",
+ "last_check": "2026-07-16 06:19:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
