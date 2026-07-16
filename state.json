@@ -91,7 +91,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -115,7 +115,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "03293052-044": {
@@ -338,7 +338,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -359,7 +359,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "02458633-083": {
@@ -620,7 +620,7 @@
    "image": "https://static.zara.net/assets/public/5eaa/cf36/61d34170a2d7/7a4f85d0d779/01929400737-p/01929400737-p.jpg?ts=1773398920990&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -959,7 +959,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -996,7 +996,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -1040,7 +1040,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1518,7 +1518,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 13:20:05",
+ "last_check": "2026-07-16 13:34:58",
  "source_failures": {},
  "tg_offset": 4899726
 }
