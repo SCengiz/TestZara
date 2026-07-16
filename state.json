@@ -11,7 +11,7 @@
    "price": 79000,
    "old_price": null,
    "discount": null,
-   "image": "https://static.zara.net/assets/public/36b5/e13f/58d7427cbb8d/b698b8ed621a/20120608999-e1/20120608999-e1.jpg?ts=1759933588915&w=800",
+   "image": "https://static.zara.net/assets/public/2b21/453f/f6bd41ac8c07/54dbffe9ff67/20120608999-e1/20120608999-e1.jpg?ts=1784126734778&w=800",
    "url": "https://www.zara.com/tr/tr/ray-of-wonder-rose-edp-90-ml--3-04-fl--oz---p20120608.html?v1=564251353",
    "sizes": {
     "STANDART": "coming_soon"
@@ -27,7 +27,7 @@
    "price": 79000,
    "old_price": null,
    "discount": null,
-   "image": "https://static.zara.net/assets/public/5602/37ba/6e7a4486aa4c/32c7ba686c00/20120604999-000-e1/20120604999-000-e1.jpg?ts=1760002085883&w=800",
+   "image": "https://static.zara.net/assets/public/71fe/1e69/f7f64eb3b4ea/5999f16351e9/20120604999-e1/20120604999-e1.jpg?ts=1784126736330&w=800",
    "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
    "sizes": {
     "STANDART": "coming_soon"
@@ -40,9 +40,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 99000,
-   "old_price": 119000,
-   "discount": 16,
+   "price": 79000,
+   "old_price": 99000,
+   "discount": 20,
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
@@ -69,7 +69,7 @@
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -83,9 +83,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 89000,
-   "old_price": 119000,
-   "discount": 25,
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/5beb/2672/198d47a89e7b/e587a351252d/05474058405-001-p/05474058405-001-p.jpg?ts=1772197930237&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
    "sizes": {
@@ -94,29 +94,9 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "in_stock",
+    "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
-   }
-  },
-  "02554380-600": {
-   "name": "EKOSEN MİDİ ETEK ZW COLLECTION",
-   "ref": "2554/380",
-   "color": "Kırmızı",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 109000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/7033/474d/84da4a8ea44b/7300305393d6/02554380600-p/02554380600-p.jpg?ts=1776328639621&w=800",
-   "url": "https://www.zara.com/tr/tr/kareli-midi-etek-zw-collection-p02554380.html?v1=524602097",
-   "sizes": {
-    "XS": "low_on_stock",
-    "S": "low_on_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "09598057-636": {
@@ -126,9 +106,9 @@
    "kind": "Wear",
    "family": "KAZAK",
    "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
    "image": "https://static.zara.net/assets/public/3d70/7bfd/c44e4b1589e0/80fe9272c26d/09598057636-p/09598057636-p.jpg?ts=1771446320362&w=800",
    "url": "https://www.zara.com/tr/tr/100-yun-kisa-kollu-kazak-p09598057.html?v1=508012662",
    "sizes": {
@@ -145,9 +125,9 @@
    "kind": "Wear",
    "family": "GÖMLEK",
    "section": "WOMAN",
-   "price": 79000,
-   "old_price": 99000,
-   "discount": 20,
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
    "sizes": {
@@ -165,9 +145,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 99000,
-   "old_price": 119000,
-   "discount": 16,
+   "price": 79000,
+   "old_price": 99000,
+   "discount": 20,
    "image": "https://static.zara.net/assets/public/36cc/7a48/6d534128a1a6/b0622e717423/09929190620-000-p/09929190620-000-p.jpg?ts=1770987882720&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301328",
    "sizes": {
@@ -185,15 +165,15 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 89000,
-   "old_price": 119000,
-   "discount": 25,
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/519c/96fe/16ab4fa283a0/6212674ee5ad/01478334700-p/01478334700-p.jpg?ts=1769098187090&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -228,9 +208,9 @@
    "kind": "Wear",
    "family": "ETEK",
    "section": "WOMAN",
-   "price": 99000,
-   "old_price": 159000,
-   "discount": 37,
+   "price": 59000,
+   "old_price": 99000,
+   "discount": 40,
    "image": "https://static.zara.net/assets/public/a41e/1eab/70394c448946/ba7fb7a41547/05029080172-p/05029080172-p.jpg?ts=1770627887914&w=800",
    "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
@@ -248,9 +228,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 169000,
-   "discount": 29,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/9972/bc22/56bc4aa68a19/f1c350190d06/01905041422-p/01905041422-p.jpg?ts=1778601298364&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
    "sizes": {
@@ -268,16 +248,16 @@
    "kind": "Wear",
    "family": "BLAZER",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 199000,
-   "discount": 15,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/6e7c/63a2/da5340658779/9182c2a167d1/02180156093-p/02180156093-p.jpg?ts=1771847053872&w=800",
    "url": "https://www.zara.com/tr/tr/suni-deri-detayli-kazayagi-ceket-p02180156.html?v1=501627052",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -288,16 +268,16 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 169000,
-   "discount": 29,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "low_on_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -308,9 +288,9 @@
    "kind": "Wear",
    "family": "BLAZER",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 169000,
-   "discount": 29,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/92a4/85d4/f1e3467ba8ec/4c62b6c540ea/06136045505-p/06136045505-p.jpg?ts=1769693707041&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424065",
    "sizes": {
@@ -328,14 +308,14 @@
    "kind": "Wear",
    "family": "BLAZER",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 199000,
-   "discount": 15,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/911f/69d6/f47940d0aaac/18f3adcbffad/02469631070-p/02469631070-p.jpg?ts=1771596232747&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -348,9 +328,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 199000,
-   "discount": 15,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/bb01/9e81/e43647089a80/c3b0d1f4f5c1/02078780803-p/02078780803-p.jpg?ts=1768566872626&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kisa-kaban-p02078780.html?v1=513349510",
    "sizes": {
@@ -369,9 +349,9 @@
    "kind": "Wear",
    "family": "YELEK",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
@@ -389,16 +369,16 @@
    "kind": "Wear",
    "family": "BLAZER",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 199000,
-   "discount": 15,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "in_stock",
-    "L": "in_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -409,9 +389,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 169000,
-   "old_price": 199000,
-   "discount": 15,
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
    "image": "https://static.zara.net/assets/public/57a3/3f16/ddda40f38745/e8b628306cfd/01255894716-p/01255894716-p.jpg?ts=1766483224208&w=800",
    "url": "https://www.zara.com/tr/tr/kruvaze-yumusak-ceket-p01255894.html?v1=507718970",
    "sizes": {
@@ -426,14 +406,14 @@
    "kind": "Wear",
    "family": "YAGMURLUK",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 399000,
-   "discount": 25,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/d36a/0acb/85914fd7b1fd/a14cd1ad4319/03811052717-p/03811052717-p.jpg?ts=1770909910746&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -444,9 +424,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 449000,
-   "discount": 33,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
@@ -465,9 +445,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 449000,
-   "discount": 33,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/5ea5/b74c/df87447fb23b/032dd964f841/04391833802-p/04391833802-p.jpg?ts=1765296887635&w=800",
    "url": "https://www.zara.com/tr/tr/fermuarli-kisa-suni-kurk-kaban-p04391833.html?v1=505121104",
    "sizes": {
@@ -486,15 +466,15 @@
    "kind": "Wear",
    "family": "YAGMURLUK",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 399000,
-   "discount": 25,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/f839/157a/57844e65a76e/d30fcfe8ffdb/03811053714-p/03811053714-p.jpg?ts=1772038690687&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "04360242-700": {
@@ -504,16 +484,16 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 399000,
-   "discount": 25,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/adeb/4423/efe24c009bbe/bf92cc7dea41/04360242700-p/04360242700-p.jpg?ts=1760026535812&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-suni-kurk-kaban-p04360242.html?v1=503421644",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "low_on_stock"
    }
   },
   "04369050-092": {
@@ -523,15 +503,15 @@
    "kind": "Wear",
    "family": "YAGMURLUK",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 499000,
-   "discount": 40,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/5a05/d94c/d8a84f938e0a/24931b1907cc/04369050092-p/04369050092-p.jpg?ts=1770742324238&w=800",
    "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "in_stock",
-    "L": "low_on_stock"
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
    }
   },
   "04369044-916": {
@@ -541,9 +521,9 @@
    "kind": "Wear",
    "family": "YAGMURLUK",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 399000,
-   "discount": 25,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/9957/0273/c5214c3f91db/02a2d41ce356/04369044916-p/04369044916-p.jpg?ts=1771247109329&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
    "sizes": {
@@ -559,9 +539,9 @@
    "kind": "Wear",
    "family": "BLAZER",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 499000,
-   "discount": 40,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/b4ad/3a71/0c5e49d5ae28/707a2946c991/07522056802-p/07522056802-p.jpg?ts=1769007225045&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-blazer-zw-collection-p07522056.html?v1=495680474",
    "sizes": {
@@ -569,7 +549,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "04174040-251": {
@@ -634,17 +614,17 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 169000,
-   "discount": 29,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/5eaa/cf36/61d34170a2d7/7a4f85d0d779/01929400737-p/01929400737-p.jpg?ts=1773398920990&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "05039380-667": {
@@ -654,9 +634,9 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "WOMAN",
-   "price": 79000,
-   "old_price": 99000,
-   "discount": 20,
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
@@ -672,15 +652,15 @@
    "kind": "Wear",
    "family": "ETEK",
    "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/bb27/dc84/ba4542b0a436/1dcb5880ef81/04391436096-p/04391436096-p.jpg?ts=1772788206290&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-naylon-midi-etek-p04391436.html?v1=503729711",
    "sizes": {
     "XS": "low_on_stock",
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -693,9 +673,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "WOMAN",
-   "price": 299000,
-   "old_price": 449000,
-   "discount": 33,
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
    "image": "https://static.zara.net/assets/public/fbdf/006b/2f464a90b962/7e0e48c49ae0/04391733716-p/04391733716-p.jpg?ts=1764060290992&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-suni-kurklu-kaban-p04391733.html?v1=503419213",
    "sizes": {
@@ -714,9 +694,9 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "WOMAN",
-   "price": 79000,
-   "old_price": 89000,
-   "discount": 11,
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
@@ -738,9 +718,9 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641399-803": {
@@ -756,8 +736,8 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock"
    }
   },
@@ -786,9 +766,9 @@
    "kind": "Wear",
    "family": "TISÖRT",
    "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
+   "price": 45000,
+   "old_price": 59000,
+   "discount": 23,
    "image": "https://static.zara.net/assets/public/018f/1ef7/1b0c4ac18d44/32cdbf3ae1c5/05039023250-p/05039023250-p.jpg?ts=1774613938978&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-acik-omuzlu-t-shirt-p01067007.html?v1=522350483",
    "sizes": {
@@ -804,9 +784,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 99000,
-   "old_price": 119000,
-   "discount": 16,
+   "price": 79000,
+   "old_price": 99000,
+   "discount": 20,
    "image": "https://static.zara.net/assets/public/9561/52fb/30a84d66a600/f357228d99d2/01165030620-p/01165030620-p.jpg?ts=1769783422015&w=800",
    "url": "https://www.zara.com/tr/tr/yanlari-dikisli-ispanyol-paca-pantolon-p01165030.html?v1=499211032",
    "sizes": {
@@ -830,8 +810,8 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -848,7 +828,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "05584369-653": {
@@ -858,9 +838,9 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "WOMAN",
-   "price": 79000,
-   "old_price": 99000,
-   "discount": 20,
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
    "image": "https://static.zara.net/assets/public/adc0/30e2/783d4c088998/13c639e8179d/05584369653-p/05584369653-p.jpg?ts=1770738610465&w=800",
    "url": "https://www.zara.com/tr/tr/strec-dantelli-kisa-elbise-p05584369.html?v1=509493908",
    "sizes": {
@@ -876,15 +856,15 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 149000,
-   "discount": 20,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
-    "L": "low_on_stock"
+    "S": "low_on_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -933,15 +913,15 @@
    "kind": "Wear",
    "family": "KAZAK",
    "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "in_stock",
-    "L": "in_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock",
     "XL": "in_stock"
    }
   },
@@ -960,7 +940,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -971,14 +951,14 @@
    "kind": "Wear",
    "family": "GÖMLEK",
    "section": "WOMAN",
-   "price": 79000,
-   "old_price": 99000,
-   "discount": 20,
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
    "image": "https://static.zara.net/assets/public/d745/b7f5/bf3f4ee194d7/5911ab14430b/02137693620-p/02137693620-p.jpg?ts=1768488005767&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
-    "XS": "low_on_stock",
-    "S": "low_on_stock",
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -991,13 +971,13 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "WOMAN",
-   "price": 119000,
-   "old_price": 149000,
-   "discount": 20,
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1045,9 +1025,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "WOMAN",
-   "price": 89000,
-   "old_price": 119000,
-   "discount": 25,
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/86f0/97bf/3f144a7bb92d/2723b6acbff7/06840074400-p/06840074400-p.jpg?ts=1773075982287&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=514956958",
    "sizes": {
@@ -1078,7 +1058,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -1089,15 +1069,15 @@
    "kind": "Wear",
    "family": "KAZAK",
    "section": "KID",
-   "price": 69000,
-   "old_price": 95000,
-   "discount": 27,
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
    "image": "https://static.zara.net/assets/public/b686/bab5/657f4543a778/7417b4459acb/05767514712200-p/05767514712200-p.jpg?ts=1770371839146&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kiraz-desenli-sweatshirt-p05767514.html?v1=520763093",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1110,9 +1090,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "KID",
-   "price": 59000,
-   "old_price": 69000,
-   "discount": 14,
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/1b5b/7936/f50f41739ddb/1cdc1329c7ba/02756515070-p/02756515070-p.jpg?ts=1766046067171&w=800",
    "url": "https://www.zara.com/tr/tr/mini-mouse---disney-islemeli-fitilli-kumas-kulot-pantolon-p04433554.html?v1=506929614",
    "sizes": {
@@ -1173,9 +1153,9 @@
    "kind": "Wear",
    "family": "KAZAK",
    "section": "KID",
-   "price": 69000,
-   "old_price": 79000,
-   "discount": 12,
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
    "image": "https://static.zara.net/assets/public/5925/2ca9/af7b4b569e1b/1cb8b0d7622c/02209537620-e1/02209537620-e1.jpg?ts=1768920157077&w=800",
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
@@ -1194,9 +1174,9 @@
    "kind": "Wear",
    "family": "PANTOLON",
    "section": "KID",
-   "price": 59000,
-   "old_price": 69000,
-   "discount": 14,
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
    "image": "https://static.zara.net/assets/public/201e/71d9/08594c36bff8/eca80831114e/00122554712200-p/00122554712200-p.jpg?ts=1779187566212&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-fitilli-kumas-culotte-pantolon-p00122554.html?v1=564548651",
    "sizes": {
@@ -1215,16 +1195,16 @@
    "kind": "Wear",
    "family": "KAZAK",
    "section": "KID",
-   "price": 69000,
-   "old_price": 95000,
-   "discount": 27,
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
    "image": "https://static.zara.net/assets/public/713b/c83b/27e347829a42/bb26414aa7b4/05767505712-e1/05767505712-e1.jpg?ts=1764081616853&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-sweatshirt-p05767505.html?v1=502141801",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "in_stock"
    }
@@ -1236,9 +1216,9 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "KID",
-   "price": 109000,
-   "old_price": 149000,
-   "discount": 26,
+   "price": 79000,
+   "old_price": 109000,
+   "discount": 27,
    "image": "https://static.zara.net/assets/public/3645/e71c/be0f4101af1c/635f5c7926e5/01381645804-p/01381645804-p.jpg?ts=1777532548859&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cicek-desenli-elbise-p01381645.html?v1=544001992",
    "sizes": {
@@ -1276,9 +1256,9 @@
    "kind": "Wear",
    "family": "MONT",
    "section": "KID",
-   "price": 109000,
-   "old_price": 129000,
-   "discount": 15,
+   "price": 79000,
+   "old_price": 109000,
+   "discount": 27,
    "image": "https://static.zara.net/assets/public/0b2b/c449/581546dcbc28/14a707fccbd2/01639602681-p/01639602681-p.jpg?ts=1768987775813&w=800",
    "url": "https://www.zara.com/tr/tr/bebe-yaka-kadife-ceket-p01639602.html?v1=514776931",
    "sizes": {
@@ -1313,15 +1293,15 @@
    "kind": "Wear",
    "family": "SWEATSHIRT",
    "section": "KID",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
+   "price": 35000,
+   "old_price": 39000,
+   "discount": 10,
    "image": "https://static.zara.net/assets/public/c41e/4689/ae9a4559b68e/1404ca810457/T9103432195-p/T9103432195-p.jpg?ts=1772720552547&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-modal-sporty-sweatshirt-p08054643.html?v1=528330130",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "low_on_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1382,10 +1362,10 @@
    "image": "https://static.zara.net/assets/public/1c9b/dab0/f6bf4e3bb13b/07748131db2b/05644992500400-p/05644992500400-p.jpg?ts=1780408338597&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1418,9 +1398,9 @@
    "kind": "Wear",
    "family": "ELBISE",
    "section": "KID",
-   "price": 49000,
-   "old_price": 59000,
-   "discount": 16,
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
    "image": "https://static.zara.net/assets/public/19b2/74f9/9931442cade2/45286241596c/05767547406200-p/05767547406200-p.jpg?ts=1770371838712&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-desenli-gofre-elbise-p05767547.html?v1=520763095",
    "sizes": {
@@ -1439,9 +1419,9 @@
    "kind": "Wear",
    "family": "CEKET",
    "section": "KID",
-   "price": 89000,
-   "old_price": 109000,
-   "discount": 18,
+   "price": 79000,
+   "old_price": 89000,
+   "discount": 11,
    "image": "https://static.zara.net/assets/public/cee0/7300/55d344bb9ec2/75a3e5473d9f/04441009406-e1/04441009406-e1.jpg?ts=1774276385563&w=800",
    "url": "https://www.zara.com/tr/tr/cilek-islemeli-denim-ceket-p04441009.html?v1=516626044",
    "sizes": {
@@ -1518,9 +1498,30 @@
     "XL": "in_stock",
     "XXL": "in_stock"
    }
+  },
+  "05992507-926": {
+   "name": "SU GEÇİRMEZ ÇİÇEKLİ ULTRA HAFİF CEKET",
+   "ref": "5992/507",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "CEKET",
+   "section": "KID",
+   "price": 79000,
+   "old_price": 89000,
+   "discount": 11,
+   "image": "https://static.zara.net/assets/public/2286/ed60/b7814e0cbde5/c6a5a98eb4a9/05992507926-e1/05992507926-e1.jpg?ts=1769100335605&w=800",
+   "url": "https://www.zara.com/tr/tr/su-gecirmez-cicekli-ultra-hafif-ceket-p05992507.html?v1=495670104",
+   "sizes": {
+    "1½ yaş (86 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-15 18:49:51",
+ "last_check": "2026-07-16 06:04:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
