@@ -92,7 +92,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "low_on_stock",
     "44": "out_of_stock",
@@ -378,7 +378,7 @@
     "XS": "in_stock",
     "S": "low_on_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -719,7 +719,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -754,7 +754,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -862,8 +862,8 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -881,7 +881,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "06771003-982": {
@@ -921,7 +921,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -1076,7 +1076,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-kiraz-desenli-sweatshirt-p05767514.html?v1=520763093",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
@@ -1475,7 +1475,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1521,7 +1521,7 @@
    }
   }
  },
- "last_check": "2026-07-16 07:04:57",
+ "last_check": "2026-07-16 07:19:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
