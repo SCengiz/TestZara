@@ -1013,7 +1013,7 @@
    "image": "https://static.zara.net/assets/public/86f0/97bf/3f144a7bb92d/2723b6acbff7/06840074400-p/06840074400-p.jpg?ts=1773075982287&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=514956958",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1526,7 +1526,7 @@
    }
   }
  },
- "last_check": "2026-07-16 15:19:54",
+ "last_check": "2026-07-16 15:34:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
