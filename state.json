@@ -68,7 +68,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -237,7 +237,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -317,7 +317,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -376,7 +376,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "in_stock",
-    "S": "low_on_stock",
+    "S": "in_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -493,7 +493,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "04369050-092": {
@@ -584,7 +584,7 @@
    "image": "https://static.zara.net/assets/public/4918/6c6e/3b10439e9b66/9766a04d89e6/16042710624-p/16042710624-p.jpg?ts=1764170443017&w=800",
    "url": "https://www.zara.com/tr/tr/top-detayli-mini-kese-canta-p16041710.html?v1=540816730",
    "sizes": {
-    "STANDART": "coming_soon"
+    "STANDART": "out_of_stock"
    }
   },
   "02560209-251": {
@@ -623,7 +623,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -863,7 +863,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -1039,7 +1039,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1188,7 +1188,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "01381645-804": {
@@ -1348,7 +1348,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1519,14 +1519,14 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-16 10:49:53",
+ "last_check": "2026-07-16 11:04:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
