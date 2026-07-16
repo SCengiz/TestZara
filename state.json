@@ -48,7 +48,7 @@
    "sizes": {
     "32": "in_stock",
     "34": "in_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -93,8 +93,8 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
+    "40": "low_on_stock",
+    "42": "in_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
@@ -235,7 +235,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -316,7 +316,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -376,7 +376,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "in_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -413,7 +413,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -454,7 +454,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock",
     "XXL": "in_stock"
    }
@@ -473,7 +473,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -492,7 +492,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -511,7 +511,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "04369044-916": {
@@ -567,7 +567,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -621,9 +621,9 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -642,7 +642,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04391436-096": {
@@ -720,7 +720,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "03641399-803": {
@@ -863,8 +863,8 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "00881016-251": {
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "in_stock"
    }
   },
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1015,7 +1015,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1422,15 +1422,15 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1503,7 +1503,7 @@
    }
   }
  },
- "last_check": "2026-07-16 09:19:50",
+ "last_check": "2026-07-16 09:35:06",
  "source_failures": {},
  "tg_offset": 4899726
 }
