@@ -46,7 +46,7 @@
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
-    "32": "in_stock",
+    "32": "low_on_stock",
     "34": "in_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -234,7 +234,7 @@
    "image": "https://static.zara.net/assets/public/9972/bc22/56bc4aa68a19/f1c350190d06/01905041422-p/01905041422-p.jpg?ts=1778601298364&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -377,7 +377,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -568,7 +568,7 @@
     "S": "in_stock",
     "M": "in_stock",
     "L": "low_on_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "16041710-624": {
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -720,7 +720,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "03641399-803": {
@@ -736,8 +736,8 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -755,7 +755,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -828,7 +828,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "in_stock"
    }
   },
   "05584369-653": {
@@ -904,7 +904,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1040,7 +1040,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1141,7 +1141,7 @@
    "image": "https://static.zara.net/assets/public/5925/2ca9/af7b4b569e1b/1cb8b0d7622c/02209537620-e1/02209537620-e1.jpg?ts=1768920157077&w=800",
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1186,8 +1186,8 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "4 yaş (104 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -1244,7 +1244,7 @@
    "image": "https://static.zara.net/assets/public/0b2b/c449/581546dcbc28/14a707fccbd2/01639602681-p/01639602681-p.jpg?ts=1768987775813&w=800",
    "url": "https://www.zara.com/tr/tr/bebe-yaka-kadife-ceket-p01639602.html?v1=514776931",
    "sizes": {
-    "6/7 yaş (122 cm)": "low_on_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -1304,8 +1304,8 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "3 yaş (98 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1347,9 +1347,9 @@
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "06208681-600": {
@@ -1430,7 +1430,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1556,7 +1556,7 @@
    "sizes": {
     "35": "coming_soon",
     "36": "low_on_stock",
-    "37": "low_on_stock",
+    "37": "coming_soon",
     "38": "out_of_stock",
     "39": "in_stock",
     "40": "in_stock",
@@ -1588,7 +1588,7 @@
    }
   }
  },
- "last_check": "2026-07-16 18:49:52",
+ "last_check": "2026-07-17 06:05:09",
  "source_failures": {},
  "tg_offset": 4899726
 }
