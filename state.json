@@ -1,38 +1,6 @@
 {
  "consecutive_failures": 0,
  "products": {
-  "20120608-999": {
-   "name": "RAY OF WONDER ROSE EDP 90 ML",
-   "ref": "0120/608",
-   "color": "",
-   "kind": "Fragance",
-   "family": "EAU DE PARFUM",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/2b21/453f/f6bd41ac8c07/54dbffe9ff67/20120608999-e1/20120608999-e1.jpg?ts=1784126734778&w=800",
-   "url": "https://www.zara.com/tr/tr/ray-of-wonder-rose-edp-90-ml--3-04-fl--oz---p20120608.html?v1=564251353",
-   "sizes": {
-    "STANDART": "coming_soon"
-   }
-  },
-  "20120604-999": {
-   "name": "RAY OF ORCHID EDP 90 ML (3.04 FL. OZ).",
-   "ref": "0120/604",
-   "color": "",
-   "kind": "Fragance",
-   "family": "EAU DE PARFUM",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/71fe/1e69/f7f64eb3b4ea/5999f16351e9/20120604999-e1/20120604999-e1.jpg?ts=1784126736330&w=800",
-   "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
-   "sizes": {
-    "STANDART": "in_stock"
-   }
-  },
   "05862081-445": {
    "name": "Z1975 SLIM CROP ORTA BEL JEAN",
    "ref": "5862/081",
@@ -136,26 +104,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   }
-  },
-  "09929190-620": {
-   "name": "KEMERLİ PENSLİ PANTOLON",
-   "ref": "9929/190",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 99000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/36cc/7a48/6d534128a1a6/b0622e717423/09929190620-000-p/09929190620-000-p.jpg?ts=1770987882720&w=800",
-   "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301328",
-   "sizes": {
-    "XS": "in_stock",
-    "S": "in_stock",
-    "M": "low_on_stock",
-    "L": "in_stock",
-    "XL": "in_stock"
    }
   },
   "01478334-700": {
@@ -274,7 +222,7 @@
    "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -640,7 +588,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -754,8 +702,8 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "in_stock",
-    "M": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -812,7 +760,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -864,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -903,7 +851,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "low_on_stock"
    }
   },
@@ -960,7 +908,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1038,7 +986,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1430,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1457,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1549,7 +1497,7 @@
    }
   }
  },
- "last_check": "2026-07-17 10:50:05",
+ "last_check": "2026-07-17 11:04:50",
  "source_failures": {},
  "tg_offset": 4899726
 }
