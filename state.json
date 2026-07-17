@@ -702,7 +702,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641015-653": {
@@ -1457,7 +1457,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1588,7 +1588,7 @@
    }
   }
  },
- "last_check": "2026-07-17 08:19:54",
+ "last_check": "2026-07-17 08:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
