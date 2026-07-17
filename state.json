@@ -16,7 +16,7 @@
    "sizes": {
     "32": "low_on_stock",
     "34": "low_on_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -224,7 +224,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -378,7 +378,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -552,7 +552,7 @@
     "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "low_on_stock",
-    "XL": "low_on_stock"
+    "XL": "coming_soon"
    }
   },
   "01929400-737": {
@@ -758,7 +758,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -849,7 +849,7 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
@@ -988,7 +988,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1005,7 +1005,7 @@
    "image": "https://static.zara.net/assets/public/b686/bab5/657f4543a778/7417b4459acb/05767514712200-p/05767514712200-p.jpg?ts=1770371839146&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kiraz-desenli-sweatshirt-p05767514.html?v1=520763093",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1175,7 +1175,7 @@
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
     "38 (24,3 cm)": "out_of_stock",
-    "39 (24,9 cm)": "in_stock",
+    "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
   },
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1497,7 +1497,7 @@
    }
   }
  },
- "last_check": "2026-07-17 18:04:59",
+ "last_check": "2026-07-17 18:19:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
