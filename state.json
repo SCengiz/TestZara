@@ -30,7 +30,7 @@
    "image": "https://static.zara.net/assets/public/71fe/1e69/f7f64eb3b4ea/5999f16351e9/20120604999-e1/20120604999-e1.jpg?ts=1784126736330&w=800",
    "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
    "sizes": {
-    "STANDART": "coming_soon"
+    "STANDART": "in_stock"
    }
   },
   "05862081-445": {
@@ -274,7 +274,7 @@
    "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -754,7 +754,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "16049710-253": {
@@ -864,7 +864,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "00881016-251": {
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "low_on_stock"
    }
   },
@@ -960,7 +960,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1039,7 +1039,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1422,15 +1422,15 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1457,7 +1457,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1549,7 +1549,7 @@
    }
   }
  },
- "last_check": "2026-07-17 10:34:45",
+ "last_check": "2026-07-17 10:50:05",
  "source_failures": {},
  "tg_offset": 4899726
 }
