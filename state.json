@@ -16,7 +16,7 @@
    "sizes": {
     "32": "low_on_stock",
     "34": "low_on_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -224,7 +224,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -549,10 +549,10 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
    "sizes": {
     "XS": "in_stock",
-    "S": "coming_soon",
-    "M": "coming_soon",
-    "L": "coming_soon",
-    "XL": "in_stock"
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock",
+    "XL": "low_on_stock"
    }
   },
   "01929400-737": {
@@ -650,7 +650,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "03641015-653": {
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -829,7 +829,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -851,7 +851,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "low_on_stock"
    }
   },
@@ -986,9 +986,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "in_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1136,7 +1136,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "01381645-804": {
@@ -1231,7 +1231,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "in_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1497,7 +1497,7 @@
    }
   }
  },
- "last_check": "2026-07-17 13:20:04",
+ "last_check": "2026-07-17 13:34:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
