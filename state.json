@@ -30,7 +30,7 @@
    "image": "https://static.zara.net/assets/public/71fe/1e69/f7f64eb3b4ea/5999f16351e9/20120604999-e1/20120604999-e1.jpg?ts=1784126736330&w=800",
    "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
    "sizes": {
-    "STANDART": "coming_soon"
+    "STANDART": "in_stock"
    }
   },
   "05862081-445": {
@@ -1040,7 +1040,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1457,7 +1457,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1555,7 +1555,7 @@
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-fiyonklu-mule-ayakkabi-p12358710.html?v1=554808205",
    "sizes": {
     "35": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "37": "coming_soon",
     "38": "out_of_stock",
     "39": "in_stock",
@@ -1588,7 +1588,7 @@
    }
   }
  },
- "last_check": "2026-07-17 08:34:54",
+ "last_check": "2026-07-17 08:49:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
