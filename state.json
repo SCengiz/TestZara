@@ -48,7 +48,7 @@
    "sizes": {
     "32": "low_on_stock",
     "34": "in_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -567,7 +567,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "16049710-253": {
@@ -864,7 +864,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    }
   },
   "00881016-251": {
@@ -903,7 +903,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "low_on_stock"
    }
   },
@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1124,7 +1124,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1185,7 +1185,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
@@ -1450,7 +1450,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1554,7 +1554,7 @@
    "image": "https://static.zara.net/assets/public/ab8f/0165/13cc40f2bc77/07de79d55e4c/02897246093-a1/02897246093-a1.jpg?ts=1777463311444&w=800",
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-fiyonklu-mule-ayakkabi-p12358710.html?v1=554808205",
    "sizes": {
-    "35": "coming_soon",
+    "35": "out_of_stock",
     "36": "low_on_stock",
     "37": "coming_soon",
     "38": "out_of_stock",
@@ -1577,7 +1577,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1588,7 +1588,7 @@
    }
   }
  },
- "last_check": "2026-07-17 07:49:50",
+ "last_check": "2026-07-17 08:05:02",
  "source_failures": {},
  "tg_offset": 4899726
 }
