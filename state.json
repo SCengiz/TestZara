@@ -15,8 +15,8 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
     "32": "low_on_stock",
-    "34": "in_stock",
-    "36": "low_on_stock",
+    "34": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -324,8 +324,8 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "low_on_stock",
-    "S": "in_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -703,7 +703,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -829,7 +829,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -1297,7 +1297,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "06208681-600": {
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1493,11 +1493,11 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "in_stock"
+    "46": "low_on_stock"
    }
   }
  },
- "last_check": "2026-07-17 12:35:01",
+ "last_check": "2026-07-17 12:49:57",
  "source_failures": {},
  "tg_offset": 4899726
 }
