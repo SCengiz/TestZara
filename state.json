@@ -16,7 +16,7 @@
    "sizes": {
     "32": "low_on_stock",
     "34": "low_on_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -224,7 +224,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -378,7 +378,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -650,7 +650,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "03641015-653": {
@@ -849,10 +849,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1486,7 +1486,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1497,7 +1497,7 @@
    }
   }
  },
- "last_check": "2026-07-17 17:49:49",
+ "last_check": "2026-07-17 18:04:59",
  "source_failures": {},
  "tg_offset": 4899726
 }
