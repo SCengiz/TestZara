@@ -30,7 +30,7 @@
    "image": "https://static.zara.net/assets/public/71fe/1e69/f7f64eb3b4ea/5999f16351e9/20120604999-e1/20120604999-e1.jpg?ts=1784126736330&w=800",
    "url": "https://www.zara.com/tr/tr/ray-of-orchid-edp-90-ml-p20120604.html?v1=564251358",
    "sizes": {
-    "STANDART": "coming_soon"
+    "STANDART": "in_stock"
    }
   },
   "05862081-445": {
@@ -376,8 +376,8 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "low_on_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -640,7 +640,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -738,7 +738,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -754,7 +754,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -828,7 +828,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "in_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "05584369-653": {
@@ -863,7 +863,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1438,7 +1438,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -1450,14 +1450,14 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1525,45 +1525,6 @@
     "46": "out_of_stock"
    }
   },
-  "42292023-400": {
-   "name": "SATEN DESENLİ AMERİKAN SERVİS",
-   "ref": "2292/023",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "MASA ORTUSU",
-   "section": "HOME",
-   "price": 89000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/989e/a4bf/d37c42929550/729501b3e62f/42292023400-e1/42292023400-e1.jpg?ts=1778144058044&w=800",
-   "url": "https://www.zara.com/tr/tr/saten-desenli-amerikan-servis-p42292023.html?v1=545446833",
-   "sizes": {
-    "35 x 50 cm": "in_stock"
-   }
-  },
-  "12358710-202": {
-   "name": "PUANTİYE DESENLİ FİYONKLU MULE AYAKKABI",
-   "ref": "2358/710",
-   "color": "Alacalı",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 199000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/ab8f/0165/13cc40f2bc77/07de79d55e4c/02897246093-a1/02897246093-a1.jpg?ts=1777463311444&w=800",
-   "url": "https://www.zara.com/tr/tr/puantiye-desenli-fiyonklu-mule-ayakkabi-p12358710.html?v1=554808205",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "coming_soon",
-    "38": "out_of_stock",
-    "39": "in_stock",
-    "40": "in_stock",
-    "41": "low_on_stock",
-    "42": "in_stock"
-   }
-  },
   "04592217-401": {
    "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
    "ref": "4592/217",
@@ -1588,7 +1549,7 @@
    }
   }
  },
- "last_check": "2026-07-17 09:19:57",
+ "last_check": "2026-07-17 09:34:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
