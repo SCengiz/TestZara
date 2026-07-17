@@ -758,7 +758,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "coming_soon",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -889,7 +889,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1497,7 +1497,7 @@
    }
   }
  },
- "last_check": "2026-07-17 18:35:00",
+ "last_check": "2026-07-17 18:49:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
