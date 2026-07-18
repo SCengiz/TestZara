@@ -648,7 +648,7 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1068,7 +1068,7 @@
    "image": "https://static.zara.net/assets/public/fa9b/077a/b4fb47d58e11/707f83b50c55/07878599620-e1/07878599620-e1.jpg?ts=1770301184260&w=800",
    "url": "https://www.zara.com/tr/tr/pochacco-and-his-friends---sanrio-t-shirt-p07878599.html?v1=557788659",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1464,7 +1464,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=526754142",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 11:34:53",
+ "last_check": "2026-07-18 11:49:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
