@@ -64,7 +64,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "in_stock"
+    "46": "out_of_stock"
    }
   },
   "09598057-636": {
@@ -1136,7 +1136,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "01381645-804": {
@@ -1230,7 +1230,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-modal-sporty-sweatshirt-p08054643.html?v1=528330130",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "in_stock",
+    "8/9 yaş (131 cm)": "low_on_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -1355,7 +1355,7 @@
    "image": "https://static.zara.net/assets/public/cee0/7300/55d344bb9ec2/75a3e5473d9f/04441009406-e1/04441009406-e1.jpg?ts=1774276385563&w=800",
    "url": "https://www.zara.com/tr/tr/cilek-islemeli-denim-ceket-p04441009.html?v1=516626044",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 07:04:56",
+ "last_check": "2026-07-18 07:19:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
