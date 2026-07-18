@@ -162,7 +162,7 @@
    "image": "https://static.zara.net/assets/public/a41e/1eab/70394c448946/ba7fb7a41547/05029080172-p/05029080172-p.jpg?ts=1770627887914&w=800",
    "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -589,7 +589,7 @@
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
     "S": "coming_soon",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -759,7 +759,7 @@
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
     "S": "coming_soon",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock"
    }
   },
@@ -850,8 +850,8 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "in_stock",
     "XL": "low_on_stock"
    }
   },
@@ -1398,7 +1398,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1534,7 +1534,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1618,8 +1618,8 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1697,8 +1697,8 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "coming_soon",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1762,9 +1762,154 @@
     "XL": "coming_soon",
     "XXL": "out_of_stock"
    }
+  },
+  "40214041-300": {
+   "name": "RENKLİ KULPLU BOROSİLİKAT ÇAYDANLIK",
+   "ref": "0214/041",
+   "color": "Sarı",
+   "kind": "Wear",
+   "family": "ZUCCACIYE",
+   "section": "HOME",
+   "price": 47000,
+   "old_price": 65000,
+   "discount": 27,
+   "image": "https://static.zara.net/assets/public/28ca/2c82/d45f40358fb7/71583f216e8c/40214041300-e1/40214041300-e1.jpg?ts=1766075122451&w=800",
+   "url": "https://www.zara.com/tr/tr/renkli-kulplu-borosilikat-caydanlik-p40214041.html?v1=495430130",
+   "sizes": {
+    "STANDART": "in_stock"
+   }
+  },
+  "41232213-990": {
+   "name": "BOROSİLİKAT SÜRAHİ",
+   "ref": "1232/213",
+   "color": "Transparan",
+   "kind": "Wear",
+   "family": "ZUCCACIYE",
+   "section": "HOME",
+   "price": 47000,
+   "old_price": 65000,
+   "discount": 27,
+   "image": "https://static.zara.net/assets/public/b45e/f904/72f148b38077/24d588787e5f/41232213990-e1/41232213990-e1.jpg?ts=1776865002677&w=800",
+   "url": "https://www.zara.com/tr/tr/borosilikat-surahi-p41232213.html?v1=555296944",
+   "sizes": {
+    "23 x 18.8 x 16.3 cm": "low_on_stock"
+   }
+  },
+  "46192088-251": {
+   "name": "JAKAR PAMUKLU NEVRESİM",
+   "ref": "6192/088",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "CARSAF",
+   "section": "HOME",
+   "price": 419000,
+   "old_price": 559000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/f0db/8398/d1924edaa5be/3a4109742841/46192088251-e1/46192088251-e1.jpg?ts=1770905853181&w=800",
+   "url": "https://www.zara.com/tr/tr/jakar-pamuklu-nevresim-p46192088.html?v1=495433920",
+   "sizes": {
+    "Tek Kişilik (90 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
+    "Double": "out_of_stock",
+    "King (180/200 cm)": "in_stock"
+   }
+  },
+  "47111088-300": {
+   "name": "ÇİÇEKLİ SATEN NEVRESİM",
+   "ref": "7111/088",
+   "color": "Sarı",
+   "kind": "Wear",
+   "family": "CARSAF",
+   "section": "HOME",
+   "price": 359000,
+   "old_price": 529000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/e0ca/cfd8/69d54ee2944b/e7e6af78acd8/47111088300-e1/47111088300-e1.jpg?ts=1781789260681&w=800",
+   "url": "https://www.zara.com/tr/tr/cicekli-saten-nevresim-p47111088.html?v1=513392548",
+   "sizes": {
+    "Tek Kişilik (90 cm)": "out_of_stock",
+    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Double": "out_of_stock",
+    "King (180/200 cm)": "in_stock"
+   }
+  },
+  "42328029-681": {
+   "name": "PAISLEY DESENLİ PAMUKLU HALI",
+   "ref": "2328/029",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "HALI",
+   "section": "HOME",
+   "price": 159000,
+   "old_price": 219000,
+   "discount": 27,
+   "image": "https://static.zara.net/assets/public/d016/f131/41ae44d894dd/1f797706050b/42328029681-e1/42328029681-e1.jpg?ts=1772721504530&w=800",
+   "url": "https://www.zara.com/tr/tr/paisley-desenli-pamuklu-hali-p42328029.html?v1=495430194",
+   "sizes": {
+    "70 x 200 cm": "in_stock",
+    "60 x 120 cm": "in_stock"
+   }
+  },
+  "45573049-700": {
+   "name": "PAMUKLU ASTARLI ÜTÜ SEPETİ",
+   "ref": "5573/049",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "SEPET",
+   "section": "HOME",
+   "price": 159000,
+   "old_price": 229000,
+   "discount": 30,
+   "image": "https://static.zara.net/assets/public/9dfa/7191/92ce4e3087b1/7f4f1aa10fb8/45573049700-e1/45573049700-e1.jpg?ts=1765883225775&w=800",
+   "url": "https://www.zara.com/tr/tr/pamuklu-astarli-utu-sepeti-p45573049.html?v1=495430469",
+   "sizes": {
+    "STANDART": "in_stock"
+   }
+  },
+  "02582590-592": {
+   "name": "ZARA TIMELESS - KALIN TRİKO HIRKA",
+   "ref": "2582/590",
+   "color": "Kuru yeşil",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "KID",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/43e5/d77d/e80c470282f6/ef8aa7e41de0/02582590592-e1/02582590592-e1.jpg?ts=1763994640078&w=800",
+   "url": "https://www.zara.com/tr/tr/zara-timeless---kalin-triko-hirka-p02582590.html?v1=495693909",
+   "sizes": {
+    "1½ yaş (86 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "09598500-712": {
+   "name": "AJURLU ÇİÇEK İŞLEMELİ TRİKO HIRKA",
+   "ref": "9598/500",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "KID",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/ace7/efa8/1c61487ea2c9/9f013469f32e/09598500712-e1/09598500712-e1.jpg?ts=1766051460608&w=800",
+   "url": "https://www.zara.com/tr/tr/ajurlu-cicek-islemeli-triko-hirka-p09598500.html?v1=495694253",
+   "sizes": {
+    "1½ yaş (86 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-18 18:04:55",
+ "last_check": "2026-07-18 18:19:59",
  "source_failures": {},
  "tg_offset": 4899726
 }
