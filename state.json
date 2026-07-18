@@ -17,7 +17,7 @@
     "32": "out_of_stock",
     "34": "low_on_stock",
     "36": "out_of_stock",
-    "38": "coming_soon",
+    "38": "low_on_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
@@ -204,7 +204,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -325,7 +325,7 @@
    "sizes": {
     "XS": "low_on_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -686,7 +686,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -850,7 +850,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1093,7 +1093,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1335,7 +1335,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-desenli-gofre-elbise-p05767547.html?v1=520763095",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 09:49:50",
+ "last_check": "2026-07-18 10:04:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
