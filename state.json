@@ -122,7 +122,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -850,9 +850,9 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "in_stock",
-    "XL": "low_on_stock"
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -986,10 +986,10 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "05767514-712": {
@@ -1398,7 +1398,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1465,7 +1465,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 15:19:56",
+ "last_check": "2026-07-18 15:34:50",
  "source_failures": {},
  "tg_offset": 4899726
 }
