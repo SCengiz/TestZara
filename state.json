@@ -16,7 +16,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "low_on_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -140,7 +140,7 @@
    "url": "https://www.zara.com/tr/tr/suet-babet-p12527710.html?v1=535465412",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -549,7 +549,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "low_on_stock",
     "XL": "coming_soon"
@@ -833,7 +833,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    }
   },
   "06771003-982": {
@@ -961,9 +961,9 @@
    "image": "https://static.zara.net/assets/public/86f0/97bf/3f144a7bb92d/2723b6acbff7/06840074400-p/06840074400-p.jpg?ts=1773075982287&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=514956958",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1398,14 +1398,14 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 14:19:54",
+ "last_check": "2026-07-18 14:34:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
