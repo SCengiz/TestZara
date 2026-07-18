@@ -307,7 +307,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "02458633-083": {
@@ -589,8 +589,8 @@
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "low_on_stock"
+    "M": "coming_soon",
+    "L": "out_of_stock"
    }
   },
   "04391436-096": {
@@ -1091,7 +1091,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "low_on_stock"
@@ -1296,7 +1296,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -1336,7 +1336,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1355,7 +1355,7 @@
    "image": "https://static.zara.net/assets/public/cee0/7300/55d344bb9ec2/75a3e5473d9f/04441009406-e1/04441009406-e1.jpg?ts=1774276385563&w=800",
    "url": "https://www.zara.com/tr/tr/cilek-islemeli-denim-ceket-p04441009.html?v1=516626044",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1370,9 +1370,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1486,7 +1486,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "coming_soon",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 08:34:50",
+ "last_check": "2026-07-18 08:49:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
