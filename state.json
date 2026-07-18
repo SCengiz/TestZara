@@ -323,7 +323,7 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -515,7 +515,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -650,7 +650,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "03641015-653": {
@@ -684,7 +684,7 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -1808,7 +1808,7 @@
    "image": "https://static.zara.net/assets/public/f0db/8398/d1924edaa5be/3a4109742841/46192088251-e1/46192088251-e1.jpg?ts=1770905853181&w=800",
    "url": "https://www.zara.com/tr/tr/jakar-pamuklu-nevresim-p46192088.html?v1=495433920",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-18 18:34:50",
+ "last_check": "2026-07-18 18:49:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
