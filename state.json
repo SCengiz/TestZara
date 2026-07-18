@@ -589,7 +589,7 @@
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
     "S": "coming_soon",
-    "M": "low_on_stock",
+    "M": "coming_soon",
     "L": "out_of_stock"
    }
   },
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -758,8 +758,8 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "coming_soon",
+    "M": "out_of_stock",
     "L": "low_on_stock"
    }
   },
@@ -810,7 +810,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "in_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "coming_soon"
    }
@@ -850,9 +850,9 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -988,7 +988,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -1135,7 +1135,7 @@
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1518,9 +1518,253 @@
     "44": "out_of_stock",
     "46": "coming_soon"
    }
+  },
+  "02335555-973": {
+   "name": "İŞLEMELİ BEBE YAKA T-SHIRT",
+   "ref": "2335/555",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "TISORT",
+   "section": "KID",
+   "price": 35000,
+   "old_price": 42000,
+   "discount": 16,
+   "image": "https://static.zara.net/assets/public/070d/761e/0a6e4894a9a3/f083ef8120bc/02335555973-e1/02335555973-e1.jpg?ts=1766501539066&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-t-shirt-p02335555.html?v1=495702831",
+   "sizes": {
+    "1½ yaş (86 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "02756525-052": {
+   "name": "ÇİÇEK İŞLEMELİ TRİKO YELEKLİ GÖMLEK",
+   "ref": "2756/525",
+   "color": "Açık bej",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "KID",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/4f03/06a3/29ef43d39164/17df7106a0a7/02756525052-e1/02756525052-e1.jpg?ts=1767110193510&w=800",
+   "url": "https://www.zara.com/tr/tr/cicek-islemeli-triko-yelek-kombinli-gomlek-p02756525.html?v1=495680554",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "05643509-664": {
+   "name": "DESENLİ SWEATSHIRT",
+   "ref": "5643/509",
+   "color": "Koyu pembe",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "KID",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
+   "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "02756533-645": {
+   "name": "ÇİÇEK DESENLİ KOMBİNE TRİKO YELEKLİ GÖMLEK",
+   "ref": "2756/533",
+   "color": "Orta-pembe",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "KID",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/f78b/ddba/e0d5491ba92c/786d9662ec06/02756533645200-p/02756533645200-p.jpg?ts=1767864733925&w=800",
+   "url": "https://www.zara.com/tr/tr/cicek-desenli-kombine-triko-yelekli-gomlek-p02756533.html?v1=510920758",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "05431886-621": {
+   "name": "İŞLEMELİ ÇİÇEK BEBE YAKA T-SHIRT",
+   "ref": "5431/886",
+   "color": "Pastel pembe",
+   "kind": "Wear",
+   "family": "TISORT",
+   "section": "KID",
+   "price": 35000,
+   "old_price": 42000,
+   "discount": 16,
+   "image": "https://static.zara.net/assets/public/6049/1a00/d6c84a48a867/5999d9763e2a/05431886621-e1/05431886621-e1.jpg?ts=1776669550947&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025187",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "low_on_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   }
+  },
+  "02142263-922": {
+   "name": "YUMUŞAK YÜKSEK YAKA ÖRGÜ KAZAK",
+   "ref": "2142/263",
+   "color": "Koyu gri",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/da4c/2897/874e40c9a30f/bbbd6f8de23c/02142170922-p/02142170922-p.jpg?ts=1765887341176&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-dik-yaka-triko-kazak-p02142263.html?v1=506582870",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "coming_soon"
+   }
+  },
+  "02142263-681": {
+   "name": "YUMUŞAK DOKULU DİK YAKA TRİKO KAZAK",
+   "ref": "2142/263",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/255e/8593/3e934872a3e3/108c3106068a/02142170681-p/02142170681-p.jpg?ts=1768311564817&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-dik-yaka-triko-kazak-p02142263.html?v1=512138398",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "coming_soon"
+   }
+  },
+  "02142161-712": {
+   "name": "YUMUŞAK TRİKO KAZAK",
+   "ref": "2142/161",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/dfb8/a1a1/fb534dd5aacc/c089d5942fa5/02142168712-p/02142168712-p.jpg?ts=1756281818050&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-triko-kazak-p02142161.html?v1=503418797",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "coming_soon"
+   }
+  },
+  "02142028-519": {
+   "name": "KONTRAST ÖRGÜ KAZAK",
+   "ref": "2142/028",
+   "color": "yıkanmış yeşil",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 89000,
+   "old_price": 119000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
+   "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
+   "sizes": {
+    "S": "coming_soon",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "03390102-622": {
+   "name": "DÜZ TRİKO POLO T-SHIRT",
+   "ref": "3390/102",
+   "color": "Uçuk pembe",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "03046297-700": {
+   "name": "KRUVAZE KISA KABAN",
+   "ref": "3046/297",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/17db/dadc/bf2f4f3a8a8e/7bf1993ec629/03046297700-p/03046297700-p.jpg?ts=1762523328517&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503421779",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "coming_soon",
+    "XXL": "out_of_stock"
+   }
+  },
+  "03046297-706": {
+   "name": "KRUVAZE KISA KABAN",
+   "ref": "3046/297",
+   "color": "Vizon",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/4593/2965/6a9e4c5ab2d2/887401e51cdc/03046297706-p/03046297706-p.jpg?ts=1762357607879&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503417983",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "coming_soon",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-18 17:49:54",
+ "last_check": "2026-07-18 18:04:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
