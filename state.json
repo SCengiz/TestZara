@@ -19,7 +19,7 @@
     "36": "out_of_stock",
     "38": "coming_soon",
     "40": "out_of_stock",
-    "42": "out_of_stock",
+    "42": "low_on_stock",
     "44": "out_of_stock"
    }
   },
@@ -441,7 +441,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04369050-092": {
@@ -1070,7 +1070,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1090,7 +1090,7 @@
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
-    "2 yaş (92 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1464,7 +1464,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=526754142",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 07:49:58",
+ "last_check": "2026-07-18 08:04:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
