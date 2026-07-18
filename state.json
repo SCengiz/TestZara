@@ -667,7 +667,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -941,7 +941,7 @@
    "image": "https://static.zara.net/assets/public/02a0/f0ed/c7b34e83b7c7/466006482e41/06318038700-p/06318038700-p.jpg?ts=1772017085385&w=800",
    "url": "https://www.zara.com/tr/tr/kapusonlu-suni-deri-ceket-p06318038.html?v1=495675305",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -961,7 +961,7 @@
    "image": "https://static.zara.net/assets/public/86f0/97bf/3f144a7bb92d/2723b6acbff7/06840074400-p/06840074400-p.jpg?ts=1773075982287&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=514956958",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1090,7 +1090,7 @@
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -1136,7 +1136,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "01381645-804": {
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1469,7 +1469,7 @@
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
-    "44": "in_stock",
+    "44": "out_of_stock",
     "46": "out_of_stock"
    }
   },
@@ -1495,9 +1495,32 @@
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
+  },
+  "04592217-406": {
+   "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
+   "ref": "4592/217",
+   "color": "Açık mavi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 45000,
+   "old_price": 59000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/b4bc/9589/8ca94b6ca0ae/98e9924d66fa/05252217406-p/05252217406-p.jpg?ts=1758882590498&w=800",
+   "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503419069",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "coming_soon"
+   }
   }
  },
- "last_check": "2026-07-18 06:49:55",
+ "last_check": "2026-07-18 07:04:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
