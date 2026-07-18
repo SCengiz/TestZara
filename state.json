@@ -14,12 +14,12 @@
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "low_on_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
-    "40": "low_on_stock",
-    "42": "low_on_stock",
+    "38": "coming_soon",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
     "44": "out_of_stock"
    }
   },
@@ -590,7 +590,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "04391436-096": {
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -1070,7 +1070,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1370,9 +1370,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 499999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 32,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1486,7 +1486,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
    "sizes": {
-    "32": "coming_soon",
+    "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 08:19:55",
+ "last_check": "2026-07-18 08:34:50",
  "source_failures": {},
  "tg_offset": 4899726
 }
