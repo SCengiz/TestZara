@@ -14,7 +14,7 @@
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "coming_soon",
@@ -184,7 +184,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -551,7 +551,7 @@
     "XS": "in_stock",
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "in_stock",
+    "L": "low_on_stock",
     "XL": "coming_soon"
    }
   },
@@ -570,7 +570,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -667,7 +667,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -1005,7 +1005,7 @@
    "image": "https://static.zara.net/assets/public/b686/bab5/657f4543a778/7417b4459acb/05767514712200-p/05767514712200-p.jpg?ts=1770371839146&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kiraz-desenli-sweatshirt-p05767514.html?v1=520763093",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1232,7 +1232,7 @@
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "low_on_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "low_on_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    }
@@ -1297,7 +1297,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "06208681-600": {
@@ -1398,14 +1398,14 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 09:19:51",
+ "last_check": "2026-07-18 09:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
