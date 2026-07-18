@@ -61,7 +61,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "in_stock",
     "46": "out_of_stock"
@@ -588,7 +588,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -759,7 +759,7 @@
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
     "S": "coming_soon",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -850,7 +850,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -986,8 +986,8 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1493,7 +1493,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "out_of_stock"
+    "46": "low_on_stock"
    }
   },
   "04592217-406": {
@@ -1520,7 +1520,7 @@
    }
   }
  },
- "last_check": "2026-07-18 16:34:49",
+ "last_check": "2026-07-18 16:49:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
