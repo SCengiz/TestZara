@@ -703,7 +703,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1073,7 +1073,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "02209537-620": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 06:49:53",
+ "last_check": "2026-07-19 07:04:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
