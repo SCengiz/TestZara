@@ -868,7 +868,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -925,7 +925,7 @@
    "image": "https://static.zara.net/assets/public/535f/294c/3e5a46c4b4fe/65971cdce05a/16315710400-p/16315710400-p.jpg?ts=1776870952168&w=800",
    "url": "https://www.zara.com/tr/tr/mini-tote-canta-p16315710.html?v1=509626450",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "coming_soon"
    }
   },
   "06318038-700": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 11:19:54",
+ "last_check": "2026-07-19 11:34:48",
  "source_failures": {},
  "tg_offset": 4899726
 }
