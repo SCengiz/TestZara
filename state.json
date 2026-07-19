@@ -852,7 +852,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "04174001-706": {
@@ -890,7 +890,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 10:19:49",
+ "last_check": "2026-07-19 10:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
