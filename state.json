@@ -515,7 +515,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -648,7 +648,7 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -667,7 +667,7 @@
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -776,7 +776,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "in_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "05584369-653": {
@@ -849,10 +849,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -1619,7 +1619,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "coming_soon",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 08:50:00",
+ "last_check": "2026-07-19 09:04:50",
  "source_failures": {},
  "tg_offset": 4899726
 }
