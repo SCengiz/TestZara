@@ -648,8 +648,8 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -686,7 +686,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "01131008-251": {
@@ -776,7 +776,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "in_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "05584369-653": {
@@ -850,7 +850,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "low_on_stock",
     "XL": "low_on_stock"
    }
@@ -868,8 +868,8 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1617,9 +1617,9 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025187",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1718,7 +1718,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "03046297-700": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 13:34:56",
+ "last_check": "2026-07-19 13:49:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
