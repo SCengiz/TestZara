@@ -184,7 +184,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -324,10 +324,10 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "01255894-716": {
@@ -588,7 +588,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "coming_soon",
+    "S": "in_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -648,7 +648,7 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -666,9 +666,9 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "03641399-803": {
@@ -758,7 +758,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "coming_soon",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -907,7 +907,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -1010,7 +1010,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "04433554-712": {
@@ -1073,7 +1073,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "02209537-620": {
@@ -1716,7 +1716,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 08:04:49",
+ "last_check": "2026-07-19 08:20:02",
  "source_failures": {},
  "tg_offset": 4899726
 }
