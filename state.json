@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 18:04:55",
+ "last_check": "2026-07-19 18:19:49",
  "source_failures": {},
  "tg_offset": 4899726
 }
