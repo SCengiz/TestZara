@@ -403,7 +403,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock",
+    "XL": "low_on_stock",
     "XXL": "in_stock"
    }
   },
@@ -850,7 +850,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "low_on_stock",
     "XL": "out_of_stock"
    }
@@ -1398,7 +1398,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 14:49:53",
+ "last_check": "2026-07-19 15:04:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
