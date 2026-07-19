@@ -323,8 +323,8 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "low_on_stock",
-    "S": "in_stock",
+    "XS": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -552,7 +552,7 @@
     "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "coming_soon",
-    "XL": "coming_soon"
+    "XL": "low_on_stock"
    }
   },
   "01929400-737": {
@@ -849,10 +849,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -1231,7 +1231,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "in_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 16:20:00",
+ "last_check": "2026-07-19 16:34:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
