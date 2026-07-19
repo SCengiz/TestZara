@@ -18,7 +18,7 @@
     "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "coming_soon",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
    }
@@ -63,7 +63,7 @@
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
-    "44": "low_on_stock",
+    "44": "out_of_stock",
     "46": "out_of_stock"
    }
   },
@@ -323,8 +323,8 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "out_of_stock",
-    "S": "in_stock",
+    "XS": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "in_stock"
@@ -648,7 +648,7 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -776,7 +776,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "in_stock"
    }
   },
   "05584369-653": {
@@ -849,10 +849,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -989,7 +989,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "05767514-712": {
@@ -1716,7 +1716,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 08:34:58",
+ "last_check": "2026-07-19 08:50:00",
  "source_failures": {},
  "tg_offset": 4899726
 }
