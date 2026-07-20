@@ -17,7 +17,7 @@
     "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "in_stock",
+    "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
@@ -264,7 +264,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -324,8 +324,8 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
-    "M": "in_stock",
+    "S": "low_on_stock",
+    "M": "out_of_stock",
     "L": "low_on_stock",
     "XL": "out_of_stock"
    }
@@ -475,7 +475,7 @@
    "image": "https://static.zara.net/assets/public/9957/0273/c5214c3f91db/02a2d41ce356/04369044916-p/04369044916-p.jpg?ts=1771247109329&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -550,7 +550,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "coming_soon",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "coming_soon",
     "XL": "coming_soon"
    }
@@ -668,7 +668,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641399-803": {
@@ -810,7 +810,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "coming_soon"
    }
@@ -849,10 +849,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "in_stock",
-    "XL": "in_stock"
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -868,7 +868,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "low_on_stock",
     "XL": "out_of_stock"
@@ -1316,7 +1316,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1715,7 +1715,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1792,7 +1792,7 @@
    "image": "https://static.zara.net/assets/public/b45e/f904/72f148b38077/24d588787e5f/41232213990-e1/41232213990-e1.jpg?ts=1776865002677&w=800",
    "url": "https://www.zara.com/tr/tr/borosilikat-surahi-p41232213.html?v1=555296944",
    "sizes": {
-    "23 x 18.8 x 16.3 cm": "low_on_stock"
+    "23 x 18.8 x 16.3 cm": "out_of_stock"
    }
   },
   "46192088-251": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 08:05:04",
+ "last_check": "2026-07-20 08:19:59",
  "source_failures": {},
  "tg_offset": 4899726
 }
