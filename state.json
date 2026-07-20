@@ -497,7 +497,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "04174040-251": {
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock"
    }
   },
@@ -852,7 +852,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 09:04:52",
+ "last_check": "2026-07-20 09:19:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
