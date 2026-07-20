@@ -99,7 +99,7 @@
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -549,8 +549,8 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
    "sizes": {
     "XS": "in_stock",
-    "S": "coming_soon",
-    "M": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "coming_soon",
     "L": "coming_soon",
     "XL": "coming_soon"
    }
@@ -629,7 +629,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "in_stock",
     "XXL": "in_stock"
@@ -758,9 +758,9 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "coming_soon",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -852,7 +852,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -1558,7 +1558,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "05643509-664": {
@@ -1697,7 +1697,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 08:34:56",
+ "last_check": "2026-07-20 08:49:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
