@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -812,7 +812,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "coming_soon",
-    "L": "in_stock"
+    "L": "coming_soon"
    }
   },
   "00881016-251": {
@@ -908,7 +908,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "out_of_stock",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1464,7 +1464,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=526754142",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 14:19:49",
+ "last_check": "2026-07-20 14:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
