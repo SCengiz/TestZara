@@ -16,7 +16,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -225,7 +225,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -572,7 +572,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "05039380-667": {
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -852,7 +852,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -1292,7 +1292,7 @@
    "image": "https://static.zara.net/assets/public/1c9b/dab0/f6bf4e3bb13b/07748131db2b/05644992500400-p/05644992500400-p.jpg?ts=1780408338597&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1680,7 +1680,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "coming_soon"
    }
   },
@@ -1828,7 +1828,7 @@
    "url": "https://www.zara.com/tr/tr/cicekli-saten-nevresim-p47111088.html?v1=513392548",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 17:05:03",
+ "last_check": "2026-07-20 17:19:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
