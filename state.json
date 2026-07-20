@@ -14,9 +14,9 @@
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "low_on_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -515,8 +515,8 @@
    "sizes": {
     "S": "in_stock",
     "M": "in_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "L": "low_on_stock",
+    "XL": "in_stock"
    }
   },
   "16041710-624": {
@@ -550,7 +550,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "coming_soon",
     "L": "coming_soon",
     "XL": "coming_soon"
    }
@@ -569,8 +569,8 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "in_stock",
+    "S": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -588,7 +588,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "coming_soon",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -648,9 +648,9 @@
    "image": "https://static.zara.net/assets/public/cd16/1cf9/a7a346ada6b3/431e2ce8de5f/05063365717-p/05063365717-p.jpg?ts=1775741085421&w=800",
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
-    "S": "in_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "S": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "03641015-653": {
@@ -666,9 +666,9 @@
    "image": "https://static.zara.net/assets/public/ea74/97c8/135242349465/68c80f4236e4/03641015653-015-p/03641015653-015-p.jpg?ts=1781768369885&w=800",
    "url": "https://www.zara.com/tr/tr/krepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "out_of_stock"
+    "S": "coming_soon",
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "03641399-803": {
@@ -684,9 +684,9 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -702,8 +702,8 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "in_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -758,9 +758,9 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "in_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "S": "coming_soon",
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -851,8 +851,8 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
-    "XL": "low_on_stock"
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -869,8 +869,8 @@
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -888,7 +888,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -907,7 +907,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -987,7 +987,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1048,11 +1048,11 @@
    "url": "https://www.zara.com/tr/tr/hello-kitty-and-friends---sanrio-araba-t-shirt-p07878560.html?v1=507744711",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "07878599-620": {
@@ -1134,7 +1134,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1231,7 +1231,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "low_on_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1316,7 +1316,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1532,8 +1532,8 @@
    "image": "https://static.zara.net/assets/public/070d/761e/0a6e4894a9a3/f083ef8120bc/02335555973-e1/02335555973-e1.jpg?ts=1766501539066&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-t-shirt-p02335555.html?v1=495702831",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -1575,7 +1575,7 @@
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -1618,10 +1618,10 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "02142263-922": {
@@ -1716,7 +1716,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-19 18:50:01",
+ "last_check": "2026-07-20 06:05:00",
  "source_failures": {},
  "tg_offset": 4899726
 }
