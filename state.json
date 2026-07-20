@@ -15,10 +15,10 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
     "32": "low_on_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "coming_soon",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
    }
@@ -326,7 +326,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -514,7 +514,7 @@
    "url": "https://www.zara.com/tr/tr/fitilli-t-shirt-p04174040.html?v1=497593015",
    "sizes": {
     "S": "in_stock",
-    "M": "low_on_stock",
+    "M": "in_stock",
     "L": "low_on_stock",
     "XL": "in_stock"
    }
@@ -550,7 +550,7 @@
    "sizes": {
     "XS": "in_stock",
     "S": "low_on_stock",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "coming_soon",
     "XL": "coming_soon"
    }
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -668,7 +668,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641399-803": {
@@ -686,7 +686,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "01131008-251": {
@@ -703,7 +703,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
     "S": "low_on_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "low_on_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16049710-253": {
@@ -810,7 +810,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "coming_soon"
    }
@@ -909,7 +909,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "coming_soon",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "16315710-400": {
@@ -1094,7 +1094,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "00122554-712": {
@@ -1398,7 +1398,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1576,7 +1576,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1697,7 +1697,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1715,7 +1715,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 07:19:49",
+ "last_check": "2026-07-20 07:34:57",
  "source_failures": {},
  "tg_offset": 4899726
 }
