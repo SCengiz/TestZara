@@ -37,7 +37,7 @@
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -459,7 +459,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "04369044-916": {
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock"
    }
   },
@@ -702,7 +702,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -851,8 +851,8 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "L": "in_stock",
+    "XL": "in_stock"
    }
   },
   "04174001-706": {
@@ -1370,9 +1370,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 499999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 32,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 09:49:50",
+ "last_check": "2026-07-20 10:05:00",
  "source_failures": {},
  "tg_offset": 4899726
 }
