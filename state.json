@@ -569,7 +569,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-kisa-paca-pantolon-p01929400.html?v1=522389595",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 06:05:00",
+ "last_check": "2026-07-20 06:19:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
