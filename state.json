@@ -17,7 +17,7 @@
     "32": "low_on_stock",
     "34": "low_on_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock"
@@ -324,7 +324,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -514,8 +514,8 @@
    "url": "https://www.zara.com/tr/tr/fitilli-t-shirt-p04174040.html?v1=497593015",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
-    "L": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "low_on_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "low_on_stock"
    }
   },
@@ -758,7 +758,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "low_on_stock"
    }
@@ -829,7 +829,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -986,10 +986,10 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "5 yaş (110 cm)": "low_on_stock",
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "05767514-712": {
@@ -1370,9 +1370,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 499999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 32,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-37071421-01": {
@@ -1465,7 +1465,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1618,8 +1618,8 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "3 yaş (98 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "in_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 06:36:45",
+ "last_check": "2026-07-20 06:50:01",
  "source_failures": {},
  "tg_offset": 4899726
 }
