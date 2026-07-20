@@ -264,7 +264,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -325,7 +325,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -495,7 +495,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -869,7 +869,7 @@
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -888,7 +888,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1405,7 +1405,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-37071421-01": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 16:34:55",
+ "last_check": "2026-07-20 16:49:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
