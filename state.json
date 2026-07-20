@@ -16,7 +16,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "low_on_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "coming_soon",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -100,8 +100,8 @@
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -182,7 +182,7 @@
    "image": "https://static.zara.net/assets/public/9972/bc22/56bc4aa68a19/f1c350190d06/01905041422-p/01905041422-p.jpg?ts=1778601298364&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -222,10 +222,10 @@
    "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
    "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "in_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -588,7 +588,7 @@
    "image": "https://static.zara.net/assets/public/4ddc/268e/f9d74ec2a4b8/41b51dbd2033/05039380667-p/05039380667-p.jpg?ts=1773253373407&w=800",
    "url": "https://www.zara.com/tr/tr/askili-dokumlu-midi-elbise-p05039380.html?v1=495712132",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "coming_soon",
     "M": "low_on_stock",
     "L": "out_of_stock"
    }
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -850,9 +850,9 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "low_on_stock",
-    "XL": "out_of_stock"
+    "M": "out_of_stock",
+    "L": "in_stock",
+    "XL": "in_stock"
    }
   },
   "04174001-706": {
@@ -925,7 +925,7 @@
    "image": "https://static.zara.net/assets/public/535f/294c/3e5a46c4b4fe/65971cdce05a/16315710400-p/16315710400-p.jpg?ts=1776870952168&w=800",
    "url": "https://www.zara.com/tr/tr/mini-tote-canta-p16315710.html?v1=509626450",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "coming_soon"
    }
   },
   "06318038-700": {
@@ -987,9 +987,9 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "in_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "in_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "05767514-712": {
@@ -1532,7 +1532,7 @@
    "image": "https://static.zara.net/assets/public/070d/761e/0a6e4894a9a3/f083ef8120bc/02335555973-e1/02335555973-e1.jpg?ts=1766501539066&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-t-shirt-p02335555.html?v1=495702831",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1617,9 +1617,9 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025187",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "coming_soon",
+    "2 yaş (92 cm)": "in_stock",
+    "3 yaş (98 cm)": "in_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -1697,7 +1697,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1715,7 +1715,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 12:20:05",
+ "last_check": "2026-07-20 12:34:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
