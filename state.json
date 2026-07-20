@@ -14,7 +14,7 @@
    "image": "https://static.zara.net/assets/public/c64b/cb7c/e7a54cd8b3e3/c8b186f00b62/05862081445-p/05862081445-p.jpg?ts=1774441984142&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=535950814",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "coming_soon",
@@ -549,10 +549,10 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
    "sizes": {
     "XS": "in_stock",
-    "S": "low_on_stock",
-    "M": "coming_soon",
-    "L": "coming_soon",
-    "XL": "coming_soon"
+    "S": "in_stock",
+    "M": "in_stock",
+    "L": "low_on_stock",
+    "XL": "in_stock"
    }
   },
   "01929400-737": {
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "low_on_stock"
    }
   },
@@ -758,7 +758,7 @@
    "image": "https://static.zara.net/assets/public/f331/2fe4/5fc7463e8e24/83c073d982b1/03641392700-p/03641392700-p.jpg?ts=1773920697653&w=800",
    "url": "https://www.zara.com/tr/tr/askili-asimetrik-elbise-p03641392.html?v1=508158982",
    "sizes": {
-    "S": "coming_soon",
+    "S": "in_stock",
     "M": "low_on_stock",
     "L": "out_of_stock"
    }
@@ -1486,7 +1486,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
    "sizes": {
-    "32": "coming_soon",
+    "32": "in_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1621,7 +1621,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "02142263-922": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 09:19:52",
+ "last_check": "2026-07-20 09:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
