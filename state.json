@@ -38,7 +38,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -704,7 +704,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "01067007-250": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 15:19:58",
+ "last_check": "2026-07-21 15:34:52",
  "source_failures": {},
  "tg_offset": 4899726
 }
