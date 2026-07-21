@@ -668,7 +668,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "in_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "03641399-803": {
@@ -685,8 +685,8 @@
    "url": "https://www.zara.com/tr/tr/sleeveless-seamed-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "low_on_stock"
+    "M": "low_on_stock",
+    "L": "out_of_stock"
    }
   },
   "01131008-251": {
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/stretch-lace-short-dress-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -811,7 +811,7 @@
    "url": "https://www.zara.com/tr/tr/asymmetric-textured-dress-p04813312.html?v1=506043029",
    "sizes": {
     "S": "coming_soon",
-    "M": "low_on_stock",
+    "M": "coming_soon",
     "L": "coming_soon"
    }
   },
@@ -850,9 +850,9 @@
    "url": "https://www.zara.com/tr/tr/asymmetric-hem-knit-jumper-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "M": "out_of_stock",
+    "L": "low_on_stock",
+    "XL": "low_on_stock"
    }
   },
   "04174001-706": {
@@ -1660,8 +1660,8 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "L": "in_stock",
+    "XL": "in_stock"
    }
   },
   "02142161-712": {
@@ -1910,7 +1910,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:34:34",
+ "last_check": "2026-07-21 18:39:33",
  "source_failures": {},
  "tg_offset": 4899727
 }
