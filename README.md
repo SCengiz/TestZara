@@ -132,7 +132,7 @@ sunuculara göre bot korumasında daha az şüpheli görülür. İki yöntem var
 git clone https://github.com/SCengiz/TestZara.git ~/zara-watcher
 cd ~/zara-watcher
 sudo apt install -y python3-requests
-cp .env.example .env           # token, chat id ve CHECK_INTERVAL_MIN=2.5 girin
+cp .env.example .env           # token, chat id ve CHECK_INTERVAL_MIN/MAX girin
 python3 checker.py --test
 sudo cp deploy/zara-watcher-loop.service /etc/systemd/system/
 sudo sed -i "s#/home/pi/zara-watcher#$(pwd)#; s/User=pi/User=$(whoami)/" \
