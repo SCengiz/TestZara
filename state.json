@@ -63,7 +63,7 @@
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
-    "44": "out_of_stock",
+    "44": "in_stock",
     "46": "out_of_stock"
    }
   },
@@ -262,9 +262,9 @@
    "image": "https://static.zara.net/assets/public/911f/69d6/f47940d0aaac/18f3adcbffad/02469631070-p/02469631070-p.jpg?ts=1771596232747&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -888,8 +888,8 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "coming_soon",
-    "M": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1231,7 +1231,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "low_on_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 07:34:54",
+ "last_check": "2026-07-21 07:49:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
