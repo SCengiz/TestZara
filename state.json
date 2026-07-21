@@ -16,7 +16,7 @@
    "sizes": {
     "25 (US 0)": "in_stock",
     "26 (US 2)": "out_of_stock",
-    "27 (US 4)": "out_of_stock",
+    "27 (US 4)": "low_on_stock",
     "28 (US 6)": "out_of_stock",
     "29 (US 8)": "out_of_stock",
     "30 (US 10)": "out_of_stock",
@@ -551,7 +551,7 @@
     "XS": "in_stock",
     "S": "in_stock",
     "M": "in_stock",
-    "L": "coming_soon",
+    "L": "low_on_stock",
     "XL": "in_stock"
    }
   },
@@ -667,7 +667,7 @@
    "url": "https://www.zara.com/tr/tr/crepe-halter-top-p03641015.html?v1=507738827",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "in_stock",
     "L": "low_on_stock"
    }
   },
@@ -686,7 +686,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/stretch-lace-short-dress-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -811,7 +811,7 @@
    "url": "https://www.zara.com/tr/tr/asymmetric-textured-dress-p04813312.html?v1=506043029",
    "sizes": {
     "S": "coming_soon",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "coming_soon"
    }
   },
@@ -850,9 +850,9 @@
    "url": "https://www.zara.com/tr/tr/asymmetric-hem-knit-jumper-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "04174001-706": {
@@ -944,7 +944,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "in_stock"
    }
   },
@@ -966,7 +966,7 @@
     "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
     "29 (US 8)": "out_of_stock",
-    "30 (US 10)": "in_stock",
+    "30 (US 10)": "out_of_stock",
     "31 (US 12)": "out_of_stock",
     "32 (US 14)": "out_of_stock"
    }
@@ -1464,7 +1464,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-mid-rise-cropped-flare-jeans-p06840064.html?v1=526754142",
    "sizes": {
     "25 (US 0)": "out_of_stock",
-    "26 (US 2)": "out_of_stock",
+    "26 (US 2)": "in_stock",
     "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
     "29 (US 8)": "out_of_stock",
@@ -1660,8 +1660,8 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
-    "XL": "in_stock"
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "02142161-712": {
@@ -1910,7 +1910,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:29:31",
+ "last_check": "2026-07-21 18:34:34",
  "source_failures": {},
  "tg_offset": 4899727
 }
