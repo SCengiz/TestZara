@@ -16,7 +16,7 @@
    "sizes": {
     "25 (US 0)": "in_stock",
     "26 (US 2)": "out_of_stock",
-    "27 (US 4)": "low_on_stock",
+    "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
     "29 (US 8)": "out_of_stock",
     "30 (US 10)": "out_of_stock",
@@ -685,8 +685,8 @@
    "url": "https://www.zara.com/tr/tr/sleeveless-seamed-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock"
+    "M": "out_of_stock",
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/stretch-lace-short-dress-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -811,7 +811,7 @@
    "url": "https://www.zara.com/tr/tr/asymmetric-textured-dress-p04813312.html?v1=506043029",
    "sizes": {
     "S": "coming_soon",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "coming_soon"
    }
   },
@@ -831,7 +831,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock",
     "XXL": "low_on_stock"
    }
@@ -851,7 +851,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "low_on_stock"
    }
   },
@@ -869,7 +869,7 @@
    "url": "https://www.zara.com/tr/tr/high-collar-sleeveless-top-p04174001.html?v1=517261860",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -944,7 +944,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "in_stock"
    }
   },
@@ -964,7 +964,7 @@
     "25 (US 0)": "out_of_stock",
     "26 (US 2)": "out_of_stock",
     "27 (US 4)": "out_of_stock",
-    "28 (US 6)": "out_of_stock",
+    "28 (US 6)": "in_stock",
     "29 (US 8)": "out_of_stock",
     "30 (US 10)": "out_of_stock",
     "31 (US 12)": "out_of_stock",
@@ -1463,13 +1463,13 @@
    "image": "https://static.zara.net/assets/public/0a74/413b/9fdd43a699aa/8f543e044270/08246065401-p/08246065401-p.jpg?ts=1777364106014&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-mid-rise-cropped-flare-jeans-p06840064.html?v1=526754142",
    "sizes": {
-    "25 (US 0)": "out_of_stock",
-    "26 (US 2)": "in_stock",
+    "25 (US 0)": "in_stock",
+    "26 (US 2)": "low_on_stock",
     "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
-    "29 (US 8)": "out_of_stock",
-    "30 (US 10)": "out_of_stock",
-    "31 (US 12)": "out_of_stock",
+    "29 (US 8)": "in_stock",
+    "30 (US 10)": "in_stock",
+    "31 (US 12)": "in_stock",
     "32 (US 14)": "out_of_stock"
    }
   },
@@ -1697,7 +1697,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/combination-knit-jumper-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "coming_soon",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1901,7 +1901,7 @@
    "image": "https://static.zara.net/assets/public/ace7/efa8/1c61487ea2c9/9f013469f32e/09598500712-e1/09598500712-e1.jpg?ts=1766051460608&w=800",
    "url": "https://www.zara.com/tr/tr/ajurlu-cicek-islemeli-triko-hirka-p09598500.html?v1=495694253",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1910,7 +1910,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:39:33",
+ "last_check": "2026-07-21 18:44:31",
  "source_failures": {},
  "tg_offset": 4899727
 }
