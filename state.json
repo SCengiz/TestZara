@@ -61,7 +61,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -325,7 +325,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -608,7 +608,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "low_on_stock"
    }
   },
@@ -702,7 +702,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "low_on_stock"
    }
@@ -829,7 +829,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "coming_soon",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -849,7 +849,7 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "low_on_stock"
@@ -988,8 +988,8 @@
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "05767514-712": {
@@ -1465,7 +1465,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1661,7 +1661,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "02142161-712": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 14:34:54",
+ "last_check": "2026-07-21 14:49:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
