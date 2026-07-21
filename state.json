@@ -59,8 +59,8 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
-    "38": "low_on_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -685,7 +685,7 @@
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "low_on_stock"
    }
   },
@@ -810,7 +810,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "coming_soon",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "coming_soon"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 13:49:54",
+ "last_check": "2026-07-21 14:04:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
