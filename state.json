@@ -61,7 +61,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -668,7 +668,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "03641399-803": {
@@ -794,7 +794,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "04813312-712": {
@@ -852,7 +852,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "04174001-706": {
@@ -1621,7 +1621,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "02142263-922": {
@@ -1681,7 +1681,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "coming_soon"
+    "XL": "low_on_stock"
    }
   },
   "02142028-519": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 10:34:50",
+ "last_check": "2026-07-21 10:49:53",
  "source_failures": {},
  "tg_offset": 4899726
 }
