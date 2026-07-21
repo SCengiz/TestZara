@@ -68,7 +68,18 @@
 
 <script>
 const REPO = "SCengiz/TestZara";
-const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
+// raw.githubusercontent.com'un CDN önbelleği push'tan sonra dakikalarca
+// (bazen daha uzun) eski veri döndürebiliyor. GitHub'ın kendi Contents
+// API'si bunu yaşamıyor, doğrudan onu kullanıyoruz (kişisel kullanımda
+// saatte 60 istek sınırı sorun olmaz).
+const API = `https://api.github.com/repos/${REPO}/contents/`;
+async function fetchJsonFresh(path) {
+  const r = await fetch(API + path + "?ref=main", {
+    headers: { "Accept": "application/vnd.github.raw" },
+  });
+  if (!r.ok) throw r.status;
+  return r.json();
+}
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
 
@@ -160,10 +171,9 @@ async function main() {
   const app = document.getElementById("app");
   let watchlist, state;
   try {
-    const bust = "?t=" + Date.now();
     [watchlist, state] = await Promise.all([
-      fetch(RAW + "watchlist.json" + bust).then(r => { if (!r.ok) throw r.status; return r.json(); }),
-      fetch(RAW + "state.json" + bust).then(r => r.ok ? r.json() : {}),
+      fetchJsonFresh("watchlist.json"),
+      fetchJsonFresh("state.json").catch(() => ({})),
     ]);
   } catch (e) {
     document.getElementById("err").style.display = "block";
