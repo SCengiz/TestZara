@@ -570,7 +570,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -868,7 +868,7 @@
    "image": "https://static.zara.net/assets/public/3e29/f859/0c76446a96f2/4716f554c288/04174001706-p/04174001706-p.jpg?ts=1769603285026&w=800",
    "url": "https://www.zara.com/tr/tr/dik-yaka-kolsuz-top-p04174001.html?v1=517261860",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -925,7 +925,7 @@
    "image": "https://static.zara.net/assets/public/535f/294c/3e5a46c4b4fe/65971cdce05a/16315710400-p/16315710400-p.jpg?ts=1776870952168&w=800",
    "url": "https://www.zara.com/tr/tr/mini-tote-canta-p16315710.html?v1=509626450",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "coming_soon"
    }
   },
   "06318038-700": {
@@ -986,10 +986,10 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "05767514-712": {
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1398,7 +1398,7 @@
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 17:05:02",
+ "last_check": "2026-07-21 17:19:57",
  "source_failures": {},
  "tg_offset": 4899726
 }
