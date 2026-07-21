@@ -972,6 +972,43 @@ def warn_dead_sources(env, state, watchlist, dry_run):
                 log.error("Uyarı gönderilemedi: %s", exc)
 
 
+def read_cpu_temp_c():
+    """Pi/Linux CPU sıcaklığı (°C). Okunamazsa None döner (Pi değilse,
+    GitHub Actions/Mac gibi ortamlarda bu dosya yoktur — fail-open)."""
+    try:
+        with open("/sys/class/thermal/thermal_zone0/temp") as f:
+            return int(f.read().strip()) / 1000.0
+    except Exception:
+        return None
+
+
+def check_temperature(env, state):
+    """Sıcaklık TEMP_PAUSE_C üzerindeyse False döner (o turda stok kontrolü
+    atlanır). TEMP_WARN_C aşılınca bir kez Telegram uyarısı gönderir
+    (histerezisli: -5°C altına düşünce tekrar tetiklenebilir hale gelir).
+    Sıcaklık okunamıyorsa (Pi değilse) her zaman True — hiç etkisi olmaz."""
+    temp = read_cpu_temp_c()
+    if temp is None:
+        return True
+    warn_c = float(env.get("TEMP_WARN_C", "75"))
+    pause_c = float(env.get("TEMP_PAUSE_C", "80"))
+    if temp >= warn_c and not state.get("_temp_alerted"):
+        state["_temp_alerted"] = True
+        try:
+            send_telegram(env, f"🌡️ Uyarı: Raspberry Pi sıcaklığı {temp:.1f}°C'ye "
+                               f"ulaştı (eşik: {warn_c:.0f}°C). Havalandırmayı/"
+                               "soğutmayı kontrol edin.", disable_preview=True)
+        except RuntimeError:
+            log.warning("Sıcaklık uyarısı gönderilemedi")
+    elif temp < warn_c - 5:
+        state["_temp_alerted"] = False
+    if temp >= pause_c:
+        log.warning("Sıcaklık %.1f°C (eşik %.0f°C) — güvenlik için bu turda "
+                    "stok kontrolü atlanıyor", temp, pause_c)
+        return False
+    return True
+
+
 def in_quiet_hours(config):
     """config.quiet_hours {"start": 23, "end": 9} tanımlıysa o saat aralığında
     (gece yarısını aşan aralıklar dahil) True döner. Saat dilimi okunamazsa
@@ -1040,6 +1077,9 @@ def run_check(config, env, dry_run=False):
                  qh["start"], qh["end"])
         return 0
     state = load_state()
+    if not check_temperature(env, state):
+        save_state(state)  # _temp_alerted bayrağı değişmiş olabilir
+        return 0
     watchlist = load_watchlist(config)
     first_run = "products" not in state
     previous = dict(state.get("products", {}))

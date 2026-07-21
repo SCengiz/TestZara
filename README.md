@@ -147,6 +147,16 @@ kontrolü, örn. tam 2.5 dk için `OnUnitActiveSec=2min 30s`):* `deploy/zara-wat
 + `deploy/zara-watcher.timer` dosyalarını örnek alıp `OnUnitActiveSec`'i
 istediğiniz değere ayarlayın.
 
+🌡️ **Sıcaklık güvenliği:** Kod her turda Pi'nin CPU sıcaklığını okur
+(`/sys/class/thermal/thermal_zone0/temp` — Pi'ye özgü, başka bir makinede
+bu ayarların hiçbir etkisi olmaz). `TEMP_WARN_C` (varsayılan 75°C) aşılınca
+gruba bir kez uyarı gönderilir; `TEMP_PAUSE_C` (varsayılan 80°C) aşılınca
+o turda Zara/Mango'ya hiç istek atılmadan kontrol atlanır. Not: Pi'nin
+kendi firmware'i zaten ~80-85°C civarında donanımsal olarak CPU hızını
+otomatik düşürüyor (kalıcı hasarı önlemek için üretici tasarımı) — bu
+özellik ek bir erken uyarı/güvenlik katmanı, gerçek soğutmanın yerini
+tutmaz. Cihaz kasasız/soğutucusuz çalışıyorsa uygun havalandırma şarttır.
+
 ⚠️ **Çift çalıştırmayı önleyin:** Pi devreye girince bulut tarafındaki
 tetikleyiciyi (Google Apps Script → Tetikleyiciler → `tetikle` satırını silin,
 veya GitHub Actions workflow'unu Settings → Actions'tan Disable edin)

@@ -1911,5 +1911,6 @@
  },
  "last_check": "2026-07-21 22:44:32",
  "source_failures": {},
- "tg_offset": 4899727
+ "tg_offset": 4899727,
+ "_temp_alerted": true
 }
