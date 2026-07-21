@@ -1,0 +1,15 @@
+[Unit]
+Description=Zara/Mango stok takip botu (surekli calisan mod)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/pi/zara-watcher
+ExecStart=/usr/bin/python3 checker.py --loop
+Restart=always
+RestartSec=15
+User=pi
+
+[Install]
+WantedBy=multi-user.target

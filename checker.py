@@ -28,6 +28,7 @@ import random
 import re
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -970,7 +971,31 @@ def warn_dead_sources(env, state, watchlist, dry_run):
                 log.error("Uyarı gönderilemedi: %s", exc)
 
 
+def in_quiet_hours(config):
+    """config.quiet_hours {"start": 23, "end": 9} tanımlıysa o saat aralığında
+    (gece yarısını aşan aralıklar dahil) True döner. Saat dilimi okunamazsa
+    güvenli tarafta kal: gece modunu atla, normal çalış (fail open)."""
+    qh = config.get("quiet_hours")
+    start, end = (qh or {}).get("start"), (qh or {}).get("end")
+    if start is None or end is None:
+        return False
+    try:
+        from zoneinfo import ZoneInfo
+        hour = datetime.now(ZoneInfo("Europe/Istanbul")).hour
+    except Exception as exc:
+        log.warning("Saat dilimi okunamadı (%s) — gece modu atlanıyor", exc)
+        return False
+    if start <= end:
+        return start <= hour < end
+    return hour >= start or hour < end  # 23-09 gibi gece yarısını aşan aralık
+
+
 def run_check(config, env, dry_run=False):
+    if in_quiet_hours(config):
+        qh = config["quiet_hours"]
+        log.info("Sessiz saatler (%02d:00-%02d:00) — kontrol atlanıyor",
+                 qh["start"], qh["end"])
+        return 0
     state = load_state()
     watchlist = load_watchlist(config)
     first_run = "products" not in state
@@ -1096,9 +1121,9 @@ def main():
         return 0
 
     if args.loop:
-        interval = max(15, int(env.get("CHECK_INTERVAL_MIN", "20"))) * 60
-        log.info("Döngü modu: stok kontrolü her %d dk, komutlar her 60 sn",
-                 interval // 60)
+        interval = max(60, float(env.get("CHECK_INTERVAL_MIN", "5")) * 60)
+        log.info("Döngü modu: stok kontrolü her %.1f dk, komutlar her 60 sn",
+                 interval / 60)
         last_check = 0.0
         while True:
             try:

@@ -103,23 +103,55 @@ cd ~/zara-watcher
 python3 -m pip install requests
 cp .env.example .env        # token ve chat id'yi girin
 python3 checker.py --test   # Telegram testi
-python3 checker.py --loop   # sürekli çalışır: komutlar 60 sn, stok 20 dk
+python3 checker.py --loop   # sürekli çalışır: komutlar 60 sn, stok CHECK_INTERVAL_MIN'de bir
 ```
-Terminali kapatınca da çalışsın ve Mac açılınca kendiliğinden başlasın
-isterseniz `deploy/com.zara-watcher.plist` dosyasının içindeki 2 yolu kendi
-kullanıcı adınıza göre düzeltip:
+`.env` içindeki `CHECK_INTERVAL_MIN` küsuratlı da olabilir (`2.5` gibi);
+taban 1 dakikadır. Terminali kapatınca da çalışsın ve Mac açılınca
+kendiliğinden başlasın isterseniz `deploy/com.zara-watcher.plist`
+dosyasının içindeki 2 yolu kendi kullanıcı adınıza göre düzeltip:
 ```bash
 cp deploy/com.zara-watcher.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/com.zara-watcher.plist
 ```
 Notlar:
 - `--loop` modunda grup komutlarına (~1 dk içinde) **anlık yanıt** verilir;
-  stok kontrolü yine 20 dk'da birdir.
+  stok kontrolü `CHECK_INTERVAL_MIN`'de birdir.
 - Mac **uykuya dalarsa** bot da durur; kapaklı MacBook'ta güç adaptörüne
   takılıyken "Prevent automatic sleeping" açık olmalı (System Settings →
   Battery → Options) veya Amphetamine benzeri bir uygulama kullanın.
 - Aynı anda GitHub Actions da çalışıyorsa bildirimler **iki kez** gelir —
   Mac'e geçtiğinizde Actions'taki workflow'u kapatın (aşağıya bakın).
+
+**Seçenek B3 — Raspberry Pi (kendi eviniz, 7/24, uyumaz):**
+
+Pi zaten kesintisiz çalışmak için tasarlanmış; ev interneti de bulut
+sunuculara göre bot korumasında daha az şüpheli görülür. İki yöntem var:
+
+*Yöntem 1 — `--loop` (tek süreç, grup komutlarına anlık yanıt dahil, önerilen):*
+```bash
+git clone https://github.com/SCengiz/TestZara.git ~/zara-watcher
+cd ~/zara-watcher
+sudo apt install -y python3-requests
+cp .env.example .env           # token, chat id ve CHECK_INTERVAL_MIN=2.5 girin
+python3 checker.py --test
+sudo cp deploy/zara-watcher-loop.service /etc/systemd/system/
+sudo sed -i "s#/home/pi/zara-watcher#$(pwd)#; s/User=pi/User=$(whoami)/" \
+  /etc/systemd/system/zara-watcher-loop.service
+sudo systemctl daemon-reload
+sudo systemctl enable --now zara-watcher-loop
+journalctl -u zara-watcher-loop -f     # canlı log
+```
+
+*Yöntem 2 — systemd timer (tek seferlik `checker.py` + dışarıdan tam aralık
+kontrolü, örn. tam 2.5 dk için `OnUnitActiveSec=2min 30s`):* `deploy/zara-watcher.service`
++ `deploy/zara-watcher.timer` dosyalarını örnek alıp `OnUnitActiveSec`'i
+istediğiniz değere ayarlayın.
+
+⚠️ **Çift çalıştırmayı önleyin:** Pi devreye girince bulut tarafındaki
+tetikleyiciyi (Google Apps Script → Tetikleyiciler → `tetikle` satırını silin,
+veya GitHub Actions workflow'unu Settings → Actions'tan Disable edin)
+durdurun — yoksa aynı anda iki yerden çalışıp state çakışması ve çift
+bildirim olur.
 
 **Seçenek C — GitHub Actions (7/24 açık makineniz yoksa):**
 1. Bu klasörü **private** bir GitHub reposuna push'layın
@@ -135,6 +167,7 @@ Notlar:
 |---|---|
 | `wishlist_url` | Takip edilecek paylaşılan favori listesi linki |
 | `notify_low_on_stock` | `true`: "az sayıda ürün" durumu da bildirilsin (varsayılan) |
+| `quiet_hours` | `{"start":23,"end":9}` gibi — bu saatler arasında hiçbir kontrol yapılmaz, Zara/Mango'ya hiç istek gitmez. Tanımlı değilse (varsayılan) 7/24 çalışır. **Hangi yöntemle çalıştırırsanız çalıştırın** (GitHub Actions, Google Apps Script, Pi) aynı şekilde uygulanır — merkezi, tek yerde. |
 | `limits` | Cinsiyete göre beden üst sınırları (aşağıda) |
 | `size_filters` | Ürün bazında istisna — `limits`'i ezer (aşağıda) |
 
