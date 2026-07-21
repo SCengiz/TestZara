@@ -264,7 +264,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -829,7 +829,7 @@
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -907,7 +907,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -986,9 +986,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1619,7 +1619,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "coming_soon",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 09:04:51",
+ "last_check": "2026-07-21 09:19:51",
  "source_failures": {},
  "tg_offset": 4899726
 }
