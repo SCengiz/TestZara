@@ -1661,7 +1661,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "02142161-712": {
@@ -1698,7 +1698,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
     "S": "coming_soon",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 06:34:46",
+ "last_check": "2026-07-21 06:49:56",
  "source_failures": {},
  "tg_offset": 4899726
 }
