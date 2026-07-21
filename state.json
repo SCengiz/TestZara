@@ -515,7 +515,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -571,7 +571,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -686,7 +686,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/stretch-lace-short-dress-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -832,7 +832,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "in_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -907,8 +907,8 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/fitted-midi-dress-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "coming_soon",
+    "S": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -964,7 +964,7 @@
     "25 (US 0)": "out_of_stock",
     "26 (US 2)": "out_of_stock",
     "27 (US 4)": "out_of_stock",
-    "28 (US 6)": "in_stock",
+    "28 (US 6)": "out_of_stock",
     "29 (US 8)": "out_of_stock",
     "30 (US 10)": "out_of_stock",
     "31 (US 12)": "out_of_stock",
@@ -986,7 +986,7 @@
    "sizes": {
     "1½ years (33,9 INCHES)": "in_stock",
     "2 years (36,2 INCHES)": "out_of_stock",
-    "3 years (38,6 INCHES)": "out_of_stock",
+    "3 years (38,6 INCHES)": "in_stock",
     "4 years (40,9 INCHES)": "in_stock",
     "5 years (43,3 INCHES)": "out_of_stock",
     "6 years (45,2 INCHES)": "out_of_stock"
@@ -1463,13 +1463,13 @@
    "image": "https://static.zara.net/assets/public/0a74/413b/9fdd43a699aa/8f543e044270/08246065401-p/08246065401-p.jpg?ts=1777364106014&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-mid-rise-cropped-flare-jeans-p06840064.html?v1=526754142",
    "sizes": {
-    "25 (US 0)": "in_stock",
-    "26 (US 2)": "in_stock",
+    "25 (US 0)": "out_of_stock",
+    "26 (US 2)": "out_of_stock",
     "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
-    "29 (US 8)": "in_stock",
-    "30 (US 10)": "in_stock",
-    "31 (US 12)": "in_stock",
+    "29 (US 8)": "out_of_stock",
+    "30 (US 10)": "out_of_stock",
+    "31 (US 12)": "out_of_stock",
     "32 (US 14)": "out_of_stock"
    }
   },
@@ -1680,7 +1680,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "in_stock"
    }
   },
@@ -1697,7 +1697,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/combination-knit-jumper-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1910,7 +1910,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:49:33",
+ "last_check": "2026-07-21 18:54:34",
  "source_failures": {},
  "tg_offset": 4899727
 }
