@@ -570,7 +570,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -907,7 +907,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "coming_soon",
     "L": "out_of_stock"
    }
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 16:19:49",
+ "last_check": "2026-07-21 16:34:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
