@@ -991,6 +991,48 @@ def in_quiet_hours(config):
     return hour >= start or hour < end  # 23-09 gibi gece yarısını aşan aralık
 
 
+GITHUB_PUSH_URL = "https://github.com/SCengiz/TestZara.git"
+
+
+def git_sync_state(env):
+    """.env'de GITHUB_PUSH_TOKEN tanımlıysa state.json/watchlist.json
+    değişikliklerini GitHub'a push eder (panelin canlı kalması için).
+
+    Git deposu değilse, token yoksa veya gerçekten bir değişiklik yoksa
+    sessizce hiçbir şey yapmaz. Push başarısız olursa botun geri kalanını
+    etkilemez, sadece log'a uyarı yazar.
+    """
+    token = env.get("GITHUB_PUSH_TOKEN")
+    if not token or not (BASE_DIR / ".git").exists():
+        return
+    import subprocess
+
+    def run(args):
+        return subprocess.run(args, cwd=BASE_DIR, capture_output=True,
+                              text=True, timeout=30)
+
+    try:
+        run(["git", "add", "state.json", "watchlist.json"])
+        if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+            return  # değişiklik yok
+        run(["git", "-c", "user.name=zara-watcher-bot",
+             "-c", "user.email=bot@users.noreply.github.com",
+             "commit", "-m", "state update (Pi)"])
+        pull = run(["git", "pull", "--rebase", "origin", "main"])
+        if pull.returncode != 0:
+            log.warning("git pull --rebase başarısız: %s", pull.stderr.strip()[:300])
+            run(["git", "rebase", "--abort"])
+            return
+        auth_url = GITHUB_PUSH_URL.replace("https://", f"https://{token}@")
+        push = run(["git", "push", auth_url, "HEAD:main"])
+        if push.returncode != 0:
+            log.warning("git push başarısız: %s", push.stderr.strip()[:300])
+        else:
+            log.debug("state.json/watchlist.json GitHub'a push edildi")
+    except Exception as exc:
+        log.warning("Git senkronizasyonu başarısız (yoksayılıyor): %s", exc)
+
+
 def run_check(config, env, dry_run=False):
     if in_quiet_hours(config):
         qh = config["quiet_hours"]
@@ -1073,6 +1115,8 @@ def run_check(config, env, dry_run=False):
     state["products"] = {k: v for k, v in merged.items() if k in tracked_keys}
     state["last_check"] = time.strftime("%Y-%m-%d %H:%M:%S")
     save_state(state)
+    if not dry_run:
+        git_sync_state(env)
     return 0
 
 
@@ -1142,10 +1186,13 @@ def main():
                     state = load_state()
                     watchlist = load_watchlist(config)
                     offset_before = state.get("tg_offset")
-                    if poll_group_messages(env, config, state, watchlist):
+                    wl_changed = poll_group_messages(env, config, state, watchlist)
+                    if wl_changed:
                         save_watchlist(watchlist)
                     if state.get("tg_offset") != offset_before:
                         save_state(state)
+                    if wl_changed:
+                        git_sync_state(env)  # /ekle vb. panelde hemen görünsün
             except Exception:
                 log.exception("Beklenmeyen hata — döngü devam ediyor")
             time.sleep(5)

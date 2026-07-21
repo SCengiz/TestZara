@@ -153,6 +153,25 @@ veya GitHub Actions workflow'unu Settings → Actions'tan Disable edin)
 durdurun — yoksa aynı anda iki yerden çalışıp state çakışması ve çift
 bildirim olur.
 
+*Panelin (GitHub Pages) Pi'deki gerçek durumu canlı göstermesi için*
+(isteğe bağlı — yapılmazsa bot yine çalışır, sadece panel güncellenmez):
+
+1. https://github.com/settings/personal-access-tokens/new → **Fine-grained
+   token** → Repository access: **Only select repositories** → `TestZara` →
+   Permissions → Repository permissions → **Contents: Read and write** →
+   **Generate token** → çıkan `github_pat_...` değerini kopyalayın
+2. Pi'de `.env` dosyasına ekleyin:
+   ```
+   GITHUB_PUSH_TOKEN=github_pat_...buraya...
+   ```
+3. Servisi yeniden başlatın: `sudo systemctl restart zara-watcher-loop`
+
+Bundan sonra her stok kontrolünde ve her `/ekle`/`/zara_listeN` komutunda
+`state.json`/`watchlist.json` otomatik GitHub'a push edilir, panel Pi'deki
+gerçek durumu (birkaç dakika `raw.githubusercontent.com` önbellek gecikmesi
+hariç) yansıtır. `GITHUB_PUSH_TOKEN` boş bırakılırsa bu adım tamamen
+atlanır, hiçbir hataya yol açmaz.
+
 **Seçenek C — GitHub Actions (7/24 açık makineniz yoksa):**
 1. Bu klasörü **private** bir GitHub reposuna push'layın
 2. Repo → Settings → Secrets and variables → Actions altına
