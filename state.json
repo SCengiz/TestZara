@@ -59,8 +59,8 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
+    "36": "low_on_stock",
+    "38": "low_on_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -704,7 +704,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01067007-250": {
@@ -851,7 +851,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "low_on_stock"
    }
   },
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 13:34:49",
+ "last_check": "2026-07-21 13:49:54",
  "source_failures": {},
  "tg_offset": 4899726
 }
