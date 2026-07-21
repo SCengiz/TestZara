@@ -1907,10 +1907,30 @@
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
+  },
+  "04231031-116": {
+   "name": "ÇİZGİLİ CROP FIT T-SHIRT",
+   "ref": "4231/031",
+   "color": "Pembeler",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "MAN",
+   "price": 179000,
+   "old_price": null,
+   "discount": null,
+   "image": "https://static.zara.net/assets/public/a731/0e57/a5744ad0951a/354de39de793/04231031116-p/04231031116-p.jpg?ts=1779127847190&w=800",
+   "url": "https://www.zara.com/tr/tr/cizgili-cropped-fit-t-shirt-p04231031.html?v1=555080450",
+   "sizes": {
+    "XS (US XS)": "in_stock",
+    "S (US S)": "in_stock",
+    "M (US M)": "in_stock",
+    "L (US L)": "in_stock",
+    "XL (US XL)": "out_of_stock"
+   }
   }
  },
  "last_check": "2026-07-21 22:44:32",
  "source_failures": {},
- "tg_offset": 4899727,
+ "tg_offset": 4899730,
  "_temp_alerted": true
 }
