@@ -1121,25 +1121,33 @@ def main():
         return 0
 
     if args.loop:
-        interval = max(60, float(env.get("CHECK_INTERVAL_MIN", "5")) * 60)
-        log.info("Döngü modu: stok kontrolü her %.1f dk, komutlar her 60 sn",
-                 interval / 60)
+        lo = max(1.0, float(env.get("CHECK_INTERVAL_MIN", "5")))
+        hi = float(env.get("CHECK_INTERVAL_MAX", lo))
+        if hi < lo:
+            lo, hi = hi, lo
+        log.info("Döngü modu: stok kontrolü %.2f-%.2f dk arası (her turda "
+                 "yeniden rastgele seçilir), komutlar ~5 sn'de bir", lo, hi)
         last_check = 0.0
+        next_interval = random.uniform(lo, hi) * 60
         while True:
             try:
-                if time.time() - last_check >= interval * random.uniform(0.97, 1.03):
+                if time.time() - last_check >= next_interval:
                     run_check(config, env, dry_run=args.dry_run)
                     last_check = time.time()
+                    next_interval = random.uniform(lo, hi) * 60
+                    log.debug("Sıradaki kontrol ~%.2f dk sonra", next_interval / 60)
                 elif not args.dry_run:
                     # Ara turlarda sadece grup komutlarını işle → anlık yanıt
                     state = load_state()
                     watchlist = load_watchlist(config)
+                    offset_before = state.get("tg_offset")
                     if poll_group_messages(env, config, state, watchlist):
                         save_watchlist(watchlist)
-                    save_state(state)
+                    if state.get("tg_offset") != offset_before:
+                        save_state(state)
             except Exception:
                 log.exception("Beklenmeyen hata — döngü devam ediyor")
-            time.sleep(60)
+            time.sleep(5)
     else:
         return run_check(config, env, dry_run=args.dry_run)
 
