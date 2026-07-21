@@ -570,7 +570,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "low_on_stock",
     "XL": "out_of_stock"
    }
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/stretch-lace-short-dress-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -830,7 +830,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "in_stock",
     "XXL": "out_of_stock"
@@ -869,7 +869,7 @@
    "url": "https://www.zara.com/tr/tr/high-collar-sleeveless-top-p04174001.html?v1=517261860",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -908,7 +908,7 @@
    "url": "https://www.zara.com/tr/tr/fitted-midi-dress-p01355011.html?v1=495703239",
    "sizes": {
     "S": "in_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -986,7 +986,7 @@
    "sizes": {
     "1½ years (33,9 INCHES)": "in_stock",
     "2 years (36,2 INCHES)": "out_of_stock",
-    "3 years (38,6 INCHES)": "in_stock",
+    "3 years (38,6 INCHES)": "out_of_stock",
     "4 years (40,9 INCHES)": "in_stock",
     "5 years (43,3 INCHES)": "out_of_stock",
     "6 years (45,2 INCHES)": "out_of_stock"
@@ -1213,7 +1213,7 @@
    "image": "https://static.zara.net/assets/public/640e/dc0d/35384d548211/30e09404d8c6/11124730800-e1/11124730800-e1.jpg?ts=1764246830688&w=800",
    "url": "https://www.zara.com/tr/tr/nylon-shopper-bag-with-heart-charm-p11124730.html?v1=503120773",
    "sizes": {
-    "ONE SIZE ONLY": "out_of_stock"
+    "ONE SIZE ONLY": "in_stock"
    }
   },
   "08054643-681": {
@@ -1295,7 +1295,7 @@
     "1½ years (33,9 INCHES)": "out_of_stock",
     "2 years (36,2 INCHES)": "low_on_stock",
     "3 years (38,6 INCHES)": "out_of_stock",
-    "4 years (40,9 INCHES)": "low_on_stock",
+    "4 years (40,9 INCHES)": "out_of_stock",
     "5 years (43,3 INCHES)": "out_of_stock",
     "6 years (45,2 INCHES)": "out_of_stock"
    }
@@ -1486,7 +1486,7 @@
    "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
    "url": "https://www.zara.com/tr/tr/trf-high-waisted-cropped-flare-jeans-p04592217.html?v1=503416302",
    "sizes": {
-    "25 (US 0)": "out_of_stock",
+    "25 (US 0)": "low_on_stock",
     "26 (US 2)": "out_of_stock",
     "27 (US 4)": "out_of_stock",
     "28 (US 6)": "out_of_stock",
@@ -1910,7 +1910,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:54:34",
+ "last_check": "2026-07-21 18:59:28",
  "source_failures": {},
  "tg_offset": 4899727
 }
