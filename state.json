@@ -908,7 +908,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "out_of_stock",
-    "M": "coming_soon",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1715,7 +1715,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 18:19:57",
+ "last_check": "2026-07-21 21:23:50",
  "source_failures": {},
  "tg_offset": 4899727
 }
