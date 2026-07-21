@@ -613,7 +613,8 @@ def _watchlist_lines(watchlist):
 
 
 def _handle_product_link(env, config, state, watchlist, v1, sender):
-    if any(str(p["v1"]) == str(v1) for p in watchlist["products"]):
+    if any(p.get("store", "zara") == "zara" and str(p.get("v1")) == str(v1)
+           for p in watchlist["products"]):
         send_telegram(env, "ℹ️ Bu ürün zaten takipte.", disable_preview=True)
         return False
     try:
