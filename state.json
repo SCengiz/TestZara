@@ -145,7 +145,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "in_stock",
+    "41": "out_of_stock",
     "42": "out_of_stock"
    }
   },
@@ -590,7 +590,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "coming_soon",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04391436-096": {
@@ -908,7 +908,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "coming_soon",
     "L": "out_of_stock"
    }
   },
@@ -1619,7 +1619,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "coming_soon",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
@@ -1641,7 +1641,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "coming_soon"
+    "XL": "low_on_stock"
    }
   },
   "02142263-681": {
@@ -1759,7 +1759,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "coming_soon",
     "XXL": "out_of_stock"
    }
   },
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 11:34:55",
+ "last_check": "2026-07-21 11:49:49",
  "source_failures": {},
  "tg_offset": 4899726
 }
