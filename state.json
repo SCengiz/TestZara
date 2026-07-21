@@ -38,7 +38,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -225,7 +225,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -1579,7 +1579,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "02756533-645": {
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-21 15:34:52",
+ "last_check": "2026-07-21 15:49:55",
  "source_failures": {},
  "tg_offset": 4899726
 }
