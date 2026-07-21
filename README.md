@@ -121,6 +121,43 @@ Notlar:
 - Aynı anda GitHub Actions da çalışıyorsa bildirimler **iki kez** gelir —
   Mac'e geçtiğinizde Actions'taki workflow'u kapatın (aşağıya bakın).
 
+**Seçenek B3 — Raspberry Pi (kendi eviniz, en hızlı ve en güvenilir):**
+
+Pi zaten 7/24 çalışacak şekilde tasarlanmış (Mac gibi uykuya dalmaz), kendi
+ev interneti de bulut sunuculara göre bot korumasında daha az şüpheli
+görülür. En hızlı bildirim burada alınır.
+
+```bash
+ssh pi@<pi-ip-adresi>          # veya doğrudan Pi'nin klavyesinde
+git clone https://github.com/SCengiz/TestZara.git ~/zara-watcher
+cd ~/zara-watcher
+sudo apt install -y python3-pip
+python3 -m pip install requests
+cp .env.example .env           # token, chat id ve CHECK_INTERVAL_MIN girin
+python3 checker.py --test      # Telegram testi
+```
+
+`.env` içinde `CHECK_INTERVAL_MIN=2` önerilir (2 dakikada bir stok kontrolü;
+grup komutları `--loop` modunda zaten her 60 sn'de bir işlenir — bu sayede
+`/ekle`, `/liste`, `/sil` yanıtları neredeyse anlık gelir).
+
+Kalıcı servis olarak kurmak (Pi yeniden başlasa da bot otomatik ayağa
+kalkar, çökerse yeniden başlar):
+```bash
+sudo cp deploy/zara-watcher-loop.service /etc/systemd/system/
+sudo sed -i "s#/home/pi/zara-watcher#$(pwd)#; s/User=pi/User=$(whoami)/" \
+  /etc/systemd/system/zara-watcher-loop.service
+sudo systemctl daemon-reload
+sudo systemctl enable --now zara-watcher-loop
+systemctl status zara-watcher-loop     # "active (running)" görmelisiniz
+journalctl -u zara-watcher-loop -f     # canlı log izleme
+```
+
+⚠️ **Önemli — çift çalıştırmayı önleyin:** Pi devreye girince GitHub Actions'ı
+tetikleyen Google Apps Script'i durdurun (script.google.com → Tetikleyiciler
+→ `tetikle` satırını silin), yoksa aynı anda iki yerden çalışıp state
+çakışması ve çift bildirim olur.
+
 **Seçenek C — GitHub Actions (7/24 açık makineniz yoksa):**
 1. Bu klasörü **private** bir GitHub reposuna push'layın
 2. Repo → Settings → Secrets and variables → Actions altına

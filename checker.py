@@ -1096,7 +1096,7 @@ def main():
         return 0
 
     if args.loop:
-        interval = max(15, int(env.get("CHECK_INTERVAL_MIN", "20"))) * 60
+        interval = max(1, int(env.get("CHECK_INTERVAL_MIN", "5"))) * 60
         log.info("Döngü modu: stok kontrolü her %d dk, komutlar her 60 sn",
                  interval // 60)
         last_check = 0.0
