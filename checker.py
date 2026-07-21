@@ -56,7 +56,10 @@ MAX_SLOTS = 10  # rezerve favori listesi yuvası: /zara_liste1 ... /zara_liste10
 
 PRODUCTS_DETAILS_API = "https://www.zara.com/tr/tr/products-details"
 REFERENCE_SEARCH_API = "https://www.zara.com/itxrest/1/search/store/11766/reference"
-WISHLIST_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/user/share/wishlist/[\w-]+[^\s]*")
+# Hem tam link (…/tr/tr/user/share/wishlist/…) hem uygulamanın verdiği
+# kısa paylaşım linki (…/share/wishlist/…, 302 ile tama yönlenir) kabul edilir
+WISHLIST_RE = re.compile(
+    r"https://www\.zara\.com/(?:[a-z]{2}/[a-z]{2}/user/)?share/wishlist/[\w-]+[^\s]*")
 PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html\?[^\s]*?v1=(\d+)[^\s]*")
 BARE_PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p(\d+)\.html[^\s]*")
 # Mango ürün linki: /p/<bölüm>/<...>/<slug>/<ürün no>/<renk>/00
