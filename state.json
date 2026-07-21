@@ -515,7 +515,7 @@
    "sizes": {
     "S": "in_stock",
     "M": "low_on_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "low_on_stock"
    }
   },
@@ -549,7 +549,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "in_stock",
     "L": "coming_soon",
     "XL": "in_stock"
@@ -649,7 +649,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -684,9 +684,9 @@
    "image": "https://static.zara.net/assets/public/89b9/b017/210043468234/92084fb88acd/03641399803-p/03641399803-p.jpg?ts=1776412654779&w=800",
    "url": "https://www.zara.com/tr/tr/dikis-detayli-kolsuz-top-p03641399.html?v1=516598452",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "low_on_stock"
    }
   },
   "01131008-251": {
@@ -760,7 +760,7 @@
    "sizes": {
     "S": "coming_soon",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "16049710-253": {
@@ -793,7 +793,7 @@
    "url": "https://www.zara.com/tr/tr/strec-dantelli-kisa-elbise-p05584369.html?v1=509493908",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -830,7 +830,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "coming_soon",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -1089,7 +1089,7 @@
    "image": "https://static.zara.net/assets/public/5925/2ca9/af7b4b569e1b/1cb8b0d7622c/02209537620-e1/02209537620-e1.jpg?ts=1768920157077&w=800",
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1154,7 +1154,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "in_stock",
     "8/9 yaş (131 cm)": "in_stock",
-    "9/10 yaş (140 cm)": "in_stock",
+    "9/10 yaş (140 cm)": "low_on_stock",
     "11/12 yaş (148 cm)": "low_on_stock"
    }
   },
@@ -1231,7 +1231,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "low_on_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -1297,7 +1297,7 @@
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "06208681-600": {
@@ -1378,7 +1378,7 @@
    "sizes": {
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "in_stock",
     "L": "in_stock",
     "XL": "in_stock",
@@ -1681,7 +1681,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "coming_soon"
+    "XL": "low_on_stock"
    }
   },
   "02142028-519": {
@@ -1698,7 +1698,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
     "S": "coming_soon",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -1909,7 +1909,7 @@
    }
   }
  },
- "last_check": "2026-07-20 18:49:49",
+ "last_check": "2026-07-21 06:04:48",
  "source_failures": {},
  "tg_offset": 4899726
 }
