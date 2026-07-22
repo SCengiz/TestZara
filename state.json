@@ -682,7 +682,7 @@
    "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4001,7 +4001,7 @@
    }
   }
  },
- "last_check": "2026-07-22 20:00:42",
+ "last_check": "2026-07-22 20:03:24",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
