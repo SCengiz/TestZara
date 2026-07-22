@@ -3858,7 +3858,7 @@
    "image": "https://static.zara.net/assets/public/d936/5591/71e943948a89/c849d92c2f58/00103248700-p/00103248700-p.jpg?ts=1769616836061&w=800",
    "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465513",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:56:44",
+ "last_check": "2026-07-22 19:57:34",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
