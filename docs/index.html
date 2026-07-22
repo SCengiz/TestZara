@@ -68,26 +68,18 @@
 
 <script>
 const REPO = "SCengiz/TestZara";
-// raw.githubusercontent.com'un CDN önbelleği push'tan sonra dakikalarca
-// (bazen daha uzun) eski veri döndürebiliyor. GitHub'ın kendi Contents
-// API'si bunu yaşamıyor, doğrudan onu kullanıyoruz (kişisel kullanımda
-// saatte 60 istek sınırı sorun olmaz).
-const API = `https://api.github.com/repos/${REPO}/contents/`;
-// GitHub API saatte 60 istek sınırlıyor (kimliksiz). ETag ile "koşullu
-// istek" yaparsak veri değişmediğinde 304 döner ve bu sınıra SAYILMAZ —
-// 20 sn'de bir yenileme ancak böyle sürdürülebilir.
-const etagCache = {};
+// GitHub'ın kendi Contents API'si kimliksiz istekte saatte 60 ile
+// sınırlı — 20 sn'de bir yenilemede (ETag'e rağmen) canlıda bu sınıra
+// takıldık (403, ta ki saatlik pencere geçene kadar hiç açılmıyor).
+// raw.githubusercontent.com'un CDN'i (Fastly) böyle sert bir sınır
+// koymuyor; bedeli bazen birkaç dakika bayat veri olması ama 20 sn'de
+// bir tekrar denendiği için bu kendiliğinden düzeliyor — API'nin
+// "sınıra takılınca saatlerce hiç çalışmama" riskinden çok daha iyi.
+const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
 async function fetchJsonFresh(path) {
-  const cached = etagCache[path];
-  const headers = { "Accept": "application/vnd.github.raw" };
-  if (cached) headers["If-None-Match"] = cached.etag;
-  const r = await fetch(API + path + "?ref=main", { headers });
-  if (r.status === 304 && cached) return cached.data;
-  if (r.status === 403) throw "rate-limit";
+  const r = await fetch(RAW + path + "?t=" + Date.now(), { cache: "no-store" });
   if (!r.ok) throw r.status;
-  const data = await r.json();
-  etagCache[path] = { etag: r.headers.get("ETag"), data };
-  return data;
+  return r.json();
 }
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
@@ -194,11 +186,10 @@ async function main() {
     ]);
   } catch (e) {
     document.getElementById("err").style.display = "block";
-    document.getElementById("err").textContent = e === "rate-limit"
-      ? "⏳ GitHub'ın saatlik istek sınırına takıldık, birkaç dakika içinde kendiliğinden düzelir. Panel otomatik denemeye devam ediyor."
-      : "Veri okunamadı. Repo public mi? (" + e + ")";
-    // app.textContent'i temizlemiyoruz — rate limit geçiciyse ekrandaki
-    // son geçerli veri görünmeye devam etsin, boş ekran yerine.
+    document.getElementById("err").textContent =
+      "⏳ Veri şu an okunamadı, panel otomatik tekrar deniyor (" + e + ")";
+    // app.textContent'i temizlemiyoruz — ekrandaki son geçerli veri
+    // görünmeye devam etsin, boş ekrana düşülmesin.
     refreshing = false;
     return;
   }
