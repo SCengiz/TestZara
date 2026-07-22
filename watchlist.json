@@ -8,11 +8,11 @@
    "slot": 1
   },
   {
-   "url": "https://www.zara.com/tr/tr/user/share/wishlist/53vHUKXSNGyMW5DQJWy7Tw?locale=tr_TR",
-   "label": "İkinci favori listesi (43 ürün)",
-   "added_by": "Sc",
-   "added_at": "2026-07-15 16:05",
-   "slot": 2
+   "slot": 2,
+   "url": "https://www.zara.com/share/wishlist/XnD82ka1OeCxoErInJ6Orw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (55 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:06"
   },
   {
    "slot": 3,
@@ -20,6 +20,41 @@
    "label": "Sc listesi (66 ürün)",
    "added_by": "Sc",
    "added_at": "2026-07-21 21:25"
+  },
+  {
+   "slot": 4,
+   "url": "https://www.zara.com/share/wishlist/QOXU8ydNNMqr4pEa15A3oQ?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (17 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:03"
+  },
+  {
+   "slot": 5,
+   "url": "https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (50 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:04"
+  },
+  {
+   "slot": 6,
+   "url": "https://www.zara.com/share/wishlist/6C96RYb1Pu2ahvomcRv8QA?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (25 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:04"
+  },
+  {
+   "slot": 7,
+   "url": "https://www.zara.com/share/wishlist/iKFjy0g7Ms-xKVX8LGy08A?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (12 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:05"
+  },
+  {
+   "slot": 8,
+   "url": "https://www.zara.com/share/wishlist/53vHUKXSNGyMW5DQJWy7Tw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Şefika listesi (4 ürün)",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:07"
   }
  ],
  "products": [
@@ -69,6 +104,50 @@
    "name": "ÇİZGİLİ CROP FIT T-SHIRT (Pembeler)",
    "added_by": "Sc",
    "added_at": "2026-07-21 23:26"
+  },
+  {
+   "store": "mango",
+   "key": "mango-27072932-05",
+   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/topuklu-sandalet/kitten-topuklu-kayıslı-sandalet/27072932/05/00",
+   "gender_slug": "kadın",
+   "garment_id": "27072932",
+   "color_code": "05",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:17"
+  },
+  {
+   "store": "mango",
+   "key": "mango-27071255-99",
+   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27071255/99/00",
+   "gender_slug": "kadın",
+   "garment_id": "27071255",
+   "color_code": "99",
+   "name": "TOPUKLU BILEKTE BOT",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:29"
+  },
+  {
+   "store": "mango",
+   "key": "mango-87050363-99",
+   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/87050363/99/00",
+   "gender_slug": "kadın",
+   "garment_id": "87050363",
+   "color_code": "99",
+   "name": "TOPUKLU BILEKTE BOT",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:30"
+  },
+  {
+   "store": "mango",
+   "key": "mango-27082005-99",
+   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
+   "gender_slug": "kadın",
+   "garment_id": "27082005",
+   "color_code": "99",
+   "name": "TOPUKLU BILEKTE BOT",
+   "added_by": "Şefika",
+   "added_at": "2026-07-22 14:31"
   }
  ]
 }
