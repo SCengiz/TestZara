@@ -60,7 +60,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "in_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -120,7 +120,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -144,7 +144,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -668,9 +668,9 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "low_on_stock",
-    "M": "in_stock",
-    "L": "low_on_stock",
-    "XL": "low_on_stock"
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "02137693-620": {
@@ -1483,9 +1483,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -3068,7 +3068,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -3787,7 +3787,7 @@
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
-    "44": "in_stock",
+    "44": "out_of_stock",
     "46": "out_of_stock"
    }
   },
@@ -3969,24 +3969,58 @@
     "42": "out_of_stock"
    }
   },
-  "16125710-111": {
-   "name": "KOMBİNE CITY ÇANTA",
-   "ref": "6125/710",
-   "color": "Açık bej",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/cc0e/9fef/db8741709a74/48279fbf5390/16125710111-000-a1/16125710111-000-a1.jpg?ts=1770651687594&w=800",
-   "url": "https://www.zara.com/tr/tr/kombine-city-canta-p16125710.html?v1=516397542",
+  "47339043-500": {
+   "name": "DERİ CÜZDAN",
+   "ref": "7339/043",
+   "color": "Yeşil",
+   "kind": "Wear",
+   "family": "AKSESUAR",
+   "section": "HOME",
+   "price": 82000,
+   "old_price": 119000,
+   "discount": 31,
+   "image": "https://static.zara.net/assets/public/2386/8042/5f7e4e90acc4/6a7b03585886/47339043500-e1/47339043500-e1.jpg?ts=1769682273469&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-cuzdan-p47339043.html?v1=497835388",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
+   }
+  },
+  "43323211-700": {
+   "name": "YÜKSEK AHŞAP EVCİL HAYVAN MAMA KASESİ",
+   "ref": "3323/211",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "SOFRA TAKIMI",
+   "section": "HOME",
+   "price": 159000,
+   "old_price": 249000,
+   "discount": 31,
+   "image": "https://static.zara.net/assets/public/6bb6/8f8f/94ff4d05b80d/462f6cabf908/43323211700-e1/43323211700-e1.jpg?ts=1762965853204&w=800",
+   "url": "https://www.zara.com/tr/tr/yuksek-ahsap-evcil-hayvan-mama-kasesi-p43323211.html?v1=495441326",
+   "sizes": {
+    "17 x 24.5 x 24.5 cm": "out_of_stock",
+    "26 x 29.5 x 29.5 cm": "in_stock"
+   }
+  },
+  "40300211-251": {
+   "name": "KAPAKLI SERAMİK KAVANOZ",
+   "ref": "0300/211",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "SOFRA TAKIMI",
+   "section": "HOME",
+   "price": 82000,
+   "old_price": 119000,
+   "discount": 27,
+   "image": "https://static.zara.net/assets/public/2664/db3d/eed642e8a7f2/d8a7bb571867/40300211251-e1/40300211251-e1.jpg?ts=1772121588276&w=800",
+   "url": "https://www.zara.com/tr/tr/kapakli-seramik-kavanoz-p40300211.html?v1=499095752",
+   "sizes": {
+    "21 x 12 x 12 cm": "in_stock",
+    "26 x 15 x 15 cm": "in_stock"
    }
   }
  },
- "last_check": "2026-07-22 21:58:17",
+ "last_check": "2026-07-22 22:00:57",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
