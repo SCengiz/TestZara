@@ -60,7 +60,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -706,7 +706,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1951,7 +1951,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "in_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3432,7 +3432,7 @@
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
     "38 (24,3 cm)": "out_of_stock",
-    "39 (24,9 cm)": "in_stock",
+    "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
   },
@@ -3541,8 +3541,8 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -3947,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:43:21",
+ "last_check": "2026-07-22 21:44:29",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
