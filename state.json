@@ -324,7 +324,7 @@
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -722,7 +722,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3906,7 +3906,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:17:14",
+ "last_check": "2026-07-22 19:19:40",
  "source_failures": {},
  "tg_offset": 4899744,
  "_temp_alerted": false
