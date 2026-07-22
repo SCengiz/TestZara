@@ -3530,7 +3530,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3976,10 +3976,29 @@
     "XL (US XL)": "in_stock",
     "XXL (US XXL)": "out_of_stock"
    }
+  },
+  "08281113-706": {
+   "name": "%100 KETEN FERMUARLI İNCE CEKET",
+   "ref": "8281/113",
+   "color": "Vizon",
+   "kind": "Wear",
+   "family": "TUNIK",
+   "section": "MAN",
+   "price": 329000,
+   "old_price": null,
+   "discount": null,
+   "image": "https://static.zara.net/assets/public/2823/941b/f3bf4289b816/5b2569de0d94/08281115706-p/08281115706-p.jpg?ts=1784040965840&w=800",
+   "url": "https://www.zara.com/tr/tr/100-keten-fermuarli-ince-ceket-p08281113.html?v1=574122169",
+   "sizes": {
+    "S (US S)": "in_stock",
+    "M (US M)": "in_stock",
+    "L (US L)": "in_stock",
+    "XL (US XL)": "in_stock"
+   }
   }
  },
- "last_check": "2026-07-22 19:24:15",
+ "last_check": "2026-07-22 19:24:37",
  "source_failures": {},
- "tg_offset": 4899744,
+ "tg_offset": 4899745,
  "_temp_alerted": false
 }
