@@ -60,7 +60,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -303,7 +303,7 @@
    "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3988,7 +3988,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:27:57",
+ "last_check": "2026-07-22 21:28:24",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
