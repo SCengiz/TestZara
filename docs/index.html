@@ -81,27 +81,45 @@
 
 <script>
 const REPO = "SCengiz/TestZara";
-// İki seçenek denendi, ikisinin de tek başına sorunu vardı:
-// - raw.githubusercontent.com: sert bir sınırı yok ama farklı istekler
-//   farklı CDN düğümlerine düşüyor, biri güncel biri dakikalarca bayat
-//   kalabiliyor — canlıda öngörülemez gecikmelere yol açtı.
-// - api.github.com: her zaman tutarlı/güncel ama kimliksiz istekte
-//   saatte 60 sınırı var; 20 sn'de bir sorgulayınca bu sınıra takıldık.
-// Çözüm: API'yi kullan (tutarlılık için) ama seyrek sorgula (60 dk'da
-// en fazla ~40 istek kalacak şekilde 90 sn) + ETag ile "değişmedi"
-// yanıtları (304) sınıra hiç sayılmasın.
-const API = `https://api.github.com/repos/${REPO}/contents/`;
+// Tek kaynağa güvenmek güvenilmez çıktı: api.github.com kimliksizde
+// saatte 60 istekle sınırlı (yoğun günde tıkandı), raw.githubusercontent.com
+// ise farklı isteklerde farklı CDN düğümlerine düşüp biri güncel biri
+// dakikalarca bayat veri dönebiliyor (canlıda ikisi de yaşandı).
+// Çözüm: üç bağımsız kaynağı sırayla dene, ilk çalışanı kullan. Biri
+// tıkanırsa diğeri neredeyse hiç aynı anda tıkanmaz.
 const etagCache = {};
-async function fetchJsonFresh(path) {
+async function fetchFromApi(path) {
   const cached = etagCache[path];
   const headers = { "Accept": "application/vnd.github.raw" };
   if (cached) headers["If-None-Match"] = cached.etag;
-  const r = await fetch(API + path + "?ref=main", { headers });
+  const r = await fetch(
+    `https://api.github.com/repos/${REPO}/contents/${path}?ref=main`, { headers });
   if (r.status === 304 && cached) return cached.data;
   if (!r.ok) throw r.status;
   const data = await r.json();
   etagCache[path] = { etag: r.headers.get("ETag"), data };
   return data;
+}
+async function fetchFromRaw(path) {
+  const r = await fetch(
+    `https://raw.githubusercontent.com/${REPO}/main/${path}?t=${Date.now()}`,
+    { cache: "no-store" });
+  if (!r.ok) throw r.status;
+  return r.json();
+}
+async function fetchFromJsdelivr(path) {
+  const r = await fetch(
+    `https://cdn.jsdelivr.net/gh/${REPO}@main/${path}?t=${Date.now()}`,
+    { cache: "no-store" });
+  if (!r.ok) throw r.status;
+  return r.json();
+}
+async function fetchJsonFresh(path) {
+  let lastErr;
+  for (const fn of [fetchFromApi, fetchFromRaw, fetchFromJsdelivr]) {
+    try { return await fn(path); } catch (e) { lastErr = e; }
+  }
+  throw lastErr;
 }
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
