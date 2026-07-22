@@ -286,7 +286,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -853,27 +853,6 @@
     "42": "out_of_stock"
    }
   },
-  "mango-37071421-01": {
-   "name": "%100 KETEN REGULAR KESIM GÖMLEK",
-   "ref": "37071421/01",
-   "color": "",
-   "kind": "Wear",
-   "family": "",
-   "section": "MAN",
-   "price": 249998,
-   "old_price": null,
-   "discount": null,
-   "image": "https://media.mango.com/is/image/punto/37071421-01-002?wid=1024",
-   "url": "https://shop.mango.com/tr/tr/p/erkek/gomlek/keten/100-keten-regular-kesim-gomlek/37071421/01/00",
-   "sizes": {
-    "XS": "in_stock",
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "in_stock",
-    "XL": "in_stock",
-    "XXL": "in_stock"
-   }
-  },
   "06840064-401": {
    "name": "ZW COLLECTION ORTA BEL KISA PAÇA FLARE JEAN",
    "ref": "6840/064",
@@ -1080,46 +1059,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "04231031-116": {
-   "name": "ÇİZGİLİ CROP FIT T-SHIRT",
-   "ref": "4231/031",
-   "color": "Pembeler",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "MAN",
-   "price": 179000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/a731/0e57/a5744ad0951a/354de39de793/04231031116-p/04231031116-p.jpg?ts=1779127847190&w=800",
-   "url": "https://www.zara.com/tr/tr/cizgili-cropped-fit-t-shirt-p04231031.html?v1=555080450",
-   "sizes": {
-    "XS (US XS)": "in_stock",
-    "S (US S)": "in_stock",
-    "M (US M)": "in_stock",
-    "L (US L)": "in_stock",
-    "XL (US XL)": "out_of_stock"
-   }
-  },
-  "01063410-428": {
-   "name": "%100 KETEN REGULAR FIT GÖMLEK",
-   "ref": "1063/410",
-   "color": "Soluk mavi",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "MAN",
-   "price": 249000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/7a45/7a11/13774675900b/47e16377b44c/01063410428-p/01063410428-p.jpg?ts=1784022764684&w=800",
-   "url": "https://www.zara.com/tr/tr/100-keten-regular-fit-gomlek-p01063410.html?v1=545465798",
-   "sizes": {
-    "S (US S)": "in_stock",
-    "M (US M)": "in_stock",
-    "L (US L)": "in_stock",
-    "XL (US XL)": "in_stock",
-    "XXL (US XXL)": "out_of_stock"
    }
   },
   "12649730-800": {
@@ -1956,7 +1895,7 @@
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "in_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1975,7 +1914,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "low_on_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -2072,7 +2011,7 @@
     "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "low_on_stock",
-    "XL (US XL)": "low_on_stock"
+    "XL (US XL)": "out_of_stock"
    }
   },
   "04393402-800": {
@@ -3168,75 +3107,6 @@
     "40 (25,6 cm)": "out_of_stock"
    }
   },
-  "mango-27072932-05": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
-   "ref": "27072932/05",
-   "color": "",
-   "kind": "Wear",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 119999,
-   "old_price": 199999,
-   "discount": 40,
-   "image": "https://media.mango.com/is/image/punto/27072932-05-900?wid=1024",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/topuklu-sandalet/kitten-topuklu-kayıslı-sandalet/27072932/05/00",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "mango-27071255-99": {
-   "name": "TOPUKLU BILEKTE BOT",
-   "ref": "27071255/99",
-   "color": "",
-   "kind": "Wear",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 159999,
-   "old_price": 249998,
-   "discount": 36,
-   "image": "https://media.mango.com/is/image/punto/27071255-99-010?wid=1024",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27071255/99/00",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "in_stock"
-   }
-  },
-  "mango-87050363-99": {
-   "name": "TOPUKLU BILEKTE BOT",
-   "ref": "87050363/99",
-   "color": "",
-   "kind": "Wear",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 174999,
-   "old_price": 249998,
-   "discount": 30,
-   "image": "https://media.mango.com/is/image/punto/87050363-99-016?wid=1024",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/87050363/99/00",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "in_stock"
-   }
-  },
   "mango-27082005-99": {
    "name": "TOPUKLU BILEKTE BOT",
    "ref": "27082005/99",
@@ -4088,7 +3958,7 @@
    }
   }
  },
- "last_check": "2026-07-22 18:42:37",
+ "last_check": "2026-07-22 18:44:33",
  "source_failures": {},
  "tg_offset": 4899743,
  "_temp_alerted": false
