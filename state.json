@@ -1092,29 +1092,6 @@
     "42": "out_of_stock"
    }
   },
-  "12822710-080": {
-   "name": "PARLAK BANTLI TOPUKLU SANDALET",
-   "ref": "2822/710",
-   "color": "Mor",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 159000,
-   "old_price": 199000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/17fa/4ae8/dc324e93b643/aede571077ed/12822710080-p/12822710080-p.jpg?ts=1777390880119&w=800",
-   "url": "https://www.zara.com/tr/tr/parlak-bantli-topuklu-sandalet-p12822710.html?v1=502860686",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
    "ref": "3507/710",
@@ -3988,7 +3965,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:36:24",
+ "last_check": "2026-07-22 21:38:02",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
