@@ -1044,28 +1044,43 @@ def git_sync_state(env):
         return
     import subprocess
 
+    ident = ["-c", "user.name=zara-watcher-bot",
+             "-c", "user.email=bot@users.noreply.github.com"]
+
     def run(args):
         return subprocess.run(args, cwd=BASE_DIR, capture_output=True,
-                              text=True, timeout=30)
+                              text=True, timeout=60)
 
     try:
+        # 1) Yerel veri değişikliğini commit et (varsa)
         run(["git", "add", "state.json", "watchlist.json"])
-        if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
-            return  # değişiklik yok
-        run(["git", "-c", "user.name=zara-watcher-bot",
-             "-c", "user.email=bot@users.noreply.github.com",
-             "commit", "-m", "state update (Pi)"])
-        pull = run(["git", "pull", "--rebase", "origin", "main"])
-        if pull.returncode != 0:
-            log.warning("git pull --rebase başarısız: %s", pull.stderr.strip()[:300])
-            run(["git", "rebase", "--abort"])
+        if run(["git", "diff", "--cached", "--quiet"]).returncode != 0:
+            run(["git"] + ident + ["commit", "-m", "state update (Pi)"])
+
+        # 2) origin'i çek ve BİRLEŞTİR. Çakışma sadece veri dosyalarında
+        #    olabilir; orada Pi'nin sürümü kalsın (-X ours). Kod dosyaları
+        #    yalnızca origin'de değiştiği için sorunsuz alınır. Bu yaklaşım,
+        #    rebase'in aksine depoyu yarım/bozuk durumda bırakmaz.
+        run(["git", "fetch", "origin", "main"])
+        merge = run(["git"] + ident +
+                    ["merge", "-X", "ours", "--no-edit", "origin/main"])
+        if merge.returncode != 0:
+            log.warning("git merge başarısız, iptal ediliyor: %s",
+                        merge.stderr.strip()[:300])
+            run(["git", "merge", "--abort"])
             return
+
+        # 3) origin'den ilerideysek (yeni veya daha önce takılmış commit
+        #    dahil) push et. Böylece geçici bir hata sonrası kendini onarır.
+        ahead = run(["git", "rev-list", "--count", "origin/main..HEAD"])
+        if ahead.stdout.strip() in ("", "0"):
+            return  # gönderilecek bir şey yok
         auth_url = GITHUB_PUSH_URL.replace("https://", f"https://{token}@")
         push = run(["git", "push", auth_url, "HEAD:main"])
         if push.returncode != 0:
             log.warning("git push başarısız: %s", push.stderr.strip()[:300])
         else:
-            log.debug("state.json/watchlist.json GitHub'a push edildi")
+            log.debug("state/watchlist GitHub'a push edildi")
     except Exception as exc:
         log.warning("Git senkronizasyonu başarısız (yoksayılıyor): %s", exc)
 
