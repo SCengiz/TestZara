@@ -39,7 +39,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -323,8 +323,8 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "low_on_stock",
-    "S": "low_on_stock",
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1914,7 +1914,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "low_on_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3797,7 +3797,7 @@
    "image": "https://static.zara.net/assets/public/2556/e779/2b664824900a/8c61874a5f3b/09929190505-p/09929190505-p.jpg?ts=1770917281224&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 18:49:28",
+ "last_check": "2026-07-22 18:51:54",
  "source_failures": {},
  "tg_offset": 4899744,
  "_temp_alerted": false
