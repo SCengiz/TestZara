@@ -60,7 +60,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -142,7 +142,7 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
@@ -1042,7 +1042,7 @@
    "url": "https://www.zara.com/tr/tr/metal-detayli-kitten-sandalet-p13337710.html?v1=499196033",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4087,7 +4087,7 @@
    }
   }
  },
- "last_check": "2026-07-22 22:11:43",
+ "last_check": "2026-07-22 22:13:22",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
