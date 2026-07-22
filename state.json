@@ -612,7 +612,7 @@
    "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -741,7 +741,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -868,7 +868,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -1164,7 +1164,7 @@
    "image": "https://static.zara.net/assets/public/98cc/6578/90cb486587d4/c8579015bff1/13507710400-p/13507710400-p.jpg?ts=1768996370440&w=800",
    "url": "https://www.zara.com/tr/tr/kadife-etkili-arkasi-acik-babet-p13507710.html?v1=495707660",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "low_on_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -1561,9 +1561,9 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "4 yaş (104 cm)": "in_stock",
+    "5 yaş (110 cm)": "in_stock",
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "04441009-406": {
@@ -1952,7 +1952,7 @@
    "url": "https://www.zara.com/tr/tr/straight-fit-dokulu-pantolon-p00706488.html?v1=498613876",
    "sizes": {
     "EU 38 (US 30)": "in_stock",
-    "EU 40 (US 31)": "out_of_stock",
+    "EU 40 (US 31)": "low_on_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
@@ -3997,7 +3997,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:27:21",
+ "last_check": "2026-07-22 19:29:54",
  "source_failures": {},
  "tg_offset": 4899745,
  "_temp_alerted": false
