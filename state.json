@@ -1013,7 +1013,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1953,7 +1953,7 @@
    "sizes": {
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "out_of_stock",
+    "EU 42 (US 32)": "in_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
    }
@@ -2047,7 +2047,7 @@
    "url": "https://www.zara.com/tr/tr/straight-fit-pantolon-p02342405.html?v1=522500462",
    "sizes": {
     "EU 36 (US 29)": "in_stock",
-    "EU 38 (US 30)": "out_of_stock",
+    "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock"
@@ -4001,7 +4001,7 @@
    }
   }
  },
- "last_check": "2026-07-22 20:55:39",
+ "last_check": "2026-07-22 20:57:52",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
