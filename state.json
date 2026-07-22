@@ -1042,7 +1042,7 @@
    "url": "https://www.zara.com/tr/tr/metal-detayli-kitten-sandalet-p13337710.html?v1=499196033",
    "sizes": {
     "35": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -1483,9 +1483,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -4018,9 +4018,76 @@
     "21 x 12 x 12 cm": "in_stock",
     "26 x 15 x 15 cm": "in_stock"
    }
+  },
+  "05107653-712": {
+   "name": "DANTEL BLUZ",
+   "ref": "5107/653",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "KID",
+   "price": 49000,
+   "old_price": 59000,
+   "discount": 16,
+   "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
+   "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
+   "sizes": {
+    "6/7 yaş (122 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "out_of_stock",
+    "12/13 yaş (156 cm)": "out_of_stock",
+    "13/14 yaş (164 cm)": "out_of_stock"
+   }
+  },
+  "12231610-800": {
+   "name": "BANTLI ARKASI AÇIK TOPUKLU AYAKKABI",
+   "ref": "2231/610",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/24c5/d4da/6f5846058373/c01446a1671d/12231610800-e1/12231610800-e1.jpg?ts=1758016360176&w=800",
+   "url": "https://www.zara.com/tr/tr/bantli-arkasi-acik-topuklu-ayakkabi-p12231610.html?v1=495698343",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "13386710-087": {
+   "name": "METALİK KISA SİVRİ TOPUKLU SANDALET",
+   "ref": "3386/710",
+   "color": "Transparan",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/4f79/b597/e5ff4b70a984/f1d6045aa14d/03253367250-000-p/03253367250-000-p.jpg?ts=1776877875802&w=800",
+   "url": "https://www.zara.com/tr/tr/metalik-kisa-sivri-topuklu-sandalet-p13386710.html?v1=507291710",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-22 22:05:50",
+ "last_check": "2026-07-22 22:08:18",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
