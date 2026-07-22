@@ -323,9 +323,9 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "low_on_stock",
-    "M": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -721,10 +721,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "02137693-620": {
@@ -3858,7 +3858,7 @@
    "image": "https://static.zara.net/assets/public/d936/5591/71e943948a89/c849d92c2f58/00103248700-p/00103248700-p.jpg?ts=1769616836061&w=800",
    "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465513",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -3997,7 +3997,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:47:24",
+ "last_check": "2026-07-22 19:48:17",
  "source_failures": {},
  "tg_offset": 4899745,
  "_temp_alerted": false
