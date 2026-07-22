@@ -3956,10 +3956,30 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "01063410-250": {
+   "name": "%100 KETEN REGULAR FIT GÖMLEK",
+   "ref": "1063/410",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "MAN",
+   "price": 249000,
+   "old_price": null,
+   "discount": null,
+   "image": "https://static.zara.net/assets/public/2cec/cda9/50544ecc9ca5/f37ec395b6dc/01063410250-p/01063410250-p.jpg?ts=1773849110649&w=800",
+   "url": "https://www.zara.com/tr/tr/100-keten-regular-fit-gomlek-p01063410.html?v1=545465799",
+   "sizes": {
+    "S (US S)": "in_stock",
+    "M (US M)": "in_stock",
+    "L (US L)": "in_stock",
+    "XL (US XL)": "in_stock",
+    "XXL (US XXL)": "out_of_stock"
+   }
   }
  },
  "last_check": "2026-07-22 18:49:28",
  "source_failures": {},
- "tg_offset": 4899743,
+ "tg_offset": 4899744,
  "_temp_alerted": false
 }
