@@ -16,7 +16,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -262,7 +262,7 @@
    "image": "https://static.zara.net/assets/public/911f/69d6/f47940d0aaac/18f3adcbffad/02469631070-p/02469631070-p.jpg?ts=1771596232747&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-potikareli-blazer-p02469631.html?v1=511347081",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -323,7 +323,7 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -379,7 +379,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -706,7 +706,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3541,8 +3541,8 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -3947,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:48:03",
+ "last_check": "2026-07-22 21:50:49",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
