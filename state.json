@@ -184,7 +184,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -2028,7 +2028,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "in_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3997,7 +3997,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:39:50",
+ "last_check": "2026-07-22 19:40:46",
  "source_failures": {},
  "tg_offset": 4899745,
  "_temp_alerted": false
