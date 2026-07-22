@@ -3527,7 +3527,7 @@
    "url": "https://www.zara.com/tr/tr/metalik-topuklu-arkasi-acik-ayakkabi-p12215610.html?v1=495694005",
    "sizes": {
     "35": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4001,7 +4001,7 @@
    }
   }
  },
- "last_check": "2026-07-22 20:40:16",
+ "last_check": "2026-07-22 20:42:38",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
