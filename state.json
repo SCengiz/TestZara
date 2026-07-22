@@ -721,10 +721,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "in_stock"
+    "S": "in_stock",
+    "M": "low_on_stock",
+    "L": "in_stock",
+    "XL": "low_on_stock"
    }
   },
   "02137693-620": {
@@ -2028,7 +2028,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3618,8 +3618,8 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -3729,7 +3729,7 @@
    "url": "https://www.zara.com/tr/tr/arkasi-acik-ayakkabi-p13209710.html?v1=495698729",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -3798,7 +3798,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3997,7 +3997,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:43:13",
+ "last_check": "2026-07-22 19:44:56",
  "source_failures": {},
  "tg_offset": 4899745,
  "_temp_alerted": false
