@@ -379,7 +379,7 @@
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -667,10 +667,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "02137693-620": {
@@ -1231,7 +1231,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "out_of_stock",
+    "41": "in_stock",
     "42": "out_of_stock"
    }
   },
@@ -3431,7 +3431,7 @@
     "35 (22,3 cm)": "out_of_stock",
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
-    "38 (24,3 cm)": "out_of_stock",
+    "38 (24,3 cm)": "low_on_stock",
     "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
@@ -3828,7 +3828,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3947,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:50:49",
+ "last_check": "2026-07-22 21:52:34",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
