@@ -60,7 +60,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -631,24 +631,6 @@
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
     "STANDART": "out_of_stock"
-   }
-  },
-  "04813312-712": {
-   "name": "ASİMETRİK DOKULU ELBİSE",
-   "ref": "4813/312",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 119000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/47cb/350f/91884e1298d9/651be60d8598/04813312712-p/04813312712-p.jpg?ts=1774017536949&w=800",
-   "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -3450,7 +3432,7 @@
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
     "38 (24,3 cm)": "out_of_stock",
-    "39 (24,9 cm)": "out_of_stock",
+    "39 (24,9 cm)": "in_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
   },
@@ -3965,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:38:02",
+ "last_check": "2026-07-22 21:41:16",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
