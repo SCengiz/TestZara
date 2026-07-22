@@ -3,7 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Stok Takip Paneli</title>
+<script>
+  // Sayfanın kendisi (HTML/JS) tarayıcıda/CDN'de önbelleğe takılıp eski
+  // kod gösterebiliyordu. Parametresiz her ziyarette benzersiz bir sürüm
+  // sorgusuyla yeniden yönlendirip önbelleği zorla atlıyoruz. Telegram
+  // Mini App kendi parametrelerini eklerse (location.search dolu gelirse)
+  // dokunmuyoruz.
+  if (!location.search) {
+    location.replace(location.href + "?v=" + Date.now());
+  }
+</script>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
   :root {
