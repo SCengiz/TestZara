@@ -61,7 +61,7 @@
 </head>
 <body>
 <h1>🛍 Stok Takip Paneli</h1>
-<p class="sub" id="subtitle">Zara + Mango · İşlem yaptığınızda komut kopyalanır → Telegram grubuna yapıştırıp gönderin. Bot en geç ~15 dk içinde uygular.</p>
+<p class="sub" id="subtitle">Zara + Mango · İşlem yaptığınızda komut kopyalanır → Telegram grubuna yapıştırıp gönderin. Bot ~5-10 sn içinde uygular, panel kendiliğinden güncellenir.</p>
 <div id="err"></div>
 <div id="app" class="loading">Yükleniyor…</div>
 <div id="toast"></div>
@@ -95,7 +95,7 @@ if (inTelegram) {
   tg.ready(); tg.expand();
   addEventListener("DOMContentLoaded", () => {
     document.getElementById("subtitle").textContent =
-      "Zara + Mango · Düğmeye dokunun, işlem bota iletilir ve ~15 dk içinde uygulanır. Onaylar grup sohbetine düşer.";
+      "Zara + Mango · Düğmeye dokunun, işlem bota iletilir ve ~5-10 sn içinde uygulanır. Onaylar grup sohbetine düşer.";
   });
 }
 
@@ -167,7 +167,15 @@ function productCard(i, p, stateProducts) {
   return c;
 }
 
+let refreshing = false;
+
 async function main() {
+  // Kullanıcı bir kutuya yazı yazıyorsa o turu atla — yenilenme yarım
+  // kalmış bir girişi silmesin. Bir sonraki turda tekrar dener.
+  if (document.activeElement && document.activeElement.tagName === "INPUT"
+      && document.activeElement.value) return;
+  if (refreshing) return;
+  refreshing = true;
   const app = document.getElementById("app");
   let watchlist, state;
   try {
@@ -179,7 +187,9 @@ async function main() {
     document.getElementById("err").style.display = "block";
     document.getElementById("err").textContent =
       "Veri okunamadı. Repo public mi? (" + e + ")";
-    app.textContent = ""; return;
+    app.textContent = "";
+    refreshing = false;
+    return;
   }
   app.classList.remove("loading");
   app.textContent = "";
@@ -208,13 +218,17 @@ async function main() {
   };
   app.appendChild(add);
 
+  const now = new Date().toLocaleTimeString("tr-TR");
   app.appendChild(el(`<details><summary>Son kontrol: ${state.last_check || "?"} ·
-    ${Object.keys(sp).length} ürün-renk kaydı izleniyor</summary>
-    <p class="meta" style="margin-top:8px">Bu panel veriyi GitHub'daki depodan okur; işlemler
-    Telegram komutuna çevrilip panoya kopyalanır. Komutu grupta gönderdikten sonra botun
-    işlemesi ~15 dk sürebilir; panele yansıması için sayfayı yenileyin.</p></details>`));
+    ${Object.keys(sp).length} ürün-renk kaydı izleniyor · panel ${now} itibarıyla güncel</summary>
+    <p class="meta" style="margin-top:8px">Liste/ürün ekleme-silme komutları bota ulaştıktan
+    sonra ~5-10 saniyede işlenir ve hemen buraya yansır (panel kendiliğinden
+    ~20 sn'de bir yenileniyor, elle yenilemenize gerek yok). Stok taraması
+    ayrı bir ritimde, birkaç dakikada bir yapılır.</p></details>`));
+  refreshing = false;
 }
 main();
+setInterval(main, 20000);
 </script>
 </body>
 </html>
