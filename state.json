@@ -3945,9 +3945,48 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "13381710-400": {
+   "name": "SÜET TOPUKLU SANDALET",
+   "ref": "3381/710",
+   "color": "Mavi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/f901/bd79/3ed14ec9bba0/2763aff18d20/13381710400-p/13381710400-p.jpg?ts=1778085639123&w=800",
+   "url": "https://www.zara.com/tr/tr/suet-topuklu-sandalet-p13381710.html?v1=547564306",
+   "sizes": {
+    "35": "in_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "16125710-111": {
+   "name": "KOMBİNE CITY ÇANTA",
+   "ref": "6125/710",
+   "color": "Açık bej",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/cc0e/9fef/db8741709a74/48279fbf5390/16125710111-000-a1/16125710111-000-a1.jpg?ts=1770651687594&w=800",
+   "url": "https://www.zara.com/tr/tr/kombine-city-canta-p16125710.html?v1=516397542",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-22 21:52:34",
+ "last_check": "2026-07-22 21:53:16",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
