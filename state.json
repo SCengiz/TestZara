@@ -378,7 +378,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -1237,7 +1237,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3311,7 +3311,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3904,7 +3904,7 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
@@ -3994,14 +3994,14 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-22 20:30:44",
+ "last_check": "2026-07-22 20:33:16",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
