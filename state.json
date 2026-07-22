@@ -38,7 +38,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -1188,7 +1188,7 @@
    "url": "https://www.zara.com/tr/tr/metal-suslemeli-duz-sandalet-p12612710.html?v1=545496476",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4001,7 +4001,7 @@
    }
   }
  },
- "last_check": "2026-07-22 20:15:31",
+ "last_check": "2026-07-22 20:17:31",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
