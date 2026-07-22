@@ -500,45 +500,6 @@
     "XL": "out_of_stock"
    }
   },
-  "04174040-251": {
-   "name": "FİTİLLİ T-SHIRT",
-   "ref": "4174/040",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/996a/23c2/a9bc403fbc0d/9fc59ecc74b1/04174040251-p/04174040251-p.jpg?ts=1770801922533&w=800",
-   "url": "https://www.zara.com/tr/tr/fitilli-t-shirt-p04174040.html?v1=497593015",
-   "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
-  "02560209-251": {
-   "name": "KOMBİNE DÖKÜMLÜ ETEK ZW COLLECTION",
-   "ref": "2560/209",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 269000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/39c1/151d/42ab441695c2/e3a6287b8db0/02560209251-p/02560209251-p.jpg?ts=1777448353731&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-dokumlu-kombine-etek-p02560209.html?v1=555529002",
-   "sizes": {
-    "XS": "in_stock",
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "in_stock",
-    "XL": "in_stock"
-   }
-  },
   "04391436-096": {
    "name": "NAYLON ÇİÇEKLİ ETEK",
    "ref": "4391/436",
@@ -670,7 +631,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "02137693-620": {
@@ -1837,7 +1798,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "low_on_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3004,32 +2965,6 @@
     "13/14 yaş (164 cm)": "out_of_stock"
    }
   },
-  "12605730-091": {
-   "name": "PARLAK BANTLI SANDALET",
-   "ref": "2605/730",
-   "color": "Altın",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "KID",
-   "price": 75000,
-   "old_price": 100000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/2ae6/fe26/a107410b9394/217ac47e1ef7/12605730091-e1/12605730091-e1.jpg?ts=1762354447773&w=800",
-   "url": "https://www.zara.com/tr/tr/parlak-bantli-sandalet-p12605730.html?v1=495693733",
-   "sizes": {
-    "30 (18,9 cm)": "out_of_stock",
-    "31 (19,6 cm)": "out_of_stock",
-    "32 (20,3 cm)": "in_stock",
-    "33 (20,9 cm)": "in_stock",
-    "34 (21,6 cm)": "out_of_stock",
-    "35 (22,3 cm)": "out_of_stock",
-    "36 (22,9 cm)": "out_of_stock",
-    "37 (23,6 cm)": "out_of_stock",
-    "38 (24,3 cm)": "out_of_stock",
-    "39 (24,9 cm)": "out_of_stock",
-    "40 (25,6 cm)": "out_of_stock"
-   }
-  },
   "mango-27082005-99": {
    "name": "TOPUKLU BILEKTE BOT",
    "ref": "27082005/99",
@@ -3428,7 +3363,7 @@
     "32 (20,3 cm)": "out_of_stock",
     "33 (20,9 cm)": "out_of_stock",
     "34 (21,6 cm)": "out_of_stock",
-    "35 (22,3 cm)": "low_on_stock",
+    "35 (22,3 cm)": "out_of_stock",
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
     "38 (24,3 cm)": "out_of_stock",
@@ -4087,7 +4022,7 @@
    }
   }
  },
- "last_check": "2026-07-22 22:43:27",
+ "last_check": "2026-07-22 22:45:57",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
