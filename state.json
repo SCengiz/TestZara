@@ -15,8 +15,8 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
+    "34": "in_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -303,7 +303,7 @@
    "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -595,25 +595,7 @@
    "url": "https://www.zara.com/tr/tr/mini-askili-dantel-elbise-p05063365.html?v1=511872653",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
-  "01131008-251": {
-   "name": "ÇİÇEK DESENLİ KOLSUZ TOP",
-   "ref": "1131/008",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/b41c/d7b0/2e3b4e748ec0/9a5210a301c1/01131008251-p/01131008251-p.jpg?ts=1775638259197&w=800",
-   "url": "https://www.zara.com/tr/tr/cicek-desenli-kolsuz-top-p01131008.html?v1=527685512",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -649,24 +631,6 @@
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
     "STANDART": "out_of_stock"
-   }
-  },
-  "05584369-653": {
-   "name": "STREÇ DANTELLİ KISA ELBİSE",
-   "ref": "5584/369",
-   "color": "Pembe / Lila",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/adc0/30e2/783d4c088998/13c639e8179d/05584369653-p/05584369653-p.jpg?ts=1770738610465&w=800",
-   "url": "https://www.zara.com/tr/tr/strec-dantelli-kisa-elbise-p05584369.html?v1=509493908",
-   "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock"
    }
   },
   "04813312-712": {
@@ -1013,7 +977,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1894,7 +1858,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -3905,7 +3869,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -4001,7 +3965,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:20:23",
+ "last_check": "2026-07-22 21:23:06",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
