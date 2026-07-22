@@ -667,10 +667,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "low_on_stock"
    }
   },
   "02137693-620": {
@@ -706,7 +706,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1932,7 +1932,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958898",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1951,7 +1951,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3431,7 +3431,7 @@
     "35 (22,3 cm)": "out_of_stock",
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
-    "38 (24,3 cm)": "low_on_stock",
+    "38 (24,3 cm)": "out_of_stock",
     "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
@@ -3541,7 +3541,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock"
    }
@@ -3947,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:45:37",
+ "last_check": "2026-07-22 21:48:03",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
