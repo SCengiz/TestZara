@@ -81,18 +81,27 @@
 
 <script>
 const REPO = "SCengiz/TestZara";
-// GitHub'ın kendi Contents API'si kimliksiz istekte saatte 60 ile
-// sınırlı — 20 sn'de bir yenilemede (ETag'e rağmen) canlıda bu sınıra
-// takıldık (403, ta ki saatlik pencere geçene kadar hiç açılmıyor).
-// raw.githubusercontent.com'un CDN'i (Fastly) böyle sert bir sınır
-// koymuyor; bedeli bazen birkaç dakika bayat veri olması ama 20 sn'de
-// bir tekrar denendiği için bu kendiliğinden düzeliyor — API'nin
-// "sınıra takılınca saatlerce hiç çalışmama" riskinden çok daha iyi.
-const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
+// İki seçenek denendi, ikisinin de tek başına sorunu vardı:
+// - raw.githubusercontent.com: sert bir sınırı yok ama farklı istekler
+//   farklı CDN düğümlerine düşüyor, biri güncel biri dakikalarca bayat
+//   kalabiliyor — canlıda öngörülemez gecikmelere yol açtı.
+// - api.github.com: her zaman tutarlı/güncel ama kimliksiz istekte
+//   saatte 60 sınırı var; 20 sn'de bir sorgulayınca bu sınıra takıldık.
+// Çözüm: API'yi kullan (tutarlılık için) ama seyrek sorgula (60 dk'da
+// en fazla ~40 istek kalacak şekilde 90 sn) + ETag ile "değişmedi"
+// yanıtları (304) sınıra hiç sayılmasın.
+const API = `https://api.github.com/repos/${REPO}/contents/`;
+const etagCache = {};
 async function fetchJsonFresh(path) {
-  const r = await fetch(RAW + path + "?t=" + Date.now(), { cache: "no-store" });
+  const cached = etagCache[path];
+  const headers = { "Accept": "application/vnd.github.raw" };
+  if (cached) headers["If-None-Match"] = cached.etag;
+  const r = await fetch(API + path + "?ref=main", { headers });
+  if (r.status === 304 && cached) return cached.data;
   if (!r.ok) throw r.status;
-  return r.json();
+  const data = await r.json();
+  etagCache[path] = { etag: r.headers.get("ETag"), data };
+  return data;
 }
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
@@ -237,13 +246,13 @@ async function main() {
   app.appendChild(el(`<details><summary>Son kontrol: ${state.last_check || "?"} ·
     ${Object.keys(sp).length} ürün-renk kaydı izleniyor · panel ${now} itibarıyla güncel</summary>
     <p class="meta" style="margin-top:8px">Liste/ürün ekleme-silme komutları bota ulaştıktan
-    sonra ~5-10 saniyede işlenir ve hemen buraya yansır (panel kendiliğinden
-    ~20 sn'de bir yenileniyor, elle yenilemenize gerek yok). Stok taraması
-    ayrı bir ritimde, birkaç dakikada bir yapılır.</p></details>`));
+    sonra ~5-10 saniyede işlenir; panel kendiliğinden ~90 sn'de bir yenilenip
+    bunu yansıtır (elle yenilemenize gerek yok). Stok taraması ayrı bir
+    ritimde, birkaç dakikada bir yapılır.</p></details>`));
   refreshing = false;
 }
 main();
-setInterval(main, 20000);
+setInterval(main, 90000);
 </script>
 </body>
 </html>
