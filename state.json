@@ -264,7 +264,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -325,7 +325,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1895,7 +1895,7 @@
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1953,7 +1953,7 @@
    "sizes": {
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "out_of_stock",
+    "EU 42 (US 32)": "in_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
    }
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 18:58:23",
+ "last_check": "2026-07-22 18:59:33",
  "source_failures": {},
  "tg_offset": 4899744,
  "_temp_alerted": false
