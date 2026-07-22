@@ -740,7 +740,7 @@
    "image": "https://static.zara.net/assets/public/d745/b7f5/bf3f4ee194d7/5911ab14430b/02137693620-p/02137693620-p.jpg?ts=1768488005767&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -780,7 +780,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -2010,7 +2010,7 @@
    "sizes": {
     "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
-    "L (US L)": "low_on_stock",
+    "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
   },
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:04:32",
+ "last_check": "2026-07-22 19:07:01",
  "source_failures": {},
  "tg_offset": 4899744,
  "_temp_alerted": false
