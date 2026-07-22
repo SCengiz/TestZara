@@ -163,7 +163,7 @@
    "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4087,7 +4087,7 @@
    }
   }
  },
- "last_check": "2026-07-22 22:36:06",
+ "last_check": "2026-07-22 22:38:31",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
