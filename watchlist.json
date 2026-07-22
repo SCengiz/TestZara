@@ -82,31 +82,6 @@
   },
   {
    "store": "mango",
-   "key": "mango-37071421-01",
-   "url": "https://shop.mango.com/tr/tr/p/erkek/gomlek/keten/100-keten-regular-kesim-gomlek/37071421/01/00",
-   "gender_slug": "erkek",
-   "garment_id": "37071421",
-   "color_code": "01",
-   "name": "%100 KETEN REGULAR KESIM GÖMLEK",
-   "added_by": "Sc",
-   "added_at": "2026-07-15 16:37"
-  },
-  {
-   "v1": 545465798,
-   "url": "https://www.zara.com/tr/tr/100-keten-regular-fit-gomlek-p01063410.html?v1=545465798",
-   "name": "%100 KETEN REGULAR FIT GÖMLEK (Soluk mavi)",
-   "added_by": "Sc",
-   "added_at": "2026-07-21 22:56"
-  },
-  {
-   "v1": 555080450,
-   "url": "https://www.zara.com/tr/tr/cizgili-cropped-fit-t-shirt-p04231031.html?v1=555080450",
-   "name": "ÇİZGİLİ CROP FIT T-SHIRT (Pembeler)",
-   "added_by": "Sc",
-   "added_at": "2026-07-21 23:26"
-  },
-  {
-   "store": "mango",
    "key": "mango-27072932-05",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/topuklu-sandalet/kitten-topuklu-kayıslı-sandalet/27072932/05/00",
    "gender_slug": "kadın",
