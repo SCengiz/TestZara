@@ -82,39 +82,6 @@
   },
   {
    "store": "mango",
-   "key": "mango-27072932-05",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/topuklu-sandalet/kitten-topuklu-kayıslı-sandalet/27072932/05/00",
-   "gender_slug": "kadın",
-   "garment_id": "27072932",
-   "color_code": "05",
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
-   "added_by": "Şefika",
-   "added_at": "2026-07-22 14:17"
-  },
-  {
-   "store": "mango",
-   "key": "mango-27071255-99",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27071255/99/00",
-   "gender_slug": "kadın",
-   "garment_id": "27071255",
-   "color_code": "99",
-   "name": "TOPUKLU BILEKTE BOT",
-   "added_by": "Şefika",
-   "added_at": "2026-07-22 14:29"
-  },
-  {
-   "store": "mango",
-   "key": "mango-87050363-99",
-   "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/87050363/99/00",
-   "gender_slug": "kadın",
-   "garment_id": "87050363",
-   "color_code": "99",
-   "name": "TOPUKLU BILEKTE BOT",
-   "added_by": "Şefika",
-   "added_at": "2026-07-22 14:30"
-  },
-  {
-   "store": "mango",
    "key": "mango-27082005-99",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "gender_slug": "kadın",
