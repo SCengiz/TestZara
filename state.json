@@ -3869,7 +3869,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3963,9 +3963,32 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "11226710-022": {
+   "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
+   "ref": "1226/710",
+   "color": "Bordo Kırmızı",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/b772/ebaa/64194578889d/5660ebbe1057/11226710022-p/11226710022-p.jpg?ts=1769007238255&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-arkasi-acik-topuklu-ayakkabi-p11226710.html?v1=495716285",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-22 21:23:06",
+ "last_check": "2026-07-22 21:25:28",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
