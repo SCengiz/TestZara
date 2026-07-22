@@ -15,8 +15,8 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
-    "36": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -667,10 +667,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "02137693-620": {
@@ -1068,7 +1068,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -1932,7 +1932,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958898",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1951,7 +1951,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -3947,7 +3947,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:41:16",
+ "last_check": "2026-07-22 21:43:21",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
