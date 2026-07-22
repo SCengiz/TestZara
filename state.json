@@ -39,7 +39,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -3958,7 +3958,7 @@
    }
   }
  },
- "last_check": "2026-07-22 18:46:59",
+ "last_check": "2026-07-22 18:49:23",
  "source_failures": {},
  "tg_offset": 4899743,
  "_temp_alerted": false
