@@ -1879,7 +1879,7 @@
    "sizes": {
     "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
-    "L (US L)": "out_of_stock",
+    "L (US L)": "low_on_stock",
     "XL (US XL)": "out_of_stock"
    }
   },
@@ -3988,7 +3988,7 @@
    }
   }
  },
- "last_check": "2026-07-22 21:36:13",
+ "last_check": "2026-07-22 21:36:24",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
