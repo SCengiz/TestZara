@@ -1279,7 +1279,7 @@
    "image": "https://static.zara.net/assets/public/13b2/efe3/b2fd4b7b8b0f/f6899bc0e911/13892710808-e1/13892710808-e1.jpg?ts=1776763922392&w=800",
    "url": "https://www.zara.com/tr/tr/lamine-vinil-topuklu-sandalet-p13892710.html?v1=518669678",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:22:14",
+ "last_check": "2026-07-22 19:24:15",
  "source_failures": {},
  "tg_offset": 4899744,
  "_temp_alerted": false
