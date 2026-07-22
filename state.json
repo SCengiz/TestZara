@@ -3976,9 +3976,32 @@
     "XL (US XL)": "in_stock",
     "XXL (US XXL)": "out_of_stock"
    }
+  },
+  "12573710-091": {
+   "name": "METALİK BAĞCIKLI BANTLI AYAKKABI",
+   "ref": "2573/710",
+   "color": "Altın",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/38d7/3e1b/9be44fb49a4f/1962685430d6/12573710091-p/12573710091-p.jpg?ts=1775662020846&w=800",
+   "url": "https://www.zara.com/tr/tr/metalik-bagcikli-bantli-ayakkabi-p12573710.html?v1=508377028",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-22 19:57:34",
+ "last_check": "2026-07-22 20:00:42",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
