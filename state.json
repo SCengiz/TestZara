@@ -163,7 +163,7 @@
    "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -202,7 +202,7 @@
    "image": "https://static.zara.net/assets/public/6e7c/63a2/da5340658779/9182c2a167d1/02180156093-p/02180156093-p.jpg?ts=1771847053872&w=800",
    "url": "https://www.zara.com/tr/tr/suni-deri-detayli-kazayagi-ceket-p02180156.html?v1=501627052",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3916,8 +3916,8 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "low_on_stock",
-    "39": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -4087,7 +4087,7 @@
    }
   }
  },
- "last_check": "2026-07-22 22:30:56",
+ "last_check": "2026-07-22 22:33:28",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
