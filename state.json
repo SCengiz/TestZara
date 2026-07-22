@@ -683,7 +683,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-dokulu-elbise-p04813312.html?v1=506043029",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -760,7 +760,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "low_on_stock",
     "L": "out_of_stock"
    }
@@ -1014,7 +1014,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3799,7 +3799,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3978,7 +3978,7 @@
    }
   }
  },
- "last_check": "2026-07-22 19:52:23",
+ "last_check": "2026-07-22 19:55:01",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
