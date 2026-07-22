@@ -73,12 +73,21 @@ const REPO = "SCengiz/TestZara";
 // API'si bunu yaşamıyor, doğrudan onu kullanıyoruz (kişisel kullanımda
 // saatte 60 istek sınırı sorun olmaz).
 const API = `https://api.github.com/repos/${REPO}/contents/`;
+// GitHub API saatte 60 istek sınırlıyor (kimliksiz). ETag ile "koşullu
+// istek" yaparsak veri değişmediğinde 304 döner ve bu sınıra SAYILMAZ —
+// 20 sn'de bir yenileme ancak böyle sürdürülebilir.
+const etagCache = {};
 async function fetchJsonFresh(path) {
-  const r = await fetch(API + path + "?ref=main", {
-    headers: { "Accept": "application/vnd.github.raw" },
-  });
+  const cached = etagCache[path];
+  const headers = { "Accept": "application/vnd.github.raw" };
+  if (cached) headers["If-None-Match"] = cached.etag;
+  const r = await fetch(API + path + "?ref=main", { headers });
+  if (r.status === 304 && cached) return cached.data;
+  if (r.status === 403) throw "rate-limit";
   if (!r.ok) throw r.status;
-  return r.json();
+  const data = await r.json();
+  etagCache[path] = { etag: r.headers.get("ETag"), data };
+  return data;
 }
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
@@ -185,9 +194,11 @@ async function main() {
     ]);
   } catch (e) {
     document.getElementById("err").style.display = "block";
-    document.getElementById("err").textContent =
-      "Veri okunamadı. Repo public mi? (" + e + ")";
-    app.textContent = "";
+    document.getElementById("err").textContent = e === "rate-limit"
+      ? "⏳ GitHub'ın saatlik istek sınırına takıldık, birkaç dakika içinde kendiliğinden düzelir. Panel otomatik denemeye devam ediyor."
+      : "Veri okunamadı. Repo public mi? (" + e + ")";
+    // app.textContent'i temizlemiyoruz — rate limit geçiciyse ekrandaki
+    // son geçerli veri görünmeye devam etsin, boş ekran yerine.
     refreshing = false;
     return;
   }
