@@ -1011,7 +1011,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4227,9 +4227,70 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02559769-430": {
+   "name": "EVASÉ İŞLEMELİ MİDİ ETEK",
+   "ref": "2559/769",
+   "color": "Mürekkep mavisi",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/a54a/1c65/a64c4cf883e2/18d43c478b1b/02559769430-p/02559769430-p.jpg?ts=1776944752386&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-klos-midi-etek-p02559769.html?v1=514989241",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "04333044-330": {
+   "name": "ZW KOLEKSİYON DRAPELİ ÇİZGİLİ ETEK",
+   "ref": "4333/044",
+   "color": "Çokrenkli",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/4b1b/b030/31de40c19d97/15ce3d0b17fc/04333044330-p/04333044330-p.jpg?ts=1774949046391&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-drape-cizgili-etek-p04333044.html?v1=512314406",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02308111-250": {
+   "name": "KISA PİLİLİ CEPLİ ELBİSE",
+   "ref": "2308/111",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/050b/81de/421d486ebabb/567cdab79873/02308111250-p/02308111250-p.jpg?ts=1770827639590&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-pilili-cepli-elbise-p02308111.html?v1=505228286",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 19:53:37",
+ "last_check": "2026-07-23 19:56:06",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
