@@ -2430,7 +2430,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3372,7 +3372,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "04369050-092": {
@@ -4194,7 +4194,7 @@
    }
   }
  },
- "last_check": "2026-07-23 19:10:51",
+ "last_check": "2026-07-23 19:13:22",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
