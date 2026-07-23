@@ -1731,7 +1731,7 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -2831,7 +2831,7 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "low_on_stock",
+    "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
@@ -3640,26 +3640,6 @@
     "42": "out_of_stock"
    }
   },
-  "01063410-250": {
-   "name": "%100 KETEN REGULAR FIT GÖMLEK",
-   "ref": "1063/410",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "MAN",
-   "price": 249000,
-   "old_price": null,
-   "discount": null,
-   "image": "https://static.zara.net/assets/public/2cec/cda9/50544ecc9ca5/f37ec395b6dc/01063410250-p/01063410250-p.jpg?ts=1773849110649&w=800",
-   "url": "https://www.zara.com/tr/tr/100-keten-regular-fit-gomlek-p01063410.html?v1=545465799",
-   "sizes": {
-    "S (US S)": "in_stock",
-    "M (US M)": "in_stock",
-    "L (US L)": "in_stock",
-    "XL (US XL)": "in_stock",
-    "XXL (US XXL)": "out_of_stock"
-   }
-  },
   "12573710-091": {
    "name": "METALİK BAĞCIKLI BANTLI AYAKKABI",
    "ref": "2573/710",
@@ -3863,7 +3843,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4229,7 +4209,7 @@
    "url": "https://www.zara.com/tr/tr/z1975-mini-ispanyol-paca-yuksek-bel-jean-p00108033.html?v1=507291731",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "in_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4239,8 +4219,8 @@
    }
   }
  },
- "last_check": "2026-07-23 18:45:46",
+ "last_check": "2026-07-23 18:48:20",
  "source_failures": {},
- "tg_offset": 4899757,
+ "tg_offset": 4899749,
  "_temp_alerted": false
 }
