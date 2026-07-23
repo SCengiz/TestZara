@@ -386,27 +386,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "04391833-802": {
-   "name": "FERMUARLI KISA SUNİ KÜRK KABAN",
-   "ref": "4391/833",
-   "color": "Gri",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/5ea5/b74c/df87447fb23b/032dd964f841/04391833802-p/04391833802-p.jpg?ts=1765296887635&w=800",
-   "url": "https://www.zara.com/tr/tr/fermuarli-kisa-suni-kurk-kaban-p04391833.html?v1=505121104",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "in_stock"
-   }
-  },
   "03811053-714": {
    "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
    "ref": "3811/053",
@@ -1175,29 +1154,6 @@
     "42": "out_of_stock"
    }
   },
-  "12820710-098": {
-   "name": "PARLAK BANTLI SANDALET",
-   "ref": "2820/710",
-   "color": "Bej",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 159000,
-   "old_price": 199000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/c661/1761/bcc84981bcb9/e303a85c5c1f/12820710098-e1/12820710098-e1.jpg?ts=1770108142268&w=800",
-   "url": "https://www.zara.com/tr/tr/parlak-bantli-sandalet-p12820710.html?v1=547798264",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "05767505-712": {
    "name": "İŞLEMELİ ÇİÇEKLİ SWEATSHIRT",
    "ref": "5767/505",
@@ -1399,10 +1355,10 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025188",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1735,7 +1691,7 @@
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1811,8 +1767,8 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "in_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4331,7 +4287,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:12:28",
+ "last_check": "2026-07-23 15:14:19",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
