@@ -3343,7 +3343,7 @@
     "35 (22,3 cm)": "out_of_stock",
     "36 (22,9 cm)": "out_of_stock",
     "37 (23,6 cm)": "out_of_stock",
-    "38 (24,3 cm)": "low_on_stock",
+    "38 (24,3 cm)": "out_of_stock",
     "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:25:50",
+ "last_check": "2026-07-23 12:27:19",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
