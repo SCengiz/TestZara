@@ -1848,7 +1848,7 @@
    "image": "https://static.zara.net/assets/public/b871/7aed/5d894d839d51/ee6ee6304b9b/07446444064-p/07446444064-p.jpg?ts=1769694246221&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kareli-pazen-gomlek-p07446444.html?v1=506790788",
    "sizes": {
-    "S (US S)": "in_stock",
+    "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -2020,7 +2020,7 @@
    "image": "https://static.zara.net/assets/public/28ca/2c82/d45f40358fb7/71583f216e8c/40214041300-e1/40214041300-e1.jpg?ts=1766075122451&w=800",
    "url": "https://www.zara.com/tr/tr/renkli-kulplu-borosilikat-caydanlik-p40214041.html?v1=495430130",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "in_stock"
    }
   },
   "42570049-052": {
@@ -4251,7 +4251,7 @@
    }
   }
  },
- "last_check": "2026-07-23 16:07:12",
+ "last_check": "2026-07-23 16:09:49",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
