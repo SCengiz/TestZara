@@ -667,7 +667,7 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1928,7 +1928,7 @@
    "url": "https://www.zara.com/tr/tr/hafif-regular-fit-jean-p09306400.html?v1=502153378",
    "sizes": {
     "EU 36 (US 29)": "in_stock",
-    "EU 38 (US 30)": "out_of_stock",
+    "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
@@ -3879,7 +3879,7 @@
    "url": "https://www.zara.com/tr/tr/yuksek-ahsap-evcil-hayvan-mama-kasesi-p43323211.html?v1=495441326",
    "sizes": {
     "17 x 24.5 x 24.5 cm": "out_of_stock",
-    "26 x 29.5 x 29.5 cm": "low_on_stock"
+    "26 x 29.5 x 29.5 cm": "out_of_stock"
    }
   },
   "40300211-251": {
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:26:37",
+ "last_check": "2026-07-23 14:29:15",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
