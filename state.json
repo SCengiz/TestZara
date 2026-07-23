@@ -2222,22 +2222,6 @@
     "STANDART": "in_stock"
    }
   },
-  "41361009-052": {
-   "name": "KETEN ŞİLTE",
-   "ref": "1361/009",
-   "color": "Açık bej",
-   "kind": "Wear",
-   "family": "KIRLENT",
-   "section": "HOME",
-   "price": 419000,
-   "old_price": 599000,
-   "discount": 30,
-   "image": "https://static.zara.net/assets/public/37bd/0398/da9d4c5391b9/64ca4a9226aa/41361009052-e1/41361009052-e1.jpg?ts=1769446625042&w=800",
-   "url": "https://www.zara.com/tr/tr/keten-silte-p41361009.html?v1=495417597",
-   "sizes": {
-    "70 x 220 x 5 cm": "out_of_stock"
-   }
-  },
   "46152088-052": {
    "name": "ÇİÇEKLİ SATEN NEVRESİM (300 İPLİKLİ)",
    "ref": "6152/088",
@@ -4331,7 +4315,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:28:44",
+ "last_check": "2026-07-23 13:31:16",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
