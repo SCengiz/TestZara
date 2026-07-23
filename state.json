@@ -644,9 +644,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1674,9 +1674,9 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
-    "L (US L)": "out_of_stock",
-    "XL (US XL)": "out_of_stock"
+    "M (US M)": "in_stock",
+    "L (US L)": "in_stock",
+    "XL (US XL)": "low_on_stock"
    }
   },
   "04087506-807": {
@@ -1731,7 +1731,7 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1769,7 +1769,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958898",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "in_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1788,7 +1788,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -2004,7 +2004,7 @@
    "image": "https://static.zara.net/assets/public/28ca/2c82/d45f40358fb7/71583f216e8c/40214041300-e1/40214041300-e1.jpg?ts=1766075122451&w=800",
    "url": "https://www.zara.com/tr/tr/renkli-kulplu-borosilikat-caydanlik-p40214041.html?v1=495430130",
    "sizes": {
-    "STANDART": "in_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "42570049-052": {
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 18:15:34",
+ "last_check": "2026-07-23 18:18:16",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
