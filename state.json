@@ -2173,7 +2173,7 @@
    "url": "https://www.zara.com/tr/tr/kalin-saten-nevresim--300-iplikli--p40039088.html?v1=502317294",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    }
@@ -4214,9 +4214,32 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "00108033-407": {
+   "name": "Z1975 MİNİ İSPANYOL PAÇA YÜKSEK BEL JEAN",
+   "ref": "0108/033",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/3119/e5ee/e95349e09316/12748f667683/01934037407-p/01934037407-p.jpg?ts=1770033442968&w=800",
+   "url": "https://www.zara.com/tr/tr/z1975-mini-ispanyol-paca-yuksek-bel-jean-p00108033.html?v1=507291731",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 17:07:40",
+ "last_check": "2026-07-23 17:10:07",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
