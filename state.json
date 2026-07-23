@@ -3165,7 +3165,7 @@
    "image": "https://static.zara.net/assets/public/abdb/7de8/786f4de0a136/fec1e3142065/03666052606-a1/03666052606-a1.jpg?ts=1770389193441&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-bluz-p03666052.html?v1=520942112",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 09:19:37",
+ "last_check": "2026-07-23 09:22:18",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
