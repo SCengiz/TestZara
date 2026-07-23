@@ -3619,7 +3619,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "out_of_stock"
+    "46": "low_on_stock"
    }
   },
   "02604550-250": {
@@ -4287,7 +4287,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:27:03",
+ "last_check": "2026-07-23 15:28:05",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
