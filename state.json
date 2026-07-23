@@ -630,8 +630,8 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "L": "in_stock",
+    "XL": "in_stock"
    }
   },
   "02137693-620": {
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:58:38",
+ "last_check": "2026-07-23 12:59:22",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
