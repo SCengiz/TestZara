@@ -668,7 +668,7 @@
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
     "S": "in_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -1421,7 +1421,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "in_stock",
+    "S (US S)": "low_on_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -1889,7 +1889,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -2137,7 +2137,7 @@
    "image": "https://static.zara.net/assets/public/86a7/ccf9/7eff4259a81c/af147270a95e/42570049052-e1/42570049052-e1.jpg?ts=1769083501591&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-yuvarlak-sepet-p42570049.html?v1=495430537",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "43370004-505": {
@@ -2980,7 +2980,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:53:34",
+ "last_check": "2026-07-23 12:56:00",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
