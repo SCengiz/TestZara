@@ -99,7 +99,7 @@
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -1399,7 +1399,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-kiraz-desenli-sweatshirt-p05767514.html?v1=520763093",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -2966,7 +2966,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4315,7 +4315,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:36:53",
+ "last_check": "2026-07-23 13:38:46",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
