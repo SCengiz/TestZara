@@ -3028,7 +3028,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -3197,25 +3197,6 @@
     "L": "out_of_stock"
    }
   },
-  "05344040-515": {
-   "name": "OVERSIZE KADİFE BLAZER ZW COLLECTION LIMITED EDITION",
-   "ref": "5344/040",
-   "color": "Yağ yeşili",
-   "kind": "Wear",
-   "family": "BLAZER",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 119000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/985b/25a3/82ab4aa5ba1e/ed390a1d2d58/05344040515-p/05344040515-p.jpg?ts=1768842394208&w=800",
-   "url": "https://www.zara.com/tr/tr/oversize-kadife-blazer-zw-collection-limited-edition-p05344040.html?v1=513972143",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
    "ref": "2949/024",
@@ -3372,7 +3353,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "04369050-092": {
@@ -3872,9 +3853,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -4230,7 +4211,7 @@
    }
   }
  },
- "last_check": "2026-07-23 19:46:34",
+ "last_check": "2026-07-23 19:48:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
