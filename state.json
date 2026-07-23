@@ -378,7 +378,7 @@
    "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -1713,7 +1713,7 @@
    "sizes": {
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "out_of_stock",
+    "EU 42 (US 32)": "low_on_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
    }
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 18:30:55",
+ "last_check": "2026-07-23 18:33:13",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
