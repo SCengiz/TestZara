@@ -2381,7 +2381,7 @@
    "image": "https://static.zara.net/assets/public/ee93/f62b/e20342d88531/f84338a734bf/48546013741-e1/48546013741-e1.jpg?ts=1776267790250&w=800",
    "url": "https://www.zara.com/tr/tr/capraz-dokulu-banyo-havlusu-p48546013.html?v1=523322266",
    "sizes": {
-    "Yüz Havlusu": "in_stock",
+    "Yüz Havlusu": "out_of_stock",
     "El Havlusu": "out_of_stock",
     "Banyo Havlusu": "out_of_stock"
    }
@@ -4216,7 +4216,7 @@
    }
   }
  },
- "last_check": "2026-07-23 16:32:28",
+ "last_check": "2026-07-23 16:34:56",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
