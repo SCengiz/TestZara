@@ -1629,7 +1629,7 @@
    "image": "https://static.zara.net/assets/public/f78b/ddba/e0d5491ba92c/786d9662ec06/02756533645200-p/02756533645200-p.jpg?ts=1767864733925&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kombine-triko-yelekli-gomlek-p02756533.html?v1=510920758",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -3165,7 +3165,7 @@
    "image": "https://static.zara.net/assets/public/abdb/7de8/786f4de0a136/fec1e3142065/03666052606-a1/03666052606-a1.jpg?ts=1770389193441&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-bluz-p03666052.html?v1=520942112",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3693,7 +3693,7 @@
    "image": "https://static.zara.net/assets/public/d936/5591/71e943948a89/c849d92c2f58/00103248700-p/00103248700-p.jpg?ts=1769616836061&w=800",
    "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465513",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 09:34:44",
+ "last_check": "2026-07-23 09:37:12",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
