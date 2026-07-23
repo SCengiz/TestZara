@@ -2982,7 +2982,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -3634,7 +3634,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:23:47",
+ "last_check": "2026-07-23 13:25:23",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
