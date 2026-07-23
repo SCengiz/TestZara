@@ -2137,7 +2137,7 @@
    "image": "https://static.zara.net/assets/public/86a7/ccf9/7eff4259a81c/af147270a95e/42570049052-e1/42570049052-e1.jpg?ts=1769083501591&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-yuvarlak-sepet-p42570049.html?v1=495430537",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "43370004-505": {
@@ -2949,9 +2949,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 159999,
+   "price": 149999,
    "old_price": 249998,
-   "discount": 36,
+   "discount": 40,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:38:24",
+ "last_check": "2026-07-23 12:40:53",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
