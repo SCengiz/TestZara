@@ -58,7 +58,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -630,8 +630,8 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
-    "XL": "in_stock"
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "02137693-620": {
@@ -1775,9 +1775,9 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
-    "L (US L)": "low_on_stock",
-    "XL (US XL)": "in_stock"
+    "M (US M)": "out_of_stock",
+    "L (US L)": "out_of_stock",
+    "XL (US XL)": "out_of_stock"
    }
   },
   "04087506-807": {
@@ -3453,7 +3453,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3633,8 +3633,8 @@
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
     "XS": "in_stock",
-    "S": "low_on_stock",
-    "M": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:01:37",
+ "last_check": "2026-07-23 13:04:05",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
