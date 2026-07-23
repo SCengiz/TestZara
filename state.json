@@ -1173,7 +1173,7 @@
    "image": "https://static.zara.net/assets/public/3645/e71c/be0f4101af1c/635f5c7926e5/01381645804-p/01381645804-p.jpg?ts=1777532548859&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cicek-desenli-elbise-p01381645.html?v1=544001992",
    "sizes": {
-    "6/7 yaş (122 cm)": "low_on_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "in_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock"
@@ -1750,7 +1750,7 @@
    "image": "https://static.zara.net/assets/public/144e/3a86/3d814afd80d9/02473ead9391/06674431500-p/06674431500-p.jpg?ts=1770887267267&w=800",
    "url": "https://www.zara.com/tr/tr/fermuar-yakali-pamuklu-kazak-p06674431.html?v1=500564747",
    "sizes": {
-    "M (US M)": "out_of_stock",
+    "M (US M)": "low_on_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1848,7 +1848,7 @@
    "image": "https://static.zara.net/assets/public/b871/7aed/5d894d839d51/ee6ee6304b9b/07446444064-p/07446444064-p.jpg?ts=1769694246221&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kareli-pazen-gomlek-p07446444.html?v1=506790788",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "low_on_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -4216,7 +4216,7 @@
    }
   }
  },
- "last_check": "2026-07-23 16:44:56",
+ "last_check": "2026-07-23 16:47:39",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
