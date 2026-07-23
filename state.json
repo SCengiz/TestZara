@@ -631,7 +631,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "02137693-620": {
@@ -1420,7 +1420,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025188",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:16:35",
+ "last_check": "2026-07-23 14:17:23",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
