@@ -776,7 +776,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -1232,7 +1232,7 @@
    "image": "https://static.zara.net/assets/public/713b/c83b/27e347829a42/bb26414aa7b4/05767505712-e1/05767505712-e1.jpg?ts=1764081616853&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-sweatshirt-p05767505.html?v1=502141801",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -1832,7 +1832,7 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:44:10",
+ "last_check": "2026-07-23 14:46:44",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
