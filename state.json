@@ -631,7 +631,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "02137693-620": {
@@ -1775,7 +1775,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1971,7 +1971,7 @@
     "EU 36 (US 29)": "in_stock",
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "out_of_stock",
+    "EU 42 (US 32)": "in_stock",
     "EU 44 (US 34)": "out_of_stock"
    }
   },
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:18:57",
+ "last_check": "2026-07-23 14:21:35",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
