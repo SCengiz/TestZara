@@ -920,7 +920,7 @@
    "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -1757,7 +1757,7 @@
    "sizes": {
     "S (US S)": "out_of_stock",
     "M (US M)": "low_on_stock",
-    "L (US L)": "low_on_stock",
+    "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
   },
@@ -3912,7 +3912,7 @@
    "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
    "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
    "sizes": {
-    "6/7 yaş (122 cm)": "in_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -4315,7 +4315,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:46:31",
+ "last_check": "2026-07-23 13:48:54",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
