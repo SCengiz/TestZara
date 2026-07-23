@@ -2766,10 +2766,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "00881016-251": {
@@ -4290,7 +4290,7 @@
    }
   }
  },
- "last_check": "2026-07-23 20:44:00",
+ "last_check": "2026-07-23 20:46:28",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
