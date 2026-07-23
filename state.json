@@ -1928,7 +1928,7 @@
    "url": "https://www.zara.com/tr/tr/hafif-regular-fit-jean-p09306400.html?v1=502153378",
    "sizes": {
     "EU 36 (US 29)": "in_stock",
-    "EU 38 (US 30)": "low_on_stock",
+    "EU 38 (US 30)": "out_of_stock",
     "EU 40 (US 31)": "out_of_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 09:49:51",
+ "last_check": "2026-07-23 09:52:19",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
