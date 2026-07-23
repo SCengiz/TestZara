@@ -386,27 +386,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "04391833-802": {
-   "name": "FERMUARLI KISA SUNİ KÜRK KABAN",
-   "ref": "4391/833",
-   "color": "Gri",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/5ea5/b74c/df87447fb23b/032dd964f841/04391833802-p/04391833802-p.jpg?ts=1765296887635&w=800",
-   "url": "https://www.zara.com/tr/tr/fermuarli-kisa-suni-kurk-kaban-p04391833.html?v1=505121104",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "in_stock"
-   }
-  },
   "03811053-714": {
    "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
    "ref": "3811/053",
@@ -519,27 +498,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "04391733-716": {
-   "name": "KISA SUNİ KÜRK KABAN",
-   "ref": "4391/733",
-   "color": "Koyu kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/fbdf/006b/2f464a90b962/7e0e48c49ae0/04391733716-p/04391733716-p.jpg?ts=1764060290992&w=800",
-   "url": "https://www.zara.com/tr/tr/kisa-suni-kurklu-kaban-p04391733.html?v1=503419213",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "in_stock"
    }
   },
   "05063365-717": {
@@ -1420,10 +1378,10 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025188",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1832,8 +1790,8 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4060,7 +4018,7 @@
    "url": "https://www.zara.com/tr/tr/blok-topuklu-cizme-p13014610.html?v1=502594696",
    "sizes": {
     "35": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4352,7 +4310,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:09:22",
+ "last_check": "2026-07-23 15:12:17",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
