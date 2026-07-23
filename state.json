@@ -1526,7 +1526,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -1612,7 +1612,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -1775,9 +1775,9 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "out_of_stock",
-    "L (US L)": "out_of_stock",
-    "XL (US XL)": "out_of_stock"
+    "M (US M)": "in_stock",
+    "L (US L)": "low_on_stock",
+    "XL (US XL)": "in_stock"
    }
   },
   "04087506-807": {
@@ -2137,7 +2137,7 @@
    "image": "https://static.zara.net/assets/public/86a7/ccf9/7eff4259a81c/af147270a95e/42570049052-e1/42570049052-e1.jpg?ts=1769083501591&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-yuvarlak-sepet-p42570049.html?v1=495430537",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "43370004-505": {
@@ -3453,7 +3453,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:59:22",
+ "last_check": "2026-07-23 13:01:37",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
