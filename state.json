@@ -1671,7 +1671,7 @@
    "image": "https://static.zara.net/assets/public/4f03/06a3/29ef43d39164/17df7106a0a7/02756525052-e1/02756525052-e1.jpg?ts=1767110193510&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-islemeli-triko-yelek-kombinli-gomlek-p02756525.html?v1=495680554",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1971,7 +1971,7 @@
     "EU 36 (US 29)": "in_stock",
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "in_stock",
+    "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock"
    }
   },
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:21:35",
+ "last_check": "2026-07-23 14:24:11",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
