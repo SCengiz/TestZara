@@ -1832,7 +1832,7 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:56:50",
+ "last_check": "2026-07-23 14:57:37",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
