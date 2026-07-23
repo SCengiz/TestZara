@@ -518,24 +518,6 @@
     "L": "out_of_stock"
    }
   },
-  "01067007-250": {
-   "name": "KONTRAST AÇIK OMUZLU T-SHIRT",
-   "ref": "1067/007",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 35000,
-   "old_price": 45000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/018f/1ef7/1b0c4ac18d44/32cdbf3ae1c5/05039023250-p/05039023250-p.jpg?ts=1774613938978&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-acik-omuzlu-t-shirt-p01067007.html?v1=522350483",
-   "sizes": {
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "in_stock"
-   }
-  },
   "16049710-253": {
    "name": "ZARF ÇAPRAZ ASKILI ÇANTA",
    "ref": "6049/710",
@@ -610,24 +592,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   }
-  },
-  "01355011-800": {
-   "name": "VÜCUDA OTURAN MİDİ ELBİSE",
-   "ref": "1355/011",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
-   "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    }
   },
   "06318038-700": {
@@ -3553,7 +3517,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4287,7 +4251,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:37:02",
+ "last_check": "2026-07-23 15:37:32",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
