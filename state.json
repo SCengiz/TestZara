@@ -2949,9 +2949,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 179999,
+   "price": 149999,
    "old_price": 249998,
-   "discount": 28,
+   "discount": 40,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -2962,7 +2962,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "05474058-400": {
@@ -4293,7 +4293,7 @@
    }
   }
  },
- "last_check": "2026-07-23 11:45:19",
+ "last_check": "2026-07-23 11:45:34",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
