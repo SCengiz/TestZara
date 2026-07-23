@@ -570,8 +570,8 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "L": "low_on_stock",
+    "XL": "in_stock"
    }
   },
   "02137693-620": {
@@ -3301,7 +3301,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3480,9 +3480,9 @@
    "image": "https://static.zara.net/assets/public/2556/e779/2b664824900a/8c61874a5f3b/09929190505-p/09929190505-p.jpg?ts=1770917281224&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "XS": "low_on_stock",
+    "S": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 18:08:04",
+ "last_check": "2026-07-23 18:10:33",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
