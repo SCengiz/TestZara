@@ -14,7 +14,7 @@
    "image": "https://static.zara.net/assets/public/467c/ad78/3a474ff194c4/b0d0a9f1b295/05862081445-p/05862081445-p.jpg?ts=1773765628283&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -1674,7 +1674,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 17:25:14",
+ "last_check": "2026-07-23 17:27:40",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
