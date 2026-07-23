@@ -496,7 +496,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -1671,7 +1671,7 @@
    "image": "https://static.zara.net/assets/public/4f03/06a3/29ef43d39164/17df7106a0a7/02756525052-e1/02756525052-e1.jpg?ts=1767110193510&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-islemeli-triko-yelek-kombinli-gomlek-p02756525.html?v1=495680554",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -4313,9 +4313,46 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "04344655-533": {
+   "name": "SUNİ SÜET CEKET",
+   "ref": "4344/655",
+   "color": "orta haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/925d/0700/972c484dae05/88c99e1a9167/04344655533-p/04344655533-p.jpg?ts=1772472170898&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-suet-ceket-p04344655.html?v1=527718980",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "05344040-515": {
+   "name": "OVERSIZE KADİFE BLAZER ZW COLLECTION LIMITED EDITION",
+   "ref": "5344/040",
+   "color": "Yağ yeşili",
+   "kind": "Wear",
+   "family": "BLAZER",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/985b/25a3/82ab4aa5ba1e/ed390a1d2d58/05344040515-p/05344040515-p.jpg?ts=1768842394208&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-kadife-blazer-zw-collection-limited-edition-p05344040.html?v1=513972143",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 13:48:54",
+ "last_check": "2026-07-23 13:51:59",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
