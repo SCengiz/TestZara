@@ -2430,7 +2430,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -2747,7 +2747,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3466,7 +3466,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock"
+    "L": "out_of_stock"
    }
   },
   "01255894-716": {
@@ -4103,7 +4103,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4194,7 +4194,7 @@
    }
   }
  },
- "last_check": "2026-07-23 19:08:51",
+ "last_check": "2026-07-23 19:10:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
