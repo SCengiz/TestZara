@@ -3632,7 +3632,7 @@
    "image": "https://static.zara.net/assets/public/2556/e779/2b664824900a/8c61874a5f3b/09929190505-p/09929190505-p.jpg?ts=1770917281224&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:04:05",
+ "last_check": "2026-07-23 13:06:05",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
