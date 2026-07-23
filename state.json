@@ -142,7 +142,7 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "in_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
@@ -3583,7 +3583,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "low_on_stock"
+    "46": "out_of_stock"
    }
   },
   "02604550-250": {
@@ -4251,7 +4251,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:57:47",
+ "last_check": "2026-07-23 15:59:50",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
