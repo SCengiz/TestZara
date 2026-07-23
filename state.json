@@ -4210,9 +4210,27 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02298471-632": {
+   "name": "BUKLE KUMAŞ KOMBİNE TOP",
+   "ref": "2298/471",
+   "color": "Parlak kırmızı",
+   "kind": "Wear",
+   "family": "DIGER GIYIM ESYASI",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/7294/2ae6/55094ee38b18/81aa33ca607c/02298471632-p/02298471632-p.jpg?ts=1777549849506&w=800",
+   "url": "https://www.zara.com/tr/tr/bukle-kumas-kombine-top-p02298471.html?v1=528349829",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 19:38:27",
+ "last_check": "2026-07-23 19:40:58",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
