@@ -98,7 +98,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "in_stock"
    }
   },
   "16125710-111": {
@@ -2391,7 +2391,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -4192,9 +4192,27 @@
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
+  },
+  "01058144-621": {
+   "name": "ASKILI ELBİSE",
+   "ref": "1058/144",
+   "color": "Pastel pembe",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d0b7/b099/e3b3472893a3/b4a6231be8d3/01058144621-p/01058144621-p.jpg?ts=1780411125429&w=800",
+   "url": "https://www.zara.com/tr/tr/askili-elbise-p01058144.html?v1=537078376",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 19:20:50",
+ "last_check": "2026-07-23 19:23:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
