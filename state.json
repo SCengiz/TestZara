@@ -2330,7 +2330,7 @@
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-midi-etek-p05644036.html?v1=515230886",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -2468,7 +2468,7 @@
    "image": "https://static.zara.net/assets/public/2556/e779/2b664824900a/8c61874a5f3b/09929190505-p/09929190505-p.jpg?ts=1770917281224&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -2748,7 +2748,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -2766,10 +2766,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
-    "XL": "in_stock"
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -3152,7 +3152,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4212,7 +4212,7 @@
    }
   }
  },
- "last_check": "2026-07-23 19:33:30",
+ "last_check": "2026-07-23 19:35:42",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
