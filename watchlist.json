@@ -1,5 +1,48 @@
 {
- "wishlists": [],
+ "wishlists": [
+  {
+   "slot": 1,
+   "url": "https://www.zara.com/share/wishlist/-DtTk01ONy-FU9ommXnOWw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (13 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  },
+  {
+   "slot": 2,
+   "url": "https://www.zara.com/share/wishlist/QOXU8ydNNMqr4pEa15A3oQ?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (48 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  },
+  {
+   "slot": 3,
+   "url": "https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (51 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  },
+  {
+   "slot": 4,
+   "url": "https://www.zara.com/share/wishlist/XnD82ka1OeCxoErInJ6Orw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (43 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  },
+  {
+   "slot": 5,
+   "url": "https://www.zara.com/share/wishlist/53vHUKXSNGyMW5DQJWy7Tw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (25 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  },
+  {
+   "slot": 6,
+   "url": "https://www.zara.com/share/wishlist/6C96RYb1Pu2ahvomcRv8QA?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
+   "label": "Sc listesi (26 ürün)",
+   "added_by": "Sc",
+   "added_at": "2026-07-23 18:52"
+  }
+ ],
  "products": [
   {
    "store": "mango",
