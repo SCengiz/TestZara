@@ -386,6 +386,27 @@
     "XXL": "out_of_stock"
    }
   },
+  "04391833-802": {
+   "name": "FERMUARLI KISA SUNİ KÜRK KABAN",
+   "ref": "4391/833",
+   "color": "Gri",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
+   "image": "https://static.zara.net/assets/public/5ea5/b74c/df87447fb23b/032dd964f841/04391833802-p/04391833802-p.jpg?ts=1765296887635&w=800",
+   "url": "https://www.zara.com/tr/tr/fermuarli-kisa-suni-kurk-kaban-p04391833.html?v1=505121104",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "in_stock"
+   }
+  },
   "03811053-714": {
    "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
    "ref": "3811/053",
@@ -4310,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:12:17",
+ "last_check": "2026-07-23 15:12:28",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
