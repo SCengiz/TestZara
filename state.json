@@ -99,7 +99,7 @@
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -963,7 +963,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -1813,7 +1813,7 @@
    "url": "https://www.zara.com/tr/tr/straight-fit-dokulu-pantolon-p00706488.html?v1=498613876",
    "sizes": {
     "EU 38 (US 30)": "in_stock",
-    "EU 40 (US 31)": "in_stock",
+    "EU 40 (US 31)": "out_of_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
@@ -1949,7 +1949,7 @@
    "image": "https://static.zara.net/assets/public/b871/7aed/5d894d839d51/ee6ee6304b9b/07446444064-p/07446444064-p.jpg?ts=1769694246221&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kareli-pazen-gomlek-p07446444.html?v1=506790788",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -4315,7 +4315,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:34:24",
+ "last_check": "2026-07-23 13:34:50",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
