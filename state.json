@@ -2747,7 +2747,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4290,7 +4290,7 @@
    }
   }
  },
- "last_check": "2026-07-23 22:35:11",
+ "last_check": "2026-07-23 22:37:09",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
