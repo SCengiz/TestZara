@@ -14,7 +14,7 @@
    "image": "https://static.zara.net/assets/public/467c/ad78/3a474ff194c4/b0d0a9f1b295/05862081445-p/05862081445-p.jpg?ts=1773765628283&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -287,7 +287,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    }
   },
   "02721570-800": {
@@ -1834,7 +1834,7 @@
    "sizes": {
     "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3453,7 +3453,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4293,7 +4293,7 @@
    }
   }
  },
- "last_check": "2026-07-23 11:38:11",
+ "last_check": "2026-07-23 11:41:06",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
