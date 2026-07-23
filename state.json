@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "in_stock",
+    "S (US S)": "low_on_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -2582,7 +2582,7 @@
    "image": "https://static.zara.net/assets/public/132d/ab09/21b64ac283bf/af58a33efdae/44279022514-e1/44279022514-e1.jpg?ts=1771931745688&w=800",
    "url": "https://www.zara.com/tr/tr/toile-desenli-pamuklu-pecete--2-li-set--p44279022.html?v1=502317229",
    "sizes": {
-    "Peçeteler": "in_stock"
+    "Peçeteler": "low_on_stock"
    }
   },
   "41125434-712": {
@@ -2949,9 +2949,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 149999,
+   "price": 179999,
    "old_price": 249998,
-   "discount": 40,
+   "discount": 28,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -2962,7 +2962,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "05474058-400": {
@@ -4293,7 +4293,7 @@
    }
   }
  },
- "last_check": "2026-07-23 11:43:02",
+ "last_check": "2026-07-23 11:45:19",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
