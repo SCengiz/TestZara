@@ -1713,7 +1713,7 @@
    "sizes": {
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "low_on_stock",
+    "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
     "EU 46 (US 36)": "out_of_stock"
    }
@@ -2828,7 +2828,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 18:33:13",
+ "last_check": "2026-07-23 18:35:41",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
