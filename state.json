@@ -722,9 +722,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 399999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 45,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -4311,9 +4311,27 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04344164-753": {
+   "name": "SUNİ SÜET PELERİN ETEK",
+   "ref": "4344/164",
+   "color": "Çikolata kahverengisi",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/128f/57ac/d04b44a5b0f1/45c669915b74/04344164753-p/04344164753-p.jpg?ts=1770654389360&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-suet-pelerin-etek-p04344164.html?v1=496905794",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 11:53:20",
+ "last_check": "2026-07-23 11:55:34",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
