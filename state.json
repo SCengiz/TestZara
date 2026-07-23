@@ -3853,9 +3853,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -4209,9 +4209,27 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "01165015-600": {
+   "name": "UZUN HALTER ELBİSE",
+   "ref": "1165/015",
+   "color": "Kırmızı",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/921e/165e/eb9b4ef98167/06481d08f748/01165015600-p/01165015600-p.jpg?ts=1777364061581&w=800",
+   "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 19:52:29",
+ "last_check": "2026-07-23 19:53:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
