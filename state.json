@@ -1949,7 +1949,7 @@
    "image": "https://static.zara.net/assets/public/b871/7aed/5d894d839d51/ee6ee6304b9b/07446444064-p/07446444064-p.jpg?ts=1769694246221&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kareli-pazen-gomlek-p07446444.html?v1=506790788",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -2923,7 +2923,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "out_of_stock"
+    "13/14 yaş (164 cm)": "low_on_stock"
    }
   },
   "mango-27082005-99": {
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:33:07",
+ "last_check": "2026-07-23 14:34:18",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
