@@ -1750,7 +1750,7 @@
    "image": "https://static.zara.net/assets/public/144e/3a86/3d814afd80d9/02473ead9391/06674431500-p/06674431500-p.jpg?ts=1770887267267&w=800",
    "url": "https://www.zara.com/tr/tr/fermuar-yakali-pamuklu-kazak-p06674431.html?v1=500564747",
    "sizes": {
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 17:35:18",
+ "last_check": "2026-07-23 17:37:46",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
