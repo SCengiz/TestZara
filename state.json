@@ -667,8 +667,8 @@
    "image": "https://static.zara.net/assets/public/c91f/3bf0/64d6474fac61/9aaf446a832f/01355011800-p/01355011800-p.jpg?ts=1768472884072&w=800",
    "url": "https://www.zara.com/tr/tr/vucuda-oturan-midi-elbise-p01355011.html?v1=495703239",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -1928,7 +1928,7 @@
    "url": "https://www.zara.com/tr/tr/hafif-regular-fit-jean-p09306400.html?v1=502153378",
    "sizes": {
     "EU 36 (US 29)": "in_stock",
-    "EU 38 (US 30)": "out_of_stock",
+    "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
     "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock",
@@ -3634,7 +3634,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3928,7 +3928,7 @@
    "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
    "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "in_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:21:12",
+ "last_check": "2026-07-23 13:23:47",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
