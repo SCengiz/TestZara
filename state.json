@@ -1421,9 +1421,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "low_on_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -2949,9 +2949,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 159999,
+   "price": 149999,
    "old_price": 249998,
-   "discount": 36,
+   "discount": 40,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 09:07:04",
+ "last_check": "2026-07-23 09:10:04",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
