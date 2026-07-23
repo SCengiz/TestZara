@@ -1167,7 +1167,7 @@
    "image": "https://static.zara.net/assets/public/713b/c83b/27e347829a42/bb26414aa7b4/05767505712-e1/05767505712-e1.jpg?ts=1764081616853&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-sweatshirt-p05767505.html?v1=502141801",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1564,7 +1564,7 @@
    "image": "https://static.zara.net/assets/public/f78b/ddba/e0d5491ba92c/786d9662ec06/02756533645200-p/02756533645200-p.jpg?ts=1767864733925&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kombine-triko-yelekli-gomlek-p02756533.html?v1=510920758",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -4287,7 +4287,7 @@
    }
   }
  },
- "last_check": "2026-07-23 15:28:05",
+ "last_check": "2026-07-23 15:29:34",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
