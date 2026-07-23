@@ -1,27 +1,5 @@
 {
- "wishlists": [
-  {
-   "url": "https://www.zara.com/tr/tr/user/share/wishlist/XnD82ka1OeCxoErInJ6Orw?locale=tr_TR",
-   "label": "Sc favori listesi",
-   "added_by": "Sc",
-   "added_at": "2026-07-15 15:40",
-   "slot": 1
-  },
-  {
-   "slot": 2,
-   "url": "https://www.zara.com/share/wishlist/XnD82ka1OeCxoErInJ6Orw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
-   "label": "Şefika listesi (55 ürün)",
-   "added_by": "Şefika",
-   "added_at": "2026-07-22 14:06"
-  },
-  {
-   "slot": 3,
-   "url": "https://www.zara.com/share/wishlist/53vHUKXSNGyMW5DQJWy7Tw?utm_medium=Wishlist_Compartida&utm_source=APP&locale=tr_TR",
-   "label": "Sc listesi (66 ürün)",
-   "added_by": "Sc",
-   "added_at": "2026-07-21 21:25"
-  }
- ],
+ "wishlists": [],
  "products": [
   {
    "store": "mango",
