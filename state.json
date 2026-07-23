@@ -1127,7 +1127,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "out_of_stock",
+    "41": "in_stock",
     "42": "out_of_stock"
    }
   },
@@ -2534,7 +2534,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "in_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -4290,7 +4290,7 @@
    }
   }
  },
- "last_check": "2026-07-23 22:37:17",
+ "last_check": "2026-07-23 22:39:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
