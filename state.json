@@ -420,7 +420,7 @@
    "image": "https://static.zara.net/assets/public/f839/157a/57844e65a76e/d30fcfe8ffdb/03811053714-p/03811053714-p.jpg?ts=1772038690687&w=800",
    "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -1794,7 +1794,7 @@
    "url": "https://www.zara.com/tr/tr/soluk-efektli-fermuarli-sweatshirt-p04087506.html?v1=513128705",
    "sizes": {
     "S (US S)": "in_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 13:11:40",
+ "last_check": "2026-07-23 13:13:34",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
