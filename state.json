@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -2634,9 +2634,9 @@
    "image": "https://static.zara.net/assets/public/8cb7/8f6b/6e0746a49a49/1efe5500a2fd/40056088832-e1/40056088832-e1.jpg?ts=1750323096052&w=800",
    "url": "https://www.zara.com/tr/tr/saten-nevresim-kilifi--500-iplikli--p40056088.html?v1=495438522",
    "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
+    "Tek Kişilik (90 cm)": "in_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
+    "Double": "in_stock",
     "King (180/200 cm)": "out_of_stock"
    }
   },
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 10:21:19",
+ "last_check": "2026-07-23 10:22:17",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
