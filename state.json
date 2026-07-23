@@ -1503,7 +1503,7 @@
    "image": "https://static.zara.net/assets/public/1c9b/dab0/f6bf4e3bb13b/07748131db2b/05644992500400-p/05644992500400-p.jpg?ts=1780408338597&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -2923,7 +2923,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "low_on_stock"
+    "13/14 yaş (164 cm)": "out_of_stock"
    }
   },
   "mango-27082005-99": {
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:39:14",
+ "last_check": "2026-07-23 14:40:43",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
