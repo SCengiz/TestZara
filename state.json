@@ -722,9 +722,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "low_on_stock",
+    "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -1832,7 +1832,7 @@
    "image": "https://static.zara.net/assets/public/ee98/fd69/da1e45d38ee3/e62e3e2428b4/02634235401-p/02634235401-p.jpg?ts=1772787406748&w=800",
    "url": "https://www.zara.com/tr/tr/relaxed-fit-dokumlu-pantolon-p02634235.html?v1=501608697",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:08:07",
+ "last_check": "2026-07-23 12:10:27",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
