@@ -14,7 +14,7 @@
    "image": "https://static.zara.net/assets/public/467c/ad78/3a474ff194c4/b0d0a9f1b295/05862081445-p/05862081445-p.jpg?ts=1773765628283&w=800",
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "in_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -287,7 +287,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "out_of_stock"
+    "XXL": "in_stock"
    }
   },
   "02721570-800": {
@@ -1755,7 +1755,7 @@
    "image": "https://static.zara.net/assets/public/1733/1e60/35c14d8a9f5c/4e40b6497e1f/05854401610-p/05854401610-p.jpg?ts=1769072451177&w=800",
    "url": "https://www.zara.com/tr/tr/yun-karisimli-boxy-kesim-ceket-p05854401.html?v1=495688997",
    "sizes": {
-    "S (US S)": "out_of_stock",
+    "S (US S)": "in_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -3453,7 +3453,7 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4000,26 +4000,6 @@
     "L": "out_of_stock"
    }
   },
-  "07149056-922": {
-   "name": "CROPPED ÇAN PAÇA PANTOLON ZW COLLECTION",
-   "ref": "7149/056",
-   "color": "Koyu gri",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/f225/c6b2/af6c4f87acfc/55bebe46cf48/07149056922-p/07149056922-p.jpg?ts=1769007701945&w=800",
-   "url": "https://www.zara.com/tr/tr/cropped-can-pantolon-zw-collection-p07149056.html?v1=514956961",
-   "sizes": {
-    "XS": "in_stock",
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "low_on_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02554380-600": {
    "name": "EKOSEN MİDİ ETEK ZW COLLECTION",
    "ref": "2554/380",
@@ -4313,7 +4293,7 @@
    }
   }
  },
- "last_check": "2026-07-23 11:35:25",
+ "last_check": "2026-07-23 11:38:03",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
