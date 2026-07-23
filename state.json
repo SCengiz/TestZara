@@ -774,7 +774,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=526754142",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4352,7 +4352,7 @@
    }
   }
  },
- "last_check": "2026-07-23 14:51:44",
+ "last_check": "2026-07-23 14:54:22",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
