@@ -264,7 +264,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1232,7 +1232,7 @@
    "image": "https://static.zara.net/assets/public/713b/c83b/27e347829a42/bb26414aa7b4/05767505712-e1/05767505712-e1.jpg?ts=1764081616853&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-sweatshirt-p05767505.html?v1=502141801",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -1971,7 +1971,7 @@
     "EU 36 (US 29)": "in_stock",
     "EU 38 (US 30)": "in_stock",
     "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "in_stock",
+    "EU 42 (US 32)": "out_of_stock",
     "EU 44 (US 34)": "out_of_stock"
    }
   },
@@ -3453,8 +3453,8 @@
    "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
    "sizes": {
-    "S": "in_stock",
-    "M": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -3633,7 +3633,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "low_on_stock",
     "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 11:12:55",
+ "last_check": "2026-07-23 11:15:26",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
