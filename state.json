@@ -2616,7 +2616,7 @@
    "url": "https://www.zara.com/tr/tr/pike-biyeli-nevresim-p46115088.html?v1=495442916",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    }
@@ -4331,7 +4331,7 @@
    }
   }
  },
- "last_check": "2026-07-23 12:28:17",
+ "last_check": "2026-07-23 12:30:50",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
