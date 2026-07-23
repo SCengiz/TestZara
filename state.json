@@ -589,7 +589,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -843,7 +843,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -1848,7 +1848,7 @@
    "image": "https://static.zara.net/assets/public/b871/7aed/5d894d839d51/ee6ee6304b9b/07446444064-p/07446444064-p.jpg?ts=1769694246221&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-kareli-pazen-gomlek-p07446444.html?v1=506790788",
    "sizes": {
-    "S (US S)": "low_on_stock",
+    "S (US S)": "out_of_stock",
     "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
@@ -4216,7 +4216,7 @@
    }
   }
  },
- "last_check": "2026-07-23 16:48:24",
+ "last_check": "2026-07-23 16:49:58",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
