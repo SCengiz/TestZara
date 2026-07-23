@@ -1920,22 +1920,6 @@
     "42": "out_of_stock"
    }
   },
-  "45573049-700": {
-   "name": "PAMUKLU ASTARLI ÜTÜ SEPETİ",
-   "ref": "5573/049",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "SEPET",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 229000,
-   "discount": 30,
-   "image": "https://static.zara.net/assets/public/9dfa/7191/92ce4e3087b1/7f4f1aa10fb8/45573049700-e1/45573049700-e1.jpg?ts=1765883225775&w=800",
-   "url": "https://www.zara.com/tr/tr/pamuklu-astarli-utu-sepeti-p45573049.html?v1=495430469",
-   "sizes": {
-    "STANDART": "in_stock"
-   }
-  },
   "42328029-681": {
    "name": "PAISLEY DESENLİ PAMUKLU HALI",
    "ref": "2328/029",
@@ -2578,25 +2562,6 @@
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
-   }
-  },
-  "46154088-712": {
-   "name": "ÇİZGİLİ SATEN NEVRESİM (300 İPLİKLİ)",
-   "ref": "6154/088",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 359000,
-   "discount": 26,
-   "image": "https://static.zara.net/assets/public/4bf4/a152/34b94fb28ba8/5d43253cb200/46154088712-e1/46154088712-e1.jpg?ts=1769599999063&w=800",
-   "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--300-iplikli--p46154088.html?v1=504020697",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
    }
   },
   "46166088-251": {
@@ -4251,7 +4216,7 @@
    }
   }
  },
- "last_check": "2026-07-23 16:14:43",
+ "last_check": "2026-07-23 16:17:18",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
