@@ -1232,7 +1232,7 @@
    "image": "https://static.zara.net/assets/public/713b/c83b/27e347829a42/bb26414aa7b4/05767505712-e1/05767505712-e1.jpg?ts=1764081616853&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-sweatshirt-p05767505.html?v1=502141801",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -3385,7 +3385,7 @@
    "url": "https://www.zara.com/tr/tr/bantli-topuklu-arkasi-acik-ayakkabi-p12268710.html?v1=510442736",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4313,7 +4313,7 @@
    }
   }
  },
- "last_check": "2026-07-23 10:47:40",
+ "last_check": "2026-07-23 10:50:16",
  "source_failures": {},
  "tg_offset": 4899746,
  "_temp_alerted": false
