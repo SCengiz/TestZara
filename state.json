@@ -1674,9 +1674,9 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958901",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
-    "L (US L)": "in_stock",
-    "XL (US XL)": "low_on_stock"
+    "M (US M)": "out_of_stock",
+    "L (US L)": "out_of_stock",
+    "XL (US XL)": "out_of_stock"
    }
   },
   "04087506-807": {
@@ -1769,7 +1769,7 @@
    "url": "https://www.zara.com/tr/tr/pamuklu-keten-polo-yaka-t-shirt-p07545132.html?v1=523958898",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "in_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -1788,7 +1788,7 @@
    "url": "https://www.zara.com/tr/tr/fermuarli-interlok-sweatshirt-p04393402.html?v1=502565741",
    "sizes": {
     "S (US S)": "out_of_stock",
-    "M (US M)": "low_on_stock",
+    "M (US M)": "out_of_stock",
     "L (US L)": "out_of_stock",
     "XL (US XL)": "out_of_stock"
    }
@@ -4239,7 +4239,7 @@
    }
   }
  },
- "last_check": "2026-07-23 18:18:16",
+ "last_check": "2026-07-23 18:20:35",
  "source_failures": {},
  "tg_offset": 4899747,
  "_temp_alerted": false
