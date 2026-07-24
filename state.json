@@ -3037,27 +3037,6 @@
     "XL": "out_of_stock"
    }
   },
-  "05761783-505": {
-   "name": "%100 KÜRKLÜ SÜET DERİ CEKET",
-   "ref": "5761/783",
-   "color": "Haki",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/a469/b7fe/45e0426ab2db/5e4f44d563a6/05761783505-p/05761783505-p.jpg?ts=1763470580699&w=800",
-   "url": "https://www.zara.com/tr/tr/100-kurklu-suet-deri-ceket-p05761783.html?v1=495670080",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "00518049-102": {
    "name": "ZW COLLECTION KEMERLİ OVERSIZE TRENÇKOT",
    "ref": "0518/049",
@@ -3176,43 +3155,6 @@
     "L": "out_of_stock"
    }
   },
-  "04369050-092": {
-   "name": "OVERSIZE PARKA ZW COLLECTION",
-   "ref": "4369/050",
-   "color": "Açık bej",
-   "kind": "Wear",
-   "family": "YAGMURLUK",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/5a05/d94c/d8a84f938e0a/24931b1907cc/04369050092-p/04369050092-p.jpg?ts=1770742324238&w=800",
-   "url": "https://www.zara.com/tr/tr/parka-oversize-zw-collection-p04369050.html?v1=495688960",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
-  "04360242-700": {
-   "name": "ZW COLLECTION KISA SUNİ KÜRK KABAN",
-   "ref": "4360/242",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/adeb/4423/efe24c009bbe/bf92cc7dea41/04360242700-p/04360242700-p.jpg?ts=1760026535812&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-kisa-suni-kurk-kaban-p04360242.html?v1=503421644",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "03811053-714": {
    "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
    "ref": "3811/053",
@@ -3229,27 +3171,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   }
-  },
-  "05854828-716": {
-   "name": "MUMUM GÖRÜNÜMLÜ KARELİ UZUN TRENÇKOT",
-   "ref": "5854/828",
-   "color": "Koyu kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/6717/7db7/a92641b7b473/e6fee5232569/05854828716-p/05854828716-p.jpg?ts=1768998253642&w=800",
-   "url": "https://www.zara.com/tr/tr/kareli-mum-gorunumlu-uzun-trenckot-p05854828.html?v1=514936191",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    }
   },
   "01255894-716": {
@@ -4220,27 +4141,6 @@
     "42": "out_of_stock"
    }
   },
-  "07521329-250": {
-   "name": "MİNİ FIRFIRLI ELBİSE",
-   "ref": "7521/329",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/c971/600e/ac3341828cb3/b5a0e1ef42b5/07521329250-p/07521329250-p.jpg?ts=1775052086854&w=800",
-   "url": "https://www.zara.com/tr/tr/mini-firfirli-elbise-p07521329.html?v1=507030907",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "04772364-307": {
    "name": "DRAPELİ PARLAK MİNİ ELBİSE",
    "ref": "4772/364",
@@ -4345,7 +4245,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:41:36",
+ "last_check": "2026-07-24 13:42:36",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
