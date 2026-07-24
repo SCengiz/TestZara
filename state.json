@@ -4176,7 +4176,7 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-yuksek-bel-jean-p01934038.html?v1=510857826",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4245,7 +4245,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:51:59",
+ "last_check": "2026-07-24 13:52:48",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
