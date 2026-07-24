@@ -274,7 +274,7 @@
    "image": "https://static.zara.net/assets/public/640e/dc0d/35384d548211/30e09404d8c6/11124730800-e1/11124730800-e1.jpg?ts=1764246830688&w=800",
    "url": "https://www.zara.com/tr/tr/kalp-uclu-naylon-alisveris-cantasi-p11124730.html?v1=495670044",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "13014610-700": {
@@ -2677,26 +2677,6 @@
     "44": "out_of_stock"
    }
   },
-  "02137693-620": {
-   "name": "FIRFIRLI ÇİZGİLİ GÖMLEK",
-   "ref": "2137/693",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/d745/b7f5/bf3f4ee194d7/5911ab14430b/02137693620-p/02137693620-p.jpg?ts=1768488005767&w=800",
-   "url": "https://www.zara.com/tr/tr/firfirli-cizgili-gomlek-p02137693.html?v1=499895574",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "06771003-982": {
    "name": "ASİMETRİK KESİM ÖRGÜ KAZAK",
    "ref": "6771/003",
@@ -4362,7 +4342,7 @@
    }
   }
  },
- "last_check": "2026-07-24 09:51:09",
+ "last_check": "2026-07-24 09:53:29",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
