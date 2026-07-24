@@ -2462,29 +2462,6 @@
     "XL": "out_of_stock"
    }
   },
-  "05474058-400": {
-   "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
-   "ref": "5474/058",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 89000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/7dad/e025/255d49528976/686f642f33c2/09632094400-p/09632094400-p.jpg?ts=1778601356888&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=528575705",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "low_on_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
-   }
-  },
   "03666052-606": {
    "name": "FIRFIRLI BLUZ",
    "ref": "3666/052",
@@ -4403,7 +4380,7 @@
    }
   }
  },
- "last_check": "2026-07-24 11:51:56",
+ "last_check": "2026-07-24 11:54:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
