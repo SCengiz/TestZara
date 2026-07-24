@@ -3252,24 +3252,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "03811052-717": {
-   "name": "OVERSIZE KARELİ TRENÇKOT ZW COLLECTION",
-   "ref": "3811/052",
-   "color": "Çikolata",
-   "kind": "Wear",
-   "family": "YAGMURLUK",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/d36a/0acb/85914fd7b1fd/a14cd1ad4319/03811052717-p/03811052717-p.jpg?ts=1770909910746&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-kareli-oversize-trenckot-p03811052.html?v1=496762682",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "01255894-716": {
    "name": "KRUVAZE YUMUŞAK CEKET",
    "ref": "1255/894",
@@ -3428,26 +3410,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "06318038-700": {
-   "name": "KAPÜŞONLU SUNİ DERİ CEKET",
-   "ref": "6318/038",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/02a0/f0ed/c7b34e83b7c7/466006482e41/06318038700-p/06318038700-p.jpg?ts=1772017085385&w=800",
-   "url": "https://www.zara.com/tr/tr/kapusonlu-suni-deri-ceket-p06318038.html?v1=495675305",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "04786629-712": {
@@ -4383,7 +4345,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:40:44",
+ "last_check": "2026-07-24 13:41:36",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
