@@ -2298,26 +2298,6 @@
     "King (180/200 cm)": "in_stock"
    }
   },
-  "02554380-600": {
-   "name": "EKOSEN MİDİ ETEK ZW COLLECTION",
-   "ref": "2554/380",
-   "color": "Kırmızı",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/7033/474d/84da4a8ea44b/7300305393d6/02554380600-p/02554380600-p.jpg?ts=1776328639621&w=800",
-   "url": "https://www.zara.com/tr/tr/kareli-midi-etek-zw-collection-p02554380.html?v1=524602097",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02805184-800": {
    "name": "BÜZGÜLÜ ASKILI MİDİ ELBİSE",
    "ref": "2805/184",
@@ -2330,27 +2310,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/a876/acd2/e8ae4ff5bfd9/de4deb21db83/02805184800-p/02805184800-p.jpg?ts=1779441371190&w=800",
    "url": "https://www.zara.com/tr/tr/buzgulu-askili-midi-elbise-p02805184.html?v1=551550635",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
-  "09929022-251": {
-   "name": "KEMERLİ PENSLİ PANTOLON",
-   "ref": "9929/022",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/4ae8/83a3/3640437fb320/689225fd5c06/09929022251-p/09929022251-p.jpg?ts=1771417946932&w=800",
-   "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929022.html?v1=495712426",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -2379,67 +2338,6 @@
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
-   }
-  },
-  "05039270-086": {
-   "name": "KONTRAST DOKULU ELBİSE",
-   "ref": "5039/270",
-   "color": "Ekru / Kahverengi",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/bdaf/c587/e6414d778ee4/d57c0037333b/05039270086-e1/05039270086-e1.jpg?ts=1773747800122&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-dokulu-elbise-p05039270.html?v1=517655984",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
-  "05029071-043": {
-   "name": "BALON KOLLU ÇİZGİLİ GÖMLEK",
-   "ref": "5029/071",
-   "color": "Lacivert / Beyaz",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/4018/c159/24e2485cb04f/f17d2522dfc2/05029071043-p/05029071043-p.jpg?ts=1771409145595&w=800",
-   "url": "https://www.zara.com/tr/tr/balon-kollu-cizgili-gomlek-p05029071.html?v1=500300964",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
-  "00103248-700": {
-   "name": "TRF MOM FIT YÜKSEK BEL JEAN",
-   "ref": "0103/248",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 45000,
-   "discount": 13,
-   "image": "https://static.zara.net/assets/public/d936/5591/71e943948a89/c849d92c2f58/00103248700-p/00103248700-p.jpg?ts=1769616836061&w=800",
-   "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465513",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
    }
   },
   "02604550-250": {
@@ -2499,27 +2397,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   }
-  },
-  "02207519-044": {
-   "name": "ÇİZGİLİ OVERSIZE POPLIN GÖMLEK",
-   "ref": "2207/519",
-   "color": "Mavi/Beyaz",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/dccb/04d4/77c246cc9ee2/8226c20fca84/02207519044-p/02207519044-p.jpg?ts=1768571872024&w=800",
-   "url": "https://www.zara.com/tr/tr/oversize-cizgili-poplin-gomlek-p02207519.html?v1=502382649",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    }
   },
   "13505710-250": {
@@ -2908,26 +2785,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
-  "01478334-700": {
-   "name": "KEMERLİ KATLANIR PAÇALI PANTOLON",
-   "ref": "1478/334",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/519c/96fe/16ab4fa283a0/6212674ee5ad/01478334700-p/01478334700-p.jpg?ts=1769098187090&w=800",
-   "url": "https://www.zara.com/tr/tr/kemerli-katlanir-pacali-pantolon-p01478334.html?v1=498354588",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -4005,7 +3862,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4245,7 +4102,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:08:19",
+ "last_check": "2026-07-24 15:10:20",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
