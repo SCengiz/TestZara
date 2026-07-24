@@ -43,7 +43,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-27082005-99": {
@@ -2459,7 +2459,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "out_of_stock"
+    "46": "low_on_stock"
    }
   },
   "02604550-250": {
@@ -2603,7 +2603,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4359,7 +4359,7 @@
    }
   }
  },
- "last_check": "2026-07-24 09:15:57",
+ "last_check": "2026-07-24 09:18:28",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
