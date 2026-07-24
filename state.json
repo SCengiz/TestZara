@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -4543,9 +4543,32 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "12361710-091": {
+   "name": "METALİK ETKİLİ TOPUKLU SANDALET",
+   "ref": "2361/710",
+   "color": "Altın",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d060/a32c/857c4e3c8aab/29972adb5623/12361711091-p/12361711091-p.jpg?ts=1776163256137&w=800",
+   "url": "https://www.zara.com/tr/tr/metalik-gorunumlu-topuklu-sandalet-p12361710.html?v1=509789880",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 22:46:17",
+ "last_check": "2026-07-24 22:48:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
