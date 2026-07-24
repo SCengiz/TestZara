@@ -3993,7 +3993,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4588,7 +4588,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:38:27",
+ "last_check": "2026-07-24 17:39:15",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
