@@ -2867,9 +2867,9 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3849,7 +3849,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4629,9 +4629,32 @@
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
+  },
+  "12258710-600": {
+   "name": "TOKALI ARKASI AÇIK TOPUKLU AYAKKABI",
+   "ref": "2258/710",
+   "color": "Kırmızı",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/002e/707d/5e5143ccbaca/4d006029da7a/12258710600-p/12258710600-p.jpg?ts=1770824576931&w=800",
+   "url": "https://www.zara.com/tr/tr/tokali-arkasi-acik-topuklu-ayakkabi-p12258710.html?v1=496154897",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:04:47",
+ "last_check": "2026-07-24 19:07:21",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
