@@ -239,7 +239,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "in_stock",
+    "41": "out_of_stock",
     "42": "out_of_stock"
    }
   },
@@ -2623,7 +2623,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -2828,7 +2828,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "00695071-700": {
@@ -4135,7 +4135,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4456,7 +4456,7 @@
    "image": "https://static.zara.net/assets/public/4120/c8df/107948559159/8bc312d306ae/02854701930-p/02854701930-p.jpg?ts=1777449790849&w=800",
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-keten-midi-elbise-p02854701.html?v1=535950780",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4794,7 +4794,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:42:34",
+ "last_check": "2026-07-24 19:45:05",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
