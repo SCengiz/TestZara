@@ -4606,9 +4606,55 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "15040710-131": {
+   "name": "SPOR AYAKKABI",
+   "ref": "5040/710",
+   "color": "Boz Gri",
+   "kind": "Other",
+   "family": "KOŞU AYAKKABISI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d1bf/6932/09ca4c7b8a58/ba3a7bcaab56/15040710131-p/15040710131-p.jpg?ts=1775054496310&w=800",
+   "url": "https://www.zara.com/tr/tr/spor-ayakkabi-p15040710.html?v1=506508160",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "11212710-105": {
+   "name": "SÜET ARKASI AÇIK AYAKKABI",
+   "ref": "1212/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/a676/d312/a2d1411fac74/df5806a240f0/11212710105-p/11212710105-p.jpg?ts=1770816000402&w=800",
+   "url": "https://www.zara.com/tr/tr/suet-arkasi-acik-ayakkabi-p11212710.html?v1=495675188",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:46:46",
+ "last_check": "2026-07-24 17:49:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
