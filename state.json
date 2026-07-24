@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -2477,7 +2477,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -2748,7 +2748,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "06840064-401": {
@@ -4167,7 +4167,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -4354,7 +4354,7 @@
    "image": "https://static.zara.net/assets/public/c971/600e/ac3341828cb3/b5a0e1ef42b5/07521329250-p/07521329250-p.jpg?ts=1775052086854&w=800",
    "url": "https://www.zara.com/tr/tr/mini-firfirli-elbise-p07521329.html?v1=507030907",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4363,7 +4363,7 @@
    }
   }
  },
- "last_check": "2026-07-24 11:31:52",
+ "last_check": "2026-07-24 11:35:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
