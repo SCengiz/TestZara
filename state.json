@@ -2689,7 +2689,7 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "low_on_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4357,9 +4357,32 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "12254710-700": {
+   "name": "FİLE KUMAŞ TAŞLI TOPUKLU AYAKKABI",
+   "ref": "2254/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/0401/dab7/9c8c404fa515/95d2e6861e25/12254710700-e1/12254710700-e1.jpg?ts=1765276363062&w=800",
+   "url": "https://www.zara.com/tr/tr/file-kumas-tasli-topuklu-ayakkabi-p12254710.html?v1=495716644",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 09:33:37",
+ "last_check": "2026-07-24 09:36:01",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
