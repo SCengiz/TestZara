@@ -4568,9 +4568,27 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "04174064-250": {
+   "name": "DÜZ PAÇA PAMUKLU PANTOLON",
+   "ref": "4174/064",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c58a/1303/665b4d7fbd4c/858f0c2fcd3d/04174064250-p/04174064250-p.jpg?ts=1777026437869&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-paca-pamuklu-pantolon-p04174064.html?v1=515554953",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:31:39",
+ "last_check": "2026-07-24 17:32:43",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
