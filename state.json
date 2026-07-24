@@ -2442,10 +2442,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "00881016-251": {
@@ -2886,7 +2886,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3704,7 +3704,7 @@
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -3764,7 +3764,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4564,7 +4564,7 @@
    "image": "https://static.zara.net/assets/public/3a08/e33b/174345bbb2cd/90114eaa60b2/04344141753-e1/04344141753-e1.jpg?ts=1775575208215&w=800",
    "url": "https://www.zara.com/tr/tr/suni-suet-dugmeli-yelek-p04344141.html?v1=513368717",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4631,7 +4631,7 @@
    }
   }
  },
- "last_check": "2026-07-24 18:59:52",
+ "last_check": "2026-07-24 19:02:15",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
