@@ -2355,7 +2355,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4283,9 +4283,69 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "03253320-250": {
+   "name": "BASIC KOTON T-SHIRT",
+   "ref": "3253/320",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 45000,
+   "discount": 35,
+   "image": "https://static.zara.net/assets/public/22c7/6d7f/a9754903825b/505456e5b219/03253320250-p/03253320250-p.jpg?ts=1748966479428&w=800",
+   "url": "https://www.zara.com/tr/tr/basic-koton-t-shirt-p03253320.html?v1=503422047",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "06136045-401": {
+   "name": "KISA DÖKÜMLÜ TRENÇKOT ZW COLLECTION",
+   "ref": "6136/045",
+   "color": "LACİVERT",
+   "kind": "Wear",
+   "family": "BLAZER",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/9099/cced/21fa465f8e8e/160c7d2d8e49/06136045401-p/06136045401-p.jpg?ts=1769693703545&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424064",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "09929027-681": {
+   "name": "PENS DETAYLI KETEN BERMUDA",
+   "ref": "9929/027",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "BERMUDA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/b613/9d5a/eae7477c991d/d8a9f1d28b53/09929027681-p/09929027681-p.jpg?ts=1774627088654&w=800",
+   "url": "https://www.zara.com/tr/tr/pens-detayli-keten-bermuda-p09929027.html?v1=507744748",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "low_on_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:06:31",
+ "last_check": "2026-07-24 17:09:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
