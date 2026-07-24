@@ -1307,7 +1307,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3433,7 +3433,7 @@
    "url": "https://www.zara.com/tr/tr/cilek-islemeli-denim-ceket-p04441009.html?v1=516626044",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -3685,7 +3685,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-t-shirt-p02335555.html?v1=495702831",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -3993,7 +3993,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4588,7 +4588,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:36:43",
+ "last_check": "2026-07-24 17:38:27",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
