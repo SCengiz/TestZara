@@ -2442,10 +2442,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
-    "M": "in_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -2867,9 +2867,9 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3849,7 +3849,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4631,7 +4631,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:02:15",
+ "last_check": "2026-07-24 19:04:47",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
