@@ -3021,26 +3021,6 @@
     "XL": "out_of_stock"
    }
   },
-  "02345845-802": {
-   "name": "ZW COLLECTION ÇAN PAÇA DOKULU PANTOLON",
-   "ref": "2345/845",
-   "color": "Gri",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/8077/30e0/2f6a42bda93d/d415c7c66a0a/02341845802-000-a5/02341845802-000-a5.jpg?ts=1769598738225&w=800",
-   "url": "https://www.zara.com/tr/tr/zara-woman-koleksiyonu-can-paca-dokulu-pantolon-p02345845.html?v1=507779287",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "00108033-407": {
    "name": "Z1975 MİNİ İSPANYOL PAÇA YÜKSEK BEL JEAN",
    "ref": "0108/033",
@@ -4207,7 +4187,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4382,7 +4362,7 @@
    }
   }
  },
- "last_check": "2026-07-24 11:42:25",
+ "last_check": "2026-07-24 11:43:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
