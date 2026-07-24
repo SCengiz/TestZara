@@ -2477,7 +2477,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-can-paca-jean-p09863052.html?v1=508044889",
    "sizes": {
     "32": "out_of_stock",
-    "34": "in_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -3413,9 +3413,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -3992,8 +3992,8 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-yuksek-bel-jean-p01934038.html?v1=510857826",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
+    "34": "in_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4551,7 +4551,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:26:37",
+ "last_check": "2026-07-24 17:27:12",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
