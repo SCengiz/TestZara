@@ -2664,7 +2664,7 @@
    "image": "https://static.zara.net/assets/public/c273/5ffd/ca024e3e9bb5/e991b433a679/00881016251-p/00881016251-p.jpg?ts=1772186707918&w=800",
    "url": "https://www.zara.com/tr/tr/muslin-islemeli-ve-firfirli-gomlek-p00881016.html?v1=496001516",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4383,7 +4383,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:14:59",
+ "last_check": "2026-07-24 13:18:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
