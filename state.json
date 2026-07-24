@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -329,7 +329,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "in_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -1005,96 +1005,6 @@
     "42": "out_of_stock"
    }
   },
-  "12054610-700": {
-   "name": "DERİ UZUN BOT",
-   "ref": "2054/610",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 179000,
-   "old_price": 219000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/bd6c/ccd2/8cfc461ebe92/00c478e2c488/08666576400-000-p/08666576400-000-p.jpg?ts=1754489191479&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-uzun-bot-p12054610.html?v1=495698339",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "12346710-098": {
-   "name": "ÇAPRAZ BANTLI TOPUKLU SANDALET",
-   "ref": "2346/710",
-   "color": "Bej",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/c071/b883/eade4787bbdb/f8b781f5f882/12346710098-p/12346710098-p.jpg?ts=1776953688901&w=800",
-   "url": "https://www.zara.com/tr/tr/capraz-bantli-topuklu-sandalet-p12346710.html?v1=510442738",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "13569710-111": {
-   "name": "KONTRAST ÖRGÜ GÖRÜNÜMLÜ BABET",
-   "ref": "3569/710",
-   "color": "Açık bej",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/f5bf/b20c/62f04fcfa163/80def77f5184/13569710111-p/13569710111-p.jpg?ts=1775476132023&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-orgu-gorunumlu-babet-p13569710.html?v1=503412493",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "12649730-800": {
-   "name": "DERİ SANDALET",
-   "ref": "2649/730",
-   "color": "Siyah",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "KID",
-   "price": 100000,
-   "old_price": 120000,
-   "discount": 16,
-   "image": "https://static.zara.net/assets/public/a961/f2bc/b012470699d0/7c3a3ce9545a/12649730800-e1/12649730800-e1.jpg?ts=1776673237113&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-sandalet-p12649730.html?v1=553061174",
-   "sizes": {
-    "35 (22,3 cm)": "out_of_stock",
-    "36 (22,9 cm)": "out_of_stock",
-    "37 (23,6 cm)": "out_of_stock",
-    "38 (24,3 cm)": "out_of_stock",
-    "39 (24,9 cm)": "out_of_stock",
-    "40 (25,6 cm)": "out_of_stock"
-   }
-  },
   "13337710-800": {
    "name": "METAL DETAYLI KITTEN SANDALET",
    "ref": "3337/710",
@@ -1153,52 +1063,6 @@
    "discount": 22,
    "image": "https://static.zara.net/assets/public/0921/5b10/55254075b346/6859cb1165ad/02604727052-p/02604727052-p.jpg?ts=1774618099316&w=800",
    "url": "https://www.zara.com/tr/tr/metal-suslemeli-duz-sandalet-p12612710.html?v1=545496476",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "12318810-500": {
-   "name": "ÇOK BANTLI TOPUKLU SANDALET",
-   "ref": "2318/810",
-   "color": "Yeşil",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 89000,
-   "old_price": 119000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/5978/c848/3e784bcfa84a/0fb43f1d69ae/12318810500-p/12318810500-p.jpg?ts=1781780664289&w=800",
-   "url": "https://www.zara.com/tr/tr/cok-bantli-topuklu-sandalet-p12318810.html?v1=565438020",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "11305810-716": {
-   "name": "DERİ ARKASI AÇIK TOPUKLU SANDALET",
-   "ref": "1305/810",
-   "color": "Bej",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 129000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/8095/b51f/c7e64d3283c2/b21ad4db900f/11305810716-p/11305810716-p.jpg?ts=1780583471636&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-arkasi-acik-topuklu-sandalet-p11305810.html?v1=565487951",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -4748,9 +4612,32 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "13391710-909": {
+   "name": "METALİK KISA SİVRİ TOPUKLU SANDALET",
+   "ref": "3391/710",
+   "color": "Gümüş",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/7a31/60d6/6c8c467ba97c/c8df6c545b26/01165950712-1-p/01165950712-1-p.jpg?ts=1779280793571&w=800",
+   "url": "https://www.zara.com/tr/tr/metalik-kisa-sivri-topuklu-sandalet-p13391710.html?v1=551083844",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 21:38:29",
+ "last_check": "2026-07-24 21:40:46",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
