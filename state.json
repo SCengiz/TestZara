@@ -2479,7 +2479,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -2673,7 +2673,7 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "out_of_stock",
+    "42": "low_on_stock",
     "44": "out_of_stock"
    }
   },
@@ -4187,7 +4187,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4382,9 +4382,28 @@
     "42": "out_of_stock",
     "44": "out_of_stock"
    }
+  },
+  "02521806-046": {
+   "name": "KATMANLI MİDİ ETEK",
+   "ref": "2521/806",
+   "color": "Pembe / Beyaz",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/a547/5006/ef084a54b75c/db2a7010f26d/02521806046-p/02521806046-p.jpg?ts=1776945335386&w=800",
+   "url": "https://www.zara.com/tr/tr/katmanli-yapili-midi-etek-p02521806.html?v1=543953189",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 11:49:33",
+ "last_check": "2026-07-24 11:51:56",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
