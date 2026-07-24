@@ -4143,9 +4143,28 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "05755152-054": {
+   "name": "ROMBO DESENLİ TRİKO KAZAK",
+   "ref": "5755/152",
+   "color": "Kahverengi / Yeşil",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/b754/19c5/98854c3ba4e4/371cffbc6a86/05755152054-p/05755152054-p.jpg?ts=1764325547952&w=800",
+   "url": "https://www.zara.com/tr/tr/baklava-desenli-triko-kazak-p05755152.html?v1=496905807",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 16:23:54",
+ "last_check": "2026-07-24 16:26:19",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
