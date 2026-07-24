@@ -763,7 +763,7 @@
    "url": "https://www.zara.com/tr/tr/saten-yuzeyli-fiyonklu-ayakkabi-p12204610.html?v1=495694011",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -2230,7 +2230,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4545,7 +4545,7 @@
    }
   }
  },
- "last_check": "2026-07-24 22:16:02",
+ "last_check": "2026-07-24 22:16:40",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
