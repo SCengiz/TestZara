@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -4005,7 +4005,7 @@
    "image": "https://static.zara.net/assets/public/8c8c/0aad/2f624161baa4/39db0bf1cbab/02580789400-p/02580789400-p.jpg?ts=1776248678525&w=800",
    "url": "https://www.zara.com/tr/tr/pens-detayli-keten-top-p02580789.html?v1=514440704",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4286,7 +4286,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:03:12",
+ "last_check": "2026-07-24 15:05:06",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
