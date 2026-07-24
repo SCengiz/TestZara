@@ -43,7 +43,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-27082005-99": {
@@ -1395,7 +1395,7 @@
    "image": "https://static.zara.net/assets/public/6bb6/8f8f/94ff4d05b80d/462f6cabf908/43323211700-e1/43323211700-e1.jpg?ts=1762965853204&w=800",
    "url": "https://www.zara.com/tr/tr/yuksek-ahsap-evcil-hayvan-mama-kasesi-p43323211.html?v1=495441326",
    "sizes": {
-    "17 x 24.5 x 24.5 cm": "out_of_stock",
+    "17 x 24.5 x 24.5 cm": "in_stock",
     "26 x 29.5 x 29.5 cm": "out_of_stock"
    }
   },
@@ -1412,7 +1412,7 @@
    "image": "https://static.zara.net/assets/public/2664/db3d/eed642e8a7f2/d8a7bb571867/40300211251-e1/40300211251-e1.jpg?ts=1772121588276&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-seramik-kavanoz-p40300211.html?v1=499095752",
    "sizes": {
-    "21 x 12 x 12 cm": "out_of_stock",
+    "21 x 12 x 12 cm": "in_stock",
     "26 x 15 x 15 cm": "in_stock"
    }
   },
@@ -1497,7 +1497,7 @@
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "in_stock",
+    "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    }
   },
@@ -2298,42 +2298,6 @@
     "King (180/200 cm)": "in_stock"
    }
   },
-  "04344164-753": {
-   "name": "SUNİ SÜET PELERİN ETEK",
-   "ref": "4344/164",
-   "color": "Çikolata kahverengisi",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/128f/57ac/d04b44a5b0f1/45c669915b74/04344164753-p/04344164753-p.jpg?ts=1770654389360&w=800",
-   "url": "https://www.zara.com/tr/tr/suni-suet-pelerin-etek-p04344164.html?v1=496905794",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
-  "05644036-700": {
-   "name": "PUANTİYE DESENLİ MİDİ ETEK",
-   "ref": "5644/036",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/f622/916b/12ad40938bee/a7783dcee31d/05644036700-p/05644036700-p.jpg?ts=1773920710379&w=800",
-   "url": "https://www.zara.com/tr/tr/puantiye-desenli-midi-etek-p05644036.html?v1=515230886",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "02554380-600": {
    "name": "EKOSEN MİDİ ETEK ZW COLLECTION",
    "ref": "2554/380",
@@ -2533,7 +2497,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -2825,27 +2789,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   }
-  },
-  "04391436-096": {
-   "name": "NAYLON ÇİÇEKLİ ETEK",
-   "ref": "4391/436",
-   "color": "Beyaz / Gri",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/bb27/dc84/ba4542b0a436/1dcb5880ef81/04391436096-p/04391436096-p.jpg?ts=1772788206290&w=800",
-   "url": "https://www.zara.com/tr/tr/cicek-desenli-naylon-midi-etek-p04391436.html?v1=503729711",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    }
   },
   "06840064-401": {
@@ -3852,10 +3795,10 @@
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025188",
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
-    "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -3958,7 +3901,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -3979,7 +3922,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4248,26 +4191,6 @@
     "XL": "out_of_stock"
    }
   },
-  "04333044-330": {
-   "name": "ZW KOLEKSİYON DRAPELİ ÇİZGİLİ ETEK",
-   "ref": "4333/044",
-   "color": "Çokrenkli",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/4b1b/b030/31de40c19d97/15ce3d0b17fc/04333044330-p/04333044330-p.jpg?ts=1774949046391&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-drape-cizgili-etek-p04333044.html?v1=512314406",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02308111-250": {
    "name": "KISA PİLİLİ CEPLİ ELBİSE",
    "ref": "2308/111",
@@ -4284,13 +4207,159 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "01971241-620": {
+   "name": "ASİMETRİK APLİKELİ ŞORT ETEK",
+   "ref": "1971/241",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "BERMUDA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/521f/788b/86854a78ace2/30a2e2ff6a2d/01971241620-a2/01971241620-a2.jpg?ts=1773399230189&w=800",
+   "url": "https://www.zara.com/tr/tr/asimetrik-aplikeli-sort-etek-p01971241.html?v1=513434037",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02580789-400": {
+   "name": "PENS DETAYLI KETEN TOP",
+   "ref": "2580/789",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/8c8c/0aad/2f624161baa4/39db0bf1cbab/02580789400-p/02580789400-p.jpg?ts=1776248678525&w=800",
+   "url": "https://www.zara.com/tr/tr/pens-detayli-keten-top-p02580789.html?v1=514440704",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "05067276-712": {
+   "name": "KISA DOKULU ELBİSE",
+   "ref": "5067/276",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "02180063-800": {
+   "name": "POPLİN KORSE TARZI CROP TOP",
+   "ref": "2180/063",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/152b/efea/fb2543479757/11826ef34e88/02180063800-p/02180063800-p.jpg?ts=1771940730194&w=800",
+   "url": "https://www.zara.com/tr/tr/poplin-korse-tarzi-crop-top-p02180063.html?v1=526369651",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "04592217-800": {
+   "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
+   "ref": "4592/217",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
+   "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "02752302-067": {
+   "name": "ÇİLEK DESENLİ SATEN VOLANLI TOP",
+   "ref": "2752/302",
+   "color": "Ekru / Kırmızı",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/cc40/bd2c/80a54cfab0f9/2f8aa7324059/02752302067-p/02752302067-p.jpg?ts=1774970852210&w=800",
+   "url": "https://www.zara.com/tr/tr/firfirli-cilek-saten-top-p02752302.html?v1=522655489",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "12348710-800": {
+   "name": "METAL DETAYLI SANDALET",
+   "ref": "2348/710",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/e6f4/5362/f3794c44b19d/87e5b45d6b60/12348710800-p/12348710800-p.jpg?ts=1775662020303&w=800",
+   "url": "https://www.zara.com/tr/tr/metal-detayli-sandalet-p12348710.html?v1=508407489",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-23 23:00:22",
+ "last_check": "2026-07-24 09:00:56",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
