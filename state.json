@@ -4744,13 +4744,13 @@
    "url": "https://www.zara.com/tr/tr/kolsuz-keten-midi-elbise-p02663801.html?v1=528552507",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-24 19:36:12",
+ "last_check": "2026-07-24 19:37:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
