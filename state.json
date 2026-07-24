@@ -1485,7 +1485,7 @@
    "image": "https://static.zara.net/assets/public/86a7/ccf9/7eff4259a81c/af147270a95e/42570049052-e1/42570049052-e1.jpg?ts=1769083501591&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-yuvarlak-sepet-p42570049.html?v1=495430537",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "in_stock"
    }
   },
   "43370004-505": {
@@ -4117,7 +4117,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -4734,7 +4734,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:19:53",
+ "last_check": "2026-07-24 19:23:03",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
