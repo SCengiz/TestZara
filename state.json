@@ -1225,7 +1225,7 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "low_on_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -3704,7 +3704,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    }
   },
   "01971241-620": {
@@ -3829,7 +3829,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "in_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3909,7 +3909,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-dantel-elbise-p01067004.html?v1=495703174",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4094,7 +4094,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -4729,9 +4729,28 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02663801-428": {
+   "name": "KOLSUZ KETEN MİDİ ELBİSE",
+   "ref": "2663/801",
+   "color": "Soluk mavi",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/b89c/f29f/790d4e2a9d6d/b601d57c1c04/02663801428-ult/02663801428-ult.jpg?ts=1772801217074&w=800",
+   "url": "https://www.zara.com/tr/tr/kolsuz-keten-midi-elbise-p02663801.html?v1=528552507",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:32:29",
+ "last_check": "2026-07-24 19:35:33",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
