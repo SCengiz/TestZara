@@ -2355,7 +2355,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3783,7 +3783,7 @@
    "image": "https://static.zara.net/assets/public/921e/165e/eb9b4ef98167/06481d08f748/01165015600-p/01165015600-p.jpg?ts=1777364061581&w=800",
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4222,6 +4222,27 @@
     "L": "out_of_stock"
    }
   },
+  "02744332-800": {
+   "name": "ASKILI SATEN MİNİ ELBİSE.",
+   "ref": "2744/332",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/3f60/52bc/9eca4e2bafb6/88814bcf3e1a/02744332800-p/02744332800-p.jpg?ts=1774609741237&w=800",
+   "url": "https://www.zara.com/tr/tr/askili-saten-mini-elbise-p02744332.html?v1=522580305",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
   "01478631-719": {
    "name": "YÜKSEK BEL PANTOLON",
    "ref": "1478/631",
@@ -4237,7 +4258,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -4264,7 +4285,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:04:39",
+ "last_check": "2026-07-24 17:05:22",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
