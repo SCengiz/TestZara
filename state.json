@@ -3246,7 +3246,7 @@
    "url": "https://www.zara.com/tr/tr/bebe-yaka-kadife-ceket-p01639602.html?v1=514776931",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "in_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -4223,7 +4223,7 @@
    }
   }
  },
- "last_check": "2026-07-24 16:53:57",
+ "last_check": "2026-07-24 16:56:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
