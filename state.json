@@ -2648,7 +2648,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4124,7 +4124,7 @@
    }
   }
  },
- "last_check": "2026-07-24 16:18:24",
+ "last_check": "2026-07-24 16:19:18",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
