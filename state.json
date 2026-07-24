@@ -1200,9 +1200,9 @@
    "image": "https://static.zara.net/assets/public/8095/b51f/c7e64d3283c2/b21ad4db900f/11305810716-p/11305810716-p.jpg?ts=1780583471636&w=800",
    "url": "https://www.zara.com/tr/tr/deri-arkasi-acik-topuklu-sandalet-p11305810.html?v1=565487951",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
-    "37": "out_of_stock",
+    "37": "low_on_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -2526,7 +2526,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -2607,29 +2607,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   }
-  },
-  "05474058-405": {
-   "name": "ZW COLLECTION GENİŞ PAÇA YÜKSEK BEL JEAN",
-   "ref": "5474/058",
-   "color": "İndigo",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 89000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/5beb/2672/198d47a89e7b/e587a351252d/05474058405-001-p/05474058405-001-p.jpg?ts=1772197930237&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "low_on_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
    }
   },
   "09598057-636": {
@@ -2825,7 +2802,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
    "sizes": {
     "XS": "in_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "low_on_stock",
     "XL": "low_on_stock"
@@ -3740,7 +3717,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4794,7 +4771,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:55:13",
+ "last_check": "2026-07-24 19:57:28",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
