@@ -4606,9 +4606,32 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "00103248-401": {
+   "name": "TRF MOM FIT YÜKSEK BEL JEAN",
+   "ref": "0103/248",
+   "color": "LACİVERT",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/0455/0464/c1334547aea2/1789dcd3ce76/08727248401-p/08727248401-p.jpg?ts=1769616836456&w=800",
+   "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465510",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 18:51:02",
+ "last_check": "2026-07-24 18:52:09",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
