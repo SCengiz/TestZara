@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -3644,7 +3644,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4361,7 +4361,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4487,9 +4487,111 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "03897114-712": {
+   "name": "BALON KOLLU KISA ELBİSE",
+   "ref": "3897/114",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/4144/e36e/51514fd4b551/83b448e86078/02175536712-p/02175536712-p.jpg?ts=1773411648285&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-balon-kollu-elbise-p03897114.html?v1=539016005",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "02416122-250": {
+   "name": "ZW COLLECTION LIMITED EDITION POPLİN TOP",
+   "ref": "2416/122",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/f095/d9b4/db55475085d8/2954f3f159ab/02416122250-p/02416122250-p.jpg?ts=1776788190285&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-limited-edition-poplin-top-p02416122.html?v1=543493796",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "04391423-507": {
+   "name": "DANTEL DETAYLI GODET ETEK",
+   "ref": "4391/423",
+   "color": "Koyu haki",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/9af1/8f7f/b54f4bea8feb/f8497bd63c65/04391423507-p/04391423507-p.jpg?ts=1776167785636&w=800",
+   "url": "https://www.zara.com/tr/tr/dantel-detayli-dokumlu-etek-p04391423.html?v1=502976405",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "04772315-070": {
+   "name": "ASİMETRİK PUANTİYE ELBİSE",
+   "ref": "4772/315",
+   "color": "Ekru / Siyah",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/2447/57a3/35d2458ca5ac/4fc8a0ea48d2/04772315070-p/04772315070-p.jpg?ts=1770192158038&w=800",
+   "url": "https://www.zara.com/tr/tr/asimetrik-puantiye-elbise-p04772315.html?v1=499154907",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "02705723-123": {
+   "name": "ASKILI KETEN MİDİ ELBİSE",
+   "ref": "2705/723",
+   "color": "Macenta",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/9104/f45d/638144aa87e2/262f33ccae3d/02705723123-p/02705723123-p.jpg?ts=1776424235103&w=800",
+   "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:16:35",
+ "last_check": "2026-07-24 17:19:05",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
