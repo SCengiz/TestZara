@@ -2522,10 +2522,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -3992,8 +3992,8 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-yuksek-bel-jean-p01934038.html?v1=510857826",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
-    "36": "low_on_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4279,7 +4279,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4549,9 +4549,28 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02797538-632": {
+   "name": "KEMERLİ CEKET ZW COLLECTION",
+   "ref": "2797/538",
+   "color": "Parlak kırmızı",
+   "kind": "Wear",
+   "family": "BLAZER",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/5fed/5c1c/df924b71b159/3209656f03a4/02797538632-1-p/02797538632-1-p.jpg?ts=1778226685321&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-ceket-zw-collection-p02797538.html?v1=548018858",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:29:20",
+ "last_check": "2026-07-24 17:31:39",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
