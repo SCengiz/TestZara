@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -2650,7 +2650,7 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "in_stock",
+    "42": "low_on_stock",
     "44": "out_of_stock"
    }
   },
@@ -4164,7 +4164,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4378,9 +4378,50 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "05029117-717": {
+   "name": "PLİSELİ DÖKÜMLÜ MİDİ ELBİSE",
+   "ref": "5029/117",
+   "color": "Çikolata",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/4d0e/48c3/02ab4b35917a/79d65c636a7c/05029117717-p/05029117717-p.jpg?ts=1770386335853&w=800",
+   "url": "https://www.zara.com/tr/tr/pilili-dokumlu-midi-elbise-p05029117.html?v1=520942045",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "03152395-615": {
+   "name": "PÖTİKARELİ MİNİ ELBİSE",
+   "ref": "3152/395",
+   "color": "Turuncu",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/ab8a/7c62/b7bd43a39767/46e0d9d16a0b/03152395615-p/03152395615-p.jpg?ts=1779359053380&w=800",
+   "url": "https://www.zara.com/tr/tr/potikareli-mini-elbise-p03152395.html?v1=528575704",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 12:12:00",
+ "last_check": "2026-07-24 12:14:42",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
