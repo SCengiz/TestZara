@@ -373,9 +373,9 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "low_on_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "in_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -2568,7 +2568,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3704,7 +3704,7 @@
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    }
   },
@@ -4694,31 +4694,26 @@
     "XL": "out_of_stock"
    }
   },
-  "12574710-105": {
-   "name": "FİYONK DETAYLI BABET",
-   "ref": "2574/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
+  "04813305-717": {
+   "name": "OVERSIZE FERMUARLI BOMBER CEKET",
+   "ref": "4813/305",
+   "color": "Çikolata",
+   "kind": "Wear",
+   "family": "HIRKA",
    "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/2c64/7596/fd4c4c0daf7c/2d148d73ca5e/06236036712-a5/06236036712-a5.jpg?ts=1776957802610&w=800",
-   "url": "https://www.zara.com/tr/tr/fiyonk-detayli-babet-p12574710.html?v1=544001965",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/da51/b819/3708402d97a9/0b8625d5033b/04813305717-p/04813305717-p.jpg?ts=1769097389504&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-24 19:10:24",
+ "last_check": "2026-07-24 19:12:19",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
