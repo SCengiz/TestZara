@@ -2525,7 +2525,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -3992,7 +3992,7 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-yuksek-bel-jean-p01934038.html?v1=510857826",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4079,9 +4079,52 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "12004610-131": {
+   "name": "SÜET İNCE TOPUKLU BOT",
+   "ref": "2004/610",
+   "color": "Boz Gri",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 129000,
+   "old_price": 159000,
+   "discount": 18,
+   "image": "https://static.zara.net/assets/public/6004/3e5d/3dfb4b42b7db/2ed3bd3dbecb/12004610131-p/12004610131-p.jpg?ts=1764934334814&w=800",
+   "url": "https://www.zara.com/tr/tr/suet-ince-topuklu-bot-p12004610.html?v1=503986639",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "02540959-330": {
+   "name": "HOROZAYAĞI YÜN PELERİN ETEK ZW COLLECTION",
+   "ref": "2540/959",
+   "color": "Çokrenkli",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c93d/b58f/30744b10817e/3d3d43616ddb/02540959330-p/02540959330-p.jpg?ts=1768472905515&w=800",
+   "url": "https://www.zara.com/tr/tr/horozayagi-yun-pelerin-etek-zw-collection-p02540959.html?v1=507092253",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 15:28:20",
+ "last_check": "2026-07-24 15:30:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
