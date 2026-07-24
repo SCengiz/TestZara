@@ -3898,28 +3898,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "01934038-407": {
-   "name": "Z1975 SLIM YÜKSEK BEL JEAN",
-   "ref": "1934/038",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/8860/c48e/7ccf488fbef5/99542a340ac7/01934038407-p/01934038407-p.jpg?ts=1774957863861&w=800",
-   "url": "https://www.zara.com/tr/tr/z1975-slim-yuksek-bel-jean-p01934038.html?v1=510857826",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock"
-   }
-  },
   "02521806-046": {
    "name": "KATMANLI MİDİ ETEK",
    "ref": "2521/806",
@@ -4572,9 +4550,45 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "04344141-753": {
+   "name": "SUNİ SÜET DÜĞMELİ YELEK",
+   "ref": "4344/141",
+   "color": "Çikolata kahverengisi",
+   "kind": "Wear",
+   "family": "YELEK",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/3a08/e33b/174345bbb2cd/90114eaa60b2/04344141753-e1/04344141753-e1.jpg?ts=1775575208215&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-suet-dugmeli-yelek-p04344141.html?v1=513368717",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "00155041-507": {
+   "name": "KISA KÜRK YAKALI TRENÇKOT ZW COLLECTION",
+   "ref": "0155/041",
+   "color": "Koyu haki",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/626a/f7c8/f5bf4707adde/d0eaa1915774/00155041507-p/00155041507-p.jpg?ts=1768472874142&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-kurk-yaka-trenckot-zw-collection-p00155041.html?v1=495684389",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 18:14:30",
+ "last_check": "2026-07-24 18:16:57",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
