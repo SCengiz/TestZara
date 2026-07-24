@@ -3783,7 +3783,7 @@
    "image": "https://static.zara.net/assets/public/921e/165e/eb9b4ef98167/06481d08f748/01165015600-p/01165015600-p.jpg?ts=1777364061581&w=800",
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4221,9 +4221,50 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "01478631-719": {
+   "name": "YÜKSEK BEL PANTOLON",
+   "ref": "1478/631",
+   "color": "kahverengi vigore",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/177c/cc47/a95f4578b719/7d7ac784e98a/01478631719-p/01478631719-p.jpg?ts=1769176994269&w=800",
+   "url": "https://www.zara.com/tr/tr/yuksek-bel-pantolon-p01478631.html?v1=514994188",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "in_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "04786094-251": {
+   "name": "ZW COLLECTION ASİMETRİK KETEN KARIŞIMLI FIRFIRLI ELBİSE",
+   "ref": "4786/094",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/7a9d/588c/72754431b243/d5667e3796c1/04786094251-p/04786094251-p.jpg?ts=1780909795539&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-asimetrik-keten-karisimli-firfirli-elbise-p04786094.html?v1=556739368",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:01:36",
+ "last_check": "2026-07-24 17:04:39",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
