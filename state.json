@@ -4039,27 +4039,6 @@
     "XL": "out_of_stock"
    }
   },
-  "03152395-615": {
-   "name": "PÖTİKARELİ MİNİ ELBİSE",
-   "ref": "3152/395",
-   "color": "Turuncu",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/ab8a/7c62/b7bd43a39767/46e0d9d16a0b/03152395615-p/03152395615-p.jpg?ts=1779359053380&w=800",
-   "url": "https://www.zara.com/tr/tr/potikareli-mini-elbise-p03152395.html?v1=528575704",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "01067004-800": {
    "name": "DANTEL DETAYLI ELBİSE",
    "ref": "1067/004",
@@ -4102,7 +4081,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:10:20",
+ "last_check": "2026-07-24 15:10:47",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
