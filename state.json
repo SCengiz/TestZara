@@ -2419,26 +2419,6 @@
     "XL": "out_of_stock"
    }
   },
-  "09929190-505": {
-   "name": "KEMERLİ PENSLİ PANTOLON",
-   "ref": "9929/190",
-   "color": "Haki",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/2556/e779/2b664824900a/8c61874a5f3b/09929190505-p/09929190505-p.jpg?ts=1770917281224&w=800",
-   "url": "https://www.zara.com/tr/tr/kemerli-pensli-pantolon-p09929190.html?v1=496301329",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "in_stock",
-    "M": "in_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "00103248-700": {
    "name": "TRF MOM FIT YÜKSEK BEL JEAN",
    "ref": "0103/248",
@@ -2519,7 +2499,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-bluz-p03666052.html?v1=520942112",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4304,7 +4284,7 @@
    "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4382,7 +4362,7 @@
    }
   }
  },
- "last_check": "2026-07-24 09:48:41",
+ "last_check": "2026-07-24 09:51:09",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
