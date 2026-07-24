@@ -2771,7 +2771,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4258,12 +4258,12 @@
    "url": "https://www.zara.com/tr/tr/kontrast-dantel-elbise-p01067004.html?v1=495703174",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-24 14:07:51",
+ "last_check": "2026-07-24 14:09:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
