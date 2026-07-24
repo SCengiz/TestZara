@@ -841,29 +841,6 @@
     "42": "out_of_stock"
    }
   },
-  "12268710-080": {
-   "name": "BANTLI TOPUKLU ARKASI AÇIK AYAKKABI",
-   "ref": "2268/710",
-   "color": "Mor",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/7459/10c6/202d4a3eb008/e0799ec305f7/12268710080-p/12268710080-p.jpg?ts=1777567009769&w=800",
-   "url": "https://www.zara.com/tr/tr/bantli-topuklu-arkasi-acik-ayakkabi-p12268710.html?v1=510442736",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "low_on_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "12550710-091": {
    "name": "METALİK BANTLI VE TOKALI DÜZ AYAKKABI",
    "ref": "2550/710",
@@ -1248,7 +1225,7 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "out_of_stock",
+    "37": "low_on_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -3852,7 +3829,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "in_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -3932,7 +3909,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-dantel-elbise-p01067004.html?v1=495703174",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -4754,7 +4731,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:30:35",
+ "last_check": "2026-07-24 19:32:29",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
