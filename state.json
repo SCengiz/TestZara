@@ -2623,7 +2623,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p05474058.html?v1=520381845",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4120,26 +4120,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "04786094-251": {
-   "name": "ZW COLLECTION ASİMETRİK KETEN KARIŞIMLI FIRFIRLI ELBİSE",
-   "ref": "4786/094",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/7a9d/588c/72754431b243/d5667e3796c1/04786094251-p/04786094251-p.jpg?ts=1780909795539&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-asimetrik-keten-karisimli-firfirli-elbise-p04786094.html?v1=556739368",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "03253320-250": {
    "name": "BASIC KOTON T-SHIRT",
    "ref": "3253/320",
@@ -4441,26 +4421,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   }
-  },
-  "02854701-930": {
-   "name": "PUANTİYE DESENLİ KETEN MİDİ ELBİSE",
-   "ref": "2854/701",
-   "color": "930",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/4120/c8df/107948559159/8bc312d306ae/02854701930-p/02854701930-p.jpg?ts=1777449790849&w=800",
-   "url": "https://www.zara.com/tr/tr/puantiye-desenli-keten-midi-elbise-p02854701.html?v1=535950780",
-   "sizes": {
-    "XS": "low_on_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "15040710-131": {
@@ -4792,9 +4752,29 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "02500838-700": {
+   "name": "KONTRAST KARELİ ETEK ZW COLLECTION",
+   "ref": "2500/838",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c821/c145/4d6b40168cd0/ec9b009969a5/02500838700-p/02500838700-p.jpg?ts=1768835437125&w=800",
+   "url": "https://www.zara.com/tr/tr/kareli-kontrast-etek-zw-collection-p02500838.html?v1=506612976",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:45:05",
+ "last_check": "2026-07-24 19:46:47",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
