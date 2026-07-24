@@ -2689,7 +2689,7 @@
    "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
    "sizes": {
     "32": "out_of_stock",
-    "34": "low_on_stock",
+    "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -4382,7 +4382,7 @@
    }
   }
  },
- "last_check": "2026-07-24 09:38:31",
+ "last_check": "2026-07-24 09:40:59",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
