@@ -3673,9 +3673,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -3776,7 +3776,7 @@
    "image": "https://static.zara.net/assets/public/537d/6b6b/7bbe47d6a25b/50e5f68f3d0c/05644991442-e1/05644991442-e1.jpg?ts=1779784313576&w=800",
    "url": "https://www.zara.com/tr/tr/reglan-kollu-t-shirt-p05644991.html?v1=562479741",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "in_stock",
@@ -3902,7 +3902,7 @@
    "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -4383,7 +4383,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:37:44",
+ "last_check": "2026-07-24 13:40:44",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
