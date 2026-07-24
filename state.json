@@ -2477,7 +2477,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-can-paca-jean-p09863052.html?v1=508044889",
    "sizes": {
     "32": "out_of_stock",
-    "34": "out_of_stock",
+    "34": "in_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
@@ -2649,7 +2649,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4448,27 +4448,6 @@
     "42": "out_of_stock"
    }
   },
-  "04772307-250": {
-   "name": "HALTER YAKA GODETLİ MİDİ ELBİSE",
-   "ref": "4772/307",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/ddb7/e5d6/e05540e99743/8cd00cc1869b/04772307250-p/04772307250-p.jpg?ts=1768494163719&w=800",
-   "url": "https://www.zara.com/tr/tr/halter-yaka-godet-midi-elbise-p04772307.html?v1=497810102",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "03897114-712": {
    "name": "BALON KOLLU KISA ELBİSE",
    "ref": "3897/114",
@@ -4572,7 +4551,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:24:10",
+ "last_check": "2026-07-24 17:26:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
