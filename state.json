@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 399999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 45,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -3413,9 +3413,9 @@
    "sizes": {
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -4444,24 +4444,6 @@
     "L": "out_of_stock"
    }
   },
-  "01223024-064": {
-   "name": "PUANTİYELİ HALTER TOP",
-   "ref": "1223/024",
-   "color": "Siyah / Beyaz",
-   "kind": "Wear",
-   "family": "DIGER GIYIM ESYASI",
-   "section": "WOMAN",
-   "price": 35000,
-   "old_price": 45000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/5126/167b/a12b4c3184d3/cd447ec40f25/01223024064-p/01223024064-p.jpg?ts=1777378069454&w=800",
-   "url": "https://www.zara.com/tr/tr/puantiyeli-halter-top-p01223024.html?v1=513371423",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "13544610-700": {
    "name": "SÜET MAKOSEN",
    "ref": "3544/610",
@@ -4507,7 +4489,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:16:07",
+ "last_check": "2026-07-24 17:16:35",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
