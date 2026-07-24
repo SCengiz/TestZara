@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 399999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 45,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -375,7 +375,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "in_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -2568,7 +2568,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3704,7 +3704,7 @@
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4713,7 +4713,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:12:19",
+ "last_check": "2026-07-24 19:13:21",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
