@@ -1549,7 +1549,7 @@
    "image": "https://static.zara.net/assets/public/28ca/2c82/d45f40358fb7/71583f216e8c/40214041300-e1/40214041300-e1.jpg?ts=1766075122451&w=800",
    "url": "https://www.zara.com/tr/tr/renkli-kulplu-borosilikat-caydanlik-p40214041.html?v1=495430130",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "42570049-052": {
@@ -2523,7 +2523,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4223,7 +4223,7 @@
    }
   }
  },
- "last_check": "2026-07-24 16:38:47",
+ "last_check": "2026-07-24 16:41:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
