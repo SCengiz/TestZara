@@ -2522,10 +2522,10 @@
    "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "00881016-251": {
@@ -4586,9 +4586,29 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02854701-930": {
+   "name": "PUANTİYE DESENLİ KETEN MİDİ ELBİSE",
+   "ref": "2854/701",
+   "color": "930",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/4120/c8df/107948559159/8bc312d306ae/02854701930-p/02854701930-p.jpg?ts=1777449790849&w=800",
+   "url": "https://www.zara.com/tr/tr/puantiye-desenli-keten-midi-elbise-p02854701.html?v1=535950780",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:39:15",
+ "last_check": "2026-07-24 17:41:48",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
