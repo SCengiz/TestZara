@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -2648,7 +2648,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4361,7 +4361,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4461,9 +4461,53 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "13544610-700": {
+   "name": "SÜET MAKOSEN",
+   "ref": "3544/610",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/027e/b705/c7494a9b884e/186e2d96f181/13544610700-p/13544610700-p.jpg?ts=1767948364408&w=800",
+   "url": "https://www.zara.com/tr/tr/suet-makosen-p13544610.html?v1=495703095",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "04772307-250": {
+   "name": "HALTER YAKA GODETLİ MİDİ ELBİSE",
+   "ref": "4772/307",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/ddb7/e5d6/e05540e99743/8cd00cc1869b/04772307250-p/04772307250-p.jpg?ts=1768494163719&w=800",
+   "url": "https://www.zara.com/tr/tr/halter-yaka-godet-midi-elbise-p04772307.html?v1=497810102",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:14:36",
+ "last_check": "2026-07-24 17:16:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
