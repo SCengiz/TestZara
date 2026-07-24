@@ -375,7 +375,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -2429,25 +2429,6 @@
     "46": "out_of_stock"
    }
   },
-  "06771003-982": {
-   "name": "ASİMETRİK KESİM ÖRGÜ KAZAK",
-   "ref": "6771/003",
-   "color": "Deniz yeşili",
-   "kind": "Wear",
-   "family": "KAZAK",
-   "section": "WOMAN",
-   "price": 49000,
-   "old_price": 69000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/41ec/4e1c/9dc240548bd4/e1329ba15616/06771003982-p/06771003982-p.jpg?ts=1765982222824&w=800",
-   "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "low_on_stock"
-   }
-  },
   "00881016-251": {
    "name": "MÜSLİN İŞLEMELİ VE FIRFIRLI GÖMLEK",
    "ref": "0881/016",
@@ -4282,7 +4263,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "02507042-800": {
@@ -4713,7 +4694,7 @@
    }
   }
  },
- "last_check": "2026-07-24 19:13:21",
+ "last_check": "2026-07-24 19:14:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
