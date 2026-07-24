@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -4144,7 +4144,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "02180063-800": {
@@ -4383,7 +4383,7 @@
    }
   }
  },
- "last_check": "2026-07-24 13:27:38",
+ "last_check": "2026-07-24 13:30:26",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
