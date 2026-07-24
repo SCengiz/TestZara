@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -299,8 +299,8 @@
    "price": 69000,
    "old_price": 89000,
    "discount": 22,
-   "image": "https://static.zara.net/assets/public/0af9/3951/d4564feab15d/668c65b54be0/13502510800-e1/13502510800-e1.jpg?ts=1746442644822&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-duz-babet-p13502510.html?v1=502649383",
+   "image": "https://static.zara.net/assets/public/8abb/7d07/93574a4d8f24/ada4a920acf7/13502510800-e1/13502510800-e1.jpg?ts=1758615919429&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-duz-babet-p13502510.html?v1=495716757",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -347,29 +347,6 @@
    "discount": 22,
    "image": "https://static.zara.net/assets/public/fc54/76ac/fc3e42dca607/f1b82f73fee2/13541710718-e1/13541710718-e1.jpg?ts=1770028622340&w=800",
    "url": "https://www.zara.com/tr/tr/kadife-etkili-babet-p13541710.html?v1=496001518",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "13314710-700": {
-   "name": "FİLELİ TOPUKLU SANDALET",
-   "ref": "3314/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/6b00/34f1/d4f44295801f/bc943d18a63e/13314710700-p/13314710700-p.jpg?ts=1773304512484&w=800",
-   "url": "https://www.zara.com/tr/tr/fileli-topuklu-sandalet-p13314710.html?v1=496254397",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -565,29 +542,6 @@
     "42": "out_of_stock"
    }
   },
-  "11110610-131": {
-   "name": "SÜET KISA SİVRİ TOPUKLU BİLEKTE BOT",
-   "ref": "1110/610",
-   "color": "Boz Gri",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 179000,
-   "discount": 44,
-   "image": "https://static.zara.net/assets/public/2aa0/e647/6008488396f9/e1bc7bc868dc/11110610131-p/11110610131-p.jpg?ts=1755079178895&w=800",
-   "url": "https://www.zara.com/tr/tr/suet-kisa-sivri-topuklu-bilekte-bot-p11110610.html?v1=495712179",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "13163610-800": {
    "name": "DERİ TOPUKLU BİLEKTE BOT",
    "ref": "3163/610",
@@ -715,29 +669,6 @@
    "discount": 28,
    "image": "https://static.zara.net/assets/public/db79/84a9/b3e44a789269/f55d5a4599a1/11593710802-p/11593710802-p.jpg?ts=1769600498788&w=800",
    "url": "https://www.zara.com/tr/tr/kadife-etkili-fiyonklu-babet-p11593710.html?v1=517480473",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "13531710-700": {
-   "name": "FİYONKLU DERİ BABET",
-   "ref": "3531/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/ef92/a997/3c58461286bd/0a353144b937/13531710700-p/13531710700-p.jpg?ts=1770193970571&w=800",
-   "url": "https://www.zara.com/tr/tr/fiyonklu-deri-babet-p13531710.html?v1=520986867",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -888,29 +819,6 @@
     "38 (24,3 cm)": "out_of_stock",
     "39 (24,9 cm)": "out_of_stock",
     "40 (25,6 cm)": "out_of_stock"
-   }
-  },
-  "12215610-808": {
-   "name": "METALİK TOPUKLU ARKASI AÇIK AYAKKABI",
-   "ref": "2215/610",
-   "color": "Gümüş",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/8710/fa3e/8f654b339a3a/7563b7532068/12215611808-p/12215611808-p.jpg?ts=1774010954718&w=800",
-   "url": "https://www.zara.com/tr/tr/metalik-topuklu-arkasi-acik-ayakkabi-p12215610.html?v1=495694005",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
    }
   },
   "11580710-002": {
@@ -3771,7 +3679,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -4637,7 +4545,7 @@
    }
   }
  },
- "last_check": "2026-07-24 21:40:46",
+ "last_check": "2026-07-24 21:43:22",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
