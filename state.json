@@ -4243,9 +4243,27 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "01067004-800": {
+   "name": "DANTEL DETAYLI ELBİSE",
+   "ref": "1067/004",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/e74e/45b1/f6bf4a4796a2/686ab6a25d53/05039020800-p/05039020800-p.jpg?ts=1774614282344&w=800",
+   "url": "https://www.zara.com/tr/tr/kontrast-dantel-elbise-p01067004.html?v1=495703174",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 13:57:43",
+ "last_check": "2026-07-24 14:00:16",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
