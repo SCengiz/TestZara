@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -3675,7 +3675,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "07878560-250": {
@@ -3901,7 +3901,7 @@
    "image": "https://static.zara.net/assets/public/c41e/4689/ae9a4559b68e/1404ca810457/T9103432195-p/T9103432195-p.jpg?ts=1772720552547&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-modal-sporty-sweatshirt-p08054643.html?v1=528330130",
    "sizes": {
-    "6/7 yaş (122 cm)": "low_on_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -4382,9 +4382,25 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "20120233-999": {
+   "name": "TUBEROSE WINTER EDT 90ML (3.04 FL. OZ).",
+   "ref": "0120/233",
+   "color": "",
+   "kind": "Fragance",
+   "family": "EAU DE TOILETTE",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 49000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/6049/341c/233444e086a1/236962fb6288/20120233999-e1/20120233999-e1.jpg?ts=1756118269832&w=800",
+   "url": "https://www.zara.com/tr/tr/tuberose-winter-edt-90ml--3-04-fl--oz---p20120233.html?v1=560693593",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 11:37:52",
+ "last_check": "2026-07-24 11:40:02",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
