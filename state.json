@@ -4122,9 +4122,30 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "03046022-505": {
+   "name": "RÜZGAR GEÇİRMEZ KAPLAMALI YARI UZUN ANORAK",
+   "ref": "3046/022",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "ANORAK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/c273/0eba/ea7e481da054/a575a859929d/03046022505-p/03046022505-p.jpg?ts=1768391742634&w=800",
+   "url": "https://www.zara.com/tr/tr/ruzgar-gecirmez-kaplamali-yarim-boy-anorak-p03046022.html?v1=495698482",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 16:23:47",
+ "last_check": "2026-07-24 16:23:54",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
