@@ -308,7 +308,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "in_stock",
+    "41": "out_of_stock",
     "42": "out_of_stock"
    }
   },
@@ -855,7 +855,7 @@
    "url": "https://www.zara.com/tr/tr/bantli-topuklu-arkasi-acik-ayakkabi-p12268710.html?v1=510442736",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4732,9 +4732,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02753122-800": {
+   "name": "KRUVAZE OVERSIZE BLAZER",
+   "ref": "2753/122",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "BLAZER",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/f90a/1dc0/ea394a6baf72/5db9e5927e97/02008593800-p/02008593800-p.jpg?ts=1778767969009&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-oversize-blazer-p02753122.html?v1=549547161",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:29:54",
+ "last_check": "2026-07-24 19:30:35",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
