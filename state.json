@@ -53,9 +53,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 149999,
+   "price": 159999,
    "old_price": 249998,
-   "discount": 40,
+   "discount": 36,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -3644,7 +3644,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4279,7 +4279,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4361,7 +4361,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4589,9 +4589,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04786044-727": {
+   "name": "ZW COLLECTION PİLİLİ HALTER ELBİSE",
+   "ref": "4786/044",
+   "color": "Vanilya",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/eeb9/b4c0/aaa542989c59/9fb286bf5570/04786044727-p/04786044727-p.jpg?ts=1774621666608&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-pilili-halter-elbise-p04786044.html?v1=536437370",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:19:05",
+ "last_check": "2026-07-24 17:21:21",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
