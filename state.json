@@ -3864,7 +3864,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04592217-800": {
@@ -4223,7 +4223,7 @@
    }
   }
  },
- "last_check": "2026-07-24 16:43:56",
+ "last_check": "2026-07-24 16:46:25",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
