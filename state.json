@@ -1412,7 +1412,7 @@
    "image": "https://static.zara.net/assets/public/2664/db3d/eed642e8a7f2/d8a7bb571867/40300211251-e1/40300211251-e1.jpg?ts=1772121588276&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-seramik-kavanoz-p40300211.html?v1=499095752",
    "sizes": {
-    "21 x 12 x 12 cm": "out_of_stock",
+    "21 x 12 x 12 cm": "in_stock",
     "26 x 15 x 15 cm": "in_stock"
    }
   },
@@ -4263,7 +4263,7 @@
    }
   }
  },
- "last_check": "2026-07-24 14:40:36",
+ "last_check": "2026-07-24 14:43:04",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
