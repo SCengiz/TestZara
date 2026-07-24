@@ -274,7 +274,7 @@
    "image": "https://static.zara.net/assets/public/640e/dc0d/35384d548211/30e09404d8c6/11124730800-e1/11124730800-e1.jpg?ts=1764246830688&w=800",
    "url": "https://www.zara.com/tr/tr/kalp-uclu-naylon-alisveris-cantasi-p11124730.html?v1=495670044",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "13014610-700": {
@@ -1412,7 +1412,7 @@
    "image": "https://static.zara.net/assets/public/2664/db3d/eed642e8a7f2/d8a7bb571867/40300211251-e1/40300211251-e1.jpg?ts=1772121588276&w=800",
    "url": "https://www.zara.com/tr/tr/kapakli-seramik-kavanoz-p40300211.html?v1=499095752",
    "sizes": {
-    "21 x 12 x 12 cm": "in_stock",
+    "21 x 12 x 12 cm": "low_on_stock",
     "26 x 15 x 15 cm": "in_stock"
    }
   },
@@ -2499,7 +2499,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-bluz-p03666052.html?v1=520942112",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3839,7 +3839,7 @@
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -4342,7 +4342,7 @@
    }
   }
  },
- "last_check": "2026-07-24 09:54:14",
+ "last_check": "2026-07-24 09:56:13",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
