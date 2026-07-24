@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -3213,7 +3213,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4363,7 +4363,7 @@
    }
   }
  },
- "last_check": "2026-07-24 11:24:15",
+ "last_check": "2026-07-24 11:26:11",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
