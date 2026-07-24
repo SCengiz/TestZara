@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -2648,7 +2648,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "00881016-251": {
@@ -3992,26 +3992,6 @@
     "XL": "out_of_stock"
    }
   },
-  "02580789-400": {
-   "name": "PENS DETAYLI KETEN TOP",
-   "ref": "2580/789",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/8c8c/0aad/2f624161baa4/39db0bf1cbab/02580789400-p/02580789400-p.jpg?ts=1776248678525&w=800",
-   "url": "https://www.zara.com/tr/tr/pens-detayli-keten-top-p02580789.html?v1=514440704",
-   "sizes": {
-    "XS": "low_on_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "05067276-712": {
    "name": "KISA DOKULU ELBİSE",
    "ref": "5067/276",
@@ -4028,27 +4008,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   }
-  },
-  "02180063-800": {
-   "name": "POPLİN KORSE TARZI CROP TOP",
-   "ref": "2180/063",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/152b/efea/fb2543479757/11826ef34e88/02180063800-p/02180063800-p.jpg?ts=1771940730194&w=800",
-   "url": "https://www.zara.com/tr/tr/poplin-korse-tarzi-crop-top-p02180063.html?v1=526369651",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    }
   },
   "04592217-800": {
@@ -4286,7 +4245,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:05:42",
+ "last_check": "2026-07-24 15:08:19",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
