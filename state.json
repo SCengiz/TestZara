@@ -3862,7 +3862,7 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4124,7 +4124,7 @@
    }
   }
  },
- "last_check": "2026-07-24 16:16:11",
+ "last_check": "2026-07-24 16:18:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
