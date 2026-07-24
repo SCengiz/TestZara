@@ -836,7 +836,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4748,9 +4748,53 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "13103710-800": {
+   "name": "KABARTMA DESENLİ TOPUKLU BİLEKTE BOT",
+   "ref": "3103/710",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/5057/fee2/3001491ca376/ff268b26c431/13103710800-p/13103710800-p.jpg?ts=1764765519219&w=800",
+   "url": "https://www.zara.com/tr/tr/kabartma-desenli-topuklu-bilekte-bot-p13103710.html?v1=495698546",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "06318036-700": {
+   "name": "OVERSIZE SUNİ SÜET BIKER CEKET",
+   "ref": "6318/036",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/7c07/bee9/8d8342dcb6a1/981d5d470c20/06318036700-p/06318036700-p.jpg?ts=1770803377552&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-suni-suet-biker-ceket-p06318036.html?v1=498541469",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:37:31",
+ "last_check": "2026-07-24 19:40:01",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
