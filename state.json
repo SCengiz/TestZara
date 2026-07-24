@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -3830,7 +3830,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4263,7 +4263,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "02507042-800": {
@@ -4692,9 +4692,69 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02142203-757": {
+   "name": "DÜZ TRİKO KAZAK",
+   "ref": "2142/203",
+   "color": "Orta-vizon",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/701c/8cb0/04bf46c4b9ce/875e5401d1ba/02142203757-p/02142203757-p.jpg?ts=1765378449874&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-triko-kazak-p02142203.html?v1=505686037",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "03548053-802": {
+   "name": "ZW COLLECTION SUNİ DERİ CEKET",
+   "ref": "3548/053",
+   "color": "Gri",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/d045/ca65/77cb401ba470/278749553f6f/03548053802-p/03548053802-p.jpg?ts=1773234342360&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-suni-deri-ceket-p03548053.html?v1=502167282",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "04369045-505": {
+   "name": "ZW COLLECTION MUMLU CEKET",
+   "ref": "4369/045",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/8d2c/ab41/40224620b15e/6092766dce3c/04369045505-p/04369045505-p.jpg?ts=1770899355388&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-mumlu-ceket-p04369045.html?v1=495688918",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:14:51",
+ "last_check": "2026-07-24 19:17:21",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
