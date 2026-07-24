@@ -1227,7 +1227,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -2443,7 +2443,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-kesim-orgu-kazak-p06771003.html?v1=496605396",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3564,7 +3564,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4565,7 +4565,7 @@
    "url": "https://www.zara.com/tr/tr/suni-suet-dugmeli-yelek-p04344141.html?v1=513368717",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4588,7 +4588,7 @@
    }
   }
  },
- "last_check": "2026-07-24 18:19:37",
+ "last_check": "2026-07-24 18:22:05",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
