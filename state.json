@@ -2525,7 +2525,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "00881016-251": {
@@ -4081,7 +4081,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:20:51",
+ "last_check": "2026-07-24 15:23:55",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
