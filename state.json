@@ -4162,9 +4162,32 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "11305610-420": {
+   "name": "DÜĞÜM DETAYLI DERİ TOPUKLU SANDALET",
+   "ref": "1305/610",
+   "color": "Mavimsi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/7693/5347/b5e344bc9380/6c6ffa5e345c/11305610420-e1/11305610420-e1.jpg?ts=1770985519692&w=800",
+   "url": "https://www.zara.com/tr/tr/dugum-detayli-deri-topuklu-sandalet-p11305610.html?v1=495712335",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 16:26:19",
+ "last_check": "2026-07-24 16:28:49",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
