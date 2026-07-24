@@ -53,9 +53,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 159999,
+   "price": 149999,
    "old_price": 249998,
-   "discount": 36,
+   "discount": 40,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -2237,7 +2237,7 @@
    "image": "https://static.zara.net/assets/public/bf78/2b12/3d8247a98214/d4259591a09b/46170088307-e1/46170088307-e1.jpg?ts=1764229023383&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-saten-nevresim-p46170088.html?v1=495433980",
    "sizes": {
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    }
@@ -4279,7 +4279,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4387,25 +4387,6 @@
     "XL": "out_of_stock"
    }
   },
-  "02356300-330": {
-   "name": "KONTRAST SIRT DETAYLI DESENLİ MİDİ ELBİSE",
-   "ref": "2356/300",
-   "color": "Çokrenkli",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/f087/9552/bd304d209e06/83bff0739b38/02356300330-p/02356300330-p.jpg?ts=1776870913119&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-sirt-detayli-desenli-midi-elbise-p02356300.html?v1=528108635",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "02507042-800": {
    "name": "ZW COLLECTION KATLI POPLİN ELBİSE",
    "ref": "2507/042",
@@ -4508,26 +4489,6 @@
     "XL": "out_of_stock"
    }
   },
-  "02416122-250": {
-   "name": "ZW COLLECTION LIMITED EDITION POPLİN TOP",
-   "ref": "2416/122",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/f095/d9b4/db55475085d8/2954f3f159ab/02416122250-p/02416122250-p.jpg?ts=1776788190285&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-limited-edition-poplin-top-p02416122.html?v1=543493796",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "04391423-507": {
    "name": "DANTEL DETAYLI GODET ETEK",
    "ref": "4391/423",
@@ -4611,7 +4572,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:21:35",
+ "last_check": "2026-07-24 17:24:10",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
