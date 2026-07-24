@@ -3548,7 +3548,7 @@
    "image": "https://static.zara.net/assets/public/3645/e71c/be0f4101af1c/635f5c7926e5/01381645804-p/01381645804-p.jpg?ts=1777532548859&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cicek-desenli-elbise-p01381645.html?v1=544001992",
    "sizes": {
-    "6/7 yaş (122 cm)": "low_on_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "in_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock"
@@ -4380,7 +4380,7 @@
    }
   }
  },
- "last_check": "2026-07-24 12:04:31",
+ "last_check": "2026-07-24 12:06:27",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
