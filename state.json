@@ -101,22 +101,6 @@
     "STANDART": "out_of_stock"
    }
   },
-  "16125710-111": {
-   "name": "KOMBİNE CITY ÇANTA",
-   "ref": "6125/710",
-   "color": "Açık bej",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/cc0e/9fef/db8741709a74/48279fbf5390/16125710111-000-a1/16125710111-000-a1.jpg?ts=1770651687594&w=800",
-   "url": "https://www.zara.com/tr/tr/kombine-city-canta-p16125710.html?v1=516397542",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "16251710-111": {
    "name": "JÜT MİNİ TOTE ÇANTA",
    "ref": "6251/710",
@@ -129,38 +113,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/1a7f/e048/f73f4721904a/84c9747cb047/16251710111-001-a1/16251710111-001-a1.jpg?ts=1777579560610&w=800",
    "url": "https://www.zara.com/tr/tr/jut-mini-tote-canta-p16251710.html?v1=543972054",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
-  "16154710-055": {
-   "name": "MİNİ DERİ ÇANTA",
-   "ref": "6154/710",
-   "color": "Kiraz Kırmızısı",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 129000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/4896/6b8a/ba9744a98ac4/8feac3b7541e/16155710055-p/16155710055-p.jpg?ts=1770211906153&w=800",
-   "url": "https://www.zara.com/tr/tr/mini-deri-canta-p16154710.html?v1=520415832",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
-  "16020710-700": {
-   "name": "ÖRGÜLÜ ÇANTA",
-   "ref": "6020/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 49000,
-   "old_price": 69000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/8aab/e0b7/132e4e24be38/fb9b73267e70/16020710700-p/16020710700-p.jpg?ts=1775748453083&w=800",
-   "url": "https://www.zara.com/tr/tr/orgulu-canta-p16020710.html?v1=495684455",
    "sizes": {
     "STANDART": "out_of_stock"
    }
@@ -229,22 +181,6 @@
     "STANDART": "out_of_stock"
    }
   },
-  "01023045-802": {
-   "name": "YIKANMIŞ FİTİLLİ KUMAŞ ŞAPKA",
-   "ref": "1023/045",
-   "color": "Gri",
-   "kind": "Wear",
-   "family": "SAPKA",
-   "section": "WOMAN",
-   "price": 19000,
-   "old_price": 29000,
-   "discount": 34,
-   "image": "https://static.zara.net/assets/public/1b33/a9bf/4dc24b28b967/7c6bcd1c3b2f/01023045802-p/01023045802-p.jpg?ts=1770801910811&w=800",
-   "url": "https://www.zara.com/tr/tr/yikanmis-fitilli-kumas-sapka-p01023045.html?v1=500607471",
-   "sizes": {
-    "S-M": "out_of_stock"
-   }
-  },
   "16041710-624": {
    "name": "TOP DETAYLI MİNİ KESE ÇANTA",
    "ref": "6041/710",
@@ -257,22 +193,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/4918/6c6e/3b10439e9b66/9766a04d89e6/16042710624-p/16042710624-p.jpg?ts=1764170443017&w=800",
    "url": "https://www.zara.com/tr/tr/top-detayli-mini-kese-canta-p16041710.html?v1=540816730",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
-  "11124730-800": {
-   "name": "KALP UÇLU NAYLON ALIŞVERİŞ ÇANTASI",
-   "ref": "1124/730",
-   "color": "Siyah",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "KID",
-   "price": 75000,
-   "old_price": 100000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/640e/dc0d/35384d548211/30e09404d8c6/11124730800-e1/11124730800-e1.jpg?ts=1764246830688&w=800",
-   "url": "https://www.zara.com/tr/tr/kalp-uclu-naylon-alisveris-cantasi-p11124730.html?v1=495670044",
    "sizes": {
     "STANDART": "out_of_stock"
    }
@@ -2355,7 +2275,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3903,7 +3823,7 @@
    "image": "https://static.zara.net/assets/public/cc40/bd2c/80a54cfab0f9/2f8aa7324059/02752302067-p/02752302067-p.jpg?ts=1774970852210&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-cilek-saten-top-p02752302.html?v1=522655489",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3993,7 +3913,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4654,7 +4574,7 @@
    }
   }
  },
- "last_check": "2026-07-24 17:51:48",
+ "last_check": "2026-07-24 17:54:25",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
