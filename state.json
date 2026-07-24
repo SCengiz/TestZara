@@ -2886,7 +2886,7 @@
    "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
    "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3004,7 +3004,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -3764,7 +3764,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4564,7 +4564,7 @@
    "image": "https://static.zara.net/assets/public/3a08/e33b/174345bbb2cd/90114eaa60b2/04344141753-e1/04344141753-e1.jpg?ts=1775575208215&w=800",
    "url": "https://www.zara.com/tr/tr/suni-suet-dugmeli-yelek-p04344141.html?v1=513368717",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4631,7 +4631,7 @@
    }
   }
  },
- "last_check": "2026-07-24 18:57:10",
+ "last_check": "2026-07-24 18:59:52",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
