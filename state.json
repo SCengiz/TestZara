@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 449999,
+   "price": 399999,
    "old_price": 729999,
-   "discount": 38,
+   "discount": 45,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -53,9 +53,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 159999,
+   "price": 149999,
    "old_price": 249998,
-   "discount": 36,
+   "discount": 40,
    "image": "https://media.mango.com/is/image/punto/27082005-99-900?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kadın/ayakkabı/cizme-ve-bot/topuklu-bilekte-bot/27082005/99/00",
    "sizes": {
@@ -4386,9 +4386,28 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02356300-330": {
+   "name": "KONTRAST SIRT DETAYLI DESENLİ MİDİ ELBİSE",
+   "ref": "2356/300",
+   "color": "Çokrenkli",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/f087/9552/bd304d209e06/83bff0739b38/02356300330-p/02356300330-p.jpg?ts=1776870913119&w=800",
+   "url": "https://www.zara.com/tr/tr/kontrast-sirt-detayli-desenli-midi-elbise-p02356300.html?v1=528108635",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:10:29",
+ "last_check": "2026-07-24 17:11:27",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
