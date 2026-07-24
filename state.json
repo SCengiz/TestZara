@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 399999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 45,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -2525,7 +2525,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00881016-251": {
@@ -4338,14 +4338,57 @@
    "url": "https://www.zara.com/tr/tr/pens-detayli-keten-bermuda-p09929027.html?v1=507744748",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "09632253-407": {
+   "name": "ZW COLLECTION WIDE LEG YÜKSEK BEL JEAN",
+   "ref": "9632/253",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/f6c6/8d0f/a49c4d0e9f1b/d99fd2c2cd01/09863261407-p/09863261407-p.jpg?ts=1778226823498&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-wide-leg-yuksek-bel-jean-p09632253.html?v1=548018867",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "08820597-800": {
+   "name": "DÜZ PAÇA YÜKSEK BEL PANTOLON",
+   "ref": "8820/597",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/f011/2138/c7334828a0ce/818b562ddc02/08656791800-016-p/08656791800-016-p.jpg?ts=1770829485114&w=800",
+   "url": "https://www.zara.com/tr/tr/yuksek-bel-duz-paca-pantolon-p08820597.html?v1=495703025",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   }
  },
- "last_check": "2026-07-24 17:09:07",
+ "last_check": "2026-07-24 17:10:29",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
