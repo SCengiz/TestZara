@@ -4055,27 +4055,6 @@
     "L": "out_of_stock"
    }
   },
-  "02744332-800": {
-   "name": "ASKILI SATEN MİNİ ELBİSE.",
-   "ref": "2744/332",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/3f60/52bc/9eca4e2bafb6/88814bcf3e1a/02744332800-p/02744332800-p.jpg?ts=1774609741237&w=800",
-   "url": "https://www.zara.com/tr/tr/askili-saten-mini-elbise-p02744332.html?v1=522580305",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "01478631-719": {
    "name": "YÜKSEK BEL PANTOLON",
    "ref": "1478/631",
@@ -4771,7 +4750,7 @@
    }
   }
  },
- "last_check": "2026-07-24 20:45:27",
+ "last_check": "2026-07-24 20:48:00",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
