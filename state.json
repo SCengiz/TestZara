@@ -3647,7 +3647,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "02756525-052": {
@@ -4124,7 +4124,7 @@
    }
   }
  },
- "last_check": "2026-07-24 15:44:51",
+ "last_check": "2026-07-24 15:46:03",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
