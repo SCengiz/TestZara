@@ -8,9 +8,9 @@
    "kind": "Wear",
    "family": "",
    "section": "WOMAN",
-   "price": 399999,
+   "price": 449999,
    "old_price": 729999,
-   "discount": 45,
+   "discount": 38,
    "image": "https://media.mango.com/is/image/punto/27071208-35-001?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/palto/palto/el-yap%C4%B1m%C4%B1-oversize-yun-palto/27071208/35/00",
    "sizes": {
@@ -2648,7 +2648,7 @@
    "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4361,7 +4361,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4405,9 +4405,65 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02507042-800": {
+   "name": "ZW COLLECTION KATLI POPLİN ELBİSE",
+   "ref": "2507/042",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/f77b/1de8/815d4ccb9dbc/58ddc2951ffa/02507042800-p/02507042800-p.jpg?ts=1780048131082&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-katlamali-poplin-elbise-p02507042.html?v1=553721890",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "04344304-710": {
+   "name": "KADİFE DESENLİ SLIP ELBİSE",
+   "ref": "4344/304",
+   "color": "Bej",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c176/df27/10734e919e54/b4155d3d684c/04344304710-p/04344304710-p.jpg?ts=1776953007251&w=800",
+   "url": "https://www.zara.com/tr/tr/devore-lingerie-elbise-p04344304.html?v1=520858845",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "01223024-064": {
+   "name": "PUANTİYELİ HALTER TOP",
+   "ref": "1223/024",
+   "color": "Siyah / Beyaz",
+   "kind": "Wear",
+   "family": "DIGER GIYIM ESYASI",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/5126/167b/a12b4c3184d3/cd447ec40f25/01223024064-p/01223024064-p.jpg?ts=1777378069454&w=800",
+   "url": "https://www.zara.com/tr/tr/puantiyeli-halter-top-p01223024.html?v1=513371423",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 17:11:27",
+ "last_check": "2026-07-24 17:14:36",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
