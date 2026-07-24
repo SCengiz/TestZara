@@ -2632,28 +2632,6 @@
     "46": "out_of_stock"
    }
   },
-  "05862081-445": {
-   "name": "Z1975 SLIM CROP ORTA BEL JEAN",
-   "ref": "5862/081",
-   "color": "Mavi / Yeşil",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/467c/ad78/3a474ff194c4/b0d0a9f1b295/05862081445-p/05862081445-p.jpg?ts=1773765628283&w=800",
-   "url": "https://www.zara.com/tr/tr/z1975-slim-crop-orta-bel-jean-p05862081.html?v1=507212806",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "low_on_stock",
-    "44": "out_of_stock"
-   }
-  },
   "06771003-982": {
    "name": "ASİMETRİK KESİM ÖRGÜ KAZAK",
    "ref": "6771/003",
@@ -4322,22 +4300,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "20120233-999": {
-   "name": "TUBEROSE WINTER EDT 90ML (3.04 FL. OZ).",
-   "ref": "0120/233",
-   "color": "",
-   "kind": "Fragance",
-   "family": "EAU DE TOILETTE",
-   "section": "WOMAN",
-   "price": 35000,
-   "old_price": 49000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/6049/341c/233444e086a1/236962fb6288/20120233999-e1/20120233999-e1.jpg?ts=1756118269832&w=800",
-   "url": "https://www.zara.com/tr/tr/tuberose-winter-edt-90ml--3-04-fl--oz---p20120233.html?v1=560693593",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "01934038-407": {
    "name": "Z1975 SLIM YÜKSEK BEL JEAN",
    "ref": "1934/038",
@@ -4421,7 +4383,7 @@
    }
   }
  },
- "last_check": "2026-07-24 12:14:42",
+ "last_check": "2026-07-24 12:17:04",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
