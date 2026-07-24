@@ -373,7 +373,7 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "out_of_stock",
+    "37": "low_on_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -2445,7 +2445,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "00881016-251": {
@@ -3846,10 +3846,10 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "in_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -4652,9 +4652,73 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "03046298-800": {
+   "name": "YUMUŞAK OVERSIZE KABAN",
+   "ref": "3046/298",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c13f/f5ed/842143d9a4b4/e80af00d824e/03046298800-p/03046298800-p.jpg?ts=1764071069985&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-oversize-kaban-p03046298.html?v1=503417952",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "01608038-800": {
+   "name": "MİNİ ÇAN PAÇA PANTOLON",
+   "ref": "1608/038",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c448/ebbc/d3e54f8080f2/f8f4833906a8/08741033250-p/08741033250-p.jpg?ts=1773930261122&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608038.html?v1=534613616",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "12574710-105": {
+   "name": "FİYONK DETAYLI BABET",
+   "ref": "2574/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 89000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/2c64/7596/fd4c4c0daf7c/2d148d73ca5e/06236036712-a5/06236036712-a5.jpg?ts=1776957802610&w=800",
+   "url": "https://www.zara.com/tr/tr/fiyonk-detayli-babet-p12574710.html?v1=544001965",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 19:08:05",
+ "last_check": "2026-07-24 19:10:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
