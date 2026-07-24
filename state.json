@@ -3663,7 +3663,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "in_stock",
-    "5 yaş (110 cm)": "in_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
    }
   },
@@ -4261,9 +4261,32 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "12352710-800": {
+   "name": "SATEN GÖRÜNÜMLÜ TOPUKLU SANDALET",
+   "ref": "2352/710",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/311f/155d/64484c8a825b/4a586672ee5a/12352710800-p/12352710800-p.jpg?ts=1776163256224&w=800",
+   "url": "https://www.zara.com/tr/tr/saten-gorunumlu-topuklu-sandalet-p12352710.html?v1=507085923",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 14:50:39",
+ "last_check": "2026-07-24 14:53:08",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
