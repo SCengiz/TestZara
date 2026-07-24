@@ -3917,7 +3917,7 @@
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
-    "44": "out_of_stock"
+    "44": "low_on_stock"
    }
   },
   "02521806-046": {
@@ -4574,7 +4574,7 @@
    }
   }
  },
- "last_check": "2026-07-24 18:01:55",
+ "last_check": "2026-07-24 18:04:22",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
