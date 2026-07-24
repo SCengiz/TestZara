@@ -24,7 +24,7 @@
    }
   },
   "mango-27072932-32": {
-   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
+   "name": "KITTEN TOPUKLU KAYIŞLI SANDALET | MANGO TÜRKIYE",
    "ref": "27072932/32",
    "color": "",
    "kind": "Wear",
@@ -4340,9 +4340,30 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "07521329-250": {
+   "name": "MİNİ FIRFIRLI ELBİSE",
+   "ref": "7521/329",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/c971/600e/ac3341828cb3/b5a0e1ef42b5/07521329250-p/07521329250-p.jpg?ts=1775052086854&w=800",
+   "url": "https://www.zara.com/tr/tr/mini-firfirli-elbise-p07521329.html?v1=507030907",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 11:20:47",
+ "last_check": "2026-07-24 11:21:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
