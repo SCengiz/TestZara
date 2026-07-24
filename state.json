@@ -379,8 +379,8 @@
    "price": 69000,
    "old_price": 89000,
    "discount": 22,
-   "image": "https://static.zara.net/assets/public/8abb/7d07/93574a4d8f24/ada4a920acf7/13502510800-e1/13502510800-e1.jpg?ts=1758615919429&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-duz-babet-p13502510.html?v1=495716757",
+   "image": "https://static.zara.net/assets/public/0af9/3951/d4564feab15d/668c65b54be0/13502510800-e1/13502510800-e1.jpg?ts=1746442644822&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-duz-babet-p13502510.html?v1=502649383",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -4185,9 +4185,45 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
+  },
+  "05755028-406": {
+   "name": "%80 YÜN SAÇ ÖRGÜ KAYAK KOLEKSİYONU KAZAK",
+   "ref": "5755/028",
+   "color": "Açık mavi",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c4a2/22a8/680340c89811/2c9b86554bd3/05755028406-p/05755028406-p.jpg?ts=1764670360680&w=800",
+   "url": "https://www.zara.com/tr/tr/80-yun-sac-orgu-kayak-koleksiyonu-kazagi-p05755028.html?v1=495716442",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "04424819-250": {
+   "name": "UZUN KOLLU T-SHIRT",
+   "ref": "4424/819",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/5537/0fe3/b5734a098bbf/801d6fa06454/04424819250-015-p/04424819250-015-p.jpg?ts=1776165190613&w=800",
+   "url": "https://www.zara.com/tr/tr/uzun-kollu-t-shirt-p04424819.html?v1=540905713",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 16:28:49",
+ "last_check": "2026-07-24 16:29:59",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
