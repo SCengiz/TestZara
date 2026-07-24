@@ -1200,9 +1200,9 @@
    "image": "https://static.zara.net/assets/public/8095/b51f/c7e64d3283c2/b21ad4db900f/11305810716-p/11305810716-p.jpg?ts=1780583471636&w=800",
    "url": "https://www.zara.com/tr/tr/deri-arkasi-acik-topuklu-sandalet-p11305810.html?v1=565487951",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "low_on_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -4771,7 +4771,7 @@
    }
   }
  },
- "last_check": "2026-07-24 20:18:28",
+ "last_check": "2026-07-24 20:20:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
