@@ -4586,9 +4586,29 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "02142179-712": {
+   "name": "DÜZ ÖRGÜ BALIKÇI YAKA KAZAK",
+   "ref": "2142/179",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/e527/c9d6/1be748418ada/eb14654b1f87/02142179712-p/02142179712-p.jpg?ts=1765364470607&w=800",
+   "url": "https://www.zara.com/tr/tr/dik-yaka-duz-orgu-kazak-p02142179.html?v1=495702856",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-24 18:34:37",
+ "last_check": "2026-07-24 18:37:06",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
