@@ -3875,7 +3875,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "00014004-712": {
@@ -4057,7 +4057,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "out_of_stock"
+    "XXL": "low_on_stock"
    }
   },
   "04813305-800": {
@@ -4424,7 +4424,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608021.html?v1=528036366",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:24:59",
+ "last_check": "2026-07-25 21:27:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
