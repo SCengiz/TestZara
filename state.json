@@ -2129,7 +2129,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3531,7 +3531,7 @@
    "image": "https://static.zara.net/assets/public/0455/0464/c1334547aea2/1789dcd3ce76/08727248401-p/08727248401-p.jpg?ts=1769616836456&w=800",
    "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465510",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4019,7 +4019,7 @@
    "url": "https://www.zara.com/tr/tr/genis-kollu-orgu-kazak-p02142037.html?v1=500835349",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4282,9 +4282,30 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "03046061-704": {
+   "name": "KRUVAZE KISA TRENÇKOT",
+   "ref": "3046/061",
+   "color": "TABA",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/6df0/ba14/49f742419e82/ddcedd083cf2/03046061704-a1/03046061704-a1.jpg?ts=1770386673865&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-trenckot-p03046061.html?v1=496928870",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 17:45:52",
+ "last_check": "2026-07-25 17:48:27",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
