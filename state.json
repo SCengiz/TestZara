@@ -1496,7 +1496,7 @@
    "url": "https://www.zara.com/tr/tr/saten-sabahl%C4%B1k-p41125434.html?v1=495433438",
    "sizes": {
     "S-M": "out_of_stock",
-    "M-L": "out_of_stock"
+    "M-L": "in_stock"
    }
   },
   "46115088-922": {
@@ -3005,7 +3005,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4057,7 +4057,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "low_on_stock"
+    "XXL": "out_of_stock"
    }
   },
   "04813305-800": {
@@ -4407,7 +4407,7 @@
    "image": "https://static.zara.net/assets/public/6b95/6423/16e649d18b52/6f95cc7d50a6/16063711700-p/16063711700-p.jpg?ts=1769164254319&w=800",
    "url": "https://www.zara.com/tr/tr/mini-bowling-canta-p16063710.html?v1=495684452",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "01608021-250": {
@@ -4424,7 +4424,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608021.html?v1=528036366",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:27:24",
+ "last_check": "2026-07-25 21:29:54",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
