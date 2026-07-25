@@ -4137,7 +4137,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4161,29 +4161,9 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
-  },
-  "08372364-681": {
-   "name": "GENİŞ PAÇA ELASTİK BELLİ PANTOLON",
-   "ref": "8372/364",
-   "color": "Şarap rengi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/7b37/9e61/ca8947efa068/6d012d499863/08372364681-p/08372364681-p.jpg?ts=1764333986140&w=800",
-   "url": "https://www.zara.com/tr/tr/genis-paca-elastik-belli-pantolon-p08372364.html?v1=495669582",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
   }
  },
- "last_check": "2026-07-25 16:02:36",
+ "last_check": "2026-07-25 16:05:16",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
