@@ -1748,7 +1748,7 @@
    "image": "https://static.zara.net/assets/public/516b/d600/83cf40bdae3c/366006df383b/45241341551-e1/45241341551-e1.jpg?ts=1770890140441&w=800",
    "url": "https://www.zara.com/tr/tr/celik-bahce-sulama-kabi-p45241341.html?v1=502338358",
    "sizes": {
-    "10.5 x 7.5 x 17.5 cm": "low_on_stock",
+    "10.5 x 7.5 x 17.5 cm": "in_stock",
     "19 x 12 x 29 cm": "out_of_stock",
     "25 x 18 x 39 cm": "out_of_stock"
    }
@@ -2479,24 +2479,6 @@
     "XL": "out_of_stock"
    }
   },
-  "03811053-714": {
-   "name": "KARELİ OVERSIZE TRENÇKOT ZW COLLECTION",
-   "ref": "3811/053",
-   "color": "Bej / Yeşil",
-   "kind": "Wear",
-   "family": "YAGMURLUK",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/f839/157a/57844e65a76e/d30fcfe8ffdb/03811053714-p/03811053714-p.jpg?ts=1772038690687&w=800",
-   "url": "https://www.zara.com/tr/tr/kareli-oversize-trenckot-zw-collection-p03811053.html?v1=496387702",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "01255894-716": {
    "name": "KRUVAZE YUMUŞAK CEKET",
    "ref": "1255/894",
@@ -2965,7 +2947,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -3248,7 +3230,7 @@
    "image": "https://static.zara.net/assets/public/521f/788b/86854a78ace2/30a2e2ff6a2d/01971241620-a2/01971241620-a2.jpg?ts=1773399230189&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-aplikeli-sort-etek-p01971241.html?v1=513434037",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3276,27 +3258,6 @@
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
-   }
-  },
-  "02752302-067": {
-   "name": "ÇİLEK DESENLİ SATEN VOLANLI TOP",
-   "ref": "2752/302",
-   "color": "Ekru / Kırmızı",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/cc40/bd2c/80a54cfab0f9/2f8aa7324059/02752302067-p/02752302067-p.jpg?ts=1774970852210&w=800",
-   "url": "https://www.zara.com/tr/tr/firfirli-cilek-saten-top-p02752302.html?v1=522655489",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    }
   },
   "12348710-800": {
@@ -3386,24 +3347,6 @@
     "XL": "out_of_stock"
    }
   },
-  "01067004-800": {
-   "name": "DANTEL DETAYLI ELBİSE",
-   "ref": "1067/004",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/e74e/45b1/f6bf4a4796a2/686ab6a25d53/05039020800-p/05039020800-p.jpg?ts=1774614282344&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-dantel-elbise-p01067004.html?v1=495703174",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "12352710-800": {
    "name": "SATEN GÖRÜNÜMLÜ TOPUKLU SANDALET",
    "ref": "2352/710",
@@ -3491,25 +3434,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "05755152-054": {
-   "name": "ROMBO DESENLİ TRİKO KAZAK",
-   "ref": "5755/152",
-   "color": "Kahverengi / Yeşil",
-   "kind": "Wear",
-   "family": "KAZAK",
-   "section": "WOMAN",
-   "price": 49000,
-   "old_price": 69000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/b754/19c5/98854c3ba4e4/371cffbc6a86/05755152054-p/05755152054-p.jpg?ts=1764325547952&w=800",
-   "url": "https://www.zara.com/tr/tr/baklava-desenli-triko-kazak-p05755152.html?v1=496905807",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "11305610-420": {
    "name": "DÜĞÜM DETAYLI DERİ TOPUKLU SANDALET",
    "ref": "1305/610",
@@ -3545,24 +3469,6 @@
    "discount": 33,
    "image": "https://static.zara.net/assets/public/c4a2/22a8/680340c89811/2c9b86554bd3/05755028406-p/05755028406-p.jpg?ts=1764670360680&w=800",
    "url": "https://www.zara.com/tr/tr/80-yun-sac-orgu-kayak-koleksiyonu-kazagi-p05755028.html?v1=495716442",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
-  "04424819-250": {
-   "name": "UZUN KOLLU T-SHIRT",
-   "ref": "4424/819",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 39000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/5537/0fe3/b5734a098bbf/801d6fa06454/04424819250-015-p/04424819250-015-p.jpg?ts=1776165190613&w=800",
-   "url": "https://www.zara.com/tr/tr/uzun-kollu-t-shirt-p04424819.html?v1=540905713",
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
@@ -3810,7 +3716,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4281,9 +4187,28 @@
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
+  },
+  "02142037-420": {
+   "name": "GENİŞ KOLLU ÖRGÜ KAZAK",
+   "ref": "2142/037",
+   "color": "Mavimsi",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/aa11/e8cf/0c3c412da7ff/326b32cca2e9/02142037420-p/02142037420-p.jpg?ts=1769177008382&w=800",
+   "url": "https://www.zara.com/tr/tr/genis-kollu-orgu-kazak-p02142037.html?v1=500835349",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 15:45:23",
+ "last_check": "2026-07-25 15:47:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
