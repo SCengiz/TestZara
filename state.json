@@ -4610,9 +4610,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "01478029-606": {
+   "name": "PENSLİ CULOTTE PANTOLON",
+   "ref": "1478/029",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/7ab8/006f/64d948a8a022/29095208403e/01478029606-p/01478029606-p.jpg?ts=1773160666981&w=800",
+   "url": "https://www.zara.com/tr/tr/pensli-culotte-pantolon-p01478029.html?v1=502195711",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 12:31:17",
+ "last_check": "2026-07-25 12:33:54",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
