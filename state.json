@@ -2487,7 +2487,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cicek-desenli-elbise-p01381645.html?v1=544001992",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "low_on_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock"
    }
@@ -3282,7 +3282,7 @@
    "url": "https://www.zara.com/tr/tr/yuksek-bel-duz-paca-pantolon-p08820597.html?v1=495703025",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3448,7 +3448,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:10:16",
+ "last_check": "2026-07-25 22:12:43",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
