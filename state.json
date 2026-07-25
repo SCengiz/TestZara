@@ -173,7 +173,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -308,7 +308,7 @@
    "url": "https://www.zara.com/tr/tr/fiyonklu-arkasi-acik-ayakkabi-p12216610.html?v1=495694010",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -2064,7 +2064,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -3533,7 +3533,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4303,9 +4303,29 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
+  },
+  "03293056-044": {
+   "name": "DESENLİ POPLİN MİDİ ELBİSE",
+   "ref": "3293/056",
+   "color": "Mavi/Beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/78fc/a7e9/cd37432dae98/c2fa5bc5473f/03293056044-p/03293056044-p.jpg?ts=1779205305813&w=800",
+   "url": "https://www.zara.com/tr/tr/desenli-poplin-midi-elbise-p03293056.html?v1=525511700",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 17:58:27",
+ "last_check": "2026-07-25 18:01:02",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
