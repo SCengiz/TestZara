@@ -2658,26 +2658,6 @@
     "M-L": "out_of_stock"
    }
   },
-  "02458633-083": {
-   "name": "PÖTİKARELİ OVERSIZE BLAZER",
-   "ref": "2458/633",
-   "color": "Bej-kahverengi",
-   "kind": "Wear",
-   "family": "BLAZER",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 119000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
-   "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
-   "sizes": {
-    "XS": "in_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02078780-803": {
    "name": "DİK YAKA KISA KABAN",
    "ref": "2078/780",
@@ -3129,7 +3109,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -4609,7 +4589,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:51:54",
+ "last_check": "2026-07-25 13:54:22",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
