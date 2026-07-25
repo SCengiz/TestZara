@@ -780,29 +780,6 @@
     "42": "out_of_stock"
    }
   },
-  "12527710-800": {
-   "name": "SÜET BABET",
-   "ref": "2527/710",
-   "color": "Siyah",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/d530/7828/6bce4bb18980/840ce776e11a/04387096251-p/04387096251-p.jpg?ts=1774255425339&w=800",
-   "url": "https://www.zara.com/tr/tr/suet-babet-p12527710.html?v1=535465412",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "12308710-700": {
    "name": "ALÇAK TOPUKLU SANDALET",
    "ref": "2308/710",
@@ -4206,7 +4183,7 @@
    }
   }
  },
- "last_check": "2026-07-25 16:00:14",
+ "last_check": "2026-07-25 16:02:36",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
