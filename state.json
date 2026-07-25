@@ -1941,7 +1941,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -2947,7 +2947,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -4206,9 +4206,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "03897117-681": {
+   "name": "AKSESUARLI MİDİ ELBİSE",
+   "ref": "3897/117",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/83ae/5b25/1b474d9bb0d3/008b530ea4fe/03897117681-p/03897117681-p.jpg?ts=1778228860504&w=800",
+   "url": "https://www.zara.com/tr/tr/altin-aksesuarli-midi-elbise-p03897117.html?v1=525197079",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 15:47:37",
+ "last_check": "2026-07-25 15:49:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
