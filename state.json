@@ -2113,7 +2113,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "out_of_stock"
+    "46": "low_on_stock"
    }
   },
   "02142028-519": {
@@ -4142,7 +4142,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    }
   },
   "04813305-800": {
@@ -4245,7 +4245,7 @@
    }
   }
  },
- "last_check": "2026-07-25 17:08:03",
+ "last_check": "2026-07-25 17:09:58",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
