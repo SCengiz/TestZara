@@ -2113,7 +2113,7 @@
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
-    "46": "out_of_stock"
+    "46": "low_on_stock"
    }
   },
   "02142028-519": {
@@ -2866,7 +2866,7 @@
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "in_stock",
+    "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    }
@@ -3088,7 +3088,7 @@
    "image": "https://static.zara.net/assets/public/521f/788b/86854a78ace2/30a2e2ff6a2d/01971241620-a2/01971241620-a2.jpg?ts=1773399230189&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-aplikeli-sort-etek-p01971241.html?v1=513434037",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4245,7 +4245,7 @@
    }
   }
  },
- "last_check": "2026-07-25 16:59:06",
+ "last_check": "2026-07-25 17:00:41",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
