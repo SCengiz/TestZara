@@ -3355,7 +3355,7 @@
    "image": "https://static.zara.net/assets/public/921e/165e/eb9b4ef98167/06481d08f748/01165015600-p/01165015600-p.jpg?ts=1777364061581&w=800",
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4568,9 +4568,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02856014-800": {
+   "name": "TÜL KOMBİNELİ BALENLİ MAYO",
+   "ref": "2856/014",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "MAYO",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/1aa2/105d/fea64a369498/3b025020f1df/02856014800-p/02856014800-p.jpg?ts=1772031325120&w=800",
+   "url": "https://www.zara.com/tr/tr/tul-kombineli-balenli-mayo-p02856014.html?v1=498372217",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 14:01:24",
+ "last_check": "2026-07-25 14:01:58",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
