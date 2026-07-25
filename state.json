@@ -4449,7 +4449,7 @@
    "image": "https://static.zara.net/assets/public/8bd7/20ab/51ca4aaea48e/b9d0495a241d/07149057401-p/07149057401-p.jpg?ts=1773075888840&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-pantolon-p07149057.html?v1=512037453",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 12:06:12",
+ "last_check": "2026-07-25 12:07:43",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
