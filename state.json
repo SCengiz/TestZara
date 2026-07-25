@@ -2130,7 +2130,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -4264,7 +4264,7 @@
    }
   }
  },
- "last_check": "2026-07-25 17:40:50",
+ "last_check": "2026-07-25 17:43:05",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
