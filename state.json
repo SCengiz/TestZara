@@ -4232,7 +4232,7 @@
    "image": "https://static.zara.net/assets/public/78fc/a7e9/cd37432dae98/c2fa5bc5473f/03293056044-p/03293056044-p.jpg?ts=1779205305813&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-poplin-midi-elbise-p03293056.html?v1=525511700",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4411,7 +4411,7 @@
    }
   }
  },
- "last_check": "2026-07-25 20:37:02",
+ "last_check": "2026-07-25 20:39:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
