@@ -3454,7 +3454,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-aplikeli-sort-etek-p01971241.html?v1=513434037",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4632,7 +4632,7 @@
    }
   }
  },
- "last_check": "2026-07-25 12:50:13",
+ "last_check": "2026-07-25 12:51:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
