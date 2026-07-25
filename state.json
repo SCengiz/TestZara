@@ -2826,7 +2826,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "04456523-529": {
@@ -4240,7 +4240,7 @@
    "url": "https://www.zara.com/tr/tr/pilili-jakarli-elbise-p04770160.html?v1=509498062",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4325,7 +4325,7 @@
    }
   }
  },
- "last_check": "2026-07-25 18:56:23",
+ "last_check": "2026-07-25 18:58:40",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
