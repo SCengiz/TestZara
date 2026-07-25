@@ -69,22 +69,6 @@
     "42": "out_of_stock"
    }
   },
-  "16212711-709": {
-   "name": "MİNİ HASIR TOTE ÇANTA",
-   "ref": "6212/711",
-   "color": "Koyu taba",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/ef57/4e76/d3c04db5a06c/63ffe4d7e7ad/16210711709-p/16210711709-p.jpg?ts=1772017116308&w=800",
-   "url": "https://www.zara.com/tr/tr/mini-hasir-tote-canta-p16212711.html?v1=526250576",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "11121730-001": {
    "name": "SUNİ İNCİ BONCUKLU ÇAPRAZ ASKILI ÇANTA",
    "ref": "1121/730",
@@ -4359,7 +4343,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "01608121-250": {
@@ -4417,9 +4401,29 @@
    "sizes": {
     "STANDART": "out_of_stock"
    }
+  },
+  "08372369-505": {
+   "name": "OVERSIZE BOMBER CEKET",
+   "ref": "8372/369",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/e07a/950f/8caf4d85879d/7c4c8edf393a/08372369505-p/08372369505-p.jpg?ts=1768404497585&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-bomber-ceket-p08372369.html?v1=512859078",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 19:41:54",
+ "last_check": "2026-07-25 19:44:10",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
