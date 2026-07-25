@@ -1392,7 +1392,7 @@
    "image": "https://static.zara.net/assets/public/a62d/3522/6e5143f787c0/4e0736009482/45186088500-e1/45186088500-e1.jpg?ts=1769070066586&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-keten-ve-pamuklu-nevresim-p45186088.html?v1=495426114",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -1965,7 +1965,7 @@
    "url": "https://www.zara.com/tr/tr/buzgulu-askili-midi-elbise-p02805184.html?v1=551550635",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -2560,7 +2560,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3892,7 +3892,7 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "out_of_stock",
+    "42": "low_on_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
@@ -4632,7 +4632,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:09:10",
+ "last_check": "2026-07-25 13:11:35",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
