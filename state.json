@@ -3449,7 +3449,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4359,7 +4359,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "01608121-250": {
@@ -4381,9 +4381,45 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04387032-068": {
+   "name": "PUANTİYE DESENLİ MİDİ ELBİSE",
+   "ref": "4387/032",
+   "color": "Ekru / Kestane",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/ccc4/a512/b15f4cd8ab0a/5a2e4a22a0cf/04387032068-p/04387032068-p.jpg?ts=1770917267163&w=800",
+   "url": "https://www.zara.com/tr/tr/puantiye-desenli-midi-elbise-p04387032.html?v1=498937597",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "16212711-624": {
+   "name": "MİNİ HASIR TOTE ÇANTA",
+   "ref": "6212/711",
+   "color": "Bordo Kırmızı",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/eeaa/1998/3132466e84bd/7af03068e156/16212711624-e1/16212711624-e1.jpg?ts=1771945481984&w=800",
+   "url": "https://www.zara.com/tr/tr/mini-hasir-tote-canta-p16212711.html?v1=526250577",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 19:36:34",
+ "last_check": "2026-07-25 19:39:05",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
