@@ -2221,8 +2221,8 @@
    "price": 79000,
    "old_price": 119000,
    "discount": 33,
-   "image": "https://static.zara.net/assets/public/925d/0700/972c484dae05/88c99e1a9167/04344655533-p/04344655533-p.jpg?ts=1772472170898&w=800",
-   "url": "https://www.zara.com/tr/tr/suni-suet-ceket-p04344655.html?v1=527718980",
+   "image": "https://static.zara.net/assets/public/1da5/2fba/de61476d8e79/f51753b5cfae/04344655533-p/04344655533-p.jpg?ts=1765378447172&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-suet-ceket-p04344655.html?v1=505335534",
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
@@ -4274,7 +4274,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    }
   },
   "01608121-250": {
@@ -4330,7 +4330,7 @@
    "image": "https://static.zara.net/assets/public/eeaa/1998/3132466e84bd/7af03068e156/16212711624-e1/16212711624-e1.jpg?ts=1771945481984&w=800",
    "url": "https://www.zara.com/tr/tr/mini-hasir-tote-canta-p16212711.html?v1=526250577",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "08372369-505": {
@@ -4395,7 +4395,7 @@
    }
   }
  },
- "last_check": "2026-07-25 20:29:31",
+ "last_check": "2026-07-25 20:30:46",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
