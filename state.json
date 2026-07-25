@@ -2226,7 +2226,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "02949024-172": {
@@ -3282,7 +3282,7 @@
    "url": "https://www.zara.com/tr/tr/yuksek-bel-duz-paca-pantolon-p08820597.html?v1=495703025",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:52:29",
+ "last_check": "2026-07-25 21:55:00",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
