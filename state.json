@@ -3129,7 +3129,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "low_on_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -3491,7 +3491,7 @@
    "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "in_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4449,7 +4449,7 @@
    "image": "https://static.zara.net/assets/public/8bd7/20ab/51ca4aaea48e/b9d0495a241d/07149057401-p/07149057401-p.jpg?ts=1773075888840&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-pantolon-p07149057.html?v1=512037453",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 12:03:36",
+ "last_check": "2026-07-25 12:06:12",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
