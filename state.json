@@ -2486,24 +2486,6 @@
     "XL": "out_of_stock"
    }
   },
-  "00518049-102": {
-   "name": "ZW COLLECTION KEMERLİ OVERSIZE TRENÇKOT",
-   "ref": "0518/049",
-   "color": "Gri / Taba",
-   "kind": "Wear",
-   "family": "YAGMURLUK",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/b764/7cf4/b1a74bf5aa03/62ae61640ca0/00518049102-1-p/00518049102-1-p.jpg?ts=1772038115383&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-kemerli-oversize-trenckot-p00518049.html?v1=505568910",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   }
-  },
   "06318023-700": {
    "name": "SUNİ KÜRKLÜ KISA KABAN",
    "ref": "6318/023",
@@ -2516,27 +2498,6 @@
    "discount": 33,
    "image": "https://static.zara.net/assets/public/d4f2/02ab/5fc0484e85b6/18b655be4b46/06318023700-p/06318023700-p.jpg?ts=1765527868462&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-suni-kurk-kaban-p06318023.html?v1=505794040",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
-  "00695071-700": {
-   "name": "ASTARLI KAPİTONE BOMBER CEKET",
-   "ref": "0695/071",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/7337/1758/0eec4845bc39/4d0836546ed2/00695071700-p/00695071700-p.jpg?ts=1769708152816&w=800",
-   "url": "https://www.zara.com/tr/tr/kapitone-bomber-ceket-p00695071.html?v1=495689196",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -2564,24 +2525,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   }
-  },
-  "04369044-916": {
-   "name": "KONTRAST DERİ YAKALI OVERSIZE TRENÇKOT ZW COLLECTION",
-   "ref": "4369/044",
-   "color": "Gri yeşil",
-   "kind": "Wear",
-   "family": "YAGMURLUK",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/9957/0273/c5214c3f91db/02a2d41ce356/04369044916-p/04369044916-p.jpg?ts=1771247109329&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-deri-yakali-trenckot-zw-collection-p04369044.html?v1=495688911",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    }
   },
   "03811053-714": {
@@ -3337,7 +3280,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "01971241-620": {
@@ -3469,25 +3412,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "02521806-046": {
-   "name": "KATMANLI MİDİ ETEK",
-   "ref": "2521/806",
-   "color": "Pembe / Beyaz",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/a547/5006/ef084a54b75c/db2a7010f26d/02521806046-p/02521806046-p.jpg?ts=1776945335386&w=800",
-   "url": "https://www.zara.com/tr/tr/katmanli-yapili-midi-etek-p02521806.html?v1=543953189",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    }
   },
   "05029117-717": {
@@ -4527,9 +4451,28 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "00014004-712": {
+   "name": "FERMUARLI TRİKO HIRKA",
+   "ref": "0014/004",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/001e/3ccb/7cc4445a8cd3/029ddccf03e3/00014004712-p/00014004712-p.jpg?ts=1770835680322&w=800",
+   "url": "https://www.zara.com/tr/tr/fermuarli-triko-hirka-p00014004.html?v1=522391538",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 14:06:58",
+ "last_check": "2026-07-25 14:09:25",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
