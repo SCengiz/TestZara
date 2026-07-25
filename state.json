@@ -2505,7 +2505,7 @@
    "image": "https://static.zara.net/assets/public/201e/71d9/08594c36bff8/eca80831114e/00122554712200-p/00122554712200-p.jpg?ts=1779187566212&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicekli-fitilli-kumas-culotte-pantolon-p00122554.html?v1=564548651",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -2951,7 +2951,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    }
   },
   "01058144-621": {
@@ -2985,7 +2985,7 @@
    "image": "https://static.zara.net/assets/public/7294/2ae6/55094ee38b18/81aa33ca607c/02298471632-p/02298471632-p.jpg?ts=1777549849506&w=800",
    "url": "https://www.zara.com/tr/tr/bukle-kumas-kombine-top-p02298471.html?v1=528349829",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -3995,7 +3995,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4032,7 +4032,7 @@
    "image": "https://static.zara.net/assets/public/de49/6f39/2883496abb2c/cb7db9932b27/07149074800-p/07149074800-p.jpg?ts=1776787840954&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-crop-pantolon-p07149074.html?v1=543493783",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:15:11",
+ "last_check": "2026-07-25 22:17:44",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
