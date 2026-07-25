@@ -934,7 +934,7 @@
    "url": "https://www.zara.com/tr/tr/suet-fiyonklu-babet-p11591710.html?v1=506006596",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "in_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -3129,7 +3129,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 09:40:11",
+ "last_check": "2026-07-25 09:41:36",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
