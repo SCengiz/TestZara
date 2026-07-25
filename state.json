@@ -3590,26 +3590,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "03253320-250": {
-   "name": "BASIC KOTON T-SHIRT",
-   "ref": "3253/320",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 45000,
-   "discount": 35,
-   "image": "https://static.zara.net/assets/public/22c7/6d7f/a9754903825b/505456e5b219/03253320250-p/03253320250-p.jpg?ts=1748966479428&w=800",
-   "url": "https://www.zara.com/tr/tr/basic-koton-t-shirt-p03253320.html?v1=503422047",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "06136045-401": {
    "name": "KISA DÖKÜMLÜ TRENÇKOT ZW COLLECTION",
    "ref": "6136/045",
@@ -3622,26 +3602,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/9099/cced/21fa465f8e8e/160c7d2d8e49/06136045401-p/06136045401-p.jpg?ts=1769693703545&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424064",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
-  "09929027-681": {
-   "name": "PENS DETAYLI KETEN BERMUDA",
-   "ref": "9929/027",
-   "color": "Şarap rengi",
-   "kind": "Wear",
-   "family": "BERMUDA",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/b613/9d5a/eae7477c991d/d8a9f1d28b53/09929027681-p/09929027681-p.jpg?ts=1774627088654&w=800",
-   "url": "https://www.zara.com/tr/tr/pens-detayli-keten-bermuda-p09929027.html?v1=507744748",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -3747,7 +3707,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3772,27 +3732,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "04772315-070": {
-   "name": "ASİMETRİK PUANTİYE ELBİSE",
-   "ref": "4772/315",
-   "color": "Ekru / Siyah",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/2447/57a3/35d2458ca5ac/4fc8a0ea48d2/04772315070-p/04772315070-p.jpg?ts=1770192158038&w=800",
-   "url": "https://www.zara.com/tr/tr/asimetrik-puantiye-elbise-p04772315.html?v1=499154907",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   }
-  },
   "02705723-123": {
    "name": "ASKILI KETEN MİDİ ELBİSE",
    "ref": "2705/723",
@@ -3805,26 +3744,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/9104/f45d/638144aa87e2/262f33ccae3d/02705723123-p/02705723123-p.jpg?ts=1776424235103&w=800",
    "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
-  "04786044-727": {
-   "name": "ZW COLLECTION PİLİLİ HALTER ELBİSE",
-   "ref": "4786/044",
-   "color": "Vanilya",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/eeb9/b4c0/aaa542989c59/9fb286bf5570/04786044727-p/04786044727-p.jpg?ts=1774621666608&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-pilili-halter-elbise-p04786044.html?v1=536437370",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -3891,35 +3810,12 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
-   }
-  },
-  "12258710-600": {
-   "name": "TOKALI ARKASI AÇIK TOPUKLU AYAKKABI",
-   "ref": "2258/710",
-   "color": "Kırmızı",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 49000,
-   "old_price": 69000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/002e/707d/5e5143ccbaca/4d006029da7a/12258710600-p/12258710600-p.jpg?ts=1770824576931&w=800",
-   "url": "https://www.zara.com/tr/tr/tokali-arkasi-acik-topuklu-ayakkabi-p12258710.html?v1=496154897",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
    }
   },
   "03046298-800": {
@@ -3941,26 +3837,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "01608038-800": {
-   "name": "MİNİ ÇAN PAÇA PANTOLON",
-   "ref": "1608/038",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/c448/ebbc/d3e54f8080f2/f8f4833906a8/08741033250-p/08741033250-p.jpg?ts=1773930261122&w=800",
-   "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608038.html?v1=534613616",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "04813305-717": {
@@ -4407,7 +4283,7 @@
    }
   }
  },
- "last_check": "2026-07-25 15:43:48",
+ "last_check": "2026-07-25 15:45:23",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
