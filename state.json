@@ -2985,7 +2985,7 @@
    "image": "https://static.zara.net/assets/public/7294/2ae6/55094ee38b18/81aa33ca607c/02298471632-p/02298471632-p.jpg?ts=1777549849506&w=800",
    "url": "https://www.zara.com/tr/tr/bukle-kumas-kombine-top-p02298471.html?v1=528349829",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:13:01",
+ "last_check": "2026-07-25 22:15:11",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
