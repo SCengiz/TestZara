@@ -1355,7 +1355,7 @@
    "url": "https://www.zara.com/tr/tr/kalin-saten-nevresim--300-iplikli--p40039088.html?v1=502317294",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    }
@@ -2196,7 +2196,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "06840064-401": {
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 09:57:59",
+ "last_check": "2026-07-25 10:00:26",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
