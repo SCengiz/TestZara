@@ -243,7 +243,7 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
@@ -2196,7 +2196,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "06840064-401": {
@@ -3519,7 +3519,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    }
   },
   "12348710-800": {
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 10:08:44",
+ "last_check": "2026-07-25 10:10:28",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
