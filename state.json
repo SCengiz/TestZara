@@ -173,7 +173,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "low_on_stock",
+    "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -308,7 +308,7 @@
    "url": "https://www.zara.com/tr/tr/fiyonklu-arkasi-acik-ayakkabi-p12216610.html?v1=495694010",
    "sizes": {
     "35": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -3533,7 +3533,7 @@
    "sizes": {
     "32": "out_of_stock",
     "34": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
@@ -4325,7 +4325,7 @@
    }
   }
  },
- "last_check": "2026-07-25 18:01:02",
+ "last_check": "2026-07-25 18:03:29",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
