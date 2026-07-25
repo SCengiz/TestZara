@@ -1890,7 +1890,7 @@
    "image": "https://static.zara.net/assets/public/bf78/2b12/3d8247a98214/d4259591a09b/46170088307-e1/46170088307-e1.jpg?ts=1764229023383&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-saten-nevresim-p46170088.html?v1=495433980",
    "sizes": {
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    }
@@ -3890,7 +3890,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -4632,7 +4632,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:19:07",
+ "last_check": "2026-07-25 13:21:43",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
