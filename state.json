@@ -4274,7 +4274,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "01608121-250": {
@@ -4388,14 +4388,30 @@
    "url": "https://www.zara.com/tr/tr/drapeli-midi-kalem-elbise-p02298101.html?v1=529617971",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "16063710-700": {
+   "name": "MİNİ BOWLING ÇANTA",
+   "ref": "6063/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 89000,
+   "old_price": 119000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/6b95/6423/16e649d18b52/6f95cc7d50a6/16063711700-p/16063711700-p.jpg?ts=1769164254319&w=800",
+   "url": "https://www.zara.com/tr/tr/mini-bowling-canta-p16063710.html?v1=495684452",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 20:31:58",
+ "last_check": "2026-07-25 20:34:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
