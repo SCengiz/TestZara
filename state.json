@@ -2270,7 +2270,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00108033-407": {
@@ -2780,7 +2780,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -3596,7 +3596,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4120,7 +4120,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4182,9 +4182,52 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "11235610-049": {
+   "name": "ÇİÇEK DETAYLI SÜET TOPUKLU AYAKKABI",
+   "ref": "1235/610",
+   "color": "Gül",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/04dc/c179/4b02455d87aa/f374ad91ecac/11235610049-e1/11235610049-e1.jpg?ts=1757950633473&w=800",
+   "url": "https://www.zara.com/tr/tr/cicek-detayli-suet-topuklu-ayakkabi-p11235610.html?v1=522887068",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "04968021-506": {
+   "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
+   "ref": "4968/021",
+   "color": "Açık haki",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/2bd6/2cdc/07f24f21b9e1/17a6f7228b8c/04968021506-p/04968021506-p.jpg?ts=1770803368873&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-uzun-suni-suet-trenckot-p04968021.html?v1=496720667",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 16:22:50",
+ "last_check": "2026-07-25 16:25:23",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
