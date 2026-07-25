@@ -2611,7 +2611,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -4422,9 +4422,32 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "07223037-427": {
+   "name": "Z1975 YÜKSEK BEL ÜTÜ İZLİ MOM FIT JEAN",
+   "ref": "7223/037",
+   "color": "DONUK MAVİ",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/a2b0/6d29/5ec6445699c7/a9ccbbb6038d/07223039427-p/07223039427-p.jpg?ts=1773407299830&w=800",
+   "url": "https://www.zara.com/tr/tr/z1975-yuksek-bel-utu-izli-mom-fit-jean-p07223037.html?v1=530097111",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 15:40:10",
+ "last_check": "2026-07-25 15:42:33",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
