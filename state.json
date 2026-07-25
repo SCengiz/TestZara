@@ -2010,29 +2010,6 @@
     "46": "out_of_stock"
    }
   },
-  "06840064-400": {
-   "name": "ZW COLLECTION ORTA BEL KISA PAÇA FLARE JEAN",
-   "ref": "6840/064",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 89000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/86f0/97bf/3f144a7bb92d/2723b6acbff7/06840074400-p/06840074400-p.jpg?ts=1773075982287&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=514956958",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "in_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
-   }
-  },
   "00881016-251": {
    "name": "MÜSLİN İŞLEMELİ VE FIRFIRLI GÖMLEK",
    "ref": "0881/016",
@@ -2052,29 +2029,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "04592217-401": {
-   "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
-   "ref": "4592/217",
-   "color": "LACİVERT",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 45000,
-   "discount": 13,
-   "image": "https://static.zara.net/assets/public/b7a4/31e0/faf8428fb26e/bcb69d2168bc/04592217401-p/04592217401-p.jpg?ts=1762268166234&w=800",
-   "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=503416302",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
    }
   },
   "04592217-406": {
@@ -4444,7 +4398,7 @@
    }
   }
  },
- "last_check": "2026-07-25 20:19:30",
+ "last_check": "2026-07-25 20:19:42",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
