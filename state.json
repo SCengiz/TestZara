@@ -1496,7 +1496,7 @@
    "url": "https://www.zara.com/tr/tr/saten-sabahl%C4%B1k-p41125434.html?v1=495433438",
    "sizes": {
     "S-M": "out_of_stock",
-    "M-L": "in_stock"
+    "M-L": "out_of_stock"
    }
   },
   "46115088-922": {
@@ -3282,7 +3282,7 @@
    "url": "https://www.zara.com/tr/tr/yuksek-bel-duz-paca-pantolon-p08820597.html?v1=495703025",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:08:06",
+ "last_check": "2026-07-25 22:10:16",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
