@@ -3875,7 +3875,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "00014004-712": {
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:29:54",
+ "last_check": "2026-07-25 21:30:38",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
