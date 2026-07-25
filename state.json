@@ -4470,29 +4470,9 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
-  },
-  "02507042-679": {
-   "name": "ZW COLLECTION KATLAMALI POPLİN ELBİSE",
-   "ref": "2507/042",
-   "color": "Mercan",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/5ff2/d0cf/6e8945439c12/0c1b7e6a11ef/02132654679-p/02132654679-p.jpg?ts=1777540683272&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-katlamali-poplin-elbise-p02507042.html?v1=530036870",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
   }
  },
- "last_check": "2026-07-25 15:04:49",
+ "last_check": "2026-07-25 15:05:49",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
