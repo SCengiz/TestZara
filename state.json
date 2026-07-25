@@ -3473,9 +3473,9 @@
    "image": "https://static.zara.net/assets/public/c439/d5d1/b62443ccabbb/613559ec0061/05067276712-p/05067276712-p.jpg?ts=1775032929421&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokulu-elbise-p05067276.html?v1=536834610",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "04592217-800": {
@@ -4051,7 +4051,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-puantiye-elbise-p04772315.html?v1=499154907",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -4071,7 +4071,7 @@
    "image": "https://static.zara.net/assets/public/9104/f45d/638144aa87e2/262f33ccae3d/02705723123-p/02705723123-p.jpg?ts=1776424235103&w=800",
    "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 11:05:55",
+ "last_check": "2026-07-25 11:07:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
