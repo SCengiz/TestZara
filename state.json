@@ -4449,9 +4449,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "00387054-330": {
+   "name": "PÖTİKARELİ DANTEL ETEK",
+   "ref": "0387/054",
+   "color": "Çokrenkli",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c456/902a/1fcd45fcba31/0185bd767588/00387054330-p/00387054330-p.jpg?ts=1771761598960&w=800",
+   "url": "https://www.zara.com/tr/tr/potikareli-dantel-etek-p00387054.html?v1=502193393",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 20:58:23",
+ "last_check": "2026-07-25 20:59:41",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
