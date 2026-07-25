@@ -4137,7 +4137,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4429,9 +4429,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "03564080-046": {
+   "name": "KONTRAST MANŞETLİ ÇİZGİLİ OVERSIZE GÖMLEK",
+   "ref": "3564/080",
+   "color": "Pembe / Beyaz",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/e90d/f539/c5bf4b33bd5b/3d7704870faa/03564080046-p/03564080046-p.jpg?ts=1770386336585&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-cizgili-kontrast-mansetli-gomlek-p03564080.html?v1=520942046",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 20:42:04",
+ "last_check": "2026-07-25 20:44:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
