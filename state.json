@@ -3492,7 +3492,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "02142203-757": {
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:05:08",
+ "last_check": "2026-07-25 22:07:38",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
