@@ -1673,7 +1673,7 @@
    "image": "https://static.zara.net/assets/public/8a22/06d4/d8d44616a9b3/ccea8e5cebc0/40035088445-e1/40035088445-e1.jpg?ts=1756974744106&w=800",
    "url": "https://www.zara.com/tr/tr/saten-nevresim--300-iplik--p40035088.html?v1=495422825",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -3248,7 +3248,7 @@
    "image": "https://static.zara.net/assets/public/521f/788b/86854a78ace2/30a2e2ff6a2d/01971241620-a2/01971241620-a2.jpg?ts=1773399230189&w=800",
    "url": "https://www.zara.com/tr/tr/asimetrik-aplikeli-sort-etek-p01971241.html?v1=513434037",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3747,7 +3747,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4085,26 +4085,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "02500838-700": {
-   "name": "KONTRAST KARELİ ETEK ZW COLLECTION",
-   "ref": "2500/838",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/c821/c145/4d6b40168cd0/ec9b009969a5/02500838700-p/02500838700-p.jpg?ts=1768835437125&w=800",
-   "url": "https://www.zara.com/tr/tr/kareli-kontrast-etek-zw-collection-p02500838.html?v1=506612976",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02214622-401": {
    "name": "OMUZ PEDLİ KADİFE BLAZER",
    "ref": "2214/622",
@@ -4364,26 +4344,6 @@
     "XL": "out_of_stock"
    }
   },
-  "01478029-606": {
-   "name": "PENSLİ CULOTTE PANTOLON",
-   "ref": "1478/029",
-   "color": "Şarap rengi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/7ab8/006f/64d948a8a022/29095208403e/01478029606-p/01478029606-p.jpg?ts=1773160666981&w=800",
-   "url": "https://www.zara.com/tr/tr/pensli-culotte-pantolon-p01478029.html?v1=502195711",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "02216591-800": {
    "name": "YIRTMAÇLI İSPANYOL PAÇA PANTOLON ZW COLLECTION",
    "ref": "2216/591",
@@ -4447,7 +4407,7 @@
    }
   }
  },
- "last_check": "2026-07-25 15:42:33",
+ "last_check": "2026-07-25 15:43:48",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
