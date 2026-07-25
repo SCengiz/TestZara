@@ -708,7 +708,7 @@
    "image": "https://static.zara.net/assets/public/19f1/96f3/efd5483caddb/3a6dd94c4b94/11580710002-p/11580710002-p.jpg?ts=1769431534489&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-deri-babet-p11580710.html?v1=495716287",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:52:54",
+ "last_check": "2026-07-25 22:55:16",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
