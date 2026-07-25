@@ -2389,7 +2389,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -2492,7 +2492,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "out_of_stock"
+    "XXL": "low_on_stock"
    }
   },
   "04786629-712": {
@@ -3617,7 +3617,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    }
   },
   "02753122-800": {
@@ -4325,7 +4325,7 @@
    }
   }
  },
- "last_check": "2026-07-25 18:18:37",
+ "last_check": "2026-07-25 18:20:39",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
