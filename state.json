@@ -140,29 +140,6 @@
     "42": "out_of_stock"
    }
   },
-  "12231710-105": {
-   "name": "ARKASI AÇIK TOPUKLU AYAKKABI",
-   "ref": "2231/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/347a/fb7b/6a7f442caa31/8ece8c1056dc/12231710105-p/12231710105-p.jpg?ts=1774010954288&w=800",
-   "url": "https://www.zara.com/tr/tr/arkasi-acik-topuklu-ayakkabi-p12231710.html?v1=495674929",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "15056710-202": {
    "name": "KONTRAST DETAYLI SPOR AYAKKABI",
    "ref": "5056/710",
@@ -4353,7 +4330,7 @@
    "image": "https://static.zara.net/assets/public/eeaa/1998/3132466e84bd/7af03068e156/16212711624-e1/16212711624-e1.jpg?ts=1771945481984&w=800",
    "url": "https://www.zara.com/tr/tr/mini-hasir-tote-canta-p16212711.html?v1=526250577",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "08372369-505": {
@@ -4418,7 +4395,7 @@
    }
   }
  },
- "last_check": "2026-07-25 20:27:03",
+ "last_check": "2026-07-25 20:29:31",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
