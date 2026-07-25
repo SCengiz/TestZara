@@ -2130,7 +2130,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -3531,7 +3531,7 @@
    "image": "https://static.zara.net/assets/public/0455/0464/c1334547aea2/1789dcd3ce76/08727248401-p/08727248401-p.jpg?ts=1769616836456&w=800",
    "url": "https://www.zara.com/tr/tr/trf-mom-fit-yuksek-bel-jean-p00103248.html?v1=517465510",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4262,9 +4262,29 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "08372364-681": {
+   "name": "GENİŞ PAÇA ELASTİK BELLİ PANTOLON",
+   "ref": "8372/364",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/7b37/9e61/ca8947efa068/6d012d499863/08372364681-p/08372364681-p.jpg?ts=1764333986140&w=800",
+   "url": "https://www.zara.com/tr/tr/genis-paca-elastik-belli-pantolon-p08372364.html?v1=495669582",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 17:43:17",
+ "last_check": "2026-07-25 17:45:52",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
