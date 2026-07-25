@@ -43,7 +43,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-27082005-99": {
@@ -1723,7 +1723,7 @@
    "image": "https://static.zara.net/assets/public/a95e/bf13/dfa24025a0cd/93228bf1bc74/40081088250-e1/40081088250-e1.jpg?ts=1750323566444&w=800",
    "url": "https://www.zara.com/tr/tr/kenarlar%C4%B1-dalgal%C4%B1--100-pamuk-percale-kumastan-yap%C4%B1lm%C4%B1s-nevresim--800-iplikli--p40081088.html?v1=497715629",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -4423,7 +4423,7 @@
    }
   }
  },
- "last_check": "2026-07-25 19:49:14",
+ "last_check": "2026-07-25 19:51:43",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
