@@ -2525,26 +2525,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "02721570-800": {
-   "name": "ZW COLLECTION FİT YELEK",
-   "ref": "2721/570",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "YELEK",
-   "section": "WOMAN",
-   "price": 79000,
-   "old_price": 119000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/8aa1/0fd1/521f4595a503/e96d2b279f7b/02721570800-p/02721570800-p.jpg?ts=1773933801346&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-fit-yelek-p02721570.html?v1=520967688",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "00695071-700": {
    "name": "ASTARLI KAPİTONE BOMBER CEKET",
    "ref": "0695/071",
@@ -3357,7 +3337,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "low_on_stock"
    }
   },
   "02559769-430": {
@@ -4568,9 +4548,29 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "02216591-800": {
+   "name": "YIRTMAÇLI İSPANYOL PAÇA PANTOLON ZW COLLECTION",
+   "ref": "2216/591",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/5b41/bb16/d6b74b00a0d3/4d580b009fad/07149254800-015-p/07149254800-015-p.jpg?ts=1762432390433&w=800",
+   "url": "https://www.zara.com/tr/tr/yirtmacli-can-paca-pantolon-zw-collection-p02216591.html?v1=521718479",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 14:04:26",
+ "last_check": "2026-07-25 14:06:23",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
