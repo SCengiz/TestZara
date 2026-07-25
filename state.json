@@ -934,7 +934,7 @@
    "url": "https://www.zara.com/tr/tr/suet-fiyonklu-babet-p11591710.html?v1=506006596",
    "sizes": {
     "35": "out_of_stock",
-    "36": "in_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 09:47:45",
+ "last_check": "2026-07-25 09:50:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
