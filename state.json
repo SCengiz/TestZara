@@ -4630,69 +4630,9 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
-  },
-  "04048440-822": {
-   "name": "REGULAR FIT JEAN",
-   "ref": "4048/440",
-   "color": "Kömür",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "MAN",
-   "price": 59000,
-   "old_price": 75000,
-   "discount": 21,
-   "image": "https://static.zara.net/assets/public/b590/c83e/4344423a951a/9f252209fc1f/04060440822-p/04060440822-p.jpg?ts=1770378287934&w=800",
-   "url": "https://www.zara.com/tr/tr/regular-fit-jean-p04048440.html?v1=495707336",
-   "sizes": {
-    "EU 36 (US 29)": "out_of_stock",
-    "EU 38 (US 30)": "out_of_stock",
-    "EU 40 (US 31)": "out_of_stock",
-    "EU 42 (US 32)": "out_of_stock",
-    "EU 44 (US 34)": "out_of_stock",
-    "EU 46 (US 36)": "out_of_stock",
-    "EU 48 (US 38)": "out_of_stock"
-   }
-  },
-  "06318418-700": {
-   "name": "RELAXED FIT SUNİ SÜET CEKET",
-   "ref": "6318/418",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "MAN",
-   "price": 129000,
-   "old_price": 149000,
-   "discount": 13,
-   "image": "https://static.zara.net/assets/public/ffc6/7c35/c5c04473a375/caac8271bea6/06318418700-p/06318418700-p.jpg?ts=1769771564821&w=800",
-   "url": "https://www.zara.com/tr/tr/relaxed-fit-suni-suet-ceket-p06318418.html?v1=503701123",
-   "sizes": {
-    "S (US S)": "in_stock",
-    "M (US M)": "out_of_stock",
-    "L (US L)": "out_of_stock",
-    "XL (US XL)": "out_of_stock"
-   }
-  },
-  "06318418-800": {
-   "name": "RELAXED FIT SUNİ SÜET CEKET",
-   "ref": "6318/418",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "MONT",
-   "section": "MAN",
-   "price": 129000,
-   "old_price": 149000,
-   "discount": 13,
-   "image": "https://static.zara.net/assets/public/d3f4/b2cd/878d41ca8acb/6a7febaec89e/06318428800-p/06318428800-p.jpg?ts=1769771567782&w=800",
-   "url": "https://www.zara.com/tr/tr/relaxed-fit-suni-suet-ceket-p06318418.html?v1=503701124",
-   "sizes": {
-    "S (US S)": "in_stock",
-    "M (US M)": "out_of_stock",
-    "L (US L)": "out_of_stock",
-    "XL (US XL)": "out_of_stock"
-   }
   }
  },
- "last_check": "2026-07-25 12:36:28",
+ "last_check": "2026-07-25 12:38:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
