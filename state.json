@@ -3450,7 +3450,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3576,7 +3576,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4240,7 +4240,7 @@
    "url": "https://www.zara.com/tr/tr/pilili-jakarli-elbise-p04770160.html?v1=509498062",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    }
   },
@@ -4325,7 +4325,7 @@
    }
   }
  },
- "last_check": "2026-07-25 18:46:13",
+ "last_check": "2026-07-25 18:47:49",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
