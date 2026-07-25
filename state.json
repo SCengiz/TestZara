@@ -3511,7 +3511,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -3652,7 +3652,7 @@
    "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3797,7 +3797,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-mumlu-ceket-p04369045.html?v1=495688918",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4228,7 +4228,7 @@
    }
   }
  },
- "last_check": "2026-07-25 15:49:37",
+ "last_check": "2026-07-25 15:50:13",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
