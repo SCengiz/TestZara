@@ -4105,7 +4105,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock"
+    "XL": "out_of_stock"
    }
   },
   "04749812-800": {
@@ -4421,9 +4421,30 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04749818-800": {
+   "name": "SU VE RÜZGAR KORUMALI SUNİ KÜRK KAPÜŞONLU KAPİTONE ANORAK",
+   "ref": "4749/818",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "ANORAK",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/9a8a/249a/1dd3495885a8/1e1b146b1ac0/04749818800-p/04749818800-p.jpg?ts=1761579724235&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-kurk-kapusonlu--su-ve-ruzgar-gecirmez-sisme-anorak-p04749818.html?v1=502971457",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 20:09:20",
+ "last_check": "2026-07-25 20:11:55",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
