@@ -2758,7 +2758,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "low_on_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -3090,7 +3090,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "in_stock"
@@ -4568,29 +4568,9 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
-  },
-  "02856014-800": {
-   "name": "TÜL KOMBİNELİ BALENLİ MAYO",
-   "ref": "2856/014",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "MAYO",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 39000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/1aa2/105d/fea64a369498/3b025020f1df/02856014800-p/02856014800-p.jpg?ts=1772031325120&w=800",
-   "url": "https://www.zara.com/tr/tr/tul-kombineli-balenli-mayo-p02856014.html?v1=498372217",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
   }
  },
- "last_check": "2026-07-25 14:01:58",
+ "last_check": "2026-07-25 14:04:26",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
