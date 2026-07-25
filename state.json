@@ -2740,7 +2740,7 @@
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:07:19",
+ "last_check": "2026-07-25 21:09:15",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
