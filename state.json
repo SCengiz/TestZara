@@ -1082,7 +1082,7 @@
    "image": "https://static.zara.net/assets/public/75ea/22d0/4f6a450d97de/59a3f8f69d7b/43260024926-e1/43260024926-e1.jpg?ts=1766152480914&w=800",
    "url": "https://www.zara.com/tr/tr/jakarli-cicekli-masa-runner-p43260024.html?v1=495438089",
    "sizes": {
-    "50 x 160 cm": "out_of_stock"
+    "50 x 160 cm": "low_on_stock"
    }
   },
   "43260021-926": {
@@ -3171,7 +3171,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "low_on_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 10:35:38",
+ "last_check": "2026-07-25 10:38:10",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
