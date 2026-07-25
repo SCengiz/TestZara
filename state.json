@@ -3347,7 +3347,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424064",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3449,7 +3449,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4341,9 +4341,29 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "01608121-250": {
+   "name": "PEPLUM PENS YELEK",
+   "ref": "1608/121",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "YELEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d14c/48f4/c46744228da6/0ef4d7a9d6fc/01608121250-p/01608121250-p.jpg?ts=1777463319000&w=800",
+   "url": "https://www.zara.com/tr/tr/peplum-pens-yelek-p01608121.html?v1=528047842",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 19:34:10",
+ "last_check": "2026-07-25 19:36:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
