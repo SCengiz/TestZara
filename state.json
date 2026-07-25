@@ -2842,7 +2842,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-kombine-triko-yelekli-gomlek-p02756533.html?v1=510920758",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -3595,7 +3595,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -4234,7 +4234,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 21:34:55",
+ "last_check": "2026-07-25 21:36:06",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
