@@ -2132,29 +2132,6 @@
     "STANDART": "out_of_stock"
    }
   },
-  "06840064-401": {
-   "name": "ZW COLLECTION ORTA BEL KISA PAÇA FLARE JEAN",
-   "ref": "6840/064",
-   "color": "LACİVERT",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 89000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/0a74/413b/9fdd43a699aa/8f543e044270/08246065401-p/08246065401-p.jpg?ts=1777364106014&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-orta-bel-kisa-paca-flare-jean-p06840064.html?v1=526754142",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "low_on_stock",
-    "38": "out_of_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
-   }
-  },
   "04592217-401": {
    "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
    "ref": "4592/217",
@@ -3490,7 +3467,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -3613,7 +3590,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    }
   },
@@ -3652,7 +3629,7 @@
    "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4228,7 +4205,7 @@
    }
   }
  },
- "last_check": "2026-07-25 15:52:40",
+ "last_check": "2026-07-25 15:55:10",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
