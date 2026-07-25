@@ -2228,7 +2228,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4323,9 +4323,27 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04344655-716": {
+   "name": "SUNİ SÜET CEKET",
+   "ref": "4344/655",
+   "color": "Koyu kahverengi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/a474/aca3/ae0c4d979b19/9db5b7c02673/04344655716-p/04344655716-p.jpg?ts=1765378448587&w=800",
+   "url": "https://www.zara.com/tr/tr/suni-suet-ceket-p04344655.html?v1=505335539",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 19:19:06",
+ "last_check": "2026-07-25 19:20:06",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
