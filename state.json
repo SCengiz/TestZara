@@ -101,22 +101,6 @@
     "STANDART": "out_of_stock"
    }
   },
-  "16251710-111": {
-   "name": "JÜT MİNİ TOTE ÇANTA",
-   "ref": "6251/710",
-   "color": "Açık bej",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/1a7f/e048/f73f4721904a/84c9747cb047/16251710111-001-a1/16251710111-001-a1.jpg?ts=1777579560610&w=800",
-   "url": "https://www.zara.com/tr/tr/jut-mini-tote-canta-p16251710.html?v1=543972054",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "16309710-111": {
    "name": "KONTRAST KANVAS ÇANTA",
    "ref": "6309/710",
@@ -129,38 +113,6 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/5e58/2c4b/3c0d48d5a42d/eaee04b49abc/16309710111-p/16309710111-p.jpg?ts=1773851125557&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-kanvas-canta-p16309710.html?v1=503348482",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
-  "16054810-400": {
-   "name": "OVAL OMUZ ÇANTASI",
-   "ref": "6054/810",
-   "color": "Mavi",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/02db/a1f8/31cb43c5bff6/81d6bb9e7faa/16054810400-p/16054810400-p.jpg?ts=1779978115860&w=800",
-   "url": "https://www.zara.com/tr/tr/oval-omuz-cantasi-p16054810.html?v1=557407436",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
-  "16099710-254": {
-   "name": "PULLU BÜZGÜLÜ KESE ÇANTA",
-   "ref": "6099/710",
-   "color": "Dore",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 89000,
-   "old_price": 119000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/518a/05b9/8ac34a8998e2/82a4da9d1225/16099710254-p/16099710254-p.jpg?ts=1774435777325&w=800",
-   "url": "https://www.zara.com/tr/tr/pullu-buzgulu-kese-canta-p16099710.html?v1=495669456",
    "sizes": {
     "STANDART": "out_of_stock"
    }
@@ -2659,7 +2611,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    }
@@ -3735,7 +3687,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    }
   },
   "04344304-710": {
@@ -4472,7 +4424,7 @@
    }
   }
  },
- "last_check": "2026-07-25 15:38:40",
+ "last_check": "2026-07-25 15:40:10",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
