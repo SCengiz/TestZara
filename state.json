@@ -98,7 +98,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "16251710-111": {
@@ -2196,7 +2196,7 @@
    "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
    "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    }
   },
   "06840064-401": {
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 10:03:45",
+ "last_check": "2026-07-25 10:05:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
