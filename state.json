@@ -2758,7 +2758,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -3355,7 +3355,7 @@
    "image": "https://static.zara.net/assets/public/921e/165e/eb9b4ef98167/06481d08f748/01165015600-p/01165015600-p.jpg?ts=1777364061581&w=800",
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4570,7 +4570,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:59:25",
+ "last_check": "2026-07-25 14:01:24",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
