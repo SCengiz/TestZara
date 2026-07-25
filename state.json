@@ -2671,7 +2671,7 @@
    "image": "https://static.zara.net/assets/public/793a/7b4c/9f93460fb0b6/0e3f4b1b0e5f/02458633083-p/02458633083-p.jpg?ts=1771587801203&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-oversize-blazer-p02458633.html?v1=511115700",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4630,7 +4630,7 @@
    }
   }
  },
- "last_check": "2026-07-25 11:30:55",
+ "last_check": "2026-07-25 11:33:23",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
