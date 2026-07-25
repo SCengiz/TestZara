@@ -4225,9 +4225,27 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04770160-712": {
+   "name": "PİLİLİ JAKARLI ELBİSE",
+   "ref": "4770/160",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/8962/d122/2b0145678c3d/658ebe2c01c0/04770160712-p/04770160712-p.jpg?ts=1773826968603&w=800",
+   "url": "https://www.zara.com/tr/tr/pilili-jakarli-elbise-p04770160.html?v1=509498062",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 16:45:29",
+ "last_check": "2026-07-25 16:47:59",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
