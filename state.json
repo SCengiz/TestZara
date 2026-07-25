@@ -4204,7 +4204,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608038.html?v1=534613616",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4632,7 +4632,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:14:07",
+ "last_check": "2026-07-25 13:16:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
