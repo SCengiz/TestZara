@@ -1392,7 +1392,7 @@
    "image": "https://static.zara.net/assets/public/a62d/3522/6e5143f787c0/4e0736009482/45186088500-e1/45186088500-e1.jpg?ts=1769070066586&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-keten-ve-pamuklu-nevresim-p45186088.html?v1=495426114",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -2798,7 +2798,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "out_of_stock"
+    "XXL": "low_on_stock"
    }
   },
   "04786629-712": {
@@ -4632,7 +4632,7 @@
    }
   }
  },
- "last_check": "2026-07-25 12:59:00",
+ "last_check": "2026-07-25 13:01:34",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
