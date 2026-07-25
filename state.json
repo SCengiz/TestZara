@@ -2432,7 +2432,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    }
   },
@@ -3390,7 +3390,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424064",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4108,7 +4108,7 @@
    }
   }
  },
- "last_check": "2026-07-25 16:15:32",
+ "last_check": "2026-07-25 16:16:00",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
