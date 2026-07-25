@@ -4232,7 +4232,7 @@
    "image": "https://static.zara.net/assets/public/78fc/a7e9/cd37432dae98/c2fa5bc5473f/03293056044-p/03293056044-p.jpg?ts=1779205305813&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-poplin-midi-elbise-p03293056.html?v1=525511700",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4409,9 +4409,29 @@
    "sizes": {
     "STANDART": "out_of_stock"
    }
+  },
+  "01608021-250": {
+   "name": "MİNİ ÇAN PAÇA PANTOLON",
+   "ref": "1608/021",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d14c/48f4/c46744228da6/0ef4d7a9d6fc/01608121250-p/01608121250-p.jpg?ts=1777463319000&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-ispanyol-paca-pantolon-p01608021.html?v1=528036366",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 20:39:32",
+ "last_check": "2026-07-25 20:41:38",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
