@@ -3874,29 +3874,6 @@
     "XL": "out_of_stock"
    }
   },
-  "09632253-407": {
-   "name": "ZW COLLECTION WIDE LEG YÜKSEK BEL JEAN",
-   "ref": "9632/253",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 89000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/f6c6/8d0f/a49c4d0e9f1b/d99fd2c2cd01/09863261407-p/09863261407-p.jpg?ts=1778226823498&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-wide-leg-yuksek-bel-jean-p09632253.html?v1=548018867",
-   "sizes": {
-    "32": "out_of_stock",
-    "34": "out_of_stock",
-    "36": "out_of_stock",
-    "38": "low_on_stock",
-    "40": "out_of_stock",
-    "42": "out_of_stock",
-    "44": "out_of_stock",
-    "46": "out_of_stock"
-   }
-  },
   "08820597-800": {
    "name": "DÜZ PAÇA YÜKSEK BEL PANTOLON",
    "ref": "8820/597",
@@ -4632,7 +4609,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:21:43",
+ "last_check": "2026-07-25 13:22:41",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
