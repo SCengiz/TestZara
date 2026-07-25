@@ -1474,25 +1474,6 @@
     "King (180/200 cm)": "out_of_stock"
    }
   },
-  "47134088-251": {
-   "name": "YONCA VE UĞUR BÖCEĞİ DESENLİ NEVRESİM",
-   "ref": "7134/088",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 359000,
-   "discount": 26,
-   "image": "https://static.zara.net/assets/public/3f15/160d/419c4f1dbfdc/e9a703d9166d/47134088251-e1/47134088251-e1.jpg?ts=1772800930698&w=800",
-   "url": "https://www.zara.com/tr/tr/yonca-ve-ugur-bocegi-desenli-nevresim-p47134088.html?v1=513156899",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
-   }
-  },
   "46110088-710": {
    "name": "ÇİZGİLİ SATEN NEVRESİM (500 İPLİKLİ)",
    "ref": "6110/088",
@@ -2440,7 +2421,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4589,7 +4570,7 @@
    }
   }
  },
- "last_check": "2026-07-25 13:54:22",
+ "last_check": "2026-07-25 13:55:45",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
