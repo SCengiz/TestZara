@@ -43,7 +43,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "out_of_stock"
+    "42": "in_stock"
    }
   },
   "mango-27082005-99": {
@@ -3279,7 +3279,7 @@
    "url": "https://www.zara.com/tr/tr/uzun-halter-elbise-p01165015.html?v1=535946993",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -4472,7 +4472,7 @@
    }
   }
  },
- "last_check": "2026-07-25 14:38:29",
+ "last_check": "2026-07-25 14:39:40",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
