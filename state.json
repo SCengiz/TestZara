@@ -43,7 +43,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    }
   },
   "mango-27082005-99": {
@@ -1817,7 +1817,7 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "out_of_stock"
+    "XXL": "in_stock"
    }
   },
   "05107653-712": {
@@ -2779,7 +2779,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-modal-sporty-sweatshirt-p08054643.html?v1=528330130",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "in_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:32:46",
+ "last_check": "2026-07-25 22:34:11",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
