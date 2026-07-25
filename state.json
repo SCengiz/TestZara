@@ -2021,7 +2021,7 @@
     "36": "out_of_stock",
     "38": "out_of_stock",
     "40": "out_of_stock",
-    "42": "in_stock",
+    "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
    }
@@ -2717,7 +2717,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "in_stock",
+    "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -4143,9 +4143,48 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04749812-800": {
+   "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
+   "ref": "4749/812",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "ANORAK",
+   "section": "WOMAN",
+   "price": 79000,
+   "old_price": 119000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/af51/2d4e/0c3f436fb059/7a05acb403e1/04749812800-p/04749812800-p.jpg?ts=1768494160094&w=800",
+   "url": "https://www.zara.com/tr/tr/ruzgar-gecirmez-su-gecirmez-sisme-mont-p04749812.html?v1=495684621",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "04813305-800": {
+   "name": "OVERSIZE FERMUARLI BOMBER CEKET",
+   "ref": "4813/305",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/8c6a/2301/745e476ba244/751b7fbbd323/04813305800-p/04813305800-p.jpg?ts=1768472915186&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=498245350",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 16:21:50",
+ "last_check": "2026-07-25 16:22:50",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
