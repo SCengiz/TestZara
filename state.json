@@ -2355,26 +2355,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "07522056-802": {
-   "name": "YÜN KARIŞIMLI BLAZER ZW COLLECTION",
-   "ref": "7522/056",
-   "color": "Gri",
-   "kind": "Wear",
-   "family": "BLAZER",
-   "section": "WOMAN",
-   "price": 169000,
-   "old_price": 299000,
-   "discount": 43,
-   "image": "https://static.zara.net/assets/public/b4ad/3a71/0c5e49d5ae28/707a2946c991/07522056802-p/07522056802-p.jpg?ts=1769007225045&w=800",
-   "url": "https://www.zara.com/tr/tr/yun-karisimli-blazer-zw-collection-p07522056.html?v1=495680474",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "01255894-716": {
    "name": "KRUVAZE YUMUŞAK CEKET",
    "ref": "1255/894",
@@ -4222,7 +4202,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    }
   },
@@ -4247,7 +4227,7 @@
    }
   }
  },
- "last_check": "2026-07-25 16:40:25",
+ "last_check": "2026-07-25 16:42:20",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
