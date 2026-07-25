@@ -154,7 +154,7 @@
    "url": "https://www.zara.com/tr/tr/arkasi-acik-topuklu-ayakkabi-p12231710.html?v1=495674929",
    "sizes": {
     "35": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -314,7 +314,7 @@
    "image": "https://static.zara.net/assets/public/24c5/d4da/6f5846058373/c01446a1671d/12231610800-e1/12231610800-e1.jpg?ts=1758016360176&w=800",
    "url": "https://www.zara.com/tr/tr/bantli-arkasi-acik-topuklu-ayakkabi-p12231610.html?v1=495698343",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "low_on_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -435,7 +435,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "in_stock",
+    "41": "out_of_stock",
     "42": "out_of_stock"
    }
   },
@@ -4423,7 +4423,7 @@
    }
   }
  },
- "last_check": "2026-07-25 19:54:19",
+ "last_check": "2026-07-25 19:56:46",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
