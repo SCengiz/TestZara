@@ -98,7 +98,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    }
   },
   "16309710-111": {
@@ -379,7 +379,7 @@
     "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
-    "38": "out_of_stock",
+    "38": "low_on_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
@@ -676,7 +676,7 @@
    "url": "https://www.zara.com/tr/tr/bantli-duz-sandalet-p12640710.html?v1=509572534",
    "sizes": {
     "35": "out_of_stock",
-    "36": "out_of_stock",
+    "36": "low_on_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -2093,22 +2093,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "16049710-253": {
-   "name": "ZARF ÇAPRAZ ASKILI ÇANTA",
-   "ref": "6049/710",
-   "color": "Altın",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/5e07/dcd5/5d304254b542/c67c3dfb1702/16049710253-p/16049710253-p.jpg?ts=1776181934516&w=800",
-   "url": "https://www.zara.com/tr/tr/zarf-capraz-askili-canta-p16049710.html?v1=541420911",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "04592217-401": {
    "name": "TRF YÜKSEK BEL KISA KESİM ÇAN PAÇA JEAN",
    "ref": "4592/217",
@@ -2153,25 +2137,6 @@
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
-   }
-  },
-  "03390102-622": {
-   "name": "DÜZ TRİKO POLO T-SHIRT",
-   "ref": "3390/102",
-   "color": "Uçuk pembe",
-   "kind": "Wear",
-   "family": "KAZAK",
-   "section": "WOMAN",
-   "price": 49000,
-   "old_price": 69000,
-   "discount": 28,
-   "image": "https://static.zara.net/assets/public/e65c/e0cc/51ea4114a7fd/c77a48d1602b/03390102622-p/03390102622-p.jpg?ts=1771432728349&w=800",
-   "url": "https://www.zara.com/tr/tr/duz-triko-polo-t-shirt-p03390102.html?v1=495716489",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "02142028-519": {
@@ -2797,7 +2762,7 @@
     "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
@@ -2924,7 +2889,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    }
   },
@@ -2987,8 +2952,8 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "5 yaş (110 cm)": "low_on_stock",
+    "6 yaş (116 cm)": "low_on_stock"
    }
   },
   "02756533-645": {
@@ -3553,26 +3518,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "02705723-123": {
-   "name": "ASKILI KETEN MİDİ ELBİSE",
-   "ref": "2705/723",
-   "color": "Macenta",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/9104/f45d/638144aa87e2/262f33ccae3d/02705723123-p/02705723123-p.jpg?ts=1776424235103&w=800",
-   "url": "https://www.zara.com/tr/tr/keten-midi-elbise-p02705723.html?v1=520962002",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   }
-  },
   "11212710-105": {
    "name": "SÜET ARKASI AÇIK AYAKKABI",
    "ref": "1212/710",
@@ -3675,7 +3620,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock"
+    "L": "out_of_stock"
    }
   },
   "02142203-757": {
@@ -4163,7 +4108,7 @@
    }
   }
  },
- "last_check": "2026-07-25 16:12:44",
+ "last_check": "2026-07-25 16:15:32",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
