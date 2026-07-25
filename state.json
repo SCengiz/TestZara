@@ -2129,7 +2129,7 @@
    "image": "https://static.zara.net/assets/public/2c5d/b12d/abec4cc3bc0a/bfa764a343e9/02142028519-p/02142028519-p.jpg?ts=1767774290069&w=800",
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4243,9 +4243,28 @@
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
+  },
+  "03233920-620": {
+   "name": "FİYONKLU HALTER YAKA POPLİN TOP",
+   "ref": "3233/920",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/76aa/94f2/3e5442da87e3/31341719a049/03233920620-000-p/03233920620-000-p.jpg?ts=1777036780422&w=800",
+   "url": "https://www.zara.com/tr/tr/fiyonklu-halter-yaka-pilili-poplin-top-p03233920.html?v1=528036376",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 17:33:15",
+ "last_check": "2026-07-25 17:35:51",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
