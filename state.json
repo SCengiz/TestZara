@@ -641,7 +641,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    }
@@ -2736,7 +2736,7 @@
    "image": "https://static.zara.net/assets/public/537d/6b6b/7bbe47d6a25b/50e5f68f3d0c/05644991442-e1/05644991442-e1.jpg?ts=1779784313576&w=800",
    "url": "https://www.zara.com/tr/tr/reglan-kollu-t-shirt-p05644991.html?v1=562479741",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
@@ -2779,7 +2779,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-modal-sporty-sweatshirt-p08054643.html?v1=528330130",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "in_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -4014,7 +4014,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
@@ -4471,7 +4471,7 @@
    }
   }
  },
- "last_check": "2026-07-25 22:27:41",
+ "last_check": "2026-07-25 22:29:01",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
