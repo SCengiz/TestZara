@@ -653,7 +653,7 @@
    "url": "https://www.zara.com/tr/tr/bantli-duz-sandalet-p12640710.html?v1=509572534",
    "sizes": {
     "35": "out_of_stock",
-    "36": "low_on_stock",
+    "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
@@ -4083,9 +4083,69 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "04387394-802": {
+   "name": "BALIK SIRTI STRAIGHT FIT PANTOLON",
+   "ref": "4387/394",
+   "color": "Gri",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/d0fc/d736/e8034e46b0d4/53d8f7b104e1/04387394802-p/04387394802-p.jpg?ts=1769164219604&w=800",
+   "url": "https://www.zara.com/tr/tr/baliksirti-duz-paca-pantolon-p04387394.html?v1=495703160",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "04387262-712": {
+   "name": "KEMERLİ DÜZ KESİM PANTOLON",
+   "ref": "4387/262",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/f9e7/5bb1/b8024b55bf83/59abb30b59b7/04387262712-000-p/04387262712-000-p.jpg?ts=1771237156514&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-duz-kesim-pantolon-p04387262.html?v1=495689042",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "07149074-800": {
+   "name": "ZW COLLECTION YÜKSEK BEL CROP PANTOLON",
+   "ref": "7149/074",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/de49/6f39/2883496abb2c/cb7db9932b27/07149074800-p/07149074800-p.jpg?ts=1776787840954&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-crop-pantolon-p07149074.html?v1=543493783",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 16:17:50",
+ "last_check": "2026-07-25 16:20:25",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
