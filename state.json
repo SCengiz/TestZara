@@ -4342,6 +4342,26 @@
     "L": "out_of_stock"
    }
   },
+  "06318057-681": {
+   "name": "%100 SÜET DERİ CEKET",
+   "ref": "6318/057",
+   "color": "Şarap rengi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 169000,
+   "old_price": 299000,
+   "discount": 43,
+   "image": "https://static.zara.net/assets/public/957c/556e/64914b729ae4/5a1d5d4e8f1a/06318057681-1-p/06318057681-1-p.jpg?ts=1770240902082&w=800",
+   "url": "https://www.zara.com/tr/tr/100-suet-deri-ceket-p06318057.html?v1=500840834",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "low_on_stock"
+   }
+  },
   "01608121-250": {
    "name": "PEPLUM PENS YELEK",
    "ref": "1608/121",
@@ -4363,7 +4383,7 @@
    }
   }
  },
- "last_check": "2026-07-25 19:36:32",
+ "last_check": "2026-07-25 19:36:34",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
