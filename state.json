@@ -2690,7 +2690,7 @@
    "image": "https://static.zara.net/assets/public/537d/6b6b/7bbe47d6a25b/50e5f68f3d0c/05644991442-e1/05644991442-e1.jpg?ts=1779784313576&w=800",
    "url": "https://www.zara.com/tr/tr/reglan-kollu-t-shirt-p05644991.html?v1=562479741",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
@@ -4783,7 +4783,7 @@
    "image": "https://static.zara.net/assets/public/8e70/4c1b/1be1412c96e9/2c3a3c401079/12400730001-e1/12400730001-e1.jpg?ts=1759146974092&w=800",
    "url": "https://www.zara.com/tr/tr/kalp-detayli-spor-ayakkabi-p12400730.html?v1=495712181",
    "sizes": {
-    "30 (18,9 cm)": "out_of_stock",
+    "30 (18,9 cm)": "low_on_stock",
     "31 (19,6 cm)": "out_of_stock",
     "32 (20,3 cm)": "out_of_stock",
     "33 (20,9 cm)": "out_of_stock",
@@ -4796,7 +4796,7 @@
    }
   }
  },
- "last_check": "2026-07-26 19:30:31",
+ "last_check": "2026-07-26 19:32:17",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
