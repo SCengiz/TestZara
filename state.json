@@ -4016,7 +4016,7 @@
    "url": "https://www.zara.com/tr/tr/fiyonklu-halter-yaka-pilili-poplin-top-p03233920.html?v1=528036376",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    }
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 17:09:46",
+ "last_check": "2026-07-26 17:12:13",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
