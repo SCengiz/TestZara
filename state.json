@@ -4783,7 +4783,7 @@
    "image": "https://static.zara.net/assets/public/8e70/4c1b/1be1412c96e9/2c3a3c401079/12400730001-e1/12400730001-e1.jpg?ts=1759146974092&w=800",
    "url": "https://www.zara.com/tr/tr/kalp-detayli-spor-ayakkabi-p12400730.html?v1=495712181",
    "sizes": {
-    "30 (18,9 cm)": "low_on_stock",
+    "30 (18,9 cm)": "out_of_stock",
     "31 (19,6 cm)": "out_of_stock",
     "32 (20,3 cm)": "out_of_stock",
     "33 (20,9 cm)": "out_of_stock",
@@ -4796,7 +4796,7 @@
    }
   }
  },
- "last_check": "2026-07-26 19:20:34",
+ "last_check": "2026-07-26 19:20:44",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
