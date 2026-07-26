@@ -1270,7 +1270,7 @@
    "image": "https://static.zara.net/assets/public/3833/e88b/6bfe45e28430/d0c0b65a9fac/42187088250-e1/42187088250-e1.jpg?ts=1754895593139&w=800",
    "url": "https://www.zara.com/tr/tr/gofre-nevresim-p42187088.html?v1=495417626",
    "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
+    "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 12:45:31",
+ "last_check": "2026-07-26 12:47:56",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
