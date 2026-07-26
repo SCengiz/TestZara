@@ -4443,7 +4443,7 @@
    "image": "https://static.zara.net/assets/public/9637/3070/f24d4bb99ceb/21837c73be0b/04592018443-p/04592018443-p.jpg?ts=1770390255859&w=800",
    "url": "https://www.zara.com/tr/tr/trf-kisa-paca-can-yuksek-bel-jean-p04592018.html?v1=495675347",
    "sizes": {
-    "32": "in_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 15:44:12",
+ "last_check": "2026-07-26 15:46:38",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
