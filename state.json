@@ -2569,7 +2569,7 @@
     "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    }
   },
   "05431886-251": {
@@ -2736,7 +2736,7 @@
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
-    "12/13 yaş (156 cm)": "out_of_stock",
+    "12/13 yaş (156 cm)": "in_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    }
   },
@@ -4796,7 +4796,7 @@
    }
   }
  },
- "last_check": "2026-07-26 19:05:31",
+ "last_check": "2026-07-26 19:07:56",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
