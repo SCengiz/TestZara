@@ -2711,7 +2711,7 @@
    "image": "https://static.zara.net/assets/public/6a19/114d/10d2472ea17c/75b21de87883/04456523529-e1/04456523529-e1.jpg?ts=1774366736288&w=800",
    "url": "https://www.zara.com/tr/tr/cepli-yamali-t-shirt-p04456523.html?v1=537146794",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 09:19:07",
+ "last_check": "2026-07-26 09:21:39",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
