@@ -636,7 +636,7 @@
    "image": "https://static.zara.net/assets/public/994a/2717/0a5f464a9d63/dedfef9675d9/12507730091-e1/12507730091-e1.jpg?ts=1764850348455&w=800",
    "url": "https://www.zara.com/tr/tr/metalik-bantli-ve-tokali-ayakkabi-p12507730.html?v1=495694229",
    "sizes": {
-    "30 (18,9 cm)": "out_of_stock",
+    "30 (18,9 cm)": "in_stock",
     "31 (19,6 cm)": "out_of_stock",
     "32 (20,3 cm)": "out_of_stock",
     "33 (20,9 cm)": "out_of_stock",
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 17:42:26",
+ "last_check": "2026-07-26 17:44:53",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
