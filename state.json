@@ -2690,7 +2690,7 @@
    "image": "https://static.zara.net/assets/public/537d/6b6b/7bbe47d6a25b/50e5f68f3d0c/05644991442-e1/05644991442-e1.jpg?ts=1779784313576&w=800",
    "url": "https://www.zara.com/tr/tr/reglan-kollu-t-shirt-p05644991.html?v1=562479741",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 14:38:37",
+ "last_check": "2026-07-26 14:41:08",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
