@@ -4726,9 +4726,29 @@
     "28 (17,6 cm)": "out_of_stock",
     "29 (18,3 cm)": "out_of_stock"
    }
+  },
+  "01165074-712": {
+   "name": "KISA BALON JAKARLI ELBİSE",
+   "ref": "1165/074",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/c47c/b5a1/eb9643af9e04/8456f319b634/01165074712-p/01165074712-p.jpg?ts=1771520181340&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-jakarli-balon-elbise-p01165074.html?v1=499763236",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-26 18:07:32",
+ "last_check": "2026-07-26 18:10:11",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
