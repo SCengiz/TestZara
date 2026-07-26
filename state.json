@@ -3998,7 +3998,7 @@
    "url": "https://www.zara.com/tr/tr/pilili-jakarli-elbise-p04770160.html?v1=509498062",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    }
   },
@@ -4796,7 +4796,7 @@
    }
   }
  },
- "last_check": "2026-07-26 19:26:27",
+ "last_check": "2026-07-26 19:28:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
