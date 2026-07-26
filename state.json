@@ -1433,7 +1433,7 @@
    "image": "https://static.zara.net/assets/public/132d/ab09/21b64ac283bf/af58a33efdae/44279022514-e1/44279022514-e1.jpg?ts=1771931745688&w=800",
    "url": "https://www.zara.com/tr/tr/toile-desenli-pamuklu-pecete--2-li-set--p44279022.html?v1=502317229",
    "sizes": {
-    "Peçeteler": "low_on_stock"
+    "Peçeteler": "out_of_stock"
    }
   },
   "41125434-712": {
@@ -4728,7 +4728,7 @@
    }
   }
  },
- "last_check": "2026-07-26 11:42:33",
+ "last_check": "2026-07-26 11:44:56",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
