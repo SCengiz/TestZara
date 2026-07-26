@@ -140,29 +140,6 @@
     "42": "out_of_stock"
    }
   },
-  "15056710-202": {
-   "name": "KONTRAST DETAYLI SPOR AYAKKABI",
-   "ref": "5056/710",
-   "color": "Alacalı",
-   "kind": "Other",
-   "family": "KOŞU AYAKKABISI",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/5342/afca/5f5a40d7a034/e093d19d134f/15056710202-p/15056710202-p.jpg?ts=1775054500559&w=800",
-   "url": "https://www.zara.com/tr/tr/kontrast-detayli-spor-ayakkabi-p15056710.html?v1=507291691",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "13502510-800": {
    "name": "DERİ DÜZ BABET",
    "ref": "3502/510",
@@ -290,29 +267,6 @@
    "discount": 22,
    "image": "https://static.zara.net/assets/public/24c5/d4da/6f5846058373/c01446a1671d/12231610800-e1/12231610800-e1.jpg?ts=1758016360176&w=800",
    "url": "https://www.zara.com/tr/tr/bantli-arkasi-acik-topuklu-ayakkabi-p12231610.html?v1=495698343",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "13386710-087": {
-   "name": "METALİK KISA SİVRİ TOPUKLU SANDALET",
-   "ref": "3386/710",
-   "color": "Transparan",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/4f79/b597/e5ff4b70a984/f1d6045aa14d/03253367250-000-p/03253367250-000-p.jpg?ts=1776877875802&w=800",
-   "url": "https://www.zara.com/tr/tr/metalik-kisa-sivri-topuklu-sandalet-p13386710.html?v1=507291710",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -915,7 +869,7 @@
    "image": "https://static.zara.net/assets/public/6bb6/8f8f/94ff4d05b80d/462f6cabf908/43323211700-e1/43323211700-e1.jpg?ts=1762965853204&w=800",
    "url": "https://www.zara.com/tr/tr/yuksek-ahsap-evcil-hayvan-mama-kasesi-p43323211.html?v1=495441326",
    "sizes": {
-    "17 x 24.5 x 24.5 cm": "low_on_stock",
+    "17 x 24.5 x 24.5 cm": "out_of_stock",
     "26 x 29.5 x 29.5 cm": "out_of_stock"
    }
   },
@@ -1663,7 +1617,7 @@
    "image": "https://static.zara.net/assets/public/516b/d600/83cf40bdae3c/366006df383b/45241341551-e1/45241341551-e1.jpg?ts=1770890140441&w=800",
    "url": "https://www.zara.com/tr/tr/celik-bahce-sulama-kabi-p45241341.html?v1=502338358",
    "sizes": {
-    "10.5 x 7.5 x 17.5 cm": "low_on_stock",
+    "10.5 x 7.5 x 17.5 cm": "out_of_stock",
     "19 x 12 x 29 cm": "out_of_stock",
     "25 x 18 x 39 cm": "out_of_stock"
    }
@@ -2715,7 +2669,7 @@
    "image": "https://static.zara.net/assets/public/1c9b/dab0/f6bf4e3bb13b/07748131db2b/05644992500400-p/05644992500400-p.jpg?ts=1780408338597&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -2736,11 +2690,11 @@
    "image": "https://static.zara.net/assets/public/537d/6b6b/7bbe47d6a25b/50e5f68f3d0c/05644991442-e1/05644991442-e1.jpg?ts=1779784313576&w=800",
    "url": "https://www.zara.com/tr/tr/reglan-kollu-t-shirt-p05644991.html?v1=562479741",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "low_on_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "low_on_stock"
    }
   },
@@ -2757,7 +2711,7 @@
    "image": "https://static.zara.net/assets/public/6a19/114d/10d2472ea17c/75b21de87883/04456523529-e1/04456523529-e1.jpg?ts=1774366736288&w=800",
    "url": "https://www.zara.com/tr/tr/cepli-yamali-t-shirt-p04456523.html?v1=537146794",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -3207,29 +3161,6 @@
     "XXL": "out_of_stock"
    }
   },
-  "11305610-420": {
-   "name": "DÜĞÜM DETAYLI DERİ TOPUKLU SANDALET",
-   "ref": "1305/610",
-   "color": "Mavimsi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 129000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/7693/5347/b5e344bc9380/6c6ffa5e345c/11305610420-e1/11305610420-e1.jpg?ts=1770985519692&w=800",
-   "url": "https://www.zara.com/tr/tr/dugum-detayli-deri-topuklu-sandalet-p11305610.html?v1=495712335",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "05755028-406": {
    "name": "%80 YÜN SAÇ ÖRGÜ KAYAK KOLEKSİYONU KAZAK",
    "ref": "5755/028",
@@ -3388,29 +3319,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   }
-  },
-  "11212710-105": {
-   "name": "SÜET ARKASI AÇIK AYAKKABI",
-   "ref": "1212/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 59000,
-   "old_price": 69000,
-   "discount": 14,
-   "image": "https://static.zara.net/assets/public/a676/d312/a2d1411fac74/df5806a240f0/11212710105-p/11212710105-p.jpg?ts=1770816000402&w=800",
-   "url": "https://www.zara.com/tr/tr/suet-arkasi-acik-ayakkabi-p11212710.html?v1=495675188",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
    }
   },
   "02142179-712": {
@@ -3619,29 +3527,6 @@
     "XL": "out_of_stock"
    }
   },
-  "13391710-909": {
-   "name": "METALİK KISA SİVRİ TOPUKLU SANDALET",
-   "ref": "3391/710",
-   "color": "Gümüş",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 129000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/7a31/60d6/6c8c467ba97c/c8df6c545b26/01165950712-1-p/01165950712-1-p.jpg?ts=1779280793571&w=800",
-   "url": "https://www.zara.com/tr/tr/metalik-kisa-sivri-topuklu-sandalet-p13391710.html?v1=551083844",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "12361710-091": {
    "name": "METALİK ETKİLİ TOPUKLU SANDALET",
    "ref": "2361/710",
@@ -3720,29 +3605,6 @@
    "discount": 14,
    "image": "https://static.zara.net/assets/public/8c66/bb54/cfcd4eca9661/3764e0aaf640/11251710800-p/11251710800-p.jpg?ts=1764859300055&w=800",
    "url": "https://www.zara.com/tr/tr/fileli-parlak-topuklu-ayakkabi-p11251710.html?v1=495684278",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
-  "12240710-002": {
-   "name": "MULE HEEL SHOES WITH APPLIQUÉS",
-   "ref": "2240/710",
-   "color": "Ekru Beyaz",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 89000,
-   "discount": 22,
-   "image": "https://static.zara.net/assets/public/a12a/9903/480c4284b85c/a93eb3a339e8/12240710002-p/12240710002-p.jpg?ts=1770824576048&w=800",
-   "url": "https://www.zara.com/tr/tr/aplikeli-arkasi-acik-topuklu-ayakkabi-p12240710.html?v1=495698499",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -3918,25 +3780,6 @@
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
-   }
-  },
-  "02142037-420": {
-   "name": "GENİŞ KOLLU ÖRGÜ KAZAK",
-   "ref": "2142/037",
-   "color": "Mavimsi",
-   "kind": "Wear",
-   "family": "KAZAK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 45000,
-   "discount": 13,
-   "image": "https://static.zara.net/assets/public/aa11/e8cf/0c3c412da7ff/326b32cca2e9/02142037420-p/02142037420-p.jpg?ts=1769177008382&w=800",
-   "url": "https://www.zara.com/tr/tr/genis-kollu-orgu-kazak-p02142037.html?v1=500835349",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    }
   },
   "03897117-681": {
@@ -4469,9 +4312,423 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "00653065-620": {
+   "name": "DÜZ RENK FİTİLLİ KUMAŞ ŞAPKA",
+   "ref": "0653/065",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "SAPKA",
+   "section": "WOMAN",
+   "price": 19000,
+   "old_price": 29000,
+   "discount": 34,
+   "image": "https://static.zara.net/assets/public/4d7a/616a/7e634f5ca310/f5a8dc829018/00653065620-p/00653065620-p.jpg?ts=1777907421155&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-renk-fitilli-kumas-sapka-p00653065.html?v1=511900613",
+   "sizes": {
+    "S-M": "out_of_stock"
+   }
+  },
+  "16060610-721": {
+   "name": "OMUZ SHOPPER",
+   "ref": "6060/610",
+   "color": "Çikolata",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/0487/83c9/41094aa2b891/88ccfbb6d5de/",
+   "url": "https://www.zara.com/tr/tr/omuz-shopper-p16060610.html?v1=527759020",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   }
+  },
+  "00024004-600": {
+   "name": "ÇİZGİLİ JÜT DERİ ÇANTA",
+   "ref": "0024/004",
+   "color": "Kırmızı",
+   "kind": "Wear",
+   "family": "CUZDAN",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/3c68/c9b5/135b42e6a67c/00003ab3d469/00024004600-p/00024004600-p.jpg?ts=1775808754342&w=800",
+   "url": "https://www.zara.com/tr/tr/jut-deri-cizgili-canta-p00024004.html?v1=500265163",
+   "sizes": {
+    "M": "out_of_stock"
+   }
+  },
+  "12252710-800": {
+   "name": "TOPUKLU ARKASI AÇIK AYAKKABI",
+   "ref": "2252/710",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/4b38/fddb/c61c4153b3b4/542692a80c35/12252710800-p/12252710800-p.jpg?ts=1769086124249&w=800",
+   "url": "https://www.zara.com/tr/tr/topuklu-arkasi-acik-ayakkabi-p12252710.html?v1=495684649",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "12250710-131": {
+   "name": "ARKASI AÇIK TOPUKLU AYAKKABI",
+   "ref": "2250/710",
+   "color": "Boz Gri",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/0984/8ce9/ce1348ba9f97/a2536d822afa/12250710131-p/12250710131-p.jpg?ts=1776845209578&w=800",
+   "url": "https://www.zara.com/tr/tr/arkasi-acik-topuklu-ayakkabi-p12250710.html?v1=543529041",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "12110610-802": {
+   "name": "YUMUŞAK EFEKTLİ İNCE TOPUKLU BİLEKTE BOT",
+   "ref": "2110/610",
+   "color": "Gri",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/6abb/3494/d34246b68f2c/71375dfe0014/12110610802-p/12110610802-p.jpg?ts=1759413752809&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-efektli-ince-topuklu-bilekte-bot-p12110610.html?v1=495689007",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   }
+  },
+  "04592018-443": {
+   "name": "TRF KISA PAÇA ÇAN YÜKSEK BEL JEAN",
+   "ref": "4592/018",
+   "color": "Koyu indigo",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 45000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/9637/3070/f24d4bb99ceb/21837c73be0b/04592018443-p/04592018443-p.jpg?ts=1770390255859&w=800",
+   "url": "https://www.zara.com/tr/tr/trf-kisa-paca-can-yuksek-bel-jean-p04592018.html?v1=495675347",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "04174342-251": {
+   "name": "DANTEL DETAYLI ASKILI TOP",
+   "ref": "4174/342",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/ff33/86bc/d30046e7af5e/22504c46b241/04174342251-p/04174342251-p.jpg?ts=1778154562566&w=800",
+   "url": "https://www.zara.com/tr/tr/dantel-askili-top-p04174342.html?v1=547758755",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "05039022-712": {
+   "name": "DANTEL DETAYLI FİTİLLİ TOP",
+   "ref": "5039/022",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/e30b/1c9e/c5b342bfa758/cf11e20c0060/05039022712-p/05039022712-p.jpg?ts=1779982343934&w=800",
+   "url": "https://www.zara.com/tr/tr/dantel-detayli-fitilli-top-p05039022.html?v1=553628798",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "02010845-527": {
+   "name": "BAĞCIKLI HALTER TOP",
+   "ref": "2010/845",
+   "color": "Orta-yeşil",
+   "kind": "Wear",
+   "family": "YELEK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/dd18/d892/8a6b46179421/5806f6927ae2/02010845527-p/02010845527-p.jpg?ts=1776412641779&w=800",
+   "url": "https://www.zara.com/tr/tr/bagcikli-halter-top-p02010845.html?v1=527025338",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "05584399-641": {
+   "name": "STREÇ KORSE TARZI TOP",
+   "ref": "5584/399",
+   "color": "Koyu kırmızı",
+   "kind": "Wear",
+   "family": "DIGER GIYIM ESYASI",
+   "section": "WOMAN",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/be5b/7648/93934c399f2b/61a0c9dba821/05584399641-p/05584399641-p.jpg?ts=1774609767371&w=800",
+   "url": "https://www.zara.com/tr/tr/strec-korse-tarzi-top-p05584399.html?v1=524526194",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "06050321-250": {
+   "name": "FIRFIRLI FİTİLLİ TOP",
+   "ref": "6050/321",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "TISÖRT",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/92a1/5211/5ff146bfa2bb/ada74c5e23a6/06050321250-p/06050321250-p.jpg?ts=1773826973787&w=800",
+   "url": "https://www.zara.com/tr/tr/fitilli-volanli-top-p06050321.html?v1=513415729",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "08246053-802": {
+   "name": "ZW COLLECTİON YÜKSEK BEL GENİŞ PAÇA JEAN",
+   "ref": "8246/053",
+   "color": "Gri",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/177c/4ccf/07de4ec699ad/c454dd63a5d3/08246043802-p/08246043802-p.jpg?ts=1769439704162&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p08246053.html?v1=516134466",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "08851171-712": {
+   "name": "BASIC DÜZ TRİKO KAZAK",
+   "ref": "8851/171",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/c188/8e39/ecdd413688f1/b20aee063775/08851171712-p/08851171712-p.jpg?ts=1762960828181&w=800",
+   "url": "https://www.zara.com/tr/tr/basic-duz-triko-kazak-p08851171.html?v1=503418995",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   }
+  },
+  "06771016-620": {
+   "name": "AJURLU TRİKO HIRKA",
+   "ref": "6771/016",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/0f98/df73/c8db4d30b53c/fd4f048832c8/06771016620-p/06771016620-p.jpg?ts=1773407300023&w=800",
+   "url": "https://www.zara.com/tr/tr/ajurlu-triko-hirka-p06771016.html?v1=530097106",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "03644277-720": {
+   "name": "ASKILI MİDİ ELBİSE",
+   "ref": "3644/277",
+   "color": "Bej marn",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/44ae/bb13/b61f4a96bc95/744172713ad1/03644277720-p/03644277720-p.jpg?ts=1776071953221&w=800",
+   "url": "https://www.zara.com/tr/tr/askili-midi-elbise-p03644277.html?v1=526395462",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   }
+  },
+  "04043246-725": {
+   "name": "ZW COLLECTION PİLİLİ ETEK",
+   "ref": "4043/246",
+   "color": "Tereyağı",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/c2fd/18d9/2c3e4090b92b/c3a601d13593/04043246725-e1/04043246725-e1.jpg?ts=1780578778512&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-pilili-etek-p04043246.html?v1=560403220",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   }
+  },
+  "08246053-407": {
+   "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
+   "ref": "8246/053",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 89000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/6aa4/43e9/538f47feafc6/4d88bc16dedc/08246053407-000-e1/08246053407-000-e1.jpg?ts=1769503923343&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-genis-paca-jean-p08246053.html?v1=507718794",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock",
+    "46": "out_of_stock"
+   }
+  },
+  "07150647-712": {
+   "name": "İŞLEMELİ ÇİÇEKLİ HASIR ŞAPKA",
+   "ref": "7150/647",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "SAPKA",
+   "section": "KID",
+   "price": 19000,
+   "old_price": 29000,
+   "discount": 34,
+   "image": "https://static.zara.net/assets/public/0417/a938/a65542cea31d/3b92f6f0de06/07150647712-e1/07150647712-e1.jpg?ts=1775053780423&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-hasir-sapka-p07150647.html?v1=507744694",
+   "sizes": {
+    "3-6 yaş (52 cm)": "out_of_stock",
+    "6-9 yaş (54 cm)": "out_of_stock"
+   }
+  },
+  "07150600-052": {
+   "name": "LIMITED EDITION İŞLEMELİ BANTLI HASIR ŞAPKA",
+   "ref": "7150/600",
+   "color": "Açık bej",
+   "kind": "Wear",
+   "family": "SAPKA",
+   "section": "KID",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/c937/ae37/32374c19ae9b/e42e47e6736a/07150600052-a1/07150600052-a1.jpg?ts=1773661188910&w=800",
+   "url": "https://www.zara.com/tr/tr/limited-edition-islemeli-hasir-sapka-p07150600.html?v1=502170808",
+   "sizes": {
+    "6-9 yaş (54 cm)": "out_of_stock",
+    "10-14 yaş (56 cm)": "out_of_stock"
+   }
+  },
+  "16537730-002": {
+   "name": "ÇİÇEKLİ BABET",
+   "ref": "6537/730",
+   "color": "Ekru Beyaz",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "KID",
+   "price": 55000,
+   "old_price": 65000,
+   "discount": 15,
+   "image": "https://static.zara.net/assets/public/f3fc/0713/76b847c6a012/4f392637575c/16537730002-e1/16537730002-e1.jpg?ts=1768987309176&w=800",
+   "url": "https://www.zara.com/tr/tr/cicekli-babet-p16537730.html?v1=495688993",
+   "sizes": {
+    "21 (12,9 cm)": "out_of_stock",
+    "22 (13,6 cm)": "out_of_stock",
+    "23 (14,3 cm)": "out_of_stock",
+    "24 (14,9 cm)": "out_of_stock",
+    "25 (15,6 cm)": "out_of_stock",
+    "26 (16,3 cm)": "out_of_stock",
+    "27 (16,9 cm)": "out_of_stock",
+    "28 (17,6 cm)": "out_of_stock",
+    "29 (18,3 cm)": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-25 23:00:25",
+ "last_check": "2026-07-26 09:01:25",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
