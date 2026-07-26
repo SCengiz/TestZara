@@ -4746,9 +4746,32 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    }
+  },
+  "12242710-600": {
+   "name": "ARKASI AÇIK DERİ TOPUKLU AYAKKABI",
+   "ref": "2242/710",
+   "color": "Kırmızı",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/c0b7/9d17/e38b4c1e99a5/9c012ba72fb5/12242710600-p/12242710600-p.jpg?ts=1772202604303&w=800",
+   "url": "https://www.zara.com/tr/tr/arkasi-acik-deri-topuklu-ayakkabi-p12242710.html?v1=495693777",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "in_stock",
+    "42": "out_of_stock"
+   }
   }
  },
- "last_check": "2026-07-26 18:12:39",
+ "last_check": "2026-07-26 18:15:12",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
