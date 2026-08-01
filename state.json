@@ -2729,7 +2729,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock"
+    "XL": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -6216,5 +6216,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 19:10:43"
+ "last_check": "2026-08-01 19:10:45"
 }
