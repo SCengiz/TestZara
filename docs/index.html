@@ -60,6 +60,10 @@
   .stock b { color: var(--green); }
   .badge { display: inline-block; font-size: .72rem; padding: 2px 8px; border-radius: 20px;
            background: var(--bg); border: 1px solid var(--border); color: var(--muted); margin-left: 6px; }
+  .badge-on { background: var(--green); border-color: var(--green); color: #fff; }
+  .checkline { display: flex; align-items: center; gap: 8px; margin-top: 10px;
+               font-size: .85rem; color: var(--muted); cursor: pointer; }
+  .checkline input { width: 18px; height: 18px; accent-color: var(--accent); flex: none; }
   #toast {
     position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%);
     background: var(--text); color: var(--bg); padding: 12px 18px; border-radius: 12px;
@@ -199,22 +203,34 @@ function productCard(i, p, stateProducts) {
       .filter(([s, a]) => AVAILABLE.includes(a)).map(([s]) => s);
     stockLine = `<div class="stock">Stokta: ${inStock.length ? "<b>" + inStock.join(", ") + "</b>" : "—"}</div>`;
   }
+  const allSizes = !!p.all_sizes;
+  const sizeBadge = allSizes
+    ? `<span class="badge badge-on">TÜM BEDENLER</span>` : "";
   const c = el(`<div class="card">
-    <div class="title">${p.name || p.url}<span class="badge">${store}</span></div>
+    <div class="title">${p.name || p.url}<span class="badge">${store}</span>${sizeBadge}</div>
     <div class="meta">ekleyen: ${p.added_by || "?"} · ${p.added_at || ""}</div>
     ${stockLine}
-    <div class="row"><button class="ghost">Takipten çıkar</button></div></div>`);
-  c.querySelector("button").onclick = () => copyCmd(`/sil ${i}`, "Ürün silme");
+    <div class="row">
+      <button class="ghost">${allSizes ? "Beden sınırını geri aç" : "Tüm bedenleri izle"}</button>
+      <button class="ghost">Takipten çıkar</button>
+    </div></div>`);
+  const [toggle, del] = c.querySelectorAll("button");
+  toggle.onclick = () => copyCmd(
+    allSizes ? `/ekle ${p.url}` : `/ekle ${p.url} tum`,
+    allSizes ? "Beden sınırını geri açma" : "Tüm bedenleri izleme");
+  del.onclick = () => copyCmd(`/sil ${i}`, "Ürün silme");
   return c;
 }
 
 let refreshing = false;
 
 async function main() {
-  // Kullanıcı bir kutuya yazı yazıyorsa o turu atla — yenilenme yarım
-  // kalmış bir girişi silmesin. Bir sonraki turda tekrar dener.
-  if (document.activeElement && document.activeElement.tagName === "INPUT"
-      && document.activeElement.value) return;
+  // Kullanıcı bir şey doldurmuşsa (link yazmış veya kutucuk işaretlemiş)
+  // o turu atla — yenilenme yarım kalmış girişi silmesin. Sonraki turda
+  // tekrar dener.
+  const busy = [...document.querySelectorAll("input")].some(
+    el => el.type === "checkbox" ? el.checked : el.value);
+  if (busy) return;
   if (refreshing) return;
   refreshing = true;
   const app = document.getElementById("app");
@@ -252,11 +268,17 @@ async function main() {
     <div class="row">
       <input type="url" placeholder="Ürün linkini yapıştırın">
       <button>Ekle</button>
-    </div></div>`);
+    </div>
+    <label class="checkline">
+      <input type="checkbox" id="allsizes">
+      <span>Beden sınırı olmasın — tüm bedenler bildirilsin</span>
+    </label></div>`);
   add.querySelector("button").onclick = () => {
-    const v = add.querySelector("input").value.trim();
+    const v = add.querySelector("input[type=url]").value.trim();
     if (!/zara\.com|mango\.com/.test(v)) return toast("⚠️ Zara veya Mango ürün linki yapıştırın");
-    copyCmd(`/ekle ${v}`, "Ürün ekleme");
+    const all = add.querySelector("#allsizes").checked;
+    copyCmd(`/ekle ${v}${all ? " tum" : ""}`,
+            all ? "Ürün ekleme (tüm bedenler)" : "Ürün ekleme");
   };
   app.appendChild(add);
 

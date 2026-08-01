@@ -353,11 +353,18 @@ def fetch_mango_product(url, gender_slug, garment_id, color_code):
     return f"mango-{garment_id}-{color_code}", entry
 
 
-def _handle_mango_link(env, config, state, watchlist, match, sender):
+def _handle_mango_link(env, config, state, watchlist, match, sender, all_sizes=False):
     gender_slug, garment_id, color_code = match.groups()
     url = match.group(0)
     mkey = f"mango-{garment_id}-{color_code}"
-    if any(p.get("key") == mkey for p in watchlist["products"]):
+    existing = next((p for p in watchlist["products"] if p.get("key") == mkey), None)
+    if existing:
+        if bool(existing.get("all_sizes")) != all_sizes:
+            existing["all_sizes"] = all_sizes
+            send_telegram(env, f"🔄 {existing.get('name', 'Ürün')} — beden kuralı "
+                               f"güncellendi: {'tüm bedenler' if all_sizes else 'normal sınırlar'}",
+                          disable_preview=True)
+            return True
         send_telegram(env, "ℹ️ Bu ürün zaten takipte.", disable_preview=True)
         return False
     try:
@@ -372,17 +379,21 @@ def _handle_mango_link(env, config, state, watchlist, match, sender):
         "gender_slug": gender_slug, "garment_id": garment_id,
         "color_code": color_code,
         "name": f"{entry['name']}" + (f" ({entry['color']})" if entry["color"] else ""),
+        "all_sizes": all_sizes,
         "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
     })
+    entry["_all_sizes"] = all_sizes
     state.setdefault("products", {})[key] = entry
 
     in_stock = [s for s, a in entry["sizes"].items()
                 if a in AVAILABLE_DEFAULT and size_allowed(config, entry, s)]
-    send_telegram(env, f"✅ Takibe alındı (Mango): {entry['name']}\n"
-                       f"Şu an stokta (kurallara uyan bedenler): "
-                       f"{', '.join(in_stock) if in_stock else 'yok'}\n"
-                       "Yeni beden stoğa girince haber veririm.",
-                  disable_preview=True)
+    msg = f"✅ Takibe alındı (Mango): {entry['name']}\n"
+    if all_sizes:
+        msg += "Beden kuralı: TÜM BEDENLER (sınır yok)\n"
+    msg += f"Şu an stokta ({'tüm bedenler' if all_sizes else 'kurallara uyan bedenler'}): "
+    msg += f"{', '.join(in_stock) if in_stock else 'yok'}\n"
+    msg += "Yeni beden stoğa girince haber veririm."
+    send_telegram(env, msg, disable_preview=True)
     log.info("Gruptan Mango ürünü eklendi (%s): %s", sender, entry["name"])
     return True
 
@@ -396,6 +407,8 @@ def size_allowed(config, entry, size_name):
     """Bir bedenin bildirime konu olup olmayacağına karar verir.
 
     Öncelik sırası:
+    0. _all_sizes — ürün "tüm bedenler" işaretiyle eklendiyse hiçbir sınır
+       uygulanmaz (tekil ürünlerde panelden/komuttan işaretlenir)
     1. size_filters — ürün bazlı istisna (anahtar: display reference "5862/081"
        veya ürün adının bir parçası)
     2. limits — cinsiyete göre üst sınır kuralları:
@@ -405,6 +418,9 @@ def size_allowed(config, entry, size_name):
        bedenlerinde (jean vb.) pants_max üst sınırdır.
     3. Bedeni olmayan ürünler (parfüm, çanta — "STANDART") her zaman izlenir.
     """
+    if entry.get("_all_sizes"):
+        return True
+
     filters = config.get("size_filters") or {}
     for key, sizes in filters.items():
         if key == entry["ref"] or key.lower() in entry["name"].lower():
@@ -583,6 +599,8 @@ HELP_TEXT = (
     "yazınca (/zara_liste3) yuvanın durumunu gösterir.\n"
     "/ekle <link> — tekil ürün takibe al (Zara veya Mango; linkte renk "
     "yoksa ilk renk seçilir)\n"
+    "/ekle <link> tum — beden sınırı olmadan takibe al (tüm bedenler "
+    "bildirilir); zaten takipteki ürüne yazarsanız kuralını değiştirir\n"
     "/liste — tüm yuvaları ve tekil ürünleri göster\n"
     "/sil liste3 — 3. yuvayı boşalt | /sil 2 — 2. tekil ürünü çıkar\n\n"
     "Not: komutsuz atılan linkler takibe alınmaz."
@@ -612,9 +630,18 @@ def _watchlist_lines(watchlist):
     return lines
 
 
-def _handle_product_link(env, config, state, watchlist, v1, sender):
-    if any(p.get("store", "zara") == "zara" and str(p.get("v1")) == str(v1)
-           for p in watchlist["products"]):
+def _handle_product_link(env, config, state, watchlist, v1, sender, all_sizes=False):
+    existing = next((p for p in watchlist["products"]
+                     if p.get("store", "zara") == "zara"
+                     and str(p.get("v1")) == str(v1)), None)
+    if existing:
+        # Zaten takipteyse "tüm bedenler" işaretini güncellemeye izin ver
+        if bool(existing.get("all_sizes")) != all_sizes:
+            existing["all_sizes"] = all_sizes
+            send_telegram(env, f"🔄 {existing.get('name', 'Ürün')} — beden kuralı "
+                               f"güncellendi: {'tüm bedenler' if all_sizes else 'normal sınırlar'}",
+                          disable_preview=True)
+            return True
         send_telegram(env, "ℹ️ Bu ürün zaten takipte.", disable_preview=True)
         return False
     try:
@@ -638,8 +665,10 @@ def _handle_product_link(env, config, state, watchlist, v1, sender):
     watchlist["products"].append({
         "v1": int(v1), "url": entry["url"], "name":
             f"{entry['name']}" + (f" ({entry['color']})" if entry["color"] else ""),
+        "all_sizes": all_sizes,
         "added_by": sender, "added_at": time.strftime("%Y-%m-%d %H:%M"),
     })
+    entry["_all_sizes"] = all_sizes
     # Hemen state'e yaz ki bir sonraki tur mevcut stoğu "yeni girdi" sanmasın
     state.setdefault("products", {})[key] = entry
 
@@ -647,7 +676,10 @@ def _handle_product_link(env, config, state, watchlist, v1, sender):
                 if a in AVAILABLE_DEFAULT and size_allowed(config, entry, s)]
     color = f" ({entry['color']})" if entry["color"] else ""
     msg = f"✅ Takibe alındı: {entry['name']}{color}\n"
-    msg += f"Şu an stokta (kurallara uyan bedenler): {', '.join(in_stock) if in_stock else 'yok'}\n"
+    if all_sizes:
+        msg += "Beden kuralı: TÜM BEDENLER (sınır yok)\n"
+    msg += f"Şu an stokta ({'tüm bedenler' if all_sizes else 'kurallara uyan bedenler'}): "
+    msg += f"{', '.join(in_stock) if in_stock else 'yok'}\n"
     msg += "Yeni beden stoğa girince haber veririm."
     send_telegram(env, msg, disable_preview=True)
     log.info("Gruptan ürün eklendi (%s): %s", sender, entry["name"])
@@ -701,9 +733,23 @@ def _handle_slot_command(env, state, watchlist, slot, text, sender):
     return True
 
 
+ALL_SIZES_WORDS = {"tum", "tumbeden", "tumbedenler", "hepsi", "sinirsiz", "*"}
+
+
+def wants_all_sizes(text):
+    """Komutta 'tüm bedenler' işareti var mı? (/ekle <link> tum)"""
+    norm = (text.replace("İ", "i").lower()
+            .replace("ı", "i").replace("ü", "u").replace("ş", "s")
+            .replace("ö", "o").replace("ç", "c").replace("ğ", "g"))
+    # Link içindeki kelimeler yanlış eşleşmesin diye linkleri çıkar
+    norm = re.sub(r"https?://\S+", " ", norm)
+    return any(w in ALL_SIZES_WORDS for w in norm.split())
+
+
 def _process_links(env, config, state, watchlist, text, sender):
     """Metindeki ürün linklerini takibe alır. (değişti_mi, link_bulundu_mu) döner."""
     changed = found = False
+    all_sizes = wants_all_sizes(text)
     if WISHLIST_RE.search(text):
         found = True
         send_telegram(env, "ℹ️ Favori listeleri yuvalarla yönetiliyor: "
@@ -713,14 +759,15 @@ def _process_links(env, config, state, watchlist, text, sender):
 
     for match in MANGO_PRODUCT_RE.finditer(unquote(text)):
         found = True
-        changed |= _handle_mango_link(env, config, state, watchlist, match, sender)
+        changed |= _handle_mango_link(env, config, state, watchlist, match, sender,
+                                      all_sizes=all_sizes)
 
     handled_pids = set()
     for match in PRODUCT_RE.finditer(text):
         found = True
         handled_pids.add(match.group(1))
         changed |= _handle_product_link(env, config, state, watchlist,
-                                        match.group(2), sender)
+                                        match.group(2), sender, all_sizes=all_sizes)
 
     # v1 parametresi olmayan ürün linkleri: referans aramasıyla rengi çöz
     for match in BARE_PRODUCT_RE.finditer(text):
@@ -744,7 +791,8 @@ def _process_links(env, config, state, watchlist, text, sender):
                                "takibe alınıyor. Başka bir renk istiyorsanız "
                                "linki Paylaş düğmesiyle kopyalayıp atın.",
                           disable_preview=True)
-        changed |= _handle_product_link(env, config, state, watchlist, v1, sender)
+        changed |= _handle_product_link(env, config, state, watchlist, v1, sender,
+                                        all_sizes=all_sizes)
     return changed, found
 
 
@@ -933,6 +981,7 @@ def build_snapshot(state, watchlist, scope="all"):
                     for key, entry in snap.items():
                         if str(entry["url"].split("v1=")[-1]) == str(pr["v1"]):
                             entry["_src"] = "p"
+                            entry["_all_sizes"] = bool(pr.get("all_sizes"))
                             current[key] = entry
                             found.add(str(pr["v1"]))
             any_success = True
@@ -956,6 +1005,7 @@ def build_snapshot(state, watchlist, scope="all"):
             key, entry = fetch_mango_product(pr["url"], pr["gender_slug"],
                                              pr["garment_id"], pr["color_code"])
             entry["_src"] = "p"
+            entry["_all_sizes"] = bool(pr.get("all_sizes"))
             current[key] = entry
             failures.pop(skey, None)
             any_success = True
