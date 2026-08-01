@@ -258,29 +258,6 @@
     "42": "out_of_stock"
    }
   },
-  "13381710-400": {
-   "name": "SÜET TOPUKLU SANDALET",
-   "ref": "3381/710",
-   "color": "Mavi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 69000,
-   "old_price": 99000,
-   "discount": 30,
-   "image": "https://static.zara.net/assets/public/f901/bd79/3ed14ec9bba0/2763aff18d20/13381710400-p/13381710400-p.jpg?ts=1778085639123&w=800",
-   "url": "https://www.zara.com/tr/tr/suet-topuklu-sandalet-p13381710.html?v1=547564306",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   }
-  },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
    "ref": "1226/710",
@@ -5746,7 +5723,7 @@
    }
   }
  },
- "last_check": "2026-08-01 13:24:27",
+ "last_check": "2026-08-01 13:27:07",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
