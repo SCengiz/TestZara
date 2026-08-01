@@ -3997,38 +3997,6 @@
     "XL": "out_of_stock"
    }
   },
-  "00653065-620": {
-   "name": "DÜZ RENK FİTİLLİ KUMAŞ ŞAPKA",
-   "ref": "0653/065",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "SAPKA",
-   "section": "WOMAN",
-   "price": 19000,
-   "old_price": 29000,
-   "discount": 34,
-   "image": "https://static.zara.net/assets/public/4d7a/616a/7e634f5ca310/f5a8dc829018/00653065620-p/00653065620-p.jpg?ts=1777907421155&w=800",
-   "url": "https://www.zara.com/tr/tr/duz-renk-fitilli-kumas-sapka-p00653065.html?v1=511900613",
-   "sizes": {
-    "S-M": "out_of_stock"
-   }
-  },
-  "16060610-721": {
-   "name": "OMUZ SHOPPER",
-   "ref": "6060/610",
-   "color": "Çikolata",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/0487/83c9/41094aa2b891/88ccfbb6d5de/",
-   "url": "https://www.zara.com/tr/tr/omuz-shopper-p16060610.html?v1=527759020",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   }
-  },
   "00024004-600": {
    "name": "ÇİZGİLİ JÜT DERİ ÇANTA",
    "ref": "0024/004",
@@ -5723,7 +5691,7 @@
    }
   }
  },
- "last_check": "2026-08-01 13:29:40",
+ "last_check": "2026-08-01 13:32:09",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
