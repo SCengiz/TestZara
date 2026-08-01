@@ -16,7 +16,8 @@
    "sizes": {
     "STANDART": "unknown"
    },
-   "_src": "p"
+   "_src": "p",
+   "_all_sizes": false
   },
   "mango-27072932-32": {
    "name": "KITTEN TOPUKLU KAYIŞLI SANDALET",
@@ -33,7 +34,8 @@
    "sizes": {
     "STANDART": "unknown"
    },
-   "_src": "p"
+   "_src": "p",
+   "_all_sizes": false
   },
   "mango-27082005-99": {
    "name": "TOPUKLU BILEKTE BOT",
@@ -50,7 +52,8 @@
    "sizes": {
     "STANDART": "unknown"
    },
-   "_src": "p"
+   "_src": "p",
+   "_all_sizes": false
   },
   "11121730-001": {
    "name": "SUNİ İNCİ BONCUKLU ÇAPRAZ ASKILI ÇANTA",
@@ -5974,7 +5977,7 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 13:47:13",
+ "last_check": "2026-08-01 13:49:37",
  "source_failures": {},
  "tg_offset": 4899757,
  "_temp_alerted": false
