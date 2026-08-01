@@ -3845,7 +3845,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6011,5 +6011,5 @@
    "_all_sizes": false
   }
  },
- "last_check": "2026-08-01 18:17:50"
+ "last_check": "2026-08-01 18:18:01"
 }
