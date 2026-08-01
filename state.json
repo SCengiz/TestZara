@@ -2341,8 +2341,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/55f6/21b1/869e4adbb357/c01aa09b1cc7/03046297706-p/03046297706-p.jpg?ts=1758107156553&w=800",
-   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=502059383",
+   "image": "https://static.zara.net/assets/public/4593/2965/6a9e4c5ab2d2/887401e51cdc/03046297706-p/03046297706-p.jpg?ts=1762357607879&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503417983",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -2351,8 +2351,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -4968,8 +4967,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -5989,7 +5987,7 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 14:12:07",
+ "last_check": "2026-08-01 14:12:46",
  "source_failures": {},
  "tg_offset": 4899758,
  "_temp_alerted": false
