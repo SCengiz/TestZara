@@ -2261,7 +2261,7 @@
    "url": "https://www.zara.com/tr/tr/saten-nevresim--300-iplik--p40035088.html?v1=495422825",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
+    "Çift Kişilik (150/160 cm)": "in_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    },
@@ -6225,5 +6225,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 22:54:22"
+ "last_check": "2026-08-01 22:57:22"
 }
