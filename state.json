@@ -6009,7 +6009,41 @@
    },
    "_src": "p",
    "_all_sizes": false
+  },
+  "09967601-942": {
+   "name": "LIMITED EDITION KİRAZ DESENLİ BANDANA",
+   "ref": "9967/601",
+   "color": "Bej pembe",
+   "kind": "Wear",
+   "family": "FULAR",
+   "section": "KID",
+   "price": 9000,
+   "old_price": 19000,
+   "discount": 52,
+   "image": "https://static.zara.net/assets/public/8809/3421/3e0f408d9d07/103ee00c9fb2/09967601942-a1/09967601942-a1.jpg?ts=1773661149579&w=800",
+   "url": "https://www.zara.com/tr/tr/limited-edition-kiraz-desenli-bandana-p09967601.html?v1=502568579",
+   "sizes": {
+    "M": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "11192730-002": {
+   "name": "HASIR EFEKTLİ OMUZ ÇANTASI",
+   "ref": "1192/730",
+   "color": "Ekru Beyaz",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "KID",
+   "price": 40000,
+   "old_price": 45000,
+   "discount": 11,
+   "image": "https://static.zara.net/assets/public/6c5e/613a/7f0c451e8836/b6c0bb35ab37/11192730002-e1/11192730002-e1.jpg?ts=1773743539458&w=800",
+   "url": "https://www.zara.com/tr/tr/hasir-gorunumlu-omuz-cantasi-p11192730.html?v1=499258040",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 18:43:50"
+ "last_check": "2026-08-01 18:45:43"
 }
