@@ -887,22 +887,37 @@ def poll_group_messages(env, config, state, watchlist):
 
 # ------------------------------------------------------------------------- ana
 
-def build_snapshot(state, watchlist):
-    """Tüm kaynaklardan güncel durumu toplar. Kaynak bazlı hata izole edilir."""
+def build_snapshot(state, watchlist, scope="all"):
+    """Kaynaklardan güncel durumu toplar. Kaynak bazlı hata izole edilir.
+
+    scope="all"       → favori listeleri + tekil ürünler (tek seferlik mod)
+    scope="wishlists" → sadece favori listeleri
+    scope="products"  → sadece tekil ürünler (Zara + Mango)
+
+    Her kayıt hangi kaynaktan geldiğini "_src" ile işaretler ("wl" | "p");
+    kısmi taramalarda diğer kaynağın kayıtlarının silinmemesi için gerekli.
+    """
     current = {}
     failures = state.setdefault("source_failures", {})
     any_success = False
 
-    for wl in watchlist["wishlists"]:
-        skey = "wl:" + wl["url"].split("?")[0]
-        try:
-            current.update(fetch_wishlist_snapshot(wl["url"]))
-            failures.pop(skey, None)
-            any_success = True
-        except RuntimeError as exc:
-            failures[skey] = failures.get(skey, 0) + 1
-            log.error("Wishlist okunamadı (%d. kez): %s", failures[skey], exc)
-        time.sleep(random.uniform(3, 6))
+    if scope in ("all", "wishlists"):
+        for wl in watchlist["wishlists"]:
+            skey = "wl:" + wl["url"].split("?")[0]
+            try:
+                snap = fetch_wishlist_snapshot(wl["url"])
+                for entry in snap.values():
+                    entry["_src"] = "wl"
+                current.update(snap)
+                failures.pop(skey, None)
+                any_success = True
+            except RuntimeError as exc:
+                failures[skey] = failures.get(skey, 0) + 1
+                log.error("Wishlist okunamadı (%d. kez): %s", failures[skey], exc)
+            time.sleep(random.uniform(3, 6))
+
+    if scope not in ("all", "products"):
+        return current, any_success
 
     zara_products = [p for p in watchlist["products"] if p.get("store", "zara") == "zara"]
     mango_products = [p for p in watchlist["products"] if p.get("store") == "mango"]
@@ -917,6 +932,7 @@ def build_snapshot(state, watchlist):
                     snap = snapshot_from_product(raw, wanted_v1=pr["v1"])
                     for key, entry in snap.items():
                         if str(entry["url"].split("v1=")[-1]) == str(pr["v1"]):
+                            entry["_src"] = "p"
                             current[key] = entry
                             found.add(str(pr["v1"]))
             any_success = True
@@ -939,6 +955,7 @@ def build_snapshot(state, watchlist):
         try:
             key, entry = fetch_mango_product(pr["url"], pr["gender_slug"],
                                              pr["garment_id"], pr["color_code"])
+            entry["_src"] = "p"
             current[key] = entry
             failures.pop(skey, None)
             any_success = True
@@ -1085,7 +1102,7 @@ def git_sync_state(env):
         log.warning("Git senkronizasyonu başarısız (yoksayılıyor): %s", exc)
 
 
-def run_check(config, env, dry_run=False):
+def run_check(config, env, dry_run=False, scope="all"):
     if in_quiet_hours(config):
         qh = config["quiet_hours"]
         log.info("Sessiz saatler (%02d:00-%02d:00) — kontrol atlanıyor",
@@ -1107,8 +1124,20 @@ def run_check(config, env, dry_run=False):
         except Exception:
             log.exception("Grup mesajları işlenirken hata — tur devam ediyor")
 
-    # 2) Tüm kaynaklardan güncel durumu topla
-    current, any_success = build_snapshot(state, watchlist)
+    # Bu kapsamda taranacak kaynak yoksa boşuna "hiçbir kaynak okunamadı"
+    # hatasına düşme (ör. hiç tekil ürün yokken ürün taraması)
+    n_sources = 0
+    if scope in ("all", "wishlists"):
+        n_sources += len(watchlist["wishlists"])
+    if scope in ("all", "products"):
+        n_sources += len(watchlist["products"])
+    if n_sources == 0:
+        log.debug("'%s' kapsamında takip edilen kaynak yok — tur atlanıyor", scope)
+        save_state(state)
+        return 0
+
+    # 2) İlgili kaynaklardan güncel durumu topla
+    current, any_success = build_snapshot(state, watchlist, scope=scope)
     if not any_success:
         state["consecutive_failures"] = state.get("consecutive_failures", 0) + 1
         log.error("Hiçbir kaynak okunamadı (%d üst üste)", state["consecutive_failures"])
@@ -1153,7 +1182,7 @@ def run_check(config, env, dry_run=False):
                                   photo=entry.get("image") or None)
                     time.sleep(random.uniform(1, 2))
         else:
-            log.info("Değişiklik yok (%d ürün kontrol edildi)", len(current))
+            log.info("Değişiklik yok (%s: %d ürün kontrol edildi)", scope, len(current))
 
         for key, entry in current.items():
             avail = [s for s, a in entry["sizes"].items() if a in AVAILABLE_DEFAULT]
@@ -1163,10 +1192,23 @@ def run_check(config, env, dry_run=False):
     # 4) Kaydet — okunamayan kaynakların eski kayıtları korunur
     merged = dict(previous)
     merged.update(current)
-    tracked_keys = set(current)
-    if any(state.get("source_failures", {}).get("wl:" + w["url"].split("?")[0])
-           for w in watchlist["wishlists"]):
-        tracked_keys |= set(previous)  # wishlist okunamadıysa eskileri silme
+    failures = state.get("source_failures", {})
+    if scope == "all":
+        tracked_keys = set(current)
+        if any(failures.get("wl:" + w["url"].split("?")[0])
+               for w in watchlist["wishlists"]):
+            tracked_keys |= set(previous)  # wishlist okunamadıysa eskileri silme
+    else:
+        # Kısmi tarama: bu turda taranmayan kaynağın kayıtlarına dokunma.
+        # "_src" taşımayan eski kayıtlar da korunur (kendi kaynağı taranınca
+        # etiketlenir) — yanlışlıkla silip "yeni ürün" sanmaktansa fazladan
+        # tutmak güvenli taraf.
+        scope_tag = "wl" if scope == "wishlists" else "p"
+        keep = {k for k, v in previous.items() if v.get("_src") != scope_tag}
+        tracked_keys = set(current) | keep
+        prefix = "wl:" if scope == "wishlists" else "p:"
+        if any(k.startswith(prefix) and n for k, n in failures.items()):
+            tracked_keys |= set(previous)  # bu kaynakta hata varsa hiçbirini silme
     state["products"] = {k: v for k, v in merged.items() if k in tracked_keys}
     state["last_check"] = time.strftime("%Y-%m-%d %H:%M:%S")
     save_state(state)
@@ -1221,22 +1263,44 @@ def main():
         return 0
 
     if args.loop:
-        lo = max(1.0, float(env.get("CHECK_INTERVAL_MIN", "5")))
-        hi = float(env.get("CHECK_INTERVAL_MAX", lo))
-        if hi < lo:
-            lo, hi = hi, lo
-        log.info("Döngü modu: stok kontrolü %.2f-%.2f dk arası (her turda "
-                 "yeniden rastgele seçilir), komutlar ~5 sn'de bir", lo, hi)
-        last_check = 0.0
-        next_interval = random.uniform(lo, hi) * 60
+        def _range(min_key, max_key, default):
+            lo = max(0.5, float(env.get(min_key, default)))
+            hi = float(env.get(max_key, lo))
+            return (hi, lo) if hi < lo else (lo, hi)
+
+        wl_lo, wl_hi = _range("CHECK_INTERVAL_MIN", "CHECK_INTERVAL_MAX", "5")
+        # PRODUCT_INTERVAL_MIN tanımlıysa tekil ürünler ayrı (daha sık)
+        # taranır; tanımlı değilse eski davranış: her şey tek turda.
+        split = bool(env.get("PRODUCT_INTERVAL_MIN"))
+        if split:
+            p_lo, p_hi = _range("PRODUCT_INTERVAL_MIN", "PRODUCT_INTERVAL_MAX", "1")
+            log.info("Döngü modu: tekil ürünler %.2f-%.2f dk, favori listeleri "
+                     "%.2f-%.2f dk arası (her turda rastgele), komutlar ~5 sn'de bir",
+                     p_lo, p_hi, wl_lo, wl_hi)
+        else:
+            log.info("Döngü modu: stok kontrolü %.2f-%.2f dk arası (her turda "
+                     "yeniden rastgele seçilir), komutlar ~5 sn'de bir", wl_lo, wl_hi)
+
+        last_check = last_prod = 0.0
+        next_interval = random.uniform(wl_lo, wl_hi) * 60
+        next_prod = random.uniform(p_lo, p_hi) * 60 if split else 0
         while True:
             try:
+                ran = False
+                if split and time.time() - last_prod >= next_prod:
+                    run_check(config, env, dry_run=args.dry_run, scope="products")
+                    last_prod = time.time()
+                    next_prod = random.uniform(p_lo, p_hi) * 60
+                    log.debug("Sıradaki ürün taraması ~%.2f dk sonra", next_prod / 60)
+                    ran = True
                 if time.time() - last_check >= next_interval:
-                    run_check(config, env, dry_run=args.dry_run)
+                    run_check(config, env, dry_run=args.dry_run,
+                              scope="wishlists" if split else "all")
                     last_check = time.time()
-                    next_interval = random.uniform(lo, hi) * 60
-                    log.debug("Sıradaki kontrol ~%.2f dk sonra", next_interval / 60)
-                elif not args.dry_run:
+                    next_interval = random.uniform(wl_lo, wl_hi) * 60
+                    log.debug("Sıradaki liste taraması ~%.2f dk sonra", next_interval / 60)
+                    ran = True
+                if not ran and not args.dry_run:
                     # Ara turlarda sadece grup komutlarını işle → anlık yanıt
                     state = load_state()
                     watchlist = load_watchlist(config)
