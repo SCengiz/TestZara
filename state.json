@@ -2650,27 +2650,6 @@
    },
    "_src": "wl"
   },
-  "03564081-330": {
-   "name": "DESENLİ FİYONKLU BLUZ",
-   "ref": "3564/081",
-   "color": "Çokrenkli",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/32d9/1e3c/ea464fdcb55d/0b7451de6e83/03564081330-p/03564081330-p.jpg?ts=1770304912370&w=800",
-   "url": "https://www.zara.com/tr/tr/desenli-fiyonkli-bluz-p03564081.html?v1=520942141",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "04387052-622": {
    "name": "OVERSIZE PAMUKLU GÖMLEK",
    "ref": "4387/052",
@@ -4289,26 +4268,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "03233920-620": {
-   "name": "FİYONKLU HALTER YAKA POPLİN TOP",
-   "ref": "3233/920",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/76aa/94f2/3e5442da87e3/31341719a049/03233920620-000-p/03233920620-000-p.jpg?ts=1777036780422&w=800",
-   "url": "https://www.zara.com/tr/tr/fiyonklu-halter-yaka-pilili-poplin-top-p03233920.html?v1=528036376",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -6177,5 +6136,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 19:51:05"
+ "last_check": "2026-08-01 19:56:06"
 }
