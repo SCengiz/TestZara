@@ -105,8 +105,8 @@ cp .env.example .env        # token ve chat id'yi girin
 python3 checker.py --test   # Telegram testi
 python3 checker.py --loop   # sürekli çalışır: komutlar 60 sn, stok CHECK_INTERVAL_MIN'de bir
 ```
-`.env` içindeki `CHECK_INTERVAL_MIN` küsuratlı da olabilir (`2.5` gibi);
-taban 1 dakikadır. Terminali kapatınca da çalışsın ve Mac açılınca
+`.env` içindeki aralıklar küsuratlı da olabilir (`2.5` gibi).
+Terminali kapatınca da çalışsın ve Mac açılınca
 kendiliğinden başlasın isterseniz `deploy/com.zara-watcher.plist`
 dosyasının içindeki 2 yolu kendi kullanıcı adınıza göre düzeltip:
 ```bash
@@ -114,8 +114,10 @@ cp deploy/com.zara-watcher.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/com.zara-watcher.plist
 ```
 Notlar:
-- `--loop` modunda grup komutlarına (~1 dk içinde) **anlık yanıt** verilir;
-  stok kontrolü `CHECK_INTERVAL_MIN`'de birdir.
+- `--loop` modunda grup komutlarına (~5 sn içinde) **anlık yanıt** verilir.
+- Stok taraması iki bağımsız ritimde çalışır: **tekil ürünler**
+  `PRODUCT_INTERVAL_MIN/MAX`, **favori listeleri** `CHECK_INTERVAL_MIN/MAX`
+  aralığında (aşağıdaki "İki katmanlı tarama" bölümüne bakın).
 - Mac **uykuya dalarsa** bot da durur; kapaklı MacBook'ta güç adaptörüne
   takılıyken "Prevent automatic sleeping" açık olmalı (System Settings →
   Battery → Options) veya Amphetamine benzeri bir uygulama kullanın.
@@ -132,7 +134,7 @@ sunuculara göre bot korumasında daha az şüpheli görülür. İki yöntem var
 git clone https://github.com/SCengiz/TestZara.git ~/zara-watcher
 cd ~/zara-watcher
 sudo apt install -y python3-requests
-cp .env.example .env           # token, chat id ve CHECK_INTERVAL_MIN/MAX girin
+cp .env.example .env           # token, chat id ve tarama aralıklarını girin
 python3 checker.py --test
 sudo cp deploy/zara-watcher-loop.service /etc/systemd/system/
 sudo sed -i "s#/home/pi/zara-watcher#$(pwd)#; s/User=pi/User=$(whoami)/" \
@@ -189,6 +191,37 @@ atlanır, hiçbir hataya yol açmaz.
 3. `.github/workflows/check.yml` hazır — 15 dk'da bir otomatik çalışır
    (private repoda aylık 2000 dk Actions kotasına dikkat; public repoda sınırsız)
    (state.json her turda commit'lenerek korunur)
+
+## İki katmanlı tarama (`--loop` modu)
+
+Tekil ürünler ve favori listeleri **bağımsız ritimlerde** taranabilir.
+Mantığı: Zara tekil ürünleri **10'arlı tek istekte** sorgulanabildiği için
+onları sık taramak neredeyse bedavadır; favori listeleri ise her biri ayrı
+istek gerektirir, o yüzden daha seyrek taranır.
+
+```
+PRODUCT_INTERVAL_MIN=1     # tekil ürünler: 1 dk'da bir
+PRODUCT_INTERVAL_MAX=1
+CHECK_INTERVAL_MIN=5       # favori listeleri: 5 dk'da bir
+CHECK_INTERVAL_MAX=5
+```
+
+6 liste + 3 Mango ürünü örneğinde yük karşılaştırması:
+
+| Kurulum | Günlük istek |
+|---|---|
+| Her şey 5 dk'da bir | ~2.600 |
+| **Ürünler 1 dk + listeler 5 dk** | **~4.000** |
+| Her şey 1 dk'da bir | ~13.000 |
+
+- `PRODUCT_INTERVAL_MIN` **boş bırakılırsa** eski davranış korunur: her şey
+  tek turda, `CHECK_INTERVAL` aralığıyla taranır.
+- Tek seferlik mod (`python3 checker.py`, GitHub Actions/Google Apps Script
+  bunu kullanır) her zaman **her şeyi** tarar, bu ayarlardan etkilenmez.
+- Mango ürünleri toplu sorgulanamaz (her biri ayrı istek), o yüzden çok
+  sayıda Mango ürününü 1 dakikaya çekmek yükü ciddi artırır.
+- Kontrol sıklığını artırmak engellenme riskini yükseltir; 1 dakikanın
+  altına inilmesi önerilmez.
 
 ## Ayarlar — `config.json`
 
