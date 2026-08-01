@@ -89,45 +89,45 @@
 
 <script>
 const REPO = "SCengiz/TestZara";
-// Tek kaynağa güvenmek güvenilmez çıktı: api.github.com kimliksizde
-// saatte 60 istekle sınırlı (yoğun günde tıkandı), raw.githubusercontent.com
-// ise farklı isteklerde farklı CDN düğümlerine düşüp biri güncel biri
-// dakikalarca bayat veri dönebiliyor (canlıda ikisi de yaşandı).
-// Çözüm: üç bağımsız kaynağı sırayla dene, ilk çalışanı kullan. Biri
-// tıkanırsa diğeri neredeyse hiç aynı anda tıkanmaz.
-const etagCache = {};
-async function fetchFromApi(path) {
-  const cached = etagCache[path];
-  const headers = { "Accept": "application/vnd.github.raw" };
-  if (cached) headers["If-None-Match"] = cached.etag;
-  const r = await fetch(
-    `https://api.github.com/repos/${REPO}/contents/${path}?ref=main`, { headers });
-  if (r.status === 304 && cached) return cached.data;
-  if (!r.ok) throw r.status;
-  const data = await r.json();
-  etagCache[path] = { etag: r.headers.get("ETag"), data };
-  return data;
-}
-async function fetchFromRaw(path) {
-  const r = await fetch(
-    `https://raw.githubusercontent.com/${REPO}/main/${path}?t=${Date.now()}`,
-    { cache: "no-store" });
+// HİÇBİR kaynağın taze olduğuna güvenilemiyor — canlıda ikisi de yaşandı:
+// bir gün raw.githubusercontent.com dakikalarca bayat veri döndü, ertesi
+// gün api.github.com bayat kaldı (üstelik saatte 60 istekle de sınırlı).
+// Bu yüzden "sırayla dene, ilk çalışanı al" yetmiyor; ilk cevap veren
+// bayat olabiliyor.
+//
+// Çözüm: iki bağımsız CDN'den (ikisinin de sert istek sınırı yok) hem
+// state hem watchlist paralel çekilir, state.last_check'e bakılıp EN TAZE
+// olan kaynağın verisi kullanılır. Bot ikisini birlikte push ettiği için
+// aynı kaynağın iki dosyası kendi içinde tutarlıdır.
+const SOURCES = [
+  { name: "raw", url: (p) => `https://raw.githubusercontent.com/${REPO}/main/${p}?t=${Date.now()}` },
+  { name: "jsdelivr", url: (p) => `https://cdn.jsdelivr.net/gh/${REPO}@main/${p}?t=${Date.now()}` },
+];
+
+async function fetchFrom(src, path) {
+  const r = await fetch(src.url(path), { cache: "no-store" });
   if (!r.ok) throw r.status;
   return r.json();
 }
-async function fetchFromJsdelivr(path) {
-  const r = await fetch(
-    `https://cdn.jsdelivr.net/gh/${REPO}@main/${path}?t=${Date.now()}`,
-    { cache: "no-store" });
-  if (!r.ok) throw r.status;
-  return r.json();
+
+// Bir kaynaktan iki dosyayı birlikte çeker (tutarlı çift)
+async function fetchPair(src) {
+  const [watchlist, state] = await Promise.all([
+    fetchFrom(src, "watchlist.json"),
+    fetchFrom(src, "state.json").catch(() => ({})),
+  ]);
+  return { src: src.name, watchlist, state, stamp: state.last_check || "" };
 }
-async function fetchJsonFresh(path) {
-  let lastErr;
-  for (const fn of [fetchFromApi, fetchFromRaw, fetchFromJsdelivr]) {
-    try { return await fn(path); } catch (e) { lastErr = e; }
+
+// Tüm kaynakları dener, en taze last_check'e sahip olanı döndürür
+async function fetchFreshest() {
+  const results = await Promise.allSettled(SOURCES.map(fetchPair));
+  const ok = results.filter(r => r.status === "fulfilled").map(r => r.value);
+  if (!ok.length) {
+    throw (results[0] && results[0].reason) || "tüm kaynaklar başarısız";
   }
-  throw lastErr;
+  ok.sort((a, b) => (a.stamp < b.stamp ? 1 : a.stamp > b.stamp ? -1 : 0));
+  return ok[0];
 }
 const AVAILABLE = ["in_stock", "low_on_stock"];
 const MAX_SLOTS = 10;
@@ -238,12 +238,13 @@ async function main() {
   if (refreshing) return;
   refreshing = true;
   const app = document.getElementById("app");
-  let watchlist, state;
+  let watchlist, state, srcName;
   try {
-    [watchlist, state] = await Promise.all([
-      fetchJsonFresh("watchlist.json"),
-      fetchJsonFresh("state.json").catch(() => ({})),
-    ]);
+    const best = await fetchFreshest();
+    watchlist = best.watchlist;
+    state = best.state;
+    srcName = best.src;
+    document.getElementById("err").style.display = "none";
   } catch (e) {
     document.getElementById("err").style.display = "block";
     document.getElementById("err").textContent =
@@ -305,13 +306,15 @@ async function main() {
   app.appendChild(el(`<details><summary>Son kontrol: ${state.last_check || "?"} ·
     ${Object.keys(sp).length} ürün-renk kaydı izleniyor · panel ${now} itibarıyla güncel</summary>
     <p class="meta" style="margin-top:8px">Liste/ürün ekleme-silme komutları bota ulaştıktan
-    sonra ~5-10 saniyede işlenir; panel kendiliğinden ~90 sn'de bir yenilenip
+    sonra ~5-10 saniyede işlenir; panel kendiliğinden ~45 sn'de bir yenilenip
     bunu yansıtır (elle yenilemenize gerek yok). Stok taraması ayrı bir
-    ritimde, birkaç dakikada bir yapılır.</p></details>`));
+    ritimde, birkaç dakikada bir yapılır.<br>
+    Veri kaynağı: <b>${srcName}</b> (iki CDN paralel denenip en tazesi seçilir).
+    </p></details>`));
   refreshing = false;
 }
 main();
-setInterval(main, 90000);
+setInterval(main, 45000);
 </script>
 </body>
 </html>
