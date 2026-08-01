@@ -6180,28 +6180,7 @@
     "44": "out_of_stock"
    },
    "_src": "wl"
-  },
-  "08532597-712": {
-   "name": "KEMERLİ DÜZ KESİM PANTOLON",
-   "ref": "8532/597",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/2ac0/bdc3/c0624ea78605/ac8977eb170e/08532597712-p/08532597712-p.jpg?ts=1770191286971&w=800",
-   "url": "https://www.zara.com/tr/tr/kemerli-crop-fit-pantolon-p08532597.html?v1=495689081",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   },
-   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 22:42:14"
+ "last_check": "2026-08-01 22:42:32"
 }
