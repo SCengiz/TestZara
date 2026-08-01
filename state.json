@@ -6156,7 +6156,52 @@
     "13/14 yaş (164 cm)": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "08741251-403": {
+   "name": "OXFORD BASIC GÖMLEK",
+   "ref": "8741/251",
+   "color": "Gök mavisi",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/6e9b/0009/95f043cbb426/4e289fb9f48a/08011919403-p/08011919403-p.jpg?ts=1769098050091&w=800",
+   "url": "https://www.zara.com/tr/tr/oxford-basic-gomlek-p08741251.html?v1=515250127",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "05862061-250": {
+   "name": "Z1975 LOOSE GENİŞ PAÇA ORTA BEL JEAN",
+   "ref": "5862/061",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/b8ae/2868/a8474322aa69/31aeda4eb37c/05862061250-p/05862061250-p.jpg?ts=1770285667172&w=800",
+   "url": "https://www.zara.com/tr/tr/z1975-loose-genis-paca-orta-bel-jean-p05862061.html?v1=520942070",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 20:37:20"
+ "last_check": "2026-08-01 20:38:56"
 }
