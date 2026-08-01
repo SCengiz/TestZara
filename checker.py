@@ -1101,11 +1101,50 @@ def in_quiet_hours(config):
 
 
 GITHUB_PUSH_URL = "https://github.com/SCengiz/TestZara.git"
+PUSH_MARKER_FILE = BASE_DIR / ".push_marker.json"
+
+
+def _data_digest():
+    """state + watchlist'in 'anlamlı' özeti — last_check hariç.
+
+    last_check her turda değiştiği için ona bakılırsa dakikada bir push
+    gerekir. Onu dışlayınca sadece gerçek değişiklikler (stok, ürün/liste
+    ekleme-silme, kaynak hataları) push tetikler.
+    """
+    import hashlib
+    st = {k: v for k, v in _load_json(STATE_FILE, {}).items() if k != "last_check"}
+    wl = _load_json(WATCHLIST_FILE, {})
+    blob = json.dumps([st, wl], sort_keys=True, ensure_ascii=False)
+    return hashlib.sha256(blob.encode("utf-8")).hexdigest()
+
+
+def _should_push(env):
+    """Anlamlı değişiklik varsa hemen, yoksa nabız aralığında bir kez True.
+
+    Nabız: panelin 'son kontrol' saati tamamen donup bot ölmüş gibi
+    görünmesin diye, değişiklik olmasa da arada bir push edilir.
+    """
+    digest = _data_digest()
+    marker = _load_json(PUSH_MARKER_FILE, {})
+    heartbeat = float(env.get("GIT_PUSH_HEARTBEAT_MIN", "20")) * 60
+    changed = digest != marker.get("digest")
+    stale = time.time() - float(marker.get("ts", 0)) >= heartbeat
+    if not changed and not stale:
+        return False, None
+    return True, digest
+
+
+def _mark_pushed(digest):
+    _save_json(PUSH_MARKER_FILE, {"digest": digest, "ts": time.time()})
 
 
 def git_sync_state(env):
     """.env'de GITHUB_PUSH_TOKEN tanımlıysa state.json/watchlist.json
     değişikliklerini GitHub'a push eder (panelin canlı kalması için).
+
+    Her turda değil, yalnızca anlamlı bir değişiklik olduğunda ya da
+    GIT_PUSH_HEARTBEAT_MIN (varsayılan 20 dk) nabız aralığı dolduğunda
+    push eder — aksi halde dakikada bir commit birikir.
 
     Git deposu değilse, token yoksa veya gerçekten bir değişiklik yoksa
     sessizce hiçbir şey yapmaz. Push başarısız olursa botun geri kalanını
@@ -1113,6 +1152,10 @@ def git_sync_state(env):
     """
     token = env.get("GITHUB_PUSH_TOKEN")
     if not token or not (BASE_DIR / ".git").exists():
+        return
+    do_push, digest = _should_push(env)
+    if not do_push:
+        log.debug("Anlamlı değişiklik yok — push atlandı")
         return
     import subprocess
 
@@ -1146,12 +1189,15 @@ def git_sync_state(env):
         #    dahil) push et. Böylece geçici bir hata sonrası kendini onarır.
         ahead = run(["git", "rev-list", "--count", "origin/main..HEAD"])
         if ahead.stdout.strip() in ("", "0"):
+            _mark_pushed(digest)  # zaten senkron; nabzı yeniden başlat
             return  # gönderilecek bir şey yok
         auth_url = GITHUB_PUSH_URL.replace("https://", f"https://{token}@")
         push = run(["git", "push", auth_url, "HEAD:main"])
         if push.returncode != 0:
+            # Başarısızsa işaret güncellenmez → sonraki turda tekrar denenir
             log.warning("git push başarısız: %s", push.stderr.strip()[:300])
         else:
+            _mark_pushed(digest)
             log.debug("state/watchlist GitHub'a push edildi")
     except Exception as exc:
         log.warning("Git senkronizasyonu başarısız (yoksayılıyor): %s", exc)

@@ -3,3 +3,4 @@ zara-watcher.log
 __pycache__/
 *.pyc
 .claude/
+.push_marker.json
