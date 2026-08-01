@@ -2707,7 +2707,7 @@
    "url": "https://www.zara.com/tr/tr/drapeli-uzun-elbise-p01165458.html?v1=527895123",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -5952,10 +5952,10 @@
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "in_stock",
-    "XL": "in_stock",
-    "XXL": "in_stock"
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
    },
    "_src": "p",
    "_all_sizes": false
@@ -6216,5 +6216,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 18:49:35"
+ "last_check": "2026-08-01 18:50:44"
 }
