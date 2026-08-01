@@ -6043,7 +6043,156 @@
     "STANDART": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "01165540-402": {
+   "name": "İŞLEMELİ YAKA ÇİZGİLİ GÖMLEK",
+   "ref": "1165/540",
+   "color": "Turkuaz",
+   "kind": "Wear",
+   "family": "GOMLEK",
+   "section": "KID",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/aba5/1b6e/cd1b45079813/19a6c0501ca7/01165540402201-p/01165540402201-p.jpg?ts=1779714697459&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-cizgili-gomlek-p01165540.html?v1=567485946",
+   "sizes": {
+    "1½ yaş (86 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "05767639-251": {
+   "name": "DALGALI DOKULU TOP",
+   "ref": "5767/639",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "GOMLEK",
+   "section": "KID",
+   "price": 29000,
+   "old_price": 39000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/6bf7/bba1/322b4164aa2c/f81e426e9e81/05767639251200-p/05767639251200-p.jpg?ts=1772623846898&w=800",
+   "url": "https://www.zara.com/tr/tr/dalgali-dokulu-top-p05767639.html?v1=547027428",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "09598510-706": {
+   "name": "KROŞE ÇİÇEK ÖRGÜ TOP",
+   "ref": "9598/510",
+   "color": "Vizon",
+   "kind": "Wear",
+   "family": "TISORT",
+   "section": "KID",
+   "price": 22000,
+   "old_price": 35000,
+   "discount": 37,
+   "image": "https://static.zara.net/assets/public/3421/80f6/a7024ca5936a/6256eb463475/09598510706200-p/09598510706200-p.jpg?ts=1770631997424&w=800",
+   "url": "https://www.zara.com/tr/tr/krose-cicek-detayli-triko-top-p09598510.html?v1=521394026",
+   "sizes": {
+    "1½ yaş (86 cm)": "low_on_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "07878593-629": {
+   "name": "KABARTMA GABY´S DOLLHOUSE ® DREAM WORKS T-SHIRT",
+   "ref": "7878/593",
+   "color": "Lila",
+   "kind": "Wear",
+   "family": "TISORT",
+   "section": "KID",
+   "price": 22000,
+   "old_price": 35000,
+   "discount": 37,
+   "image": "https://static.zara.net/assets/public/e4db/5892/1a7c48d18178/1b1acca97bac/07878593629-e1/07878593629-e1.jpg?ts=1767772691641&w=800",
+   "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-kabartma-t-shirt-p07878593.html?v1=498612431",
+   "sizes": {
+    "1½ yaş (86 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "out_of_stock",
+    "6 yaş (116 cm)": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "11152730-002": {
+   "name": "HASIR ETKİLİ ÇAPRAZ ASKILI ÇANTA",
+   "ref": "1152/730",
+   "color": "Ekru Beyaz",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "KID",
+   "price": 65000,
+   "old_price": 75000,
+   "discount": 13,
+   "image": "https://static.zara.net/assets/public/12ba/0cc8/219041babd0a/7d5a8d3e25ed/11152730002001-p/11152730002001-p.jpg?ts=1772729452462&w=800",
+   "url": "https://www.zara.com/tr/tr/hasir-etkili-capraz-askili-canta-p11152730.html?v1=495674856",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "01168602-505": {
+   "name": "İŞLEMELİ SUNİ SÜET CEKET",
+   "ref": "1168/602",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "KID",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/9e97/ed72/0f344ad29a39/1270717b6fe6/01168602505-e1/01168602505-e1.jpg?ts=1773074785562&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-suni-suet-ceket-p01168602.html?v1=529385364",
+   "sizes": {
+    "6/7 yaş (122 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "out_of_stock",
+    "12/13 yaş (156 cm)": "low_on_stock",
+    "13/14 yaş (164 cm)": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "00595619-800": {
+   "name": "DENIM BERMUDA",
+   "ref": "0595/619",
+   "color": "Siyah",
+   "kind": "Wear",
+   "family": "BERMUDA",
+   "section": "KID",
+   "price": 35000,
+   "old_price": 45000,
+   "discount": 22,
+   "image": "https://static.zara.net/assets/public/e318/fa30/2af041fdac4c/b899a6d2d1fe/00595619800-e1/00595619800-e1.jpg?ts=1774338403828&w=800",
+   "url": "https://www.zara.com/tr/tr/bagcikli-denim-bermuda-p00595619.html?v1=496826333",
+   "sizes": {
+    "6/7 yaş (122 cm)": "in_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "out_of_stock",
+    "12/13 yaş (156 cm)": "out_of_stock",
+    "13/14 yaş (164 cm)": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 18:45:43"
+ "last_check": "2026-08-01 18:48:17"
 }
