@@ -66,9 +66,14 @@ BARE_PRODUCT_RE = re.compile(r"https://www\.zara\.com/[a-z]{2}/[a-z]{2}/[\w-]+-p
 # Mango ürün linki: /p/<bölüm>/<...>/<slug>/<ürün no>/<renk>/00
 MANGO_PRODUCT_RE = re.compile(
     r"https://shop\.mango\.com/[a-z]{2}/[a-z]{2}/p/([^/\s]+)/[^\s]*?/(\d+)/(\w+)/\d+")
+# Mango beden bloğu. İki yazımı da destekler:
+#   eski: id="pdp.productInfo.sizeSelector.sizeAvailable.19"
+#   yeni: id="product.sizeSelector.available.18"   (2026-08 itibarıyla)
+# Beden adı, hemen ardından gelen textActionM sınıflı span içindedir.
 MANGO_SIZE_RE = re.compile(
-    r'sizeSelector\.size(Available|Unavailable)\.\d+"[^>]*>.*?'
-    r'<span class="textActionM[^"]*">([^<]+)</span>', re.S)
+    r'sizeSelector\.(?:size)?(available|unavailable)\.\d+"'
+    r'.{0,600}?<span class="[^"]*textActionM[^"]*">([^<]+)</span>',
+    re.S | re.I)
 
 log = logging.getLogger("zara-watcher")
 
