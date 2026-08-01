@@ -3761,7 +3761,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4430,7 +4430,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-crop-pantolon-p07149074.html?v1=543493783",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4802,7 +4802,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -4967,7 +4967,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
@@ -6011,5 +6011,5 @@
    "_all_sizes": false
   }
  },
- "last_check": "2026-08-01 18:33:30"
+ "last_check": "2026-08-01 18:35:37"
 }
