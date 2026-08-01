@@ -46,9 +46,13 @@
   .card .meta { color: var(--muted); font-size: .8rem; margin-top: 2px; }
   .empty { border-style: dashed; color: var(--muted); }
   .row { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
-  input[type=url] {
+  input[type=url], textarea {
     flex: 1 1 200px; padding: 10px 12px; border-radius: 10px; font-size: .9rem;
     border: 1px solid var(--border); background: var(--bg); color: var(--text);
+  }
+  textarea {
+    width: 100%; margin-top: 10px; resize: vertical; font-family: inherit;
+    line-height: 1.4;
   }
   button {
     padding: 10px 14px; border: none; border-radius: 10px; font-size: .9rem;
@@ -228,8 +232,8 @@ async function main() {
   // Kullanıcı bir şey doldurmuşsa (link yazmış veya kutucuk işaretlemiş)
   // o turu atla — yenilenme yarım kalmış girişi silmesin. Sonraki turda
   // tekrar dener.
-  const busy = [...document.querySelectorAll("input")].some(
-    el => el.type === "checkbox" ? el.checked : el.value);
+  const busy = [...document.querySelectorAll("input, textarea")].some(
+    el => el.type === "checkbox" ? el.checked : el.value.trim());
   if (busy) return;
   if (refreshing) return;
   refreshing = true;
@@ -265,20 +269,35 @@ async function main() {
 
   const add = el(`<div class="card">
     <div class="title">➕ Ürün ekle (Zara veya Mango)</div>
-    <div class="row">
-      <input type="url" placeholder="Ürün linkini yapıştırın">
-      <button>Ekle</button>
-    </div>
+    <textarea id="addlinks" rows="3"
+      placeholder="Ürün linklerini yapıştırın — birden fazlaysa her satıra bir tane"></textarea>
+    <div class="meta" id="linkcount">Henüz link yok</div>
     <label class="checkline">
       <input type="checkbox" id="allsizes">
       <span>Beden sınırı olmasın — tüm bedenler bildirilsin</span>
-    </label></div>`);
+    </label>
+    <div class="row"><button>Ekle</button></div></div>`);
+
+  const ta = add.querySelector("#addlinks");
+  const counter = add.querySelector("#linkcount");
+  const linksOf = (t) => (t.match(/https?:\/\/[^\s]+/g) || [])
+    .filter(u => /zara\.com|mango\.com/.test(u));
+  ta.addEventListener("input", () => {
+    const n = linksOf(ta.value).length;
+    counter.textContent = n ? `${n} ürün linki algılandı` : "Henüz link yok";
+  });
   add.querySelector("button").onclick = () => {
-    const v = add.querySelector("input[type=url]").value.trim();
-    if (!/zara\.com|mango\.com/.test(v)) return toast("⚠️ Zara veya Mango ürün linki yapıştırın");
+    const links = linksOf(ta.value);
+    if (!links.length) return toast("⚠️ Zara veya Mango ürün linki yapıştırın");
     const all = add.querySelector("#allsizes").checked;
-    copyCmd(`/ekle ${v}${all ? " tum" : ""}`,
-            all ? "Ürün ekleme (tüm bedenler)" : "Ürün ekleme");
+    const cmd = `/ekle ${links.join(" ")}${all ? " tum" : ""}`;
+    if (cmd.length > 3900) {
+      return toast("⚠️ Çok fazla link — Telegram mesaj sınırını aşar, birkaç parçaya bölün");
+    }
+    if (links.length > 15) {
+      toast(`ℹ️ ${links.length} ürün sırayla işlenecek, biraz sürebilir`);
+    }
+    copyCmd(cmd, `${links.length} ürün ekleme${all ? " (tüm bedenler)" : ""}`);
   };
   app.appendChild(add);
 
