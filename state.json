@@ -1552,7 +1552,7 @@
    "price": 159000,
    "old_price": 219000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/33cd/57f6/f1fe40818c14/1e1674b6538e/40131088436-e1/40131088436-e1.jpg?ts=1781173463787&w=800",
+   "image": "https://static.zara.net/assets/public/33cd/57f6/f1fe40818c14/1e1674b6538e/40131088436-e,
    "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=523909891",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
@@ -1780,6 +1780,8 @@
   },
   "46147088-500": {
    "name": "ÇİZGİLİ SEERSUCKER NEVRESİM",
+   "ref": "6147/088",
+   "color": "Yeşil",
    "ref": "6147/088",
    "color": "Yeşil",
    "kind": "Wear",
@@ -2049,7 +2051,7 @@
    "old_price": 49000,
    "discount": 20,
    "image": "https://static.zara.net/assets/public/dfb8/a1a1/fb534dd5aacc/c089d5942fa5/02142168712-p/02142168712-p.jpg?ts=1756281818050&w=800",
-   "url": "https://www.zara.com/tr/tr/yumusak-triko-kazak-p02142161.html?v1=503418797",
+   "url": "https://www.zara.com/tr/tr/yumu,
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -2222,8 +2224,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "06318023-700": {
    "name": "SUNİ KÜRKLÜ KISA KABAN",
@@ -2311,6 +2312,9 @@
   "06136045-505": {
    "name": "ZW COLLECTION KISA DÖKÜMLÜ TRENÇKOT",
    "ref": "6136/045",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "B"6136/045",
    "color": "Haki",
    "kind": "Wear",
    "family": "BLAZER",
@@ -2803,9 +2807,7 @@
    "image": "https://static.zara.net/assets/public/2286/ed60/b7814e0cbde5/c6a5a98eb4a9/05992507926-e1/05992507926-e1.jpg?ts=1769100335605&w=800",
    "url": "https://www.zara.com/tr/tr/su-gecirmez-cicekli-ultra-hafif-ceket-p05992507.html?v1=495670104",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    ,
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -3040,6 +3042,8 @@
    "discount": 28,
    "image": "https://static.zara.net/assets/public/e6f4/5362/f3794c44b19d/87e5b45d6b60/12348710800-p/12348710800-p.jpg?ts=1775662020303&w=800",
    "url": "https://www.zara.com/tr/tr/metal-detayli-sandalet-p12348710.html?v1=508407489",
+   "sizes": {
+    "35": "ou: "https://www.zara.com/tr/tr/metal-detayli-sandalet-p12348710.html?v1=508407489",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -3848,13 +3852,7 @@
    "image": "https://static.zara.net/assets/public/8c6a/2301/745e476ba244/751b7fbbd323/04813305800-p/04813305800-p.jpg?ts=1768472915186&w=800",
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=498245350",
    "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "11235610-049": {
+    "S": {
    "name": "ÇİÇEK DETAYLI SÜET TOPUKLU AYAKKABI",
    "ref": "1235/610",
    "color": "Gül",
@@ -3897,8 +3895,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -3919,8 +3916,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04770160-712": {
    "name": "PİLİLİ JAKARLI ELBİSE",
@@ -4115,10 +4111,16 @@
    "family": "CANTA",
    "section": "WOMAN",
    "price": 59000,
+   "old_price",
+   "ref": "6212/711",
+   "color": "Bordo Kırmızı",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/eeaa/1998/3132466e84bd/7af03068e156/16212711624-e1/16212711624-e1.jpg?ts=1771945481984&w=800",
-   "url": "https://www.zara.com/tr/tr/mini-hasir-tote-canta-p16212711.html?v1=526250577",
+   "image": "https://static.zara.net/assets/public/eeaa/1998/3132466e84bd/7af030,
    "sizes": {
     "STANDART": "out_of_stock"
    },
@@ -4370,6 +4372,13 @@
    "discount": 25,
    "image": "https://static.zara.net/assets/public/dd18/d892/8a6b46179421/5806f6927ae2/02010845527-p/02010845527-p.jpg?ts=1776412641779&w=800",
    "url": "https://www.zara.com/tr/tr/bagcikli-halter-top-p02010845.html?v1=527025338",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": ,
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -4907,8 +4916,7 @@
    "price": 49000,
    "old_price": 69000,
    "discount": 28,
-   "image": "https://static.zara.net/assets/public/4c37/8338/2fab426a83a1/21d52e045475/11625710091-p/11625710091-p.jpg?ts=1779452280628&w=800",
-   "url": "https://www.zara.com/tr/tr/metalik-etkili-duz-sandalet-p11625710.html?v1=551740989",
+   "image": "https://static.zara.net/ass,
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -4988,8 +4996,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -5168,6 +5175,7 @@
    "old_price": 59000,
    "discount": 33,
    "image": "https://static.zara.net/assets/public/b11c/ac5e/5f414a729c4e/358a05372577/04387076622-p/04387076622-p.jpg?ts=1773653076916&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-pamuklu-gomlek-p04387052.html?v1=505763: "https://static.zara.net/assets/public/b11c/ac5e/5f414a729c4e/358a05372577/04387076622-p/04387076622-p.jpg?ts=1773653076916&w=800",
    "url": "https://www.zara.com/tr/tr/oversize-pamuklu-gomlek-p04387052.html?v1=505763699",
    "sizes": {
     "XS": "out_of_stock",
@@ -6009,7 +6017,7 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 17:14:12",
+ "last_check": "2026-08-01 17:17:34",
  "source_failures": {},
  "tg_offset": 4899758,
  "_temp_alerted": false
