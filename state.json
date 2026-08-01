@@ -3059,7 +3059,7 @@
    "url": "https://www.zara.com/tr/tr/fiyonklu-romantik-triko-top-p06236029.html?v1=519074255",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6011,5 +6011,5 @@
    "_all_sizes": false
   }
  },
- "last_check": "2026-08-01 18:18:01"
+ "last_check": "2026-08-01 18:20:31"
 }
