@@ -3339,7 +3339,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -6170,7 +6170,31 @@
     "13/14 yaş (164 cm)": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "12804710-700": {
+   "name": "SU TUTMAZ TOKALI DERİ ÇİZME",
+   "ref": "2804/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 179000,
+   "old_price": 219000,
+   "discount": 18,
+   "image": "https://static.zara.net/assets/public/1848/3b0b/1e024436a965/d3915eee5752/12804710700-p/12804710700-p.jpg?ts=1763733367147&w=800",
+   "url": "https://www.zara.com/tr/tr/su-tutmaz-tokali-deri-cizme-p12804710.html?v1=511064786",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 19:31:00"
+ "last_check": "2026-08-01 19:33:32"
 }
