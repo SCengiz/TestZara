@@ -148,7 +148,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13502510-800": {
    "name": "DERİ DÜZ BABET",
@@ -292,7 +293,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2220,7 +2222,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "06318023-700": {
    "name": "SUNİ KÜRKLÜ KISA KABAN",
@@ -2345,7 +2348,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -2357,8 +2361,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/4593/2965/6a9e4c5ab2d2/887401e51cdc/03046297706-p/03046297706-p.jpg?ts=1762357607879&w=800",
-   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503417983",
+   "image": "https://static.zara.net/assets/public/55f6/21b1/869e4adbb357/c01aa09b1cc7/03046297706-p/03046297706-p.jpg?ts=1758107156553&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=502059383",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -2367,7 +2371,8 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -3892,7 +3897,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -3913,7 +3919,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04770160-712": {
    "name": "PİLİLİ JAKARLI ELBİSE",
@@ -4514,7 +4521,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -4814,7 +4822,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -4979,7 +4988,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -5387,8 +5397,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/c1f9/1fa6/eac54635bb33/acb15af0ab1a/04070023716-p/04070023716-p.jpg?ts=1768571876027&w=800",
-   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=513128945",
+   "image": "https://static.zara.net/assets/public/824e/7aa7/a70540db919a/ff8987eed610/04070023716-p/04070023716-p.jpg?ts=1768488019254&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=495680184",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -5396,7 +5406,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -5542,7 +5553,8 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "08490744-712": {
    "name": "ÇİFT TARAFLI CEKET",
@@ -5997,7 +6009,7 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-01 16:57:52",
+ "last_check": "2026-08-01 16:58:44",
  "source_failures": {},
  "tg_offset": 4899758,
  "_temp_alerted": false
