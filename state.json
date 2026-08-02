@@ -5886,9 +5886,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 119999,
+   "price": 79999,
    "old_price": 199999,
-   "discount": 40,
+   "discount": 60,
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
@@ -5899,7 +5899,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    },
    "_src": "p",
    "_all_sizes": false
@@ -6268,5 +6268,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-02 09:51:08"
+ "last_check": "2026-08-02 09:51:09"
 }
