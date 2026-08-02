@@ -256,8 +256,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -857,8 +856,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -978,8 +976,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2261,7 +2258,7 @@
    "url": "https://www.zara.com/tr/tr/saten-nevresim--300-iplik--p40035088.html?v1=495422825",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    },
@@ -2502,8 +2499,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3290,8 +3286,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/824e/7aa7/a70540db919a/ff8987eed610/04070023716-p/04070023716-p.jpg?ts=1768488019254&w=800",
-   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=495680184",
+   "image": "https://static.zara.net/assets/public/c1f9/1fa6/eac54635bb33/acb15af0ab1a/04070023716-p/04070023716-p.jpg?ts=1768571876027&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=513128945",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -3299,8 +3295,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3342,8 +3337,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3465,8 +3459,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -4015,8 +4008,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -4307,8 +4299,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -4329,8 +4320,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4977,7 +4967,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -5013,8 +5003,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/55f6/21b1/869e4adbb357/c01aa09b1cc7/03046297706-p/03046297706-p.jpg?ts=1758107156553&w=800",
-   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=502059383",
+   "image": "https://static.zara.net/assets/public/4593/2965/6a9e4c5ab2d2/887401e51cdc/03046297706-p/03046297706-p.jpg?ts=1762357607879&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503417983",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -5023,8 +5013,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -5088,7 +5077,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "out_of_stock"
+    "13/14 yaş (164 cm)": "low_on_stock"
    },
    "_src": "wl"
   },
@@ -5300,7 +5289,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "in_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -6114,28 +6103,6 @@
    },
    "_src": "wl"
   },
-  "04786626-684": {
-   "name": "FIRFIRLI YAKALI ROMANTİK GÖMLEK",
-   "ref": "4786/626",
-   "color": "Koyu şarap rengi",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "KID",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/9198/3229/40cd40adbc44/46e89b49c28a/04786626684-p/04786626684-p.jpg?ts=1767868604806&w=800",
-   "url": "https://www.zara.com/tr/tr/firfirli-yakali-romantik-gomlek-p04786626.html?v1=511064550",
-   "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "out_of_stock",
-    "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "08741251-403": {
    "name": "OXFORD BASIC GÖMLEK",
    "ref": "8741/251",
@@ -6223,7 +6190,72 @@
     "41": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "02803615-250": {
+   "name": "ZW COLLECTION VOLÜMLÜ ETEK",
+   "ref": "2803/615",
+   "color": "Beyaz",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/68b6/db92/c0f44d0d9441/27ba74cfefa7/02803615250-p/02803615250-p.jpg?ts=1779791107283&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-hacimli-etek-p02803615.html?v1=552933340",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "00975002-641": {
+   "name": "OVERSIZE YIKANMIŞ POPLİN GÖMLEK",
+   "ref": "0975/002",
+   "color": "Koyu kırmızı",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/736e/f6fd/4aa04372bf40/2a9b26cdf659/00975002641-p/00975002641-p.jpg?ts=1770389284219&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-yikanmis-poplin-gomlek-p00975002.html?v1=503818547",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "03548241-087": {
+   "name": "ÇİFT TARAFLI ZW KOLEKSİYONU CEKET",
+   "ref": "3548/241",
+   "color": "Kahverengi / Ekru",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/4893/ff8e/bfee4765affd/6c01a0173200/03548241087-p/03548241087-p.jpg?ts=1758880984893&w=800",
+   "url": "https://www.zara.com/tr/tr/cift-tarafli-zw-koleksiyonu-ceket-p03548241.html?v1=503416485",
+   "sizes": {
+    "XXS": "out_of_stock",
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-01 22:59:51"
+ "last_check": "2026-08-02 09:00:37"
 }
