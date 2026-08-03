@@ -2339,7 +2339,7 @@
    "image": "https://static.zara.net/assets/public/516b/d600/83cf40bdae3c/366006df383b/45241341551-e1/45241341551-e1.jpg?ts=1770890140441&w=800",
    "url": "https://www.zara.com/tr/tr/celik-bahce-sulama-kabi-p45241341.html?v1=502338358",
    "sizes": {
-    "10.5 x 7.5 x 17.5 cm": "out_of_stock",
+    "10.5 x 7.5 x 17.5 cm": "low_on_stock",
     "19 x 12 x 29 cm": "out_of_stock",
     "25 x 18 x 39 cm": "out_of_stock"
    },
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 16:20:38"
+ "last_check": "2026-08-03 16:20:54"
 }
