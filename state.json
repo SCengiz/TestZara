@@ -3727,25 +3727,6 @@
    },
    "_src": "wl"
   },
-  "05039022-712": {
-   "name": "DANTEL DETAYLI FİTİLLİ TOP",
-   "ref": "5039/022",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 35000,
-   "discount": 17,
-   "image": "https://static.zara.net/assets/public/e30b/1c9e/c5b342bfa758/cf11e20c0060/05039022712-p/05039022712-p.jpg?ts=1779982343934&w=800",
-   "url": "https://www.zara.com/tr/tr/dantel-detayli-fitilli-top-p05039022.html?v1=553628798",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "02010845-527": {
    "name": "BAĞCIKLI HALTER TOP",
    "ref": "2010/845",
@@ -3765,44 +3746,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "05584399-641": {
-   "name": "STREÇ KORSE TARZI TOP",
-   "ref": "5584/399",
-   "color": "Koyu kırmızı",
-   "kind": "Wear",
-   "family": "DIGER GIYIM ESYASI",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 35000,
-   "discount": 17,
-   "image": "https://static.zara.net/assets/public/be5b/7648/93934c399f2b/61a0c9dba821/05584399641-p/05584399641-p.jpg?ts=1774609767371&w=800",
-   "url": "https://www.zara.com/tr/tr/strec-korse-tarzi-top-p05584399.html?v1=524526194",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "06050321-250": {
-   "name": "FIRFIRLI FİTİLLİ TOP",
-   "ref": "6050/321",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 39000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/92a1/5211/5ff146bfa2bb/ada74c5e23a6/06050321250-p/06050321250-p.jpg?ts=1773826973787&w=800",
-   "url": "https://www.zara.com/tr/tr/fitilli-volanli-top-p06050321.html?v1=513415729",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -4141,25 +4084,6 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "04770160-712": {
-   "name": "PİLİLİ JAKARLI ELBİSE",
-   "ref": "4770/160",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/8962/d122/2b0145678c3d/658ebe2c01c0/04770160712-p/04770160712-p.jpg?ts=1773826968603&w=800",
-   "url": "https://www.zara.com/tr/tr/pilili-jakarli-elbise-p04770160.html?v1=509498062",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -5259,7 +5183,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-cicek-desenli-elbise-p01381645.html?v1=544001992",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "low_on_stock",
+    "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock"
    },
@@ -6162,5 +6086,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 18:27:17"
+ "last_check": "2026-08-03 18:28:52"
 }
