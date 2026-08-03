@@ -3420,7 +3420,7 @@
    "url": "https://www.zara.com/tr/tr/straplez-elbise-p04770303.html?v1=502280157",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -5321,7 +5321,7 @@
    "image": "https://static.zara.net/assets/public/0b2b/c449/581546dcbc28/14a707fccbd2/01639602681-p/01639602681-p.jpg?ts=1768987775813&w=800",
    "url": "https://www.zara.com/tr/tr/bebe-yaka-kadife-ceket-p01639602.html?v1=514776931",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "low_on_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 17:51:10"
+ "last_check": "2026-08-03 17:53:39"
 }
