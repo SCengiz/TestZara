@@ -256,8 +256,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -857,8 +856,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -978,8 +976,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2502,8 +2499,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3269,8 +3265,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/824e/7aa7/a70540db919a/ff8987eed610/04070023716-p/04070023716-p.jpg?ts=1768488019254&w=800",
-   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=495680184",
+   "image": "https://static.zara.net/assets/public/c1f9/1fa6/eac54635bb33/acb15af0ab1a/04070023716-p/04070023716-p.jpg?ts=1768571876027&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-yun-kaban-p04070023.html?v1=513128945",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -3278,8 +3274,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3321,8 +3316,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3340,28 +3334,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "09747777-251": {
-   "name": "PİLİLİ CEPLİ KISA ELBİSE",
-   "ref": "9747/777",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/ddc0/7af5/d1464a90b0bd/28fc8102a6be/02467889251-p/02467889251-p.jpg?ts=1776092618852&w=800",
-   "url": "https://www.zara.com/tr/tr/pilili--cepli-kisa-elbise-p09747777.html?v1=540905703",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -3406,25 +3378,6 @@
    },
    "_src": "wl"
   },
-  "04770303-700": {
-   "name": "STRAPLEZ ELBİSE",
-   "ref": "4770/303",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/b513/f0d2/d8d3457f9d4b/14a2b795f357/04770303700-p/04770303700-p.jpg?ts=1769789529417&w=800",
-   "url": "https://www.zara.com/tr/tr/straplez-elbise-p04770303.html?v1=502280157",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
    "ref": "2949/024",
@@ -3444,8 +3397,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3552,28 +3504,6 @@
    },
    "_src": "wl"
   },
-  "03152395-615": {
-   "name": "PÖTİKARELİ MİNİ ELBİSE",
-   "ref": "3152/395",
-   "color": "Turuncu",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/ab8a/7c62/b7bd43a39767/46e0d9d16a0b/03152395615-p/03152395615-p.jpg?ts=1779359053380&w=800",
-   "url": "https://www.zara.com/tr/tr/potikareli-mini-elbise-p03152395.html?v1=528575704",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "02804035-250": {
    "name": "KORSE TARZI POPLİN MİDİ ELBİSE",
    "ref": "2804/035",
@@ -3608,28 +3538,6 @@
    "discount": 33,
    "image": "https://static.zara.net/assets/public/db76/e8e2/a5504f2e8617/a05f92be3f84/03067332321-p/03067332321-p.jpg?ts=1770827659057&w=800",
    "url": "https://www.zara.com/tr/tr/pilili--cepli-kisa-elbise-p09747777.html?v1=522199556",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "02806336-100": {
-   "name": "MEYVELİ HALTER YAKA POPLİN MİDİ ELBİSE",
-   "ref": "2806/336",
-   "color": "Ekru/Sarı",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/3471/5e67/b29d4f1285c9/4b784c3bda20/02806336100-p/02806336100-p.jpg?ts=1778147015773&w=800",
-   "url": "https://www.zara.com/tr/tr/meyveli-halter-yaka-poplin-midi-elbise-p02806336.html?v1=531891781",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -3812,25 +3720,6 @@
    },
    "_src": "wl"
   },
-  "05039022-712": {
-   "name": "DANTEL DETAYLI FİTİLLİ TOP",
-   "ref": "5039/022",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 35000,
-   "discount": 17,
-   "image": "https://static.zara.net/assets/public/e30b/1c9e/c5b342bfa758/cf11e20c0060/05039022712-p/05039022712-p.jpg?ts=1779982343934&w=800",
-   "url": "https://www.zara.com/tr/tr/dantel-detayli-fitilli-top-p05039022.html?v1=553628798",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "02010845-527": {
    "name": "BAĞCIKLI HALTER TOP",
    "ref": "2010/845",
@@ -3994,8 +3883,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -4286,8 +4174,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -4308,8 +4195,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4992,8 +4878,8 @@
    "price": 59000,
    "old_price": 79000,
    "discount": 25,
-   "image": "https://static.zara.net/assets/public/55f6/21b1/869e4adbb357/c01aa09b1cc7/03046297706-p/03046297706-p.jpg?ts=1758107156553&w=800",
-   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=502059383",
+   "image": "https://static.zara.net/assets/public/4593/2965/6a9e4c5ab2d2/887401e51cdc/03046297706-p/03046297706-p.jpg?ts=1762357607879&w=800",
+   "url": "https://www.zara.com/tr/tr/kruvaze-kisa-kaban-p03046297.html?v1=503417983",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -5002,8 +4888,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -5999,7 +5884,7 @@
    "image": "https://static.zara.net/assets/public/3421/80f6/a7024ca5936a/6256eb463475/09598510706200-p/09598510706200-p.jpg?ts=1770631997424&w=800",
    "url": "https://www.zara.com/tr/tr/krose-cicek-detayli-triko-top-p09598510.html?v1=521394026",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6247,5 +6132,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 18:21:20"
+ "last_check": "2026-08-03 18:26:23"
 }
