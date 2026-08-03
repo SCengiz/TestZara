@@ -2952,7 +2952,7 @@
    "image": "https://static.zara.net/assets/public/a876/acd2/e8ae4ff5bfd9/de4deb21db83/02805184800-p/02805184800-p.jpg?ts=1779441371190&w=800",
    "url": "https://www.zara.com/tr/tr/buzgulu-askili-midi-elbise-p02805184.html?v1=551550635",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 11:13:05"
+ "last_check": "2026-08-03 11:14:47"
 }
