@@ -4039,7 +4039,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -4600,7 +4600,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6084,27 +6084,7 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
-  },
-  "00085099-049": {
-   "name": "UZUN KOLLU ÇİZGİLİ POLO",
-   "ref": "0085/099",
-   "color": "Kahverengi-Mavi",
-   "kind": "Wear",
-   "family": "TISÖRT",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 35000,
-   "discount": 17,
-   "image": "https://static.zara.net/assets/public/1f0a/3018/60bb4daf9ba6/4359686102e1/00085099049-p/00085099049-p.jpg?ts=1778168088900&w=800",
-   "url": "https://www.zara.com/tr/tr/cizgili-uzun-kollu-polo-p00085099.html?v1=548019032",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
   }
  },
- "last_check": "2026-08-03 18:51:26"
+ "last_check": "2026-08-03 18:51:38"
 }
