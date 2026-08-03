@@ -3420,7 +3420,7 @@
    "url": "https://www.zara.com/tr/tr/straplez-elbise-p04770303.html?v1=502280157",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 17:50:27"
+ "last_check": "2026-08-03 17:51:10"
 }
