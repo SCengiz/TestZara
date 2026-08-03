@@ -4222,7 +4222,7 @@
    "url": "https://www.zara.com/tr/tr/genis-paca-elastik-belli-pantolon-p08372364.html?v1=495669582",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 17:29:24"
+ "last_check": "2026-08-03 17:33:33"
 }
