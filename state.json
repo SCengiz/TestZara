@@ -4349,7 +4349,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -5981,7 +5981,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "low_on_stock",
+    "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -5999,7 +5999,7 @@
    "image": "https://static.zara.net/assets/public/3421/80f6/a7024ca5936a/6256eb463475/09598510706200-p/09598510706200-p.jpg?ts=1770631997424&w=800",
    "url": "https://www.zara.com/tr/tr/krose-cicek-detayli-triko-top-p09598510.html?v1=521394026",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6247,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 17:09:19"
+ "last_check": "2026-08-03 17:13:28"
 }
