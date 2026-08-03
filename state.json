@@ -1549,7 +1549,7 @@
    "image": "https://static.zara.net/assets/public/6bb6/8f8f/94ff4d05b80d/462f6cabf908/43323211700-e1/43323211700-e1.jpg?ts=1762965853204&w=800",
    "url": "https://www.zara.com/tr/tr/yuksek-ahsap-evcil-hayvan-mama-kasesi-p43323211.html?v1=495441326",
    "sizes": {
-    "17 x 24.5 x 24.5 cm": "low_on_stock",
+    "17 x 24.5 x 24.5 cm": "out_of_stock",
     "26 x 29.5 x 29.5 cm": "out_of_stock"
    },
    "_src": "wl"
@@ -3229,27 +3229,6 @@
    "discount": 33,
    "image": "https://static.zara.net/assets/public/4cbb/9736/348742548b2f/04698986fed1/03293052044-000-p/03293052044-000-p.jpg?ts=1772715114525&w=800",
    "url": "https://www.zara.com/tr/tr/tisort-kemerli-oversize-gomlek-p03293052.html?v1=500486112",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "05029080-172": {
-   "name": "VOLANLI MİDİ ETEK",
-   "ref": "5029/080",
-   "color": "KOYU VİŞNE",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/a41e/1eab/70394c448946/ba7fb7a41547/05029080172-p/05029080172-p.jpg?ts=1770627887914&w=800",
-   "url": "https://www.zara.com/tr/tr/volanli-midi-etek-p05029080.html?v1=502285258",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -5998,7 +5977,7 @@
    "image": "https://static.zara.net/assets/public/6bf7/bba1/322b4164aa2c/f81e426e9e81/05767639251200-p/05767639251200-p.jpg?ts=1772623846898&w=800",
    "url": "https://www.zara.com/tr/tr/dalgali-dokulu-top-p05767639.html?v1=547027428",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6268,5 +6247,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 10:01:17"
+ "last_check": "2026-08-03 10:01:52"
 }
