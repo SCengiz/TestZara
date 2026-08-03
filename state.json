@@ -2560,7 +2560,7 @@
    "image": "https://static.zara.net/assets/public/ae01/9204/6c8140799b97/129569514cad/02077336800-p/02077336800-p.jpg?ts=1773334257130&w=800",
    "url": "https://www.zara.com/tr/tr/keten-karisimli-midi-elbise-zw-collection-p05289025.html?v1=516245018",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6106,5 +6106,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-03 21:42:39"
+ "last_check": "2026-08-03 21:45:02"
 }
