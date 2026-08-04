@@ -5947,7 +5947,7 @@
    "image": "https://static.zara.net/assets/public/78b1/f437/4f584c0e85d8/38956e17e4b1/02562152600-p/02562152600-p.jpg?ts=1778601314461&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-midi-etek-zw-collection-p02562152.html?v1=526400873",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7148,7 +7148,31 @@
     "M": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "12336710-091": {
+   "name": "METALİK ÇATLAK DOKULU SANDALET",
+   "ref": "2336/710",
+   "color": "Altın",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/ad79/e5d3/9a59400b869f/af3495599f85/01165117712-015-p/01165117712-015-p.jpg?ts=1778248338182&w=800",
+   "url": "https://www.zara.com/tr/tr/metalik-catlak-dokulu-sandalet-p12336710.html?v1=548196694",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 16:34:44"
+ "last_check": "2026-08-04 16:37:20"
 }
