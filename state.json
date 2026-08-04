@@ -6340,23 +6340,6 @@
    },
    "_src": "wl"
   },
-  "16240710-700": {
-   "name": "KOMBİNE KESE ÇANTA",
-   "ref": "6240/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "CANTA",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 49000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/7a15/cb87/06f44d71af78/1bfb8f22f31d/16240710700-p/16240710700-p.jpg?ts=1770386711359&w=800",
-   "url": "https://www.zara.com/tr/tr/kombine-kese-canta-p16240710.html?v1=496787812",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "03067331-059": {
    "name": "ÇİZGİLİ GÖMLEK MİDİ ELBİSE",
    "ref": "3067/331",
@@ -6502,8 +6485,8 @@
    "price": 39000,
    "old_price": 49000,
    "discount": 20,
-   "image": "https://static.zara.net/assets/public/ac78/97ad/95c944278e19/04710cf227b7/12234710105-p/12234710105-p.jpg?ts=1769071235981&w=800",
-   "url": "https://www.zara.com/tr/tr/metal-detayli-topuklu-ayakkabi-p12234710.html?v1=495698491",
+   "image": "https://static.zara.net/assets/public/5ba5/41db/21704019b5ea/df725f92212e/12234710105-e1/12234710105-e1.jpg?ts=1768929219396&w=800",
+   "url": "https://www.zara.com/tr/tr/metal-detayli-topuklu-ayakkabi-p12234710.html?v1=515508470",
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
@@ -6719,7 +6702,112 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "01165280-779": {
+   "name": "KEMERLİ PENSLİ STRAIGHT FİT PANTOLON",
+   "ref": "1165/280",
+   "color": "Kemik",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/5466/6fd1/bdc94a0aac18/5ac10111bf87/01165280779-p/01165280779-p.jpg?ts=1769783532907&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-pensli-duz-paca-pantolon-p01165280.html?v1=495703156",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02077323-700": {
+   "name": "YÜKSEK YAKA YÜN KISA KABAN",
+   "ref": "2077/323",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/b96f/b541/9c87421f86e0/e5d81365d553/02077323700-p/02077323700-p.jpg?ts=1766414790261&w=800",
+   "url": "https://www.zara.com/tr/tr/yuksek-yaka-yun-kisa-kaban-p02077323.html?v1=498022789",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02298088-330": {
+   "name": "BAĞCIKLI ÇİZGİLİ MİDİ ELBİSE",
+   "ref": "2298/088",
+   "color": "Çokrenkli",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/eb85/3aae/f82546bcac26/55311307681c/02298088330-p/02298088330-p.jpg?ts=1777032326332&w=800",
+   "url": "https://www.zara.com/tr/tr/bagcikli-cizgili-midi-elbise-p02298088.html?v1=521598970",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "09479055-505": {
+   "name": "BAĞCIKLI MİDİ ELBİSE ZW COLLECTION",
+   "ref": "9479/055",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/df09/c8f0/af264d12b0cc/ddc024a0e981/09479055505-p/09479055505-p.jpg?ts=1773076338533&w=800",
+   "url": "https://www.zara.com/tr/tr/bagcikli-midi-elbise-zw-collection-p09479055.html?v1=505895864",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02507042-485": {
+   "name": "ZW COLLECTION KATLAMALI POPLİN ELBİSE",
+   "ref": "2507/042",
+   "color": "Mavi / Gri",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/6a78/c94b/a1714e0abb27/3d69b1898018/04333051485-p/04333051485-p.jpg?ts=1778063293734&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-katlamali-poplin-elbise-p02507042.html?v1=529543939",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:13:21"
+ "last_check": "2026-08-04 13:15:53"
 }
