@@ -4063,7 +4063,7 @@
    "image": "https://static.zara.net/assets/public/83ae/5b25/1b474d9bb0d3/008b530ea4fe/03897117681-p/03897117681-p.jpg?ts=1778228860504&w=800",
    "url": "https://www.zara.com/tr/tr/altin-aksesuarli-midi-elbise-p03897117.html?v1=525197079",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6171,7 +6171,7 @@
    "url": "https://www.zara.com/tr/tr/asimetrik-midi-elbise-p02321763.html?v1=505719755",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:44:02"
+ "last_check": "2026-08-04 14:46:30"
 }
