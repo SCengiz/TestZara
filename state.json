@@ -2757,7 +2757,7 @@
    "image": "https://static.zara.net/assets/public/34e3/0cbf/d8074c1a8c14/d52e64aeb29d/05039001250-p/05039001250-p.jpg?ts=1769431523860&w=800",
    "url": "https://www.zara.com/tr/tr/fitilli-askili-t-shirt-p05039001.html?v1=499110505",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -3649,7 +3649,7 @@
    "url": "https://www.zara.com/tr/tr/ajurlu-triko-hirka-p06771016.html?v1=530097106",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4481,7 +4481,7 @@
    "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -5400,7 +5400,7 @@
    "url": "https://www.zara.com/tr/tr/ajurlu-cicek-islemeli-triko-hirka-p09598500.html?v1=495694253",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -7193,5 +7193,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:42:04"
+ "last_check": "2026-08-04 17:45:06"
 }
