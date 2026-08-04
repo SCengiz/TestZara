@@ -2758,7 +2758,7 @@
    "url": "https://www.zara.com/tr/tr/fitilli-askili-t-shirt-p05039001.html?v1=499110505",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -7193,5 +7193,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:57:34"
+ "last_check": "2026-08-04 17:57:44"
 }
