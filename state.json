@@ -3278,7 +3278,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -4003,7 +4003,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "in_stock",
+    "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
    "_src": "wl"
@@ -6131,7 +6131,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -6807,5 +6807,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:12:05"
+ "last_check": "2026-08-04 14:13:42"
 }
