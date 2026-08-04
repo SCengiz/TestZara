@@ -2589,7 +2589,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -2819,28 +2819,6 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "02805184-800": {
-   "name": "BÜZGÜLÜ ASKILI MİDİ ELBİSE",
-   "ref": "2805/184",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/a876/acd2/e8ae4ff5bfd9/de4deb21db83/02805184800-p/02805184800-p.jpg?ts=1779441371190&w=800",
-   "url": "https://www.zara.com/tr/tr/buzgulu-askili-midi-elbise-p02805184.html?v1=551550635",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "low_on_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -4272,7 +4250,7 @@
    "image": "https://static.zara.net/assets/public/da51/b819/3708402d97a9/0b8625d5033b/04813305717-p/04813305717-p.jpg?ts=1769097389504&w=800",
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -4503,7 +4481,7 @@
    "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
    "sizes": {
-    "32": "low_on_stock",
+    "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -7174,5 +7152,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:22:30"
+ "last_check": "2026-08-04 17:25:06"
 }
