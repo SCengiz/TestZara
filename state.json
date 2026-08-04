@@ -6827,7 +6827,7 @@
    "url": "https://www.zara.com/tr/tr/dokumlu-yunlu-trenckot-zw-limited-edition-p02041880.html?v1=495698587",
    "sizes": {
     "XS-S": "out_of_stock",
-    "M-L": "low_on_stock"
+    "M-L": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 19:15:43"
+ "last_check": "2026-08-04 19:18:16"
 }
