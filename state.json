@@ -3707,7 +3707,7 @@
    "url": "https://www.zara.com/tr/tr/ajurlu-triko-hirka-p06771016.html?v1=530097106",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -5040,7 +5040,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 15:06:40"
+ "last_check": "2026-08-04 15:09:11"
 }
