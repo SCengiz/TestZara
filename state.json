@@ -4846,7 +4846,7 @@
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
-    "3 yaş (98 cm)": "out_of_stock",
+    "3 yaş (98 cm)": "in_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
@@ -5432,7 +5432,7 @@
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "low_on_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -5559,9 +5559,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 119999,
+   "price": 79999,
    "old_price": 199999,
-   "discount": 40,
+   "discount": 60,
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
@@ -6261,5 +6261,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 11:26:38"
+ "last_check": "2026-08-04 11:27:41"
 }
