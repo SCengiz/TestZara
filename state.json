@@ -5109,7 +5109,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -6872,7 +6872,44 @@
     "42": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "00518042-401": {
+   "name": "SUNİ KÜRK YAKA TRENÇKOT ZW COLLECTION",
+   "ref": "0518/042",
+   "color": "LACİVERT",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/ff1c/f5b7/f1ac434bbdcd/21736bdec138/00518042401-p/00518042401-p.jpg?ts=1768472924031&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-suni-kurk-yakali-trenckot-p00518042.html?v1=495684760",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02041880-121": {
+   "name": "ZW COLLECTION LIMITED EDITION YÜN DÖKÜMLÜ TRENÇKOT",
+   "ref": "2041/880",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/fa60/dc78/e3d34ac597d0/d3e5d96eacf1/02041880121-p/02041880121-p.jpg?ts=1768324842863&w=800",
+   "url": "https://www.zara.com/tr/tr/dokumlu-yunlu-trenckot-zw-limited-edition-p02041880.html?v1=495698587",
+   "sizes": {
+    "XS-S": "out_of_stock",
+    "M-L": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:23:06"
+ "last_check": "2026-08-04 14:23:46"
 }
