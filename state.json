@@ -2610,25 +2610,6 @@
    },
    "_src": "wl"
   },
-  "01165458-632": {
-   "name": "DRAPELİ UZUN ELBİSE",
-   "ref": "1165/458",
-   "color": "Parlak kırmızı",
-   "kind": "Wear",
-   "family": "ELBISE",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/b2fc/8378/9aa84ca2b962/031c34c890f9/01165458632-p/01165458632-p.jpg?ts=1776852919950&w=800",
-   "url": "https://www.zara.com/tr/tr/drapeli-uzun-elbise-p01165458.html?v1=527895123",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "03897094-919": {
    "name": "HALTER YAKA AKSESUARLI MİDİ ELBİSE",
    "ref": "3897/094",
@@ -5431,7 +5412,7 @@
    "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6826,5 +6807,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:35:46"
+ "last_check": "2026-08-04 13:38:37"
 }
