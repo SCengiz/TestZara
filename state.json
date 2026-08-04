@@ -3897,7 +3897,7 @@
    "image": "https://static.zara.net/assets/public/3eef/6b26/9a0842ac813a/f5fea25dd63d/04387109653-p/04387109653-p.jpg?ts=1778228875048&w=800",
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-bagcikli-midi-elbise-p04387108.html?v1=527667566",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -5289,7 +5289,7 @@
    "image": "https://static.zara.net/assets/public/6049/1a00/d6c84a48a867/5999d9763e2a/05431886621-e1/05431886621-e1.jpg?ts=1776669550947&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-bebe-yaka-t-shirt-p05431886.html?v1=524025187",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 20:13:25"
+ "last_check": "2026-08-04 20:13:38"
 }
