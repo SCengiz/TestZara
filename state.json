@@ -2630,7 +2630,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -3516,7 +3516,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-cizgili-kontrast-mansetli-gomlek-p03564080.html?v1=520942046",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3897,7 +3897,7 @@
    "image": "https://static.zara.net/assets/public/3eef/6b26/9a0842ac813a/f5fea25dd63d/04387109653-p/04387109653-p.jpg?ts=1778228875048&w=800",
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-bagcikli-midi-elbise-p04387108.html?v1=527667566",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 21:34:07"
+ "last_check": "2026-08-04 21:34:11"
 }
