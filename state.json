@@ -2812,7 +2812,7 @@
    "image": "https://static.zara.net/assets/public/abdb/7de8/786f4de0a136/fec1e3142065/03666052606-a1/03666052606-a1.jpg?ts=1770389193441&w=800",
    "url": "https://www.zara.com/tr/tr/firfirli-bluz-p03666052.html?v1=520942112",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3771,7 +3771,7 @@
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "in_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
     "46": "out_of_stock"
@@ -4393,7 +4393,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4738,7 +4738,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-balon-kollu-bluz-p01347453.html?v1=510855619",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "low_on_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -6807,5 +6807,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:01:58"
+ "last_check": "2026-08-04 14:03:45"
 }
