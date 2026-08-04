@@ -3510,7 +3510,7 @@
    "image": "https://static.zara.net/assets/public/2df0/42e7/08944a71bc61/7ce8b8cd0058/02351712600-p/02351712600-p.jpg?ts=1776167571893&w=800",
    "url": "https://www.zara.com/tr/tr/keten-karisimli-halter-midi-elbise-p02351712.html?v1=527349509",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 16:06:35"
+ "last_check": "2026-08-04 16:09:43"
 }
