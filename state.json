@@ -3342,7 +3342,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
@@ -4825,7 +4825,7 @@
    "image": "https://static.zara.net/assets/public/e82c/e388/0e4041159833/1f06c0f940ad/02756610671-e1/02756610671-e1.jpg?ts=1770983725664&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-cicek-triko-hirka-p02756610.html?v1=500610566",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -5283,7 +5283,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 15:14:44"
+ "last_check": "2026-08-04 15:16:40"
 }
