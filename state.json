@@ -5552,7 +5552,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-cizgili-gomlek-p01165540.html?v1=567485946",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 19:42:25"
+ "last_check": "2026-08-04 19:43:24"
 }
