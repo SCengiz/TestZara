@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2461,8 +2458,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3196,8 +3192,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3239,8 +3234,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3321,8 +3315,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3770,8 +3763,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3980,8 +3972,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -4002,8 +3993,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4696,8 +4686,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -6259,7 +6248,287 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "06318051-743": {
+   "name": "KISA KEMERLİ OMUZ PEDLİ TRENÇKOT",
+   "ref": "6318/051",
+   "color": "Açık devetüyü",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/fe29/eace/00694af7aa0c/e5407c9e0435/06318051743-p/06318051743-p.jpg?ts=1772792252909&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-kemerli-omuz-pedli-trenckot-p06318051.html?v1=498541485",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02142042-420": {
+   "name": "YUMUŞAK ÖRGÜ HIRKA",
+   "ref": "2142/042",
+   "color": "Mavimsi",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
+   "image": "https://static.zara.net/assets/public/9cbb/dbf4/72734c6a833a/8308127b16d3/02142042420-p/02142042420-p.jpg?ts=1768565191937&w=800",
+   "url": "https://www.zara.com/tr/tr/yumusak-triko-hirka-p02142042.html?v1=500835347",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "08372042-506": {
+   "name": "FERMUARLI BALON CEKET",
+   "ref": "8372/042",
+   "color": "Açık haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/31af/576f/a7314afa983a/87a2c596f38d/08372023506-p/08372023506-p.jpg?ts=1771262330146&w=800",
+   "url": "https://www.zara.com/tr/tr/fermuarli-balon-ceket-p08372042.html?v1=525197083",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "04341821-716": {
+   "name": "KISA SU VE RÜZGAR GEÇİRMEZ KAPİTONE ANORAK",
+   "ref": "4341/821",
+   "color": "Koyu kahverengi",
+   "kind": "Wear",
+   "family": "ANORAK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/af7e/1b48/1c7e48d28d48/4fe213da5af4/04341821716-p/04341821716-p.jpg?ts=1766060158548&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-su-ve-ruzgar-gecirmez-kapitone-anorak-p04341821.html?v1=507046512",
+   "sizes": {
+    "XS-S": "out_of_stock",
+    "M-L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "16240710-700": {
+   "name": "KOMBİNE KESE ÇANTA",
+   "ref": "6240/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
+   "image": "https://static.zara.net/assets/public/7a15/cb87/06f44d71af78/1bfb8f22f31d/16240710700-p/16240710700-p.jpg?ts=1770386711359&w=800",
+   "url": "https://www.zara.com/tr/tr/kombine-kese-canta-p16240710.html?v1=496787812",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "03067331-059": {
+   "name": "ÇİZGİLİ GÖMLEK MİDİ ELBİSE",
+   "ref": "3067/331",
+   "color": "beyaz/turkuaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/a861/dde9/a97045dcbb23/0eee8ee5376d/03067331059-p/03067331059-p.jpg?ts=1770983621769&w=800",
+   "url": "https://www.zara.com/tr/tr/cizgili-midi-gomlek-elbise-p03067331.html?v1=507930764",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "09514384-742": {
+   "name": "KEMERLİ YÜN KISA KABAN",
+   "ref": "9514/384",
+   "color": "Koyu vizon",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/5212/5590/d9594a8584d4/602666f4176b/09514384742-p/09514384742-p.jpg?ts=1768571917768&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-kisa-yun-kaban-p09514384.html?v1=502202532",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "12050610-700": {
+   "name": "DÜZ SÜET BİNİCİ ÇİZMESİ",
+   "ref": "2050/610",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/cfee/4c15/5b074cf8be5c/2fcdfdbd83a2/12050610700-p/12050610700-p.jpg?ts=1759923576534&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-suet-binici-cizmesi-p12050610.html?v1=495680439",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "06318254-704": {
+   "name": "ÇİFT TARAFLI ÇİFT YÜZLÜ CEKET",
+   "ref": "6318/254",
+   "color": "TABA",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/1c43/155d/e1b247abb22b/1b4aa8ef4678/06318254704-000-p/06318254704-000-p.jpg?ts=1765811625617&w=800",
+   "url": "https://www.zara.com/tr/tr/cift-tarafli-cift-yuzlu-ceket-p06318254.html?v1=502060392",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "11822710-098": {
+   "name": "İŞLEMELİ TOPUKLU AYAKKABI",
+   "ref": "1822/710",
+   "color": "Bej",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/e638/3e34/00704a06af02/b50bd0113ae0/11822710098-e1/11822710098-e1.jpg?ts=1769591489162&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-topuklu-ayakkabi-p11822710.html?v1=498720772",
+   "sizes": {
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "13210610-800": {
+   "name": "BANTLI VE TOKALI TOPUKLU AYAKKABI",
+   "ref": "3210/610",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 49000,
+   "old_price": 69000,
+   "discount": 28,
+   "image": "https://static.zara.net/assets/public/7a41/c480/2058456abde6/605f7a392acf/13210610800-p/13210610800-p.jpg?ts=1764241206424&w=800",
+   "url": "https://www.zara.com/tr/tr/bantli-ve-tokali-topuklu-ayakkabi-p13210610.html?v1=495680151",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "12234710-105": {
+   "name": "METAL DETAYLI TOPUKLU AYAKKABI",
+   "ref": "2234/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
+   "image": "https://static.zara.net/assets/public/ac78/97ad/95c944278e19/04710cf227b7/12234710105-p/12234710105-p.jpg?ts=1769071235981&w=800",
+   "url": "https://www.zara.com/tr/tr/metal-detayli-topuklu-ayakkabi-p12234710.html?v1=495698491",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "12260710-700": {
+   "name": "FİYONK DETAYLI TOPUKLU AYAKKABI",
+   "ref": "2260/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
+   "image": "https://static.zara.net/assets/public/da7c/e5c5/12f14106b343/3ffc371e664b/12260710700-p/12260710700-p.jpg?ts=1770990219126&w=800",
+   "url": "https://www.zara.com/tr/tr/fiyonk-detayli-topuklu-ayakkabi-p12260710.html?v1=498293970",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 12:58:09"
+ "last_check": "2026-08-04 13:03:07"
 }
