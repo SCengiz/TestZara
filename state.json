@@ -3576,7 +3576,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 15:40:16"
+ "last_check": "2026-08-04 15:44:27"
 }
