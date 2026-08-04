@@ -2644,7 +2644,7 @@
    "image": "https://static.zara.net/assets/public/cdcd/9320/008d478d9675/ad145fd4f189/06050059620-e1/06050059620-e1.jpg?ts=1770895716257&w=800",
    "url": "https://www.zara.com/tr/tr/high-school-musical--disney-t-shirt-p06050059.html?v1=507291708",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6951,68 +6951,7 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
-  },
-  "05063300-712": {
-   "name": "FERMUARLI KAPAKLI TOP",
-   "ref": "5063/300",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "DIGER GIYIM ESYASI",
-   "section": "WOMAN",
-   "price": 29000,
-   "old_price": 35000,
-   "discount": 17,
-   "image": "https://static.zara.net/assets/public/2df4/14f2/a8514b9aad07/de980ef71cb6/05063300712-p/05063300712-p.jpg?ts=1770832573800&w=800",
-   "url": "https://www.zara.com/tr/tr/fermuarli-kapakli-top-p05063300.html?v1=496392825",
-   "sizes": {
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "03564088-700": {
-   "name": "FİSTO İŞLEMELİ MİDİ ETEK",
-   "ref": "3564/088",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/caab/3de8/30b04ad5ac00/c71df0291f59/03564088700-p/03564088700-p.jpg?ts=1774959879942&w=800",
-   "url": "https://www.zara.com/tr/tr/fisto-islemeli-midi-etek-p03564088.html?v1=537259578",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "09773314-700": {
-   "name": "DRAPELİ KARELİ ETEK ZW COLLECTION",
-   "ref": "9773/314",
-   "color": "Kahverengi",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/18c7/e89a/3af74388b887/14f90f29644d/09773314700-p/09773314700-p.jpg?ts=1768492016950&w=800",
-   "url": "https://www.zara.com/tr/tr/drape-pileli-kareli-etek-zw-collection-p09773314.html?v1=513128868",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
-   },
-   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:28:56"
+ "last_check": "2026-08-04 14:29:00"
 }
