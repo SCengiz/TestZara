@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2425,8 +2422,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -2462,7 +2458,7 @@
    "image": "https://static.zara.net/assets/public/ae01/9204/6c8140799b97/129569514cad/02077336800-p/02077336800-p.jpg?ts=1773334257130&w=800",
    "url": "https://www.zara.com/tr/tr/keten-karisimli-midi-elbise-zw-collection-p05289025.html?v1=516245018",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -2627,7 +2623,7 @@
    "image": "https://static.zara.net/assets/public/32cf/55cb/014a4fffafec/4fd58a2fa820/03897171712-p/03897171712-p.jpg?ts=1775809766845&w=800",
    "url": "https://www.zara.com/tr/tr/altin-aplikeli-tulum-p03897171.html?v1=495689075",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3119,8 +3115,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3162,8 +3157,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3244,8 +3238,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3261,7 +3254,7 @@
    "url": "https://www.zara.com/tr/tr/vatkali-vucuda-oturan-blazer-p02396593.html?v1=508012698",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -3693,8 +3686,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3903,8 +3895,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -3925,8 +3916,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4598,8 +4588,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -5314,9 +5303,9 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "in_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7201,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 18:40:42"
+ "last_check": "2026-08-04 18:43:07"
 }
