@@ -2462,7 +2462,7 @@
    "image": "https://static.zara.net/assets/public/ae01/9204/6c8140799b97/129569514cad/02077336800-p/02077336800-p.jpg?ts=1773334257130&w=800",
    "url": "https://www.zara.com/tr/tr/keten-karisimli-midi-elbise-zw-collection-p05289025.html?v1=516245018",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -2627,7 +2627,7 @@
    "image": "https://static.zara.net/assets/public/32cf/55cb/014a4fffafec/4fd58a2fa820/03897171712-p/03897171712-p.jpg?ts=1775809766845&w=800",
    "url": "https://www.zara.com/tr/tr/altin-aplikeli-tulum-p03897171.html?v1=495689075",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -5314,9 +5314,9 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "in_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 18:43:09"
+ "last_check": "2026-08-04 18:45:35"
 }
