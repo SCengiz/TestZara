@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2461,8 +2458,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3177,8 +3173,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3220,8 +3215,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3302,8 +3296,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3751,8 +3744,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3961,8 +3953,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -3983,8 +3974,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4677,8 +4667,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -7106,7 +7095,89 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "16204710-111": {
+   "name": "KANVAS TOKALI MİNİ KESE ÇANTA",
+   "ref": "6204/710",
+   "color": "Açık bej",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/a221/8342/3e6e454eb565/18be104409ee/16204710111-p/16204710111-p.jpg?ts=1770989436546&w=800",
+   "url": "https://www.zara.com/tr/tr/kanvas-tokali-mini-kese-canta-p16204710.html?v1=497131590",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "11223710-022": {
+   "name": "KABARTMA DETAYLI ARKASI AÇIK AYAKKABI",
+   "ref": "1223/710",
+   "color": "Bordo Kırmızı",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 69000,
+   "discount": 14,
+   "image": "https://static.zara.net/assets/public/de73/2ee1/fea94ea1a262/16ca3c81755f/11223710022-p/11223710022-p.jpg?ts=1763572631776&w=800",
+   "url": "https://www.zara.com/tr/tr/kabartma-detayli-arkasi-acik-ayakkabi-p11223710.html?v1=495716461",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "04341780-407": {
+   "name": "%100 SÜET DERİ CEPLİ CEKET",
+   "ref": "4341/780",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/91fa/2c6b/905f4cf98ee4/45da4a559e0d/04341780407-p/04341780407-p.jpg?ts=1765989629325&w=800",
+   "url": "https://www.zara.com/tr/tr/100-suet-deri-cepli-ceket-p04341780.html?v1=506838714",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02893205-737": {
+   "name": "%100 YÜN KEMERLİ CEKET",
+   "ref": "2893/205",
+   "color": "Kahverengi / Köstebek",
+   "kind": "Wear",
+   "family": "HIRKA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/b6b8/6b15/4fc5491daca3/9f0dc426d8a6/02893205737-p/02893205737-p.jpg?ts=1764764002735&w=800",
+   "url": "https://www.zara.com/tr/tr/100-yun-kemerli-ceket-p02893205.html?v1=495703217",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:36:26"
+ "last_check": "2026-08-04 14:38:05"
 }
