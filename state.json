@@ -2589,7 +2589,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -2836,7 +2836,7 @@
    "url": "https://www.zara.com/tr/tr/buzgulu-askili-midi-elbise-p02805184.html?v1=551550635",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -3671,7 +3671,7 @@
    "url": "https://www.zara.com/tr/tr/ajurlu-triko-hirka-p06771016.html?v1=530097106",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -7174,5 +7174,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:20:45"
+ "last_check": "2026-08-04 17:22:30"
 }
