@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2461,8 +2458,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3196,8 +3192,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3239,8 +3234,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3321,8 +3315,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3770,8 +3763,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3980,8 +3972,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -4002,8 +3993,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4696,8 +4686,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -6635,7 +6624,112 @@
     "M-L": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "02507042-485": {
+   "name": "ZW COLLECTION KATLAMALI POPLİN ELBİSE",
+   "ref": "2507/042",
+   "color": "Mavi / Gri",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/6a78/c94b/a1714e0abb27/3d69b1898018/04333051485-p/04333051485-p.jpg?ts=1778063293734&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-katlamali-poplin-elbise-p02507042.html?v1=529543939",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02201957-251": {
+   "name": "BALON KOLLU MİDİ ELBİSE",
+   "ref": "2201/957",
+   "color": "Kirli-beyaz",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/e31b/2636/a2374e8d8de1/0e1799b999bc/02201957251-p/02201957251-p.jpg?ts=1770384930310&w=800",
+   "url": "https://www.zara.com/tr/tr/balon-kollu-midi-elbise-p02201957.html?v1=502483309",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02125304-725": {
+   "name": "ZW COLLECTION BELİ OTURAN ELBİSE",
+   "ref": "2125/304",
+   "color": "Tereyağı",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/67a5/7fa3/0e6e43939aa7/f7800ce5c876/02125304725-p/02125304725-p.jpg?ts=1777540673339&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-beli-oturan-elbise-p02125304.html?v1=529002296",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02343572-700": {
+   "name": "KEMERLİ MİDİ ELBİSE",
+   "ref": "2343/572",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/78f7/a845/4f31467a81ce/1af94df76f5e/02343572700-p/02343572700-p.jpg?ts=1769615292799&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p02343572.html?v1=506636201",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02756144-730": {
+   "name": "KEMERLİ MİDİ ELBİSE",
+   "ref": "2756/144",
+   "color": "Açık kahverengi",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/05b5/394c/12fc45b8a116/1168b7fd75d5/11028610800-016-p/11028610800-016-p.jpg?ts=1761727563135&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p02756144.html?v1=497130645",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:09:10"
+ "last_check": "2026-08-04 13:13:14"
 }
