@@ -6128,7 +6128,7 @@
    "image": "https://static.zara.net/assets/public/0d44/2fbd/07b34f9094b8/3a01372fe0b1/02893001401-p/02893001401-p.jpg?ts=1767958694436&w=800",
    "url": "https://www.zara.com/tr/tr/100-yun-omuz-pedli-kazak-p02893001.html?v1=496639106",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6261,5 +6261,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 11:39:44"
+ "last_check": "2026-08-04 11:40:24"
 }
