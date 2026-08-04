@@ -6805,51 +6805,7 @@
     "STANDART": "out_of_stock"
    },
    "_src": "wl"
-  },
-  "03231544-620": {
-   "name": "ÇİÇEK DESENLİ KORSE TARZI TOP",
-   "ref": "3231/544",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "GÖMLEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/9ee7/b039/64434006868f/c4ed83c257fb/03231544620-p/03231544620-p.jpg?ts=1777019325157&w=800",
-   "url": "https://www.zara.com/tr/tr/cicek-desenli-korse-tarzi-top-p03231544.html?v1=543953190",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "12105710-700": {
-   "name": "DERİ TOPUKLU BİLEKTE BOT",
-   "ref": "2105/710",
-   "color": "Kahverengi",
-   "kind": "Other",
-   "family": "AYAKKABI",
-   "section": "WOMAN",
-   "price": 99000,
-   "old_price": 129000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/a39b/f36b/08a14714910c/646d9abdbe31/12105710700-p/12105710700-p.jpg?ts=1768488028622&w=800",
-   "url": "https://www.zara.com/tr/tr/deri-topuklu-bilekte-bot-p12105710.html?v1=495684558",
-   "sizes": {
-    "35": "out_of_stock",
-    "36": "out_of_stock",
-    "37": "out_of_stock",
-    "38": "out_of_stock",
-    "39": "out_of_stock",
-    "40": "out_of_stock",
-    "41": "out_of_stock",
-    "42": "out_of_stock"
-   },
-   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:21:23"
+ "last_check": "2026-08-04 14:21:38"
 }
