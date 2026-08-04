@@ -1692,42 +1692,6 @@
    },
    "_src": "wl"
   },
-  "43370004-505": {
-   "name": "PAISLEY BATTANİYE",
-   "ref": "3370/004",
-   "color": "Haki",
-   "kind": "Wear",
-   "family": "BATTANYYE",
-   "section": "HOME",
-   "price": 219000,
-   "old_price": 299000,
-   "discount": 26,
-   "image": "https://static.zara.net/assets/public/b13a/99f4/13af4d588bd2/8d54634baa9e/43370004505-e1/43370004505-e1.jpg?ts=1770653756105&w=800",
-   "url": "https://www.zara.com/tr/tr/paisley-battaniye-p43370004.html?v1=495430528",
-   "sizes": {
-    "140 x 190 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "44373009-400": {
-   "name": "PÖTİKARELİ EVCİL HAYVAN YATAĞI",
-   "ref": "4373/009",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "KIRLENT",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/faa4/4501/5e094f1a815f/2294beda260a/44373009400-e1/44373009400-e1.jpg?ts=1771931773731&w=800",
-   "url": "https://www.zara.com/tr/tr/potikareli-evcil-hayvan-yatagi-p44373009.html?v1=499194780",
-   "sizes": {
-    "17 x 30 x 35 cm": "in_stock",
-    "17 x 40 x 45 cm": "in_stock",
-    "17 x 50 x 65 cm": "in_stock"
-   },
-   "_src": "wl"
-  },
   "42217762-811": {
    "name": "METAL EVYE DÜZENLEYİCİ",
    "ref": "2217/762",
@@ -2480,7 +2444,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -2560,7 +2524,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p04387259.html?v1=495675113",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4005,27 +3969,6 @@
     "L": "out_of_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "07149074-800": {
-   "name": "ZW COLLECTION YÜKSEK BEL CROP PANTOLON",
-   "ref": "7149/074",
-   "color": "Siyah",
-   "kind": "Wear",
-   "family": "PANTOLON",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/de49/6f39/2883496abb2c/cb7db9932b27/07149074800-p/07149074800-p.jpg?ts=1776787840954&w=800",
-   "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-crop-pantolon-p07149074.html?v1=543493783",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7207,5 +7150,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 16:28:00"
+ "last_check": "2026-08-04 16:29:39"
 }
