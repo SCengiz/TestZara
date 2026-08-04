@@ -239,7 +239,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -815,7 +816,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -935,7 +937,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2458,7 +2461,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3192,7 +3196,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3234,7 +3239,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3315,7 +3321,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3763,7 +3770,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3972,7 +3980,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -3993,7 +4002,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4686,7 +4696,8 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -6250,5 +6261,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 11:04:05"
+ "last_check": "2026-08-04 11:04:52"
 }
