@@ -5903,7 +5903,7 @@
    "image": "https://static.zara.net/assets/public/a9c1/41b5/1dcb48d283eb/c6f3cc4b9ff6/04772413414-p/04772413414-p.jpg?ts=1775054840040&w=800",
    "url": "https://www.zara.com/tr/tr/anvelop-midi-etek-p04772413.html?v1=516147076",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 20:24:24"
+ "last_check": "2026-08-04 20:28:44"
 }
