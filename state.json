@@ -2199,7 +2199,7 @@
    "image": "https://static.zara.net/assets/public/33cd/57f6/f1fe40818c14/1e1674b6538e/40131088436-e1/40131088436-e1.jpg?ts=1781173463787&w=800",
    "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=523909891",
    "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
+    "Tek Kişilik (90 cm)": "in_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
@@ -2624,7 +2624,7 @@
    "url": "https://www.zara.com/tr/tr/drapeli-uzun-elbise-p01165458.html?v1=527895123",
    "sizes": {
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -6826,5 +6826,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:31:00"
+ "last_check": "2026-08-04 13:33:31"
 }
