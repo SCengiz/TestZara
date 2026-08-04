@@ -6807,7 +6807,24 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "16240710-700": {
+   "name": "KOMBİNE KESE ÇANTA",
+   "ref": "6240/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "CANTA",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 49000,
+   "discount": 20,
+   "image": "https://static.zara.net/assets/public/7a15/cb87/06f44d71af78/1bfb8f22f31d/16240710700-p/16240710700-p.jpg?ts=1770386711359&w=800",
+   "url": "https://www.zara.com/tr/tr/kombine-kese-canta-p16240710.html?v1=496787812",
+   "sizes": {
+    "STANDART": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:15:53"
+ "last_check": "2026-08-04 13:18:26"
 }
