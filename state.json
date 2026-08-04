@@ -3195,7 +3195,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4022,7 +4022,7 @@
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-crop-pantolon-p07149074.html?v1=543493783",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -6128,7 +6128,7 @@
    "image": "https://static.zara.net/assets/public/7133/3fc5/47934df192a3/b0b33c4a7558/04786071811-p/04786071811-p.jpg?ts=1776155303359&w=800",
    "url": "https://www.zara.com/tr/tr/pilili-poplin-elbise-zw-collection-p04786071.html?v1=506838446",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 16:16:53"
+ "last_check": "2026-08-04 16:19:36"
 }
