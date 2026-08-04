@@ -1222,7 +1222,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "out_of_stock",
+    "40": "low_on_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
@@ -4481,7 +4481,7 @@
    "image": "https://static.zara.net/assets/public/7d81/f994/81944a778933/d9c6d3a1c009/04060217800-p/04060217800-p.jpg?ts=1758275846174&w=800",
    "url": "https://www.zara.com/tr/tr/trf-yuksek-bel-kisa-kesim-can-paca-jean-p04592217.html?v1=516153302",
    "sizes": {
-    "32": "out_of_stock",
+    "32": "low_on_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
     "38": "out_of_stock",
@@ -5180,7 +5180,7 @@
    "url": "https://www.zara.com/tr/tr/cizgili-t-shirt-p05644992.html?v1=560051384",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -5621,7 +5621,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -7150,7 +7150,48 @@
     "42": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "02123021-612": {
+   "name": "ZW COLLECTION MİDİ ELBİSE",
+   "ref": "2123/021",
+   "color": "Leylak",
+   "kind": "Wear",
+   "family": "ELBISE",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/afbd/e110/216a4b588b2b/70a2ab237064/02123021612-p/02123021612-p.jpg?ts=1778769620806&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-midi-elbise-p02123021.html?v1=549547247",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02142002-620": {
+   "name": "ÇİZGİLİ YÜNLÜ KAZAK",
+   "ref": "2142/002",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "KAZAK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/2d52/7f2a/72df447688d1/1e9f5c225ee5/02142002620-p/02142002620-p.jpg?ts=1768565137557&w=800",
+   "url": "https://www.zara.com/tr/tr/cizgili-yunlu-kazak-p02142002.html?v1=498961772",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:36:25"
+ "last_check": "2026-08-04 17:40:12"
 }
