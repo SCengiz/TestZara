@@ -5412,7 +5412,7 @@
    "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6909,7 +6909,49 @@
     "M-L": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "03811044-716": {
+   "name": "OVERSIZE TRENÇKOT ZW COLLECTION",
+   "ref": "3811/044",
+   "color": "Koyu kahverengi",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/9cec/2297/bd4342e19a47/d49d1125c8c3/03811044716-p/03811044716-p.jpg?ts=1769007702979&w=800",
+   "url": "https://www.zara.com/tr/tr/oversize-trenckot-zw-collection-p03811044.html?v1=514956963",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "02969042-505": {
+   "name": "%100 SÜET DERİ CEKET ZW COLLECTION LIMITED EDITION",
+   "ref": "2969/042",
+   "color": "Haki",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/09eb/8d2f/168f4c1099e9/3d46a767738e/02969042505-p/02969042505-p.jpg?ts=1763469620010&w=800",
+   "url": "https://www.zara.com/tr/tr/100-suet-deri-ceket-zw-collection-limited-edition-p02969042.html?v1=503044389",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:23:46"
+ "last_check": "2026-08-04 14:26:26"
 }
