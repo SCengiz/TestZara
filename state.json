@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -2461,8 +2458,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -3177,8 +3173,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3220,8 +3215,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3302,8 +3296,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3751,8 +3744,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3961,8 +3953,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -3983,8 +3974,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4673,12 +4663,11 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -5412,7 +5401,7 @@
    "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6805,7 +6794,74 @@
     "STANDART": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "06147196-407": {
+   "name": "Z1975 YÜKSEK BEL BOL GENİŞ PAÇA JEAN",
+   "ref": "6147/196",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "PANTOLON",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/0d55/4a3c/ee2b48c4ae7b/a071156053b0/06147196407-p/06147196407-p.jpg?ts=1764078295185&w=800",
+   "url": "https://www.zara.com/tr/tr/z1975-yuksek-bel-bol-genis-paca-jean-p06147196.html?v1=495712081",
+   "sizes": {
+    "32": "out_of_stock",
+    "34": "out_of_stock",
+    "36": "out_of_stock",
+    "38": "out_of_stock",
+    "40": "out_of_stock",
+    "42": "out_of_stock",
+    "44": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "03231544-620": {
+   "name": "ÇİÇEK DESENLİ KORSE TARZI TOP",
+   "ref": "3231/544",
+   "color": "Pembe",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/9ee7/b039/64434006868f/c4ed83c257fb/03231544620-p/03231544620-p.jpg?ts=1777019325157&w=800",
+   "url": "https://www.zara.com/tr/tr/cicek-desenli-korse-tarzi-top-p03231544.html?v1=543953190",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "12105710-700": {
+   "name": "DERİ TOPUKLU BİLEKTE BOT",
+   "ref": "2105/710",
+   "color": "Kahverengi",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/a39b/f36b/08a14714910c/646d9abdbe31/12105710700-p/12105710700-p.jpg?ts=1768488028622&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-topuklu-bilekte-bot-p12105710.html?v1=495684558",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:21:38"
+ "last_check": "2026-08-04 14:22:21"
 }
