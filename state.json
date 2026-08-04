@@ -6539,7 +6539,103 @@
     "42": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "08073074-700": {
+   "name": "KEMERLİ UZUN SU GEÇİRMEZ RÜZGARLIK TRENÇKOT",
+   "ref": "8073/074",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/b4fc/59c0/0f7c43f9a196/de6f521003af/08073076700-p/08073076700-p.jpg?ts=1771521628405&w=800",
+   "url": "https://www.zara.com/tr/tr/kemerli-uzun-su-gecirmez-ruzgarlik-trenckot-p08073074.html?v1=500265164",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "03811040-811": {
+   "name": "ZW COLLECTION OVERSIZE SU GEÇİRMEZ TRENÇKOT",
+   "ref": "3811/040",
+   "color": "Açık gri",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/5cc5/a02b/fc274ad39049/dbf2588d02a3/03811040811-p/03811040811-p.jpg?ts=1772038433406&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-oversize-su-gecirmez-trenckot-p03811040.html?v1=495707602",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "00518047-506": {
+   "name": "ZW COLLECTION LIMITED EDITION OVERSIZE TRENÇKOT",
+   "ref": "0518/047",
+   "color": "Açık haki",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/479a/5a77/74714ec0bfa6/ce4d3d18fdc2/00518047506-p/00518047506-p.jpg?ts=1769693711773&w=800",
+   "url": "https://www.zara.com/tr/tr/trench-oversize-zw-collection-limited-edition-p00518047.html?v1=495669859",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "00518048-400": {
+   "name": "KEMERLİ OVERSIZE TRENÇKOT ZW COLLECTION",
+   "ref": "0518/048",
+   "color": "Mavi",
+   "kind": "Wear",
+   "family": "YAGMURLUK",
+   "section": "WOMAN",
+   "price": 119000,
+   "old_price": 169000,
+   "discount": 29,
+   "image": "https://static.zara.net/assets/public/9407/a56a/c55443889bc9/4d79550a5dd3/00518048400-p/00518048400-p.jpg?ts=1771247029910&w=800",
+   "url": "https://www.zara.com/tr/tr/zw-collection-kemerli-oversize-trenckot-p00518048.html?v1=495688996",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "05063789-708": {
+   "name": "KISA KEMERLİ TRENÇKOT",
+   "ref": "5063/789",
+   "color": "Açık taba",
+   "kind": "Wear",
+   "family": "MONT",
+   "section": "WOMAN",
+   "price": 59000,
+   "old_price": 79000,
+   "discount": 25,
+   "image": "https://static.zara.net/assets/public/98bd/0974/ab094bd9baca/74b32a491fd4/05063789708-a1/05063789708-a1.jpg?ts=1770828919306&w=800",
+   "url": "https://www.zara.com/tr/tr/kisa-kemerli-trenckot-p05063789.html?v1=495711815",
+   "sizes": {
+    "XS-S": "out_of_stock",
+    "M-L": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 13:03:25"
+ "last_check": "2026-08-04 13:05:52"
 }
