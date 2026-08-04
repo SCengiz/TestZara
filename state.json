@@ -2644,7 +2644,7 @@
    "image": "https://static.zara.net/assets/public/cdcd/9320/008d478d9675/ad145fd4f189/06050059620-e1/06050059620-e1.jpg?ts=1770895716257&w=800",
    "url": "https://www.zara.com/tr/tr/high-school-musical--disney-t-shirt-p06050059.html?v1=507291708",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6951,7 +6951,162 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "11103610-800": {
+   "name": "DERİ TOPUKLU BİLEKTE BOT",
+   "ref": "1103/610",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 179000,
+   "discount": 44,
+   "image": "https://static.zara.net/assets/public/dbb5/e6ae/2614445db56e/ab04a2435f01/11103610800-p/11103610800-p.jpg?ts=1758125821514&w=800",
+   "url": "https://www.zara.com/tr/tr/deri-topuklu-bilekte-bot-p11103610.html?v1=502649317",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "13820710-719": {
+   "name": "TAŞLI ARKASI AÇIK TOPUKLU AYAKKABI",
+   "ref": "3820/710",
+   "color": "Ekru",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 99000,
+   "discount": 30,
+   "image": "https://static.zara.net/assets/public/2106/0958/dc974f679923/b4717d352fa0/13820710719-e1/13820710719-e1.jpg?ts=1768896800089&w=800",
+   "url": "https://www.zara.com/tr/tr/tasli-arkasi-acik-topuklu-ayakkabi-p13820710.html?v1=495698839",
+   "sizes": {
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "13829710-604": {
+   "name": "İŞLEMELİ FİLE TOPUKLU SANDALET",
+   "ref": "3829/710",
+   "color": "Pembe",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 69000,
+   "old_price": 99000,
+   "discount": 30,
+   "image": "https://static.zara.net/assets/public/cf8c/fd9a/da76426f85a6/931bb67567fc/13829710604-e1/13829710604-e1.jpg?ts=1769158570803&w=800",
+   "url": "https://www.zara.com/tr/tr/islemeli-file-topuklu-sandalet-p13829710.html?v1=495693791",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "11000710-800": {
+   "name": "DÜZ SÜVARİ ÇİZMESİ",
+   "ref": "1000/710",
+   "color": "Siyah",
+   "kind": "Other",
+   "family": "AYAKKABI",
+   "section": "WOMAN",
+   "price": 99000,
+   "old_price": 129000,
+   "discount": 23,
+   "image": "https://static.zara.net/assets/public/be76/ac5a/0d814130972b/81c62bd5d8de/11000710800-023-p/11000710800-023-p.jpg?ts=1767609609121&w=800",
+   "url": "https://www.zara.com/tr/tr/duz-suvari-cizmesi-p11000710.html?v1=506838682",
+   "sizes": {
+    "35": "out_of_stock",
+    "36": "out_of_stock",
+    "37": "out_of_stock",
+    "38": "out_of_stock",
+    "39": "out_of_stock",
+    "40": "out_of_stock",
+    "41": "out_of_stock",
+    "42": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "05063300-712": {
+   "name": "FERMUARLI KAPAKLI TOP",
+   "ref": "5063/300",
+   "color": "Ekru",
+   "kind": "Wear",
+   "family": "DIGER GIYIM ESYASI",
+   "section": "WOMAN",
+   "price": 29000,
+   "old_price": 35000,
+   "discount": 17,
+   "image": "https://static.zara.net/assets/public/2df4/14f2/a8514b9aad07/de980ef71cb6/05063300712-p/05063300712-p.jpg?ts=1770832573800&w=800",
+   "url": "https://www.zara.com/tr/tr/fermuarli-kapakli-top-p05063300.html?v1=496392825",
+   "sizes": {
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "03564088-700": {
+   "name": "FİSTO İŞLEMELİ MİDİ ETEK",
+   "ref": "3564/088",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/caab/3de8/30b04ad5ac00/c71df0291f59/03564088700-p/03564088700-p.jpg?ts=1774959879942&w=800",
+   "url": "https://www.zara.com/tr/tr/fisto-islemeli-midi-etek-p03564088.html?v1=537259578",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
+  },
+  "09773314-700": {
+   "name": "DRAPELİ KARELİ ETEK ZW COLLECTION",
+   "ref": "9773/314",
+   "color": "Kahverengi",
+   "kind": "Wear",
+   "family": "ETEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/18c7/e89a/3af74388b887/14f90f29644d/09773314700-p/09773314700-p.jpg?ts=1768492016950&w=800",
+   "url": "https://www.zara.com/tr/tr/drape-pileli-kareli-etek-zw-collection-p09773314.html?v1=513128868",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock"
+   },
+   "_src": "wl"
   }
  },
- "last_check": "2026-08-04 14:29:00"
+ "last_check": "2026-08-04 14:31:30"
 }
