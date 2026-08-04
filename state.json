@@ -4681,7 +4681,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-balon-kollu-bluz-p01347453.html?v1=510855619",
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
-    "8/9 yaş (131 cm)": "out_of_stock",
+    "8/9 yaş (131 cm)": "low_on_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
@@ -7174,5 +7174,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 17:04:54"
+ "last_check": "2026-08-04 17:07:24"
 }
