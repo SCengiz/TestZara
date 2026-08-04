@@ -1615,7 +1615,7 @@
    "url": "https://www.zara.com/tr/tr/cicekli-saten-nevresim-p47111088.html?v1=513392548",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
+    "Çift Kişilik (150/160 cm)": "in_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    },
@@ -1973,7 +1973,7 @@
    "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--500-iplikli--p46110088.html?v1=495442941",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
+    "Çift Kişilik (150/160 cm)": "in_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    },
@@ -7207,5 +7207,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 15:24:45"
+ "last_check": "2026-08-04 15:26:53"
 }
