@@ -2608,7 +2608,7 @@
    "image": "https://static.zara.net/assets/public/cdcd/9320/008d478d9675/ad145fd4f189/06050059620-e1/06050059620-e1.jpg?ts=1770895716257&w=800",
    "url": "https://www.zara.com/tr/tr/high-school-musical--disney-t-shirt-p06050059.html?v1=507291708",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -3137,7 +3137,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -7185,7 +7185,7 @@
    "image": "https://static.zara.net/assets/public/2d52/7f2a/72df447688d1/1e9f5c225ee5/02142002620-p/02142002620-p.jpg?ts=1768565137557&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-yunlu-kazak-p02142002.html?v1=498961772",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-04 18:51:52"
+ "last_check": "2026-08-04 18:53:06"
 }
