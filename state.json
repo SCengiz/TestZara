@@ -5867,28 +5867,6 @@
    },
    "_src": "wl"
   },
-  "04772413-414": {
-   "name": "ANVELOP MİDİ ETEK",
-   "ref": "4772/413",
-   "color": "yıkanmış petrol",
-   "kind": "Wear",
-   "family": "ETEK",
-   "section": "WOMAN",
-   "price": 39000,
-   "old_price": 59000,
-   "discount": 33,
-   "image": "https://static.zara.net/assets/public/a9c1/41b5/1dcb48d283eb/c6f3cc4b9ff6/04772413414-p/04772413414-p.jpg?ts=1775054840040&w=800",
-   "url": "https://www.zara.com/tr/tr/anvelop-midi-etek-p04772413.html?v1=516147076",
-   "sizes": {
-    "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "low_on_stock",
-    "L": "out_of_stock",
-    "XL": "out_of_stock",
-    "XXL": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "02562152-600": {
    "name": "FIRFIRLI MİDİ ETEK ZW COLLECTION",
    "ref": "2562/152",
@@ -7212,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-05 17:11:37"
+ "last_check": "2026-08-05 17:14:00"
 }
