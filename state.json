@@ -427,7 +427,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "in_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -2463,7 +2463,7 @@
    "url": "https://www.zara.com/tr/tr/keten-karisimli-midi-elbise-zw-collection-p05289025.html?v1=516245018",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -2524,7 +2524,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p04387259.html?v1=495675113",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -2590,7 +2590,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "in_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -3260,7 +3260,7 @@
    "image": "https://static.zara.net/assets/public/5701/c8e8/b64341eca4c3/b605e7848c26/02396593600-p/02396593600-p.jpg?ts=1770224439324&w=800",
    "url": "https://www.zara.com/tr/tr/vatkali-vucuda-oturan-blazer-p02396593.html?v1=508012698",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3668,7 +3668,7 @@
    "image": "https://static.zara.net/assets/public/44ae/bb13/b61f4a96bc95/744172713ad1/03644277720-p/03644277720-p.jpg?ts=1776071953221&w=800",
    "url": "https://www.zara.com/tr/tr/askili-midi-elbise-p03644277.html?v1=526395462",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -3860,7 +3860,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "in_stock",
     "XXL": "out_of_stock"
    },
    "_src": "wl"
@@ -4570,7 +4570,7 @@
    "image": "https://static.zara.net/assets/public/92a4/85d4/f1e3467ba8ec/4c62b6c540ea/06136045505-p/06136045505-p.jpg?ts=1769693707041&w=800",
    "url": "https://www.zara.com/tr/tr/kisa-dokumlu-trenckot-zw-collection-p06136045.html?v1=524424065",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -5378,7 +5378,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-bebe-yaka-t-shirt-p02335555.html?v1=495702831",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "in_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -5642,7 +5642,7 @@
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "in_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    },
@@ -6497,7 +6497,7 @@
    "image": "https://static.zara.net/assets/public/9407/a56a/c55443889bc9/4d79550a5dd3/00518048400-p/00518048400-p.jpg?ts=1771247029910&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kemerli-oversize-trenckot-p00518048.html?v1=495688996",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6685,7 +6685,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    },
    "_src": "wl"
   },
@@ -6764,8 +6764,8 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-korse-tarzi-top-p03231544.html?v1=543953190",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
+    "S": "in_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 11:53:46"
+ "last_check": "2026-08-05 11:57:19"
 }
