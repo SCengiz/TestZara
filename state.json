@@ -3670,7 +3670,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock"
+    "L": "in_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 13:48:24"
+ "last_check": "2026-08-05 13:50:13"
 }
