@@ -1777,7 +1777,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-hali-p42306029.html?v1=495423336",
    "sizes": {
     "70 x 200 cm": "in_stock",
-    "60 x 120 cm": "in_stock",
+    "60 x 120 cm": "out_of_stock",
     "160 x 230 cm": "out_of_stock",
     "200 x 300 cm": "out_of_stock"
    },
@@ -1937,7 +1937,7 @@
    "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--500-iplikli--p46110088.html?v1=495442941",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    },
@@ -6620,7 +6620,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 15:38:32"
+ "last_check": "2026-08-05 15:38:43"
 }
