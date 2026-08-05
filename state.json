@@ -1,6 +1,8 @@
 {
  "_temp_alerted": false,
- "source_failures": {},
+ "source_failures": {
+  "p:501627052": 1
+ },
  "consecutive_failures": 0,
  "products": {
   "11126730-624": {
@@ -3162,8 +3164,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -7212,5 +7213,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 12:45:58"
+ "last_check": "2026-08-05 12:49:52"
 }
