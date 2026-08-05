@@ -2402,7 +2402,7 @@
     "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
+    "King (180/200 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 14:41:29"
+ "last_check": "2026-08-05 14:43:02"
 }
