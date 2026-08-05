@@ -1,6 +1,10 @@
 {
  "_temp_alerted": false,
- "source_failures": {},
+ "source_failures": {
+  "p:495680184": 1,
+  "p:504052206": 1,
+  "p:517750967": 1
+ },
  "consecutive_failures": 0,
  "products": {
   "11126730-624": {
@@ -7212,5 +7216,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-05 16:24:13"
+ "last_check": "2026-08-05 16:25:40"
 }
