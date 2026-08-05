@@ -3138,7 +3138,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -5927,7 +5927,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6135,7 +6135,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6980,7 +6980,7 @@
    "image": "https://static.zara.net/assets/public/2df4/14f2/a8514b9aad07/de980ef71cb6/05063300712-p/05063300712-p.jpg?ts=1770832573800&w=800",
    "url": "https://www.zara.com/tr/tr/fermuarli-kapakli-top-p05063300.html?v1=496392825",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 12:13:38"
+ "last_check": "2026-08-05 12:14:42"
 }
