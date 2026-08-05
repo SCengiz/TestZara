@@ -2609,7 +2609,7 @@
    "url": "https://www.zara.com/tr/tr/high-school-musical--disney-t-shirt-p06050059.html?v1=507291708",
    "sizes": {
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -2630,7 +2630,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -4725,7 +4725,7 @@
    "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-baskili-sweatshirt-p06224595.html?v1=510810924",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -6012,7 +6012,7 @@
    "sizes": {
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -6764,7 +6764,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-korse-tarzi-top-p03231544.html?v1=543953190",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -7065,7 +7065,7 @@
     "39": "out_of_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
-    "42": "in_stock"
+    "42": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 11:59:33"
+ "last_check": "2026-08-05 12:02:07"
 }
