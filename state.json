@@ -1937,7 +1937,7 @@
    "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--500-iplikli--p46110088.html?v1=495442941",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
    },
@@ -3475,7 +3475,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 15:29:45"
+ "last_check": "2026-08-05 15:30:48"
 }
