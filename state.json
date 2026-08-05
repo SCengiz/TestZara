@@ -4791,7 +4791,7 @@
    "url": "https://www.zara.com/tr/tr/ajurlu-cicek-islemeli-top-p09598503.html?v1=512223952",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "out_of_stock",
+    "2 yaş (92 cm)": "low_on_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 13:55:24"
+ "last_check": "2026-08-05 13:57:47"
 }
