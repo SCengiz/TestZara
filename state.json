@@ -1,10 +1,6 @@
 {
  "_temp_alerted": false,
- "source_failures": {
-  "p:495680184": 1,
-  "p:504052206": 1,
-  "p:517750967": 1
- },
+ "source_failures": {},
  "consecutive_failures": 0,
  "products": {
   "11126730-624": {
@@ -4444,7 +4440,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "low_on_stock",
     "XXL": "out_of_stock"
    },
    "_src": "wl"
@@ -7216,5 +7212,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-05 16:25:40"
+ "last_check": "2026-08-05 16:26:14"
 }
