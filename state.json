@@ -5926,7 +5926,7 @@
    "url": "https://www.zara.com/tr/tr/firfirli-midi-etek-zw-collection-p02562152.html?v1=526400873",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -7212,5 +7212,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 15:24:17"
+ "last_check": "2026-08-05 15:25:55"
 }
