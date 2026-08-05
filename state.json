@@ -3123,7 +3123,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3247,7 +3248,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3269,6 +3271,29 @@
     "XL": "out_of_stock"
    },
    "_src": "wl"
+  },
+  "02180040-094": {
+   "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
+   "ref": "2180/040",
+   "color": "Kırmızı / Beyaz",
+   "kind": "Wear",
+   "family": "GÖMLEK",
+   "section": "WOMAN",
+   "price": 39000,
+   "old_price": 59000,
+   "discount": 33,
+   "image": "https://static.zara.net/assets/public/cef4/9623/443c402eaf04/e5bb0bf0f3ef/02180040094-p/02180040094-p.jpg?ts=1776700305626&w=800",
+   "url": "https://www.zara.com/tr/tr/potikareli-buzgulu-top-p02180040.html?v1=517750967",
+   "sizes": {
+    "XS": "out_of_stock",
+    "S": "out_of_stock",
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
+   },
+   "_src": "p",
+   "_all_sizes": true
   },
   "08490744-712": {
    "name": "ÇİFT TARAFLI CEKET",
@@ -7191,5 +7216,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 16:11:10"
+ "last_check": "2026-08-05 16:11:22"
 }
