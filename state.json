@@ -3092,7 +3092,7 @@
    "image": "https://static.zara.net/assets/public/9972/bc22/56bc4aa68a19/f1c350190d06/01905041422-p/01905041422-p.jpg?ts=1778601298364&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-yuksek-bel-yun-pantolon-p01905806.html?v1=529543932",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6112,7 +6112,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -7212,5 +7212,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-05 16:40:16"
+ "last_check": "2026-08-05 16:41:23"
 }
