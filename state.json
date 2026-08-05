@@ -1,7 +1,7 @@
 {
  "_temp_alerted": false,
  "source_failures": {
-  "p:501627052": 7
+  "p:501627052": 8
  },
  "consecutive_failures": 0,
  "products": {
@@ -7213,5 +7213,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 12:57:17"
+ "last_check": "2026-08-05 12:58:44"
 }
