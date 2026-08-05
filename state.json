@@ -2974,7 +2974,7 @@
    "url": "https://www.zara.com/tr/tr/kontrast-orgu-kazak-p02142028.html?v1=498939811",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -5533,7 +5533,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "out_of_stock",
+    "4 yaş (104 cm)": "low_on_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
@@ -7191,5 +7191,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-05 16:18:31"
+ "last_check": "2026-08-05 16:18:43"
 }
