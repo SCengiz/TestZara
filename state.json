@@ -1817,7 +1817,7 @@
    "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=495417149",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
+    "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    },
@@ -7212,5 +7212,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-05 16:31:58"
+ "last_check": "2026-08-05 16:33:52"
 }
