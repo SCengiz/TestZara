@@ -6911,7 +6911,7 @@
    "image": "https://static.zara.net/assets/public/be76/ac5a/0d814130972b/81c62bd5d8de/11000710800-023-p/11000710800-023-p.jpg?ts=1767609609121&w=800",
    "url": "https://www.zara.com/tr/tr/duz-suvari-cizmesi-p11000710.html?v1=506838682",
    "sizes": {
-    "35": "out_of_stock",
+    "35": "in_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 09:28:42"
+ "last_check": "2026-08-06 09:32:36"
 }
