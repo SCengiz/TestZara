@@ -239,8 +239,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11271710-002": {
    "name": "DERİ KISA TOPUKLU AYAKKABI",
@@ -816,8 +815,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13541710-718": {
    "name": "KADİFE ETKİLİ BABET",
@@ -937,8 +935,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "11226710-022": {
    "name": "DERİ ARKASI AÇIK TOPUKLU AYAKKABI",
@@ -1654,7 +1651,7 @@
    "image": "https://static.zara.net/assets/public/b45e/f904/72f148b38077/24d588787e5f/41232213990-e1/41232213990-e1.jpg?ts=1776865002677&w=800",
    "url": "https://www.zara.com/tr/tr/borosilikat-surahi-p41232213.html?v1=555296944",
    "sizes": {
-    "23 x 18.8 x 16.3 cm": "out_of_stock"
+    "23 x 18.8 x 16.3 cm": "in_stock"
    },
    "_src": "wl"
   },
@@ -2015,7 +2012,7 @@
    "image": "https://static.zara.net/assets/public/ed54/d936/223b4fc8ae63/cec8ac35273b/42286021901-e1/42286021901-e1.jpg?ts=1774951883964&w=800",
    "url": "https://www.zara.com/tr/tr/overlok-cizgili-masa-ortusu-p42286021.html?v1=495423298",
    "sizes": {
-    "6-8 Kişilik": "out_of_stock",
+    "6-8 Kişilik": "in_stock",
     "2-4 Kişilik": "out_of_stock"
    },
    "_src": "wl"
@@ -2425,8 +2422,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "07149057-104": {
    "name": "İNCE ÇİZGİLİ YÜKSEK BEL PANTOLON ZW COLLECTION",
@@ -2835,7 +2831,7 @@
    "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
    "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "in_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -3119,8 +3115,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03897168-712": {
    "name": "KEMERLİ MİDİ ELBİSE",
@@ -3162,8 +3157,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04344655-716": {
    "name": "SUNİ SÜET CEKET",
@@ -3244,8 +3238,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02396593-600": {
    "name": "PEDLİ VÜCUDA OTURAN BLAZER",
@@ -3670,8 +3663,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08246053-407": {
    "name": "ZW COLLECTION YÜKSEK BEL GENİŞ PAÇA JEAN",
@@ -3880,8 +3872,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -3902,8 +3893,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04749812-800": {
    "name": "RÜZGAR GEÇİRMEZ SU GEÇİRMEZ ŞİŞME MONT",
@@ -4575,8 +4565,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-700": {
    "name": "KRUVAZE KISA KABAN",
@@ -4637,7 +4626,7 @@
    "sizes": {
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
-    "9/10 yaş (140 cm)": "low_on_stock",
+    "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
@@ -5310,7 +5299,7 @@
    "image": "https://static.zara.net/assets/public/f4dc/3a9d/a68e4b40a971/114c0c4b218a/05643509664-e1/05643509664-e1.jpg?ts=1767602564738&w=800",
    "url": "https://www.zara.com/tr/tr/desenli-sweatshirt-p05643509.html?v1=522369582",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -5594,7 +5583,7 @@
    "image": "https://static.zara.net/assets/public/e4db/5892/1a7c48d18178/1b1acca97bac/07878593629-e1/07878593629-e1.jpg?ts=1767772691641&w=800",
    "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-kabartma-t-shirt-p07878593.html?v1=498612431",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -7190,5 +7179,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 09:00:22"
+ "last_check": "2026-08-06 09:01:19"
 }
