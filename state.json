@@ -4483,7 +4483,7 @@
    "image": "https://static.zara.net/assets/public/cdcd/9320/008d478d9675/ad145fd4f189/06050059620-e1/06050059620-e1.jpg?ts=1770895716257&w=800",
    "url": "https://www.zara.com/tr/tr/high-school-musical--disney-t-shirt-p06050059.html?v1=507291708",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-06 19:28:53"
+ "last_check": "2026-08-06 19:31:20"
 }
