@@ -4228,7 +4228,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -4660,7 +4660,7 @@
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "out_of_stock",
+    "11/12 yaş (148 cm)": "low_on_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    },
@@ -5423,10 +5423,10 @@
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
-    "L": "in_stock",
-    "XL": "in_stock",
-    "XXL": "in_stock"
+    "M": "out_of_stock",
+    "L": "out_of_stock",
+    "XL": "out_of_stock",
+    "XXL": "out_of_stock"
    },
    "_src": "p",
    "_all_sizes": false
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 12:56:21"
+ "last_check": "2026-08-06 12:56:34"
 }
