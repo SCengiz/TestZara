@@ -6307,7 +6307,7 @@
    "image": "https://static.zara.net/assets/public/e4db/5892/1a7c48d18178/1b1acca97bac/07878593629-e1/07878593629-e1.jpg?ts=1767772691641&w=800",
    "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-kabartma-t-shirt-p07878593.html?v1=498612431",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-06 22:18:22"
+ "last_check": "2026-08-06 22:22:25"
 }
