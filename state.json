@@ -3114,7 +3114,7 @@
    "image": "https://static.zara.net/assets/public/2d52/7f2a/72df447688d1/1e9f5c225ee5/02142002620-p/02142002620-p.jpg?ts=1768565137557&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-yunlu-kazak-p02142002.html?v1=498961772",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-06 20:05:40"
+ "last_check": "2026-08-06 20:09:09"
 }
