@@ -2674,7 +2674,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock",
+    "XL": "in_stock",
     "XXL": "out_of_stock"
    },
    "_src": "wl"
@@ -3515,7 +3515,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -5073,7 +5073,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "out_of_stock"
+    "6 yaş (116 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -6004,7 +6004,7 @@
    "image": "https://static.zara.net/assets/public/7133/3fc5/47934df192a3/b0b33c4a7558/04786071811-p/04786071811-p.jpg?ts=1776155303359&w=800",
    "url": "https://www.zara.com/tr/tr/pilili-poplin-elbise-zw-collection-p04786071.html?v1=506838446",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 10:35:30"
+ "last_check": "2026-08-06 10:37:55"
 }
