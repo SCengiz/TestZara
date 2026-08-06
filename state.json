@@ -5729,7 +5729,7 @@
    "url": "https://www.zara.com/tr/tr/metalik-gorunumlu-duz-sandalet-p13862710.html?v1=496301227",
    "sizes": {
     "36": "out_of_stock",
-    "37": "in_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 11:28:12"
+ "last_check": "2026-08-06 11:28:16"
 }
