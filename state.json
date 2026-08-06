@@ -2835,7 +2835,7 @@
    "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
    "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
    "sizes": {
-    "6/7 yaş (122 cm)": "in_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -4065,7 +4065,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    },
    "_src": "wl"
   },
@@ -4291,7 +4291,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -5531,7 +5531,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "low_on_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 09:54:38"
+ "last_check": "2026-08-06 09:57:44"
 }
