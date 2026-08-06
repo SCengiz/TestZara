@@ -6571,7 +6571,7 @@
    "image": "https://static.zara.net/assets/public/0417/a938/a65542cea31d/3b92f6f0de06/07150647712-e1/07150647712-e1.jpg?ts=1775053780423&w=800",
    "url": "https://www.zara.com/tr/tr/islemeli-hasir-sapka-p07150647.html?v1=507744694",
    "sizes": {
-    "3-6 yaş (52 cm)": "out_of_stock",
+    "3-6 yaş (52 cm)": "in_stock",
     "6-9 yaş (54 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-06 21:32:09"
+ "last_check": "2026-08-06 21:34:35"
 }
