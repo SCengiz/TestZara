@@ -979,7 +979,7 @@
    "sizes": {
     "35": "out_of_stock",
     "36": "out_of_stock",
-    "37": "low_on_stock",
+    "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 11:28:16"
+ "last_check": "2026-08-06 11:30:48"
 }
