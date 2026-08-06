@@ -5429,7 +5429,7 @@
    "image": "https://static.zara.net/assets/public/0f98/df73/c8db4d30b53c/fd4f048832c8/06771016620-p/06771016620-p.jpg?ts=1773407300023&w=800",
    "url": "https://www.zara.com/tr/tr/ajurlu-triko-hirka-p06771016.html?v1=530097106",
    "sizes": {
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -7190,5 +7190,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-06 19:03:44"
+ "last_check": "2026-08-06 19:06:10"
 }
