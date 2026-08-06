@@ -169,7 +169,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -1275,7 +1275,7 @@
     "37 (23,6 cm)": "out_of_stock",
     "38 (24,3 cm)": "out_of_stock",
     "39 (24,9 cm)": "out_of_stock",
-    "40 (25,6 cm)": "out_of_stock"
+    "40 (25,6 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -6911,7 +6911,7 @@
    "image": "https://static.zara.net/assets/public/be76/ac5a/0d814130972b/81c62bd5d8de/11000710800-023-p/11000710800-023-p.jpg?ts=1767609609121&w=800",
    "url": "https://www.zara.com/tr/tr/duz-suvari-cizmesi-p11000710.html?v1=506838682",
    "sizes": {
-    "35": "in_stock",
+    "35": "out_of_stock",
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 09:33:24"
+ "last_check": "2026-08-06 09:35:09"
 }
