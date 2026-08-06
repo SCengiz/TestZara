@@ -2382,7 +2382,7 @@
    "sizes": {
     "2-4 Kişilik": "out_of_stock",
     "6-8 Kişilik": "out_of_stock",
-    "8-10 Kişilik": "out_of_stock"
+    "8-10 Kişilik": "in_stock"
    },
    "_src": "wl"
   },
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 12:28:20"
+ "last_check": "2026-08-06 12:31:11"
 }
