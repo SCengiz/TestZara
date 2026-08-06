@@ -2992,7 +2992,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "low_on_stock"
    },
    "_src": "wl"
   },
@@ -3013,7 +3013,7 @@
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
-    "XL": "out_of_stock"
+    "XL": "in_stock"
    },
    "_src": "wl"
   },
@@ -4958,7 +4958,7 @@
    "image": "https://static.zara.net/assets/public/5925/2ca9/af7b4b569e1b/1cb8b0d7622c/02209537620-e1/02209537620-e1.jpg?ts=1768920157077&w=800",
    "url": "https://www.zara.com/tr/tr/krose-orgu-bebe-yaka-kazak-p02209537.html?v1=495693729",
    "sizes": {
-    "1½ yaş (86 cm)": "out_of_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 16:20:07"
+ "last_check": "2026-08-06 16:22:37"
 }
