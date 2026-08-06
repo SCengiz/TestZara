@@ -1777,7 +1777,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-hali-p42306029.html?v1=495423336",
    "sizes": {
     "70 x 200 cm": "in_stock",
-    "60 x 120 cm": "in_stock",
+    "60 x 120 cm": "out_of_stock",
     "160 x 230 cm": "out_of_stock",
     "200 x 300 cm": "out_of_stock"
    },
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 15:40:09"
+ "last_check": "2026-08-06 15:42:22"
 }
