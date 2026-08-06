@@ -2086,7 +2086,7 @@
    "url": "https://www.zara.com/tr/tr/saten-sabahl%C4%B1k-p41125434.html?v1=495433438",
    "sizes": {
     "S-M": "out_of_stock",
-    "M-L": "out_of_stock"
+    "M-L": "in_stock"
    },
    "_src": "wl"
   },
@@ -7190,5 +7190,5 @@
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 13:21:14"
+ "last_check": "2026-08-06 13:23:57"
 }
