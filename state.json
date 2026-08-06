@@ -7184,11 +7184,11 @@
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
-    "XXL": "in_stock"
+    "XXL": "out_of_stock"
    },
    "_src": "p",
    "_all_sizes": true
   }
  },
- "last_check": "2026-08-06 13:55:58"
+ "last_check": "2026-08-06 13:57:24"
 }
