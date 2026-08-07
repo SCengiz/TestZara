@@ -4333,7 +4333,7 @@
    "_src": "wl"
   },
   "00518040-507": {
-   "name": "SU GEÇİRMEZ KISA TRENÇKOT ZW COLLECTION",
+   "name": "ZW COLLECTION KISA TRENÇKOT",
    "ref": "0518/040",
    "color": "Koyu haki",
    "kind": "Wear",
@@ -4343,7 +4343,7 @@
    "old_price": null,
    "discount": null,
    "image": "https://static.zara.net/assets/public/99b6/4853/7a1441b0bdf1/d5528a5788a4/00518040507-p/00518040507-p.jpg?ts=1771513433740&w=800",
-   "url": "https://www.zara.com/tr/tr/su-gecirmez-kisa-trenckot-zw-koleksiyonu-p00518040.html?v1=545453546",
+   "url": "https://www.zara.com/tr/tr/zw-collection-kisa-trenckot-p00518040.html?v1=545453546",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 13:54:37"
+ "last_check": "2026-08-07 13:58:17"
 }
