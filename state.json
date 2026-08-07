@@ -6988,7 +6988,7 @@
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
-    "12/13 yaş (156 cm)": "out_of_stock",
+    "12/13 yaş (156 cm)": "in_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -7170,5 +7170,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 09:34:03"
+ "last_check": "2026-08-07 09:36:41"
 }
