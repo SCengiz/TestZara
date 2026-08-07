@@ -3112,7 +3112,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -3679,7 +3679,7 @@
    "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p04387259.html?v1=495675113",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -4979,7 +4979,7 @@
    "image": "https://static.zara.net/assets/public/83ae/5b25/1b474d9bb0d3/008b530ea4fe/03897117681-p/03897117681-p.jpg?ts=1778228860504&w=800",
    "url": "https://www.zara.com/tr/tr/altin-aksesuarli-midi-elbise-p03897117.html?v1=525197079",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -5635,7 +5635,7 @@
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
-    "5 yaş (110 cm)": "out_of_stock",
+    "5 yaş (110 cm)": "low_on_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 17:19:52"
+ "last_check": "2026-08-07 17:22:03"
 }
