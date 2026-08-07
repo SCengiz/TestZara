@@ -181,7 +181,7 @@
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-bagcikli-midi-elbise-p04387108.html?v1=527667566",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 15:53:35"
+ "last_check": "2026-08-07 15:55:03"
 }
