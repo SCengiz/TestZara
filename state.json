@@ -5245,7 +5245,7 @@
    "image": "https://static.zara.net/assets/public/da51/b819/3708402d97a9/0b8625d5033b/04813305717-p/04813305717-p.jpg?ts=1769097389504&w=800",
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 14:23:20"
+ "last_check": "2026-08-07 14:23:31"
 }
