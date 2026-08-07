@@ -25,8 +25,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -50,8 +49,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -75,8 +73,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -97,8 +94,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -119,8 +115,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -164,8 +159,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -186,8 +180,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -208,8 +201,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -230,8 +222,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -253,8 +244,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -275,8 +265,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -2169,24 +2158,6 @@
    },
    "_src": "wl"
   },
-  "40300211-251": {
-   "name": "KAPAKLI SERAMİK KAVANOZ",
-   "ref": "0300/211",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "SOFRA TAKIMI",
-   "section": "HOME",
-   "price": 82000,
-   "old_price": 119000,
-   "discount": 19,
-   "image": "https://static.zara.net/assets/public/2664/db3d/eed642e8a7f2/d8a7bb571867/40300211251-e1/40300211251-e1.jpg?ts=1772121588276&w=800",
-   "url": "https://www.zara.com/tr/tr/kapakli-seramik-kavanoz-p40300211.html?v1=499095752",
-   "sizes": {
-    "21 x 12 x 12 cm": "out_of_stock",
-    "26 x 15 x 15 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "43260021-926": {
    "name": "JAKARLI ÇİÇEKLİ MASA ÖRTÜSÜ",
    "ref": "3260/021",
@@ -2219,44 +2190,6 @@
    "url": "https://www.zara.com/tr/tr/jakarli-cicek-desenli-pecete--2-li-paket--p43260022.html?v1=495417553",
    "sizes": {
     "Peçeteler": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "42328029-681": {
-   "name": "PAISLEY DESENLİ PAMUKLU HALI",
-   "ref": "2328/029",
-   "color": "Şarap rengi",
-   "kind": "Wear",
-   "family": "HALI",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/d016/f131/41ae44d894dd/1f797706050b/42328029681-e1/42328029681-e1.jpg?ts=1772721504530&w=800",
-   "url": "https://www.zara.com/tr/tr/paisley-desenli-pamuklu-hali-p42328029.html?v1=495430194",
-   "sizes": {
-    "70 x 200 cm": "in_stock",
-    "60 x 120 cm": "in_stock"
-   },
-   "_src": "wl"
-  },
-  "47111088-300": {
-   "name": "ÇİÇEKLİ SATEN NEVRESİM",
-   "ref": "7111/088",
-   "color": "Sarı",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 199000,
-   "old_price": 259000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/e0ca/cfd8/69d54ee2944b/e7e6af78acd8/47111088300-e1/47111088300-e1.jpg?ts=1781789260681&w=800",
-   "url": "https://www.zara.com/tr/tr/cicekli-saten-nevresim-p47111088.html?v1=513392548",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -2331,23 +2264,6 @@
    },
    "_src": "wl"
   },
-  "42217762-811": {
-   "name": "METAL EVYE DÜZENLEYİCİ",
-   "ref": "2217/762",
-   "color": "Açık gri",
-   "kind": "Wear",
-   "family": "TEMİZLİK ALETLERİ",
-   "section": "HOME",
-   "price": 65000,
-   "old_price": 82000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/3000/c80a/967844a9bd76/d31ed9681b20/42217762811-e1/42217762811-e1.jpg?ts=1771950687593&w=800",
-   "url": "https://www.zara.com/tr/tr/metal-evye-duzenleyici-p42217762.html?v1=495442896",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "48251351-052": {
    "name": "AKASYA AĞACINDAN HAVAN VE TOKMAK",
    "ref": "8251/351",
@@ -2379,26 +2295,6 @@
    "url": "https://www.zara.com/tr/tr/seramik-tereyagi-kabi-p47241042.html?v1=523322254",
    "sizes": {
     "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40030088-500": {
-   "name": "(300 İPLİKLİ) PAMUKLU PERKAL NEVRESİM",
-   "ref": "0030/088",
-   "color": "Yeşil",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/3684/fff6/a3214e29bb99/18cf9caf6466/40033088500-e1/40033088500-e1.jpg?ts=1757406807200&w=800",
-   "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=495417149",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "in_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -2502,45 +2398,6 @@
    },
    "_src": "wl"
   },
-  "45150088-922": {
-   "name": "KAŞMİR NEVRESİM",
-   "ref": "5150/088",
-   "color": "Koyu gri",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/3cd6/1784/9f2e4d858c68/4e5883c4a29c/45150088922-e1/45150088922-e1.jpg?ts=1767779231152&w=800",
-   "url": "https://www.zara.com/tr/tr/kasmir-nevresim-p45150088.html?v1=495433918",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "in_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "48546013-741": {
-   "name": "ÇAPRAZ DOKULU BANYO HAVLUSU",
-   "ref": "8546/013",
-   "color": "Fildişi",
-   "kind": "Wear",
-   "family": "HAVLU",
-   "section": "HOME",
-   "price": 82000,
-   "old_price": 119000,
-   "discount": 30,
-   "image": "https://static.zara.net/assets/public/ee93/f62b/e20342d88531/f84338a734bf/48546013741-e1/48546013741-e1.jpg?ts=1776267790250&w=800",
-   "url": "https://www.zara.com/tr/tr/capraz-dokulu-banyo-havlusu-p48546013.html?v1=523322266",
-   "sizes": {
-    "Yüz Havlusu": "out_of_stock",
-    "El Havlusu": "out_of_stock",
-    "Banyo Havlusu": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "42286021-901": {
    "name": "OVERLOK ÇİZGİLİ MASA ÖRTÜSÜ",
    "ref": "2286/021",
@@ -2634,26 +2491,6 @@
    },
    "_src": "wl"
   },
-  "40020088-727": {
-   "name": "PERKAL NEVRESİM KILIFI (200 İPLİKLİ)",
-   "ref": "0020/088",
-   "color": "Vanilya",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/1005/cdf8/9e69400eac39/f144a0dae6d5/40020088727-e1/40020088727-e1.jpg?ts=1750324807663&w=800",
-   "url": "https://www.zara.com/tr/tr/perkal-nevresim-kilifi--200-iplikli--p40020088.html?v1=495422804",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
-   },
-   "_src": "wl"
-  },
   "40030088-436": {
    "name": "(300 İPLİKLİ) PAMUKLU PERKAL NEVRESİM",
    "ref": "0030/088",
@@ -2711,25 +2548,6 @@
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46179088-307": {
-   "name": "BORDÜRLÜ PAMUK SATEN NEVRESİM (300 İPLİKLİ)",
-   "ref": "6179/088",
-   "color": "Cava rengi",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/3b26/c5b7/48354ec09f1b/4f69012cb81e/46179088307-e1/46179088307-e1.jpg?ts=1767600129322&w=800",
-   "url": "https://www.zara.com/tr/tr/bordurlu-pamuk-saten-nevresim--300-iplikli--p46179088.html?v1=495441497",
-   "sizes": {
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -2868,25 +2686,6 @@
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "in_stock"
-   },
-   "_src": "wl"
-  },
-  "44288021-514": {
-   "name": "MEYVE BASKILI REÇİNELİ PAMUKLU MASA ÖRTÜSÜ",
-   "ref": "4288/021",
-   "color": "Yeşilimsi",
-   "kind": "Wear",
-   "family": "MASA ORTUSU",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/ca25/67f3/a91248dd93db/505bfdb1dc2f/44288021514-e1/44288021514-e1.jpg?ts=1765361791179&w=800",
-   "url": "https://www.zara.com/tr/tr/meyve-baskili-recineli-pamuklu-masa-ortusu-p44288021.html?v1=495430412",
-   "sizes": {
-    "2-4 Kişilik": "out_of_stock",
-    "6-8 Kişilik": "out_of_stock",
-    "8-10 Kişilik": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7020,5 +6819,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 11:14:45"
+ "last_check": "2026-08-07 11:16:53"
 }
