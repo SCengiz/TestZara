@@ -25,8 +25,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -50,8 +49,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -75,8 +73,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -97,8 +94,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -119,8 +115,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -164,8 +159,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -186,8 +180,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -208,8 +201,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -230,8 +222,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -253,8 +244,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -275,8 +265,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -1896,7 +1885,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "low_on_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
@@ -3111,7 +3100,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -3255,7 +3244,7 @@
    "url": "https://www.zara.com/tr/tr/pilili-poplin-elbise-zw-collection-p04786071.html?v1=506838446",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "low_on_stock",
     "XL": "out_of_stock"
@@ -3383,7 +3372,7 @@
     "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "in_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -3617,7 +3606,7 @@
    "image": "https://static.zara.net/assets/public/ae01/9204/6c8140799b97/129569514cad/02077336800-p/02077336800-p.jpg?ts=1773334257130&w=800",
    "url": "https://www.zara.com/tr/tr/keten-karisimli-midi-elbise-zw-collection-p05289025.html?v1=516245018",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3782,7 +3771,7 @@
    "image": "https://static.zara.net/assets/public/32cf/55cb/014a4fffafec/4fd58a2fa820/03897171712-p/03897171712-p.jpg?ts=1775809766845&w=800",
    "url": "https://www.zara.com/tr/tr/altin-aplikeli-tulum-p03897171.html?v1=495689075",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -4205,7 +4194,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "in_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4284,10 +4273,10 @@
    "image": "https://static.zara.net/assets/public/8fba/35c8/d3a44a859887/1e7a6008f58a/03897168712-p/03897168712-p.jpg?ts=1770991316200&w=800",
    "url": "https://www.zara.com/tr/tr/kemerli-midi-elbise-p03897168.html?v1=495689068",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -5570,7 +5559,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "in_stock"
+    "13/14 yaş (164 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -5742,7 +5731,7 @@
    "url": "https://www.zara.com/tr/tr/islemeli-top-p05644455.html?v1=525443277",
    "sizes": {
     "1½ yaş (86 cm)": "out_of_stock",
-    "2 yaş (92 cm)": "in_stock",
+    "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
@@ -6470,5 +6459,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 16:06:44"
+ "last_check": "2026-08-07 16:08:59"
 }
