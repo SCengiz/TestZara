@@ -3380,7 +3380,7 @@
    "image": "https://static.zara.net/assets/public/a0df/5897/bf5c419c8c86/214c3f29ac1b/04786062802-p/04786062802-p.jpg?ts=1774944137970&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-gomlek-elbise-p04786062.html?v1=505204414",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3680,7 +3680,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4751,7 +4751,7 @@
     "32": "out_of_stock",
     "34": "out_of_stock",
     "36": "out_of_stock",
-    "38": "low_on_stock",
+    "38": "out_of_stock",
     "40": "out_of_stock",
     "42": "out_of_stock",
     "44": "out_of_stock",
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 17:29:36"
+ "last_check": "2026-08-07 17:32:09"
 }
