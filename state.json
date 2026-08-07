@@ -2204,77 +2204,6 @@
    },
    "_src": "wl"
   },
-  "46192088-251": {
-   "name": "JAKAR PAMUKLU NEVRESİM",
-   "ref": "6192/088",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/f0db/8398/d1924edaa5be/3a4109742841/46192088251-e1/46192088251-e1.jpg?ts=1770905853181&w=800",
-   "url": "https://www.zara.com/tr/tr/jakar-pamuklu-nevresim-p46192088.html?v1=495433920",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
-   },
-   "_src": "wl"
-  },
-  "41232213-990": {
-   "name": "BOROSİLİKAT SÜRAHİ",
-   "ref": "1232/213",
-   "color": "Transparan",
-   "kind": "Wear",
-   "family": "ZUCCACIYE",
-   "section": "HOME",
-   "price": 47000,
-   "old_price": 65000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/b45e/f904/72f148b38077/24d588787e5f/41232213990-e1/41232213990-e1.jpg?ts=1776865002677&w=800",
-   "url": "https://www.zara.com/tr/tr/borosilikat-surahi-p41232213.html?v1=555296944",
-   "sizes": {
-    "23 x 18.8 x 16.3 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40214041-300": {
-   "name": "RENKLİ KULPLU BOROSİLİKAT ÇAYDANLIK",
-   "ref": "0214/041",
-   "color": "Sarı",
-   "kind": "Wear",
-   "family": "ZUCCACIYE",
-   "section": "HOME",
-   "price": 47000,
-   "old_price": 65000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/28ca/2c82/d45f40358fb7/71583f216e8c/40214041300-e1/40214041300-e1.jpg?ts=1766075122451&w=800",
-   "url": "https://www.zara.com/tr/tr/renkli-kulplu-borosilikat-caydanlik-p40214041.html?v1=495430130",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "42570049-052": {
-   "name": "KAPAKLI YUVARLAK SEPET",
-   "ref": "2570/049",
-   "color": "Açık bej",
-   "kind": "Wear",
-   "family": "SEPET",
-   "section": "HOME",
-   "price": 119000,
-   "old_price": 159000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/86a7/ccf9/7eff4259a81c/af147270a95e/42570049052-e1/42570049052-e1.jpg?ts=1769083501591&w=800",
-   "url": "https://www.zara.com/tr/tr/kapakli-yuvarlak-sepet-p42570049.html?v1=495430537",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "48251351-052": {
    "name": "AKASYA AĞACINDAN HAVAN VE TOKMAK",
    "ref": "8251/351",
@@ -2292,23 +2221,6 @@
    },
    "_src": "wl"
   },
-  "47241042-251": {
-   "name": "SERAMİK TEREYAĞI KABI",
-   "ref": "7241/042",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "AKSESUAR",
-   "section": "HOME",
-   "price": 29000,
-   "old_price": 38000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/5132/9dc3/59da43c59896/c43c8b248984/47241042251-e1/47241042251-e1.jpg?ts=1773661463277&w=800",
-   "url": "https://www.zara.com/tr/tr/seramik-tereyagi-kabi-p47241042.html?v1=523322254",
-   "sizes": {
-    "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "45186088-500": {
    "name": "ÇİZGİLİ KETEN VE PAMUKLU NEVRESİM",
    "ref": "5186/088",
@@ -2321,26 +2233,6 @@
    "discount": 18,
    "image": "https://static.zara.net/assets/public/a62d/3522/6e5143f787c0/4e0736009482/45186088500-e1/45186088500-e1.jpg?ts=1769070066586&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-keten-ve-pamuklu-nevresim-p45186088.html?v1=495426114",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40030088-524": {
-   "name": "(300 İPLİKLİ) PAMUKLU PERKAL NEVRESİM",
-   "ref": "0030/088",
-   "color": "Yeşil marn",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/dbc0/9f8a/0f89432bbcfd/c27a504f3852/40033088524-e1/40033088524-e1.jpg?ts=1770203286390&w=800",
-   "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=495951853",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
     "Çift Kişilik (150/160 cm)": "out_of_stock",
@@ -2369,82 +2261,6 @@
    },
    "_src": "wl"
   },
-  "42187088-250": {
-   "name": "GOFRE NEVRESİM",
-   "ref": "2187/088",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/3833/e88b/6bfe45e28430/d0c0b65a9fac/42187088250-e1/42187088250-e1.jpg?ts=1754895593139&w=800",
-   "url": "https://www.zara.com/tr/tr/gofre-nevresim-p42187088.html?v1=495417626",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46110088-710": {
-   "name": "ÇİZGİLİ SATEN NEVRESİM (500 İPLİKLİ)",
-   "ref": "6110/088",
-   "color": "Bej",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/8c4a/5b29/402c43d4aab5/24eadc46fcae/46110088710-e1/46110088710-e1.jpg?ts=1757345928645&w=800",
-   "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--500-iplikli--p46110088.html?v1=495442941",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
-   },
-   "_src": "wl"
-  },
-  "42286021-901": {
-   "name": "OVERLOK ÇİZGİLİ MASA ÖRTÜSÜ",
-   "ref": "2286/021",
-   "color": "YEŞİLİMSİ",
-   "kind": "Wear",
-   "family": "MASA ORTUSU",
-   "section": "HOME",
-   "price": 65000,
-   "old_price": 82000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/ed54/d936/223b4fc8ae63/cec8ac35273b/42286021901-e1/42286021901-e1.jpg?ts=1774951883964&w=800",
-   "url": "https://www.zara.com/tr/tr/overlok-cizgili-masa-ortusu-p42286021.html?v1=495423298",
-   "sizes": {
-    "6-8 Kişilik": "out_of_stock",
-    "2-4 Kişilik": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "47268023-400": {
-   "name": "İŞLEMELİ TAVŞANLI PAMUK AMERİKAN SERVİSİ",
-   "ref": "7268/023",
-   "color": "Mavi",
-   "kind": "Wear",
-   "family": "MASA ORTUSU",
-   "section": "HOME",
-   "price": 29000,
-   "old_price": 38000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/194c/1ff0/7c9f432cadcc/4d05b2141f92/47268023400-e1/47268023400-e1.jpg?ts=1770912093771&w=800",
-   "url": "https://www.zara.com/tr/tr/islemeli-tavsanli-pamuk-amerikan-servisi-p47268023.html?v1=501597437",
-   "sizes": {
-    "35 x 50 cm": "out_of_stock",
-    "38 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "48227023-052": {
    "name": "RUSTİK KETEN AMERİKAN SERVİS",
    "ref": "8227/023",
@@ -2459,165 +2275,6 @@
    "url": "https://www.zara.com/tr/tr/rustik-keten-amerikan-servis-p48227023.html?v1=495426144",
    "sizes": {
     "60 x 44 x 1 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46115088-922": {
-   "name": "PİKE BİYELİ NEVRESİM",
-   "ref": "6115/088",
-   "color": "Koyu gri",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 199000,
-   "old_price": 259000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/c9c5/c38f/340745db89f4/8c5ae3e673e0/46115088922-e1/46115088922-e1.jpg?ts=1766055661935&w=800",
-   "url": "https://www.zara.com/tr/tr/pike-biyeli-nevresim-p46115088.html?v1=495442916",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40056088-832": {
-   "name": "SATEN NEVRESİM KILIFI (500 İPLİKLİ)",
-   "ref": "0056/088",
-   "color": "Boz kahverengi gri",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/8cb7/8f6b/6e0746a49a49/1efe5500a2fd/40056088832-e1/40056088832-e1.jpg?ts=1750323096052&w=800",
-   "url": "https://www.zara.com/tr/tr/saten-nevresim-kilifi--500-iplikli--p40056088.html?v1=495438522",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40030088-436": {
-   "name": "(300 İPLİKLİ) PAMUKLU PERKAL NEVRESİM",
-   "ref": "0030/088",
-   "color": "Gök mavisi",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/33cd/57f6/f1fe40818c14/1e1674b6538e/40131088436-e1/40131088436-e1.jpg?ts=1781173463787&w=800",
-   "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=523909891",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40035088-445": {
-   "name": "SATEN NEVRESİM (300 İPLİK)",
-   "ref": "0035/088",
-   "color": "Mavi / Yeşil",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/8a22/06d4/d8d44616a9b3/ccea8e5cebc0/40035088445-e1/40035088445-e1.jpg?ts=1756974744106&w=800",
-   "url": "https://www.zara.com/tr/tr/saten-nevresim--300-iplik--p40035088.html?v1=495422825",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46166088-251": {
-   "name": "ÇİÇEKLİ SATEN NEVRESİM",
-   "ref": "6166/088",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/de03/fd52/24bd46198c80/8270d7c0910c/46166088251-e1/46166088251-e1.jpg?ts=1765366682408&w=800",
-   "url": "https://www.zara.com/tr/tr/cicekli-saten-nevresim-p46166088.html?v1=495423163",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46194088-712": {
-   "name": "KIRIŞIK DOKULU ÇİZGİLİ PAMUKLU NEVRESİM",
-   "ref": "6194/088",
-   "color": "Ekru",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/697d/e4b3/d17240169b86/a94284969412/46194088712-e1/46194088712-e1.jpg?ts=1769088439936&w=800",
-   "url": "https://www.zara.com/tr/tr/kirisik-dokulu-cizgili-pamuklu-nevresim-p46194088.html?v1=495438181",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "45241341-551": {
-   "name": "ÇELİK BAHÇE SULAMA KABI",
-   "ref": "5241/341",
-   "color": "Açık nane yeşili",
-   "kind": "Wear",
-   "family": "BAHÇE AKSESUARLARI",
-   "section": "HOME",
-   "price": 65000,
-   "old_price": 82000,
-   "discount": 20,
-   "image": "https://static.zara.net/assets/public/516b/d600/83cf40bdae3c/366006df383b/45241341551-e1/45241341551-e1.jpg?ts=1770890140441&w=800",
-   "url": "https://www.zara.com/tr/tr/celik-bahce-sulama-kabi-p45241341.html?v1=502338358",
-   "sizes": {
-    "10.5 x 7.5 x 17.5 cm": "out_of_stock",
-    "19 x 12 x 29 cm": "out_of_stock",
-    "25 x 18 x 39 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "47119088-300": {
-   "name": "SOLUK EFEKTLİ PAMUKLU ÇİZGİLİ NEVRESİM",
-   "ref": "7119/088",
-   "color": "Sarı",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/4cd7/5e31/828c4cf8a644/3a8355b314cb/47119088300-e1/47119088300-e1.jpg?ts=1774008382276&w=800",
-   "url": "https://www.zara.com/tr/tr/soluk-efektli-pamuklu-cizgili-nevresim-p47119088.html?v1=518663590",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -6830,5 +6487,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 11:17:19"
+ "last_check": "2026-08-07 11:19:50"
 }
