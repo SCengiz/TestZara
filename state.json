@@ -25,7 +25,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -49,7 +50,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -73,7 +75,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -94,7 +97,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -115,7 +119,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -159,7 +164,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -180,7 +186,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -201,7 +208,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -222,7 +230,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -244,7 +253,8 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -265,7 +275,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -2566,26 +2577,6 @@
    },
    "_src": "wl"
   },
-  "46146088-251": {
-   "name": "ÇİÇEK DESENLİ PAMUKLU PERKAL NEVRESİM (200 İPLİKLİ)",
-   "ref": "6146/088",
-   "color": "Kirli-beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 25,
-   "image": "https://static.zara.net/assets/public/b9f5/3529/6a6a40818e2f/88ba72686194/46146088251-e1/46146088251-e1.jpg?ts=1766416126657&w=800",
-   "url": "https://www.zara.com/tr/tr/cicek-desenli-pamuklu-perkal-nevresim--200-iplikli--p46146088.html?v1=495433575",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "46110088-710": {
    "name": "ÇİZGİLİ SATEN NEVRESİM (500 İPLİKLİ)",
    "ref": "6110/088",
@@ -2695,23 +2686,6 @@
    "url": "https://www.zara.com/tr/tr/rustik-keten-amerikan-servis-p48227023.html?v1=495426144",
    "sizes": {
     "60 x 44 x 1 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "44279022-514": {
-   "name": "TOILE DESENLİ PAMUKLU PEÇETE (2'Lİ SET)",
-   "ref": "4279/022",
-   "color": "Yeşilimsi",
-   "kind": "Wear",
-   "family": "PECETE",
-   "section": "HOME",
-   "price": 29000,
-   "old_price": 38000,
-   "discount": 23,
-   "image": "https://static.zara.net/assets/public/132d/ab09/21b64ac283bf/af58a33efdae/44279022514-e1/44279022514-e1.jpg?ts=1771931745688&w=800",
-   "url": "https://www.zara.com/tr/tr/toile-desenli-pamuklu-pecete--2-li-set--p44279022.html?v1=502317229",
-   "sizes": {
-    "Peçeteler": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -7159,5 +7133,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 11:06:39"
+ "last_check": "2026-08-07 11:07:13"
 }
