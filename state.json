@@ -3783,7 +3783,7 @@
    "url": "https://www.zara.com/tr/tr/altin-aplikeli-tulum-p03897171.html?v1=495689075",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 17:14:33"
+ "last_check": "2026-08-07 17:17:01"
 }
