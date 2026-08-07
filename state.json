@@ -3742,10 +3742,10 @@
    "image": "https://static.zara.net/assets/public/3e3a/62b4/38db449f9ab5/e553e84ccbc2/03897094919-1-p/03897094919-1-p.jpg?ts=1778581599403&w=800",
    "url": "https://www.zara.com/tr/tr/halter-yaka-aksesuarli-midi-elbise-p03897094.html?v1=548956061",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
-    "L": "out_of_stock",
+    "L": "low_on_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -5570,7 +5570,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "out_of_stock"
+    "13/14 yaş (164 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -5697,7 +5697,7 @@
    "image": "https://static.zara.net/assets/public/75b2/9840/a13746e68376/781cfb73a58f/01347453620-e1/01347453620-e1.jpg?ts=1771255408775&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-balon-kollu-bluz-p01347453.html?v1=510855619",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "in_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "in_stock",
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 16:01:31"
+ "last_check": "2026-08-07 16:04:15"
 }
