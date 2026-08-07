@@ -1535,7 +1535,7 @@
     "36": "out_of_stock",
     "37": "out_of_stock",
     "38": "out_of_stock",
-    "39": "out_of_stock",
+    "39": "low_on_stock",
     "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
@@ -7170,5 +7170,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 10:26:58"
+ "last_check": "2026-08-07 10:29:26"
 }
