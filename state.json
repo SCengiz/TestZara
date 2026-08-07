@@ -2534,7 +2534,7 @@
    "image": "https://static.zara.net/assets/public/9407/a56a/c55443889bc9/4d79550a5dd3/00518048400-p/00518048400-p.jpg?ts=1771247029910&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kemerli-oversize-trenckot-p00518048.html?v1=495688996",
    "sizes": {
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 14:56:11"
+ "last_check": "2026-08-07 14:58:33"
 }
