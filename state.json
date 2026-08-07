@@ -309,9 +309,9 @@
    "kind": "Wear",
    "family": "AYAKKABI",
    "section": "WOMAN",
-   "price": 119999,
+   "price": 79999,
    "old_price": 199999,
-   "discount": 40,
+   "discount": 60,
    "image": "https://media.mango.com/is/image/punto/27072932-32-058?wid=1024",
    "url": "https://shop.mango.com/tr/tr/p/kad%C4%B1n/ayakkab%C4%B1/topuklu-sandalet/kitten-topuklu-kay%C4%B1sl%C4%B1-sandalet/27072932/32/00",
    "sizes": {
@@ -586,7 +586,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "out_of_stock"
+    "STANDART": "low_on_stock"
    },
    "_src": "wl"
   },
@@ -6287,7 +6287,7 @@
    "image": "https://static.zara.net/assets/public/e4db/5892/1a7c48d18178/1b1acca97bac/07878593629-e1/07878593629-e1.jpg?ts=1767772691641&w=800",
    "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-kabartma-t-shirt-p07878593.html?v1=498612431",
    "sizes": {
-    "1½ yaş (86 cm)": "in_stock",
+    "1½ yaş (86 cm)": "low_on_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -7170,5 +7170,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 09:46:04"
+ "last_check": "2026-08-07 09:46:39"
 }
