@@ -3005,7 +3005,7 @@
    "url": "https://www.zara.com/tr/tr/kisa-su-ve-ruzgar-gecirmez-kapitone-anorak-p04341821.html?v1=507046512",
    "sizes": {
     "XS-S": "out_of_stock",
-    "M-L": "out_of_stock"
+    "M-L": "low_on_stock"
    },
    "_src": "wl"
   },
@@ -5570,7 +5570,7 @@
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
-    "13/14 yaş (164 cm)": "out_of_stock"
+    "13/14 yaş (164 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -6265,7 +6265,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "in_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 16:14:58"
+ "last_check": "2026-08-07 16:19:08"
 }
