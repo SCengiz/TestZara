@@ -3742,7 +3742,7 @@
    "image": "https://static.zara.net/assets/public/3e3a/62b4/38db449f9ab5/e553e84ccbc2/03897094919-1-p/03897094919-1-p.jpg?ts=1778581599403&w=800",
    "url": "https://www.zara.com/tr/tr/halter-yaka-aksesuarli-midi-elbise-p03897094.html?v1=548956061",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -3784,7 +3784,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 15:37:48"
+ "last_check": "2026-08-07 15:39:03"
 }
