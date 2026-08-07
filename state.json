@@ -3742,7 +3742,7 @@
    "image": "https://static.zara.net/assets/public/3e3a/62b4/38db449f9ab5/e553e84ccbc2/03897094919-1-p/03897094919-1-p.jpg?ts=1778581599403&w=800",
    "url": "https://www.zara.com/tr/tr/halter-yaka-aksesuarli-midi-elbise-p03897094.html?v1=548956061",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "low_on_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -5161,7 +5161,7 @@
    "image": "https://static.zara.net/assets/public/98ff/1ed1/2bcc4900989c/5e4ba82cdf93/02214622401-p/02214622401-p.jpg?ts=1769177471357&w=800",
    "url": "https://www.zara.com/tr/tr/vatkali-kadife-blazer-p02214622.html?v1=502170783",
    "sizes": {
-    "XS": "in_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 15:59:17"
+ "last_check": "2026-08-07 16:01:31"
 }
