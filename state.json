@@ -518,7 +518,7 @@
    "image": "https://static.zara.net/assets/public/345b/c116/636b44e2842b/7fa654f71a1e/00024010330-p/00024010330-p.jpg?ts=1775064949819&w=800",
    "url": "https://www.zara.com/tr/tr/cizgili-oval-jut-mini-canta-p00024010.html?v1=505070467",
    "sizes": {
-    "M": "out_of_stock"
+    "M": "low_on_stock"
    },
    "_src": "wl"
   },
@@ -1656,7 +1656,7 @@
     "37": "out_of_stock",
     "38": "out_of_stock",
     "39": "out_of_stock",
-    "40": "in_stock",
+    "40": "out_of_stock",
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 12:52:55"
+ "last_check": "2026-08-07 12:55:24"
 }
