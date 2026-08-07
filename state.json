@@ -135,7 +135,7 @@
    "image": "https://static.zara.net/assets/public/cef4/9623/443c402eaf04/e5bb0bf0f3ef/02180040094-p/02180040094-p.jpg?ts=1776700305626&w=800",
    "url": "https://www.zara.com/tr/tr/potikareli-buzgulu-top-p02180040.html?v1=517750967",
    "sizes": {
-    "XS": "low_on_stock",
+    "XS": "out_of_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -181,7 +181,7 @@
    "url": "https://www.zara.com/tr/tr/puantiye-desenli-bagcikli-midi-elbise-p04387108.html?v1=527667566",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "in_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 15:59:04"
+ "last_check": "2026-08-07 15:59:17"
 }
