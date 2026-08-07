@@ -2906,7 +2906,7 @@
    "url": "https://www.zara.com/tr/tr/trench-oversize-zw-collection-limited-edition-p00518047.html?v1=495669859",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "in_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -5546,7 +5546,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "low_on_stock",
+    "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 17:24:40"
+ "last_check": "2026-08-07 17:27:10"
 }
