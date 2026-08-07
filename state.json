@@ -2635,7 +2635,7 @@
    "url": "https://www.zara.com/tr/tr/cicek-desenli-korse-tarzi-top-p03231544.html?v1=543953190",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "low_on_stock",
+    "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -5832,7 +5832,7 @@
     "1½ yaş (86 cm)": "out_of_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
-    "4 yaş (104 cm)": "in_stock",
+    "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
     "6 yaş (116 cm)": "out_of_stock"
    },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 21:36:22"
+ "last_check": "2026-08-07 21:38:47"
 }
