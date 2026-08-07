@@ -5719,7 +5719,7 @@
    "image": "https://static.zara.net/assets/public/b86e/de0d/0c75480c8aa6/23fa87522a6f/05643612620-e1/05643612620-e1.jpg?ts=1765982124953&w=800",
    "url": "https://www.zara.com/tr/tr/capibara-capyfun---sweatshirt-p05643612.html?v1=496656522",
    "sizes": {
-    "6/7 yaş (122 cm)": "in_stock",
+    "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 11:49:23"
+ "last_check": "2026-08-07 11:49:59"
 }
