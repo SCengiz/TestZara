@@ -2092,7 +2092,7 @@
     "38": "out_of_stock",
     "39": "out_of_stock",
     "40": "out_of_stock",
-    "41": "out_of_stock",
+    "41": "in_stock",
     "42": "out_of_stock"
    },
    "_src": "wl"
@@ -5430,7 +5430,7 @@
    "url": "https://www.zara.com/tr/tr/askili-midi-elbise-p03644277.html?v1=526395462",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -7170,5 +7170,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 09:50:14"
+ "last_check": "2026-08-07 09:54:12"
 }
