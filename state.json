@@ -25,7 +25,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -49,7 +50,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -73,7 +75,8 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -94,7 +97,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -115,7 +119,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -159,7 +164,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -180,7 +186,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -201,7 +208,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -222,7 +230,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -244,7 +253,8 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -265,7 +275,8 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "wl"
+   "_src": "p",
+   "_all_sizes": true
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -6459,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 22:02:05"
+ "last_check": "2026-08-07 22:02:50"
 }
