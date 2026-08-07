@@ -2491,7 +2491,7 @@
    "url": "https://www.zara.com/tr/tr/-300-iplikli--pamuklu-perkal-nevresim-p40030088.html?v1=495417149",
    "sizes": {
     "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
+    "Çift Kişilik (150/160 cm)": "in_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
    },
@@ -2634,26 +2634,6 @@
     "Çift Kişilik (150/160 cm)": "out_of_stock",
     "Double": "out_of_stock",
     "King (180/200 cm)": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "46110088-250": {
-   "name": "ÇİZGİLİ SATEN NEVRESİM (500 İPLİKLİ)",
-   "ref": "6110/088",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 259000,
-   "old_price": 319000,
-   "discount": 18,
-   "image": "https://static.zara.net/assets/public/5035/5660/cbf9448c9bdc/97934adde32c/46110088250-e1/46110088250-e1.jpg?ts=1756216207523&w=800",
-   "url": "https://www.zara.com/tr/tr/cizgili-saten-nevresim--500-iplikli--p46110088.html?v1=495442943",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -5059,11 +5039,11 @@
    "kind": "Wear",
    "family": "YAGMURLUK",
    "section": "WOMAN",
-   "price": 59000,
-   "old_price": 79000,
-   "discount": 25,
+   "price": 399000,
+   "old_price": null,
+   "discount": null,
    "image": "https://static.zara.net/assets/public/99b6/4853/7a1441b0bdf1/d5528a5788a4/00518040507-p/00518040507-p.jpg?ts=1771513433740&w=800",
-   "url": "https://www.zara.com/tr/tr/su-gecirmez-kisa-trenckot-zw-koleksiyonu-p00518040.html?v1=495716340",
+   "url": "https://www.zara.com/tr/tr/su-gecirmez-kisa-trenckot-zw-koleksiyonu-p00518040.html?v1=545453546",
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
@@ -6307,7 +6287,7 @@
    "image": "https://static.zara.net/assets/public/e4db/5892/1a7c48d18178/1b1acca97bac/07878593629-e1/07878593629-e1.jpg?ts=1767772691641&w=800",
    "url": "https://www.zara.com/tr/tr/gaby-s-dollhouse---dream-works-kabartma-t-shirt-p07878593.html?v1=498612431",
    "sizes": {
-    "1½ yaş (86 cm)": "low_on_stock",
+    "1½ yaş (86 cm)": "in_stock",
     "2 yaş (92 cm)": "out_of_stock",
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
@@ -6421,7 +6401,7 @@
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
-    "12/13 yaş (156 cm)": "in_stock",
+    "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    },
    "_src": "wl"
@@ -7190,5 +7170,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 09:01:02"
+ "last_check": "2026-08-07 09:01:28"
 }
