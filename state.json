@@ -586,7 +586,7 @@
    "image": "https://static.zara.net/assets/public/fd81/f07b/b85e45179f58/5aae9abd4920/11121730001-e1/11121730001-e1.jpg?ts=1768825551090&w=800",
    "url": "https://www.zara.com/tr/tr/suni-inci-boncuklu-capraz-askili-canta-p11121730.html?v1=529128431",
    "sizes": {
-    "STANDART": "low_on_stock"
+    "STANDART": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -2187,23 +2187,6 @@
    },
    "_src": "wl"
   },
-  "43260024-926": {
-   "name": "JAKARLI ÇİÇEKLİ MASA RUNNER",
-   "ref": "3260/024",
-   "color": "Pembe",
-   "kind": "Wear",
-   "family": "MASA ORTUSU",
-   "section": "HOME",
-   "price": 65000,
-   "old_price": 95000,
-   "discount": 31,
-   "image": "https://static.zara.net/assets/public/75ea/22d0/4f6a450d97de/59a3f8f69d7b/43260024926-e1/43260024926-e1.jpg?ts=1766152480914&w=800",
-   "url": "https://www.zara.com/tr/tr/jakarli-cicekli-masa-runner-p43260024.html?v1=495438089",
-   "sizes": {
-    "50 x 160 cm": "out_of_stock"
-   },
-   "_src": "wl"
-  },
   "43260021-926": {
    "name": "JAKARLI ÇİÇEKLİ MASA ÖRTÜSÜ",
    "ref": "3260/021",
@@ -2396,26 +2379,6 @@
    "url": "https://www.zara.com/tr/tr/seramik-tereyagi-kabi-p47241042.html?v1=523322254",
    "sizes": {
     "STANDART": "out_of_stock"
-   },
-   "_src": "wl"
-  },
-  "40039088-250": {
-   "name": "KALIN SATEN NEVRESİM (300 İPLİKLİ)",
-   "ref": "0039/088",
-   "color": "Beyaz",
-   "kind": "Wear",
-   "family": "CARSAF",
-   "section": "HOME",
-   "price": 159000,
-   "old_price": 219000,
-   "discount": 27,
-   "image": "https://static.zara.net/assets/public/b523/be2e/cf27413c9d5b/d679990ebec5/40039088250-e1/40039088250-e1.jpg?ts=1754654406341&w=800",
-   "url": "https://www.zara.com/tr/tr/kalin-saten-nevresim--300-iplikli--p40039088.html?v1=502317294",
-   "sizes": {
-    "Tek Kişilik (90 cm)": "out_of_stock",
-    "Çift Kişilik (150/160 cm)": "out_of_stock",
-    "Double": "out_of_stock",
-    "King (180/200 cm)": "in_stock"
    },
    "_src": "wl"
   },
@@ -7057,5 +7020,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 11:12:15"
+ "last_check": "2026-08-07 11:14:45"
 }
