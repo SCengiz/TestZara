@@ -25,8 +25,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -50,8 +49,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -75,8 +73,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -97,8 +94,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -119,8 +115,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -164,8 +159,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -186,8 +180,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -208,8 +201,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -230,8 +222,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -253,8 +244,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -275,8 +265,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -2534,7 +2523,7 @@
    "image": "https://static.zara.net/assets/public/9407/a56a/c55443889bc9/4d79550a5dd3/00518048400-p/00518048400-p.jpg?ts=1771247029910&w=800",
    "url": "https://www.zara.com/tr/tr/zw-collection-kemerli-oversize-trenckot-p00518048.html?v1=495688996",
    "sizes": {
-    "S": "out_of_stock",
+    "S": "low_on_stock",
     "M": "out_of_stock",
     "L": "out_of_stock"
    },
@@ -2867,7 +2856,7 @@
     "XXS": "out_of_stock",
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -3721,7 +3710,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-pamuklu-gomlek-p04387052.html?v1=505763699",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
+    "S": "in_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock",
@@ -3743,9 +3732,9 @@
    "url": "https://www.zara.com/tr/tr/halter-yaka-aksesuarli-midi-elbise-p03897094.html?v1=548956061",
    "sizes": {
     "XS": "out_of_stock",
-    "S": "out_of_stock",
-    "M": "out_of_stock",
-    "L": "low_on_stock",
+    "S": "low_on_stock",
+    "M": "low_on_stock",
+    "L": "out_of_stock",
     "XL": "out_of_stock"
    },
    "_src": "wl"
@@ -4205,7 +4194,7 @@
    "sizes": {
     "XS": "out_of_stock",
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
@@ -4386,7 +4375,7 @@
    "image": "https://static.zara.net/assets/public/3de1/d45d/24f540509a52/4165f5b8106f/08490744712-p/08490744712-p.jpg?ts=1764861663356&w=800",
    "url": "https://www.zara.com/tr/tr/cift-tarafli-ceket-p08490744.html?v1=495698310",
    "sizes": {
-    "XS-S": "out_of_stock",
+    "XS-S": "in_stock",
     "M-L": "out_of_stock"
    },
    "_src": "wl"
@@ -5246,7 +5235,7 @@
    "url": "https://www.zara.com/tr/tr/oversize-fermuarli-bomber-ceket-p04813305.html?v1=515250107",
    "sizes": {
     "S": "out_of_stock",
-    "M": "out_of_stock",
+    "M": "low_on_stock",
     "L": "out_of_stock"
    },
    "_src": "wl"
@@ -5433,7 +5422,7 @@
    "image": "https://static.zara.net/assets/public/4d0e/48c3/02ab4b35917a/79d65c636a7c/05029117717-p/05029117717-p.jpg?ts=1770386335853&w=800",
    "url": "https://www.zara.com/tr/tr/pilili-dokumlu-midi-elbise-p05029117.html?v1=520942045",
    "sizes": {
-    "XS": "out_of_stock",
+    "XS": "in_stock",
     "S": "out_of_stock",
     "M": "out_of_stock",
     "L": "out_of_stock",
@@ -6470,5 +6459,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 16:04:15"
+ "last_check": "2026-08-07 16:04:17"
 }
