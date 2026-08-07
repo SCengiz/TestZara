@@ -2593,7 +2593,7 @@
    "image": "https://static.zara.net/assets/public/fa60/dc78/e3d34ac597d0/d3e5d96eacf1/02041880121-p/02041880121-p.jpg?ts=1768324842863&w=800",
    "url": "https://www.zara.com/tr/tr/dokumlu-yunlu-trenckot-zw-limited-edition-p02041880.html?v1=495698587",
    "sizes": {
-    "XS-S": "low_on_stock",
+    "XS-S": "out_of_stock",
     "M-L": "out_of_stock"
    },
    "_src": "wl"
@@ -5658,7 +5658,7 @@
     "3 yaş (98 cm)": "out_of_stock",
     "4 yaş (104 cm)": "out_of_stock",
     "5 yaş (110 cm)": "out_of_stock",
-    "6 yaş (116 cm)": "low_on_stock"
+    "6 yaş (116 cm)": "out_of_stock"
    },
    "_src": "wl"
   },
@@ -6470,5 +6470,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-07 17:52:24"
+ "last_check": "2026-08-07 17:54:47"
 }
