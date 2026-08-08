@@ -1,7 +1,7 @@
 {
  "_temp_alerted": false,
  "source_failures": {
-  "wl:https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g": 9
+  "wl:https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g": 10
  },
  "consecutive_failures": 0,
  "products": {
@@ -6472,5 +6472,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-08 09:17:34"
+ "last_check": "2026-08-08 09:18:08"
 }
