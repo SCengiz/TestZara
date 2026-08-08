@@ -1,7 +1,7 @@
 {
  "_temp_alerted": false,
  "source_failures": {
-  "wl:https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g": 24
+  "wl:https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g": 25
  },
  "consecutive_failures": 0,
  "products": {
@@ -5699,7 +5699,7 @@
    "image": "https://static.zara.net/assets/public/75b2/9840/a13746e68376/781cfb73a58f/01347453620-e1/01347453620-e1.jpg?ts=1771255408775&w=800",
    "url": "https://www.zara.com/tr/tr/cicek-desenli-balon-kollu-bluz-p01347453.html?v1=510855619",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "low_on_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -6472,5 +6472,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-08 09:58:07"
+ "last_check": "2026-08-08 10:00:55"
 }
