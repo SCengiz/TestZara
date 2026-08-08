@@ -1,6 +1,8 @@
 {
  "_temp_alerted": false,
- "source_failures": {},
+ "source_failures": {
+  "wl:https://www.zara.com/share/wishlist/CAs7loAbPbaOKoHAfxBY0g": 1
+ },
  "consecutive_failures": 0,
  "products": {
   "13101610-700": {
@@ -25,8 +27,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13014610-700": {
    "name": "BLOK TOPUKLU ÇİZME",
@@ -50,8 +51,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "13507710-400": {
    "name": "KADİFE ETKİLİ ARKASI AÇIK BABET",
@@ -75,8 +75,7 @@
     "41": "out_of_stock",
     "42": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04070023-716": {
    "name": "YÜN KARIŞIMLI CROP KABAN",
@@ -97,8 +96,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02949024-172": {
    "name": "KONTRAST SUNİ DERİ YAKALI KADİFE CEKET",
@@ -119,8 +117,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180040-094": {
    "name": "PÖTİKARELİ BÜZGÜLÜ TOP",
@@ -164,8 +161,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04387108-653": {
    "name": "PUANTİYE DESENLİ BAĞCIKLI MİDİ ELBİSE",
@@ -186,8 +182,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "04968021-506": {
    "name": "KEMERLİ UZUN SUNİ SÜET TRENÇKOT",
@@ -208,8 +203,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "02180156-093": {
    "name": "KAZAYAĞI SUNİ DERİ DETAYLI CEKET",
@@ -230,8 +224,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "03046297-706": {
    "name": "KRUVAZE KISA KABAN",
@@ -253,8 +246,7 @@
     "XL": "out_of_stock",
     "XXL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "08073074-704": {
    "name": "KEMERLİ UZUN TRENÇKOT",
@@ -275,8 +267,7 @@
     "L": "out_of_stock",
     "XL": "out_of_stock"
    },
-   "_src": "p",
-   "_all_sizes": true
+   "_src": "wl"
   },
   "mango-27071208-35": {
    "name": "EL YAPIMI OVERSIZE YÜN PALTO",
@@ -3990,7 +3981,7 @@
    "image": "https://static.zara.net/assets/public/8e8a/2eed/bafc4d0aad17/83673d450695/05107653712-e1/05107653712-e1.jpg?ts=1776760011116&w=800",
    "url": "https://www.zara.com/tr/tr/dantel-bluz-p05107653.html?v1=518669635",
    "sizes": {
-    "6/7 yaş (122 cm)": "out_of_stock",
+    "6/7 yaş (122 cm)": "in_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
     "11/12 yaş (148 cm)": "out_of_stock",
@@ -5700,7 +5691,7 @@
     "6/7 yaş (122 cm)": "out_of_stock",
     "8/9 yaş (131 cm)": "out_of_stock",
     "9/10 yaş (140 cm)": "out_of_stock",
-    "11/12 yaş (148 cm)": "in_stock",
+    "11/12 yaş (148 cm)": "out_of_stock",
     "12/13 yaş (156 cm)": "out_of_stock",
     "13/14 yaş (164 cm)": "out_of_stock"
    },
@@ -6470,5 +6461,5 @@
    "_src": "wl"
   }
  },
- "last_check": "2026-08-08 09:00:38"
+ "last_check": "2026-08-08 09:01:32"
 }
